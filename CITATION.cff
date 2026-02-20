@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use or cite this repository, please cite it as below."
+type: software
+title: "Structural Intelligence (SI) — Blueprints"
+authors:
+  - family-names: "Jovanović"
+    given-names: "Vladisav"
+repository-code: "https://github.com/vladisavjov-cmd/structural-intelligence"
+abstract: "A philosophical framework and paper series on structural intelligence, invariance constraints, agency under reward-pressure, and epistemic sovereignty in the AI era."
+keywords:
+  - structural intelligence
+  - invariance constraint
+  - fixed worth
+  - variable worth
+  - programmability
+  - agency
+  - autonomy
+  - epistemic sovereignty
+license: "All rights reserved"
+version: "0.1.0"
+date-released: "2026-02-20"
