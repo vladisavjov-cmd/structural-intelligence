@@ -6,9 +6,9 @@ Each paper has its own folder with a README (abstract + keywords + links) and a 
 ## Index
 
 ### Internal Worth That Never Fades
-**Folder:** `internal-worth/`  
+**Folder:** \fixed-worth/``
 **Status:** preprint  
 **Keywords:** invariance constraint; fixed worth; variable worth; programmability; agency under reward-pressure  
-**Link:** `./internal-worth/README.md`
+**Link:** [Read the paper page](./fixed-worth/README.md)
 
 _(Add new papers here as you publish them.)_
