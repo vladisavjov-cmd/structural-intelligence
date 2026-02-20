@@ -12,6 +12,6 @@ This paper argues that the primary danger of variable worth is not emotional fra
 invariance constraint; fixed worth; variable worth; programmability; agency under reward-pressure; valuation; maintenance load; audience entanglement; reflex agency; sovereignty
 
 ### Links
-- Zenodo DOI: (add once you have it)
-- PhilArchive: (add once you post)
+- Zenodo DOI: 10.5281/zenodo.18711410
+- PhilArchive: [(add once you post)](https://philpapers.org/rec/JOVIWT)
 - PhilPeople publications: https://philpeople.org/profiles/vladisav-jovanovic/publications
