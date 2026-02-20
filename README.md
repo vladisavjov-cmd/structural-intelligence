@@ -20,3 +20,17 @@ PhilPeople: https://philpeople.org/profiles/vladisav-jovanovic/publications
 
 ## Notes
 This repository hosts landing pages, abstracts, keywords, and version notes. Canonical PDFs and DOIs will be linked here (Zenodo / PhilArchive).
+
+## Preprints (Zenodo)
+
+- **Internal Worth That Never Fades (Fixed Worth)** — DOI: 10.5281/zenodo.18711410  
+  Paper page: [papers/fixed-worth](./papers/fixed-worth/README.md)
+
+- **Structural Intelligence in the AI Era** — DOI: 10.5281/zenodo.18713058  
+  Paper page: [papers/structural-intelligence-ai-era](./papers/structural-intelligence-ai-era/README.md)
+
+- **Why Contemporary AI Is Not Sentient** — DOI: 10.5281/zenodo.18713175  
+  Paper page: [papers/ai-not-sentient](./papers/ai-not-sentient/README.md)
+
+- **Sovereign and Reflex Agency (SI 3.2)** — DOI: 10.5281/zenodo.18713258  
+  Paper page: [papers/sovereign-reflex-agency](./papers/sovereign-reflex-agency/README.md)
