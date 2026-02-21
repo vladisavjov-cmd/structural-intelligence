@@ -73,3 +73,10 @@ Each paper has its own folder with a README (abstract + keywords + links) and a 
 **Keywords:** consciousness; coherence-first; orientation; audit; contact; constraint  
 **Link:** [Read the paper page](./consciousness-coherence-first/README.md)  
 **DOI:** 10.5281/zenodo.18723067
+
+### The Hallucination Regime: When Coherence Replaces Reality
+**Folder:** `hallucination-regime/`  
+**Status:** preprint  
+**Keywords:** hallucination; coherence; contact; answerability; hard-floor constraint; repair  
+**Link:** [Read the paper page](./hallucination-regime/README.md)  
+**DOI:** 10.5281/zenodo.18722556
