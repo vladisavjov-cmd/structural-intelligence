@@ -40,3 +40,6 @@ This repository hosts landing pages, abstracts, keywords, and version notes. Can
 
 - **Resonance is Not Evidence: A Quantum-Style Model of Epistemic Integrity** — DOI: (pending)  
   Paper page: [papers/resonance-not-evidence](./papers/resonance-not-evidence/README.md)
+
+  - **When IQ, EQ, and SI Fail: SQ as the stabilizer of judgment under activation** — DOI: (https://doi.org/10.5281/zenodo.18722859)
+  Paper page: [papers/sq-judgment-under-activation](./papers/sq-judgment-under-activation/README.md)
