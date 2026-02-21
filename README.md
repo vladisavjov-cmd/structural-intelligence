@@ -55,3 +55,6 @@ This repository hosts landing pages, abstracts, keywords, and version notes. Can
 
 - **The Hallucination Regime: When Coherence Replaces Reality** — DOI: 10.5281/zenodo.18722556  
   Paper page: [papers/hallucination-regime](./papers/hallucination-regime/README.md)
+
+  - **Structural Intelligence and the Demystification of Wisdom** — DOI: 10.5281/zenodo.18722790  
+  Paper page: [papers/demystification-of-wisdom](./papers/demystification-of-wisdom/README.md)
