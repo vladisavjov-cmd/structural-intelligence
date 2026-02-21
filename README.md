@@ -45,6 +45,7 @@ Definitions live here: **[glossary/GLOSSARY.md](./glossary/GLOSSARY.md)**
 Vladisav Jovanovic  
 PhilPeople: https://philpeople.org/profiles/vladisav-jovanovic/publications  
 ORCID: https://orcid.org/0009-0001-1399-2243
+Author name variants: Vladisav Jovanović; Vladisav Jovanovic
 
 ## Notes
 This repository hosts landing pages, abstracts, keywords, and version notes. Canonical PDFs and DOIs will be linked here (Zenodo / PhilArchive).
