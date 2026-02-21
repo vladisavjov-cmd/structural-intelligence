@@ -43,3 +43,6 @@ This repository hosts landing pages, abstracts, keywords, and version notes. Can
 
   - **When IQ, EQ, and SI Fail: SQ as the stabilizer of judgment under activation** — DOI: (https://doi.org/10.5281/zenodo.18722859)
   Paper page: [papers/sq-judgment-under-activation](./papers/sq-judgment-under-activation/README.md)
+
+- **Functions of Consciousness After Coherence: A Functional Taxonomy Beyond Logic, EQ, and Meaning in the AI Era** — DOI: 10.5281/zenodo.18723023  
+  Paper page: [papers/functions-after-coherence](./papers/functions-after-coherence/README.md)
