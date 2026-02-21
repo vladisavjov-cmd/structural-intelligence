@@ -87,3 +87,10 @@ Each paper has its own folder with a README (abstract + keywords + links) and a 
 **Keywords:** wisdom; phenomenology; coherence; contact; truth-load; coherence-theater  
 **Link:** [Read the paper page](./demystification-of-wisdom/README.md)  
 **DOI:** 10.5281/zenodo.18722790
+
+### Truth as Load: Why Human Truth Requires Structure
+**Folder:** `truth-as-load/`  
+**Status:** preprint  
+**Keywords:** truth-load; contact; coherence; constraint; repair; integration  
+**Link:** [Read the paper page](./truth-as-load/README.md)  
+**DOI:** 10.5281/zenodo.18722677
