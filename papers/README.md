@@ -59,3 +59,10 @@ Each paper has its own folder with a README (abstract + keywords + links) and a 
 **Keywords:** consciousness; coherence; contact; constraint; repair; wisdom  
 **Link:** [Read the paper page](./functions-after-coherence/README.md)  
 **DOI:** 10.5281/zenodo.18723023
+
+### Insight Without Contact: Why Understanding Fails and When It Becomes Harmful
+**Folder:** `insight-without-contact/`  
+**Status:** preprint  
+**Keywords:** insight; coherence; contact; constraint; repair; epistemic ethics  
+**Link:** [Read the paper page](./insight-without-contact/README.md)  
+**DOI:** 10.5281/zenodo.18722925
