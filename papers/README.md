@@ -37,4 +37,11 @@ Each paper has its own folder with a README (abstract + keywords + links) and a 
 **Status:** preprint  
 **Keywords:** resonance; suffering; embodiment; truth; coherence; structural intelligence  
 **Link:** [Read the paper page](./truth-metabolic-load/README.md)  
-**DOI:** (add Zenodo DOI when available)
+**DOI:**  [https://doi.org/10.5281/zenodo.18722992)](https://doi.org/10.5281/zenodo.18722992)
+
+### Resonance is Not Evidence: A Quantum-Style Model of Epistemic Integrity
+**Folder:** `resonance-not-evidence/`  
+**Status:** preprint  
+**Keywords:** resonance; epistemic integrity; coherence; constraint; repair; structural intelligence  
+**Link:** [Read the paper page](./resonance-not-evidence/README.md)  
+**DOI:** [https://doi.org/10.5281/zenodo.18722966](https://doi.org/10.5281/zenodo.18722966)
