@@ -80,3 +80,10 @@ Each paper has its own folder with a README (abstract + keywords + links) and a 
 **Keywords:** hallucination; coherence; contact; answerability; hard-floor constraint; repair  
 **Link:** [Read the paper page](./hallucination-regime/README.md)  
 **DOI:** 10.5281/zenodo.18722556
+
+### Structural Intelligence and the Demystification of Wisdom
+**Folder:** `demystification-of-wisdom/`  
+**Status:** preprint  
+**Keywords:** wisdom; phenomenology; coherence; contact; truth-load; coherence-theater  
+**Link:** [Read the paper page](./demystification-of-wisdom/README.md)  
+**DOI:** 10.5281/zenodo.18722790
