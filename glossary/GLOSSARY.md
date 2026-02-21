@@ -47,3 +47,21 @@ Revision that preserves answerability. The capacity of a structure to update wit
 
 ## Sovereignty
 Non-tradability in agency: the capacity to remain answerable under pressure without converting selfhood into a market instrument.
+
+## Truth as Load
+Truth understood as a load condition rather than mere correctness: what a person can integrate without distortion. A claim can be “true” in content while exceeding the bearer’s structural capacity, producing collapse, rationalization, or self-sale instead of integration.
+
+## Hallucination Regime
+A condition where coherence becomes the main currency of belief and discourse, while contact with constraint becomes optional. Errors matter less than the shift in obligation: persuasive completion replaces answerability, cost, and repair over time.
+
+## Coherence-Theater
+Performative intelligibility: the production of plausible, elegant, or complex coherence signals that simulate understanding without increasing contact, constraint-sensitivity, or repair-capacity.
+
+## Answerability
+The condition of being accountable to constraint, consequence, and revision over time. Answerability is not “having reasons” or sounding coherent; it is the binding of a claim (or self-story) to costs, corrections, and repair—so that truth cannot be separated from what it does and what it requires.
+
+## Tethering
+The binding of coherence to constraint, consequence, and repair. A tethered structure can be corrected and revised under cost; an untethered structure can remain persuasive while drifting from contact.
+
+## Consequence
+The downstream cost of a claim or structure over time—who pays, what breaks, what must be maintained. Consequence is where coherence becomes accountable.
