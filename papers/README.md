@@ -6,10 +6,11 @@ Each paper has its own folder with a README (abstract + keywords + links) and a 
 ## Index
 
 ### Internal Worth That Never Fades
-**Folder:** \fixed-worth/``
+**Folder:** `fixed-worth/`  
 **Status:** preprint  
 **Keywords:** invariance constraint; fixed worth; variable worth; programmability; agency under reward-pressure  
-**Link:** [Read the paper page](./fixed-worth/README.md)
+**Link:** [Read the paper page](./fixed-worth/README.md)  
+**DOI:** 10.5281/zenodo.18711410
 
 ### Structural Intelligence in the AI Era
 **Folder:** `structural-intelligence-ai-era/`  
@@ -37,21 +38,21 @@ Each paper has its own folder with a README (abstract + keywords + links) and a 
 **Status:** preprint  
 **Keywords:** resonance; suffering; embodiment; truth; coherence; structural intelligence  
 **Link:** [Read the paper page](./truth-metabolic-load/README.md)  
-**DOI:**  [https://doi.org/10.5281/zenodo.18722992)](https://doi.org/10.5281/zenodo.18722992)
+**DOI:** 10.5281/zenodo.18722992
 
 ### Resonance is Not Evidence: A Quantum-Style Model of Epistemic Integrity
 **Folder:** `resonance-not-evidence/`  
 **Status:** preprint  
 **Keywords:** resonance; epistemic integrity; coherence; constraint; repair; structural intelligence  
 **Link:** [Read the paper page](./resonance-not-evidence/README.md)  
-**DOI:** [https://doi.org/10.5281/zenodo.18722966](https://doi.org/10.5281/zenodo.18722966)
+**DOI:** 10.5281/zenodo.18722966
 
 ### When IQ, EQ, and SI Fail: SQ as the stabilizer of judgment under activation
 **Folder:** `sq-judgment-under-activation/`  
 **Status:** preprint  
 **Keywords:** SQ; judgment; activation; coherence; constraint; repair  
 **Link:** [Read the paper page](./sq-judgment-under-activation/README.md)  
-**DOI:** [(add Zenodo DOI when available)](https://doi.org/10.5281/zenodo.18722859)
+**DOI:** 10.5281/zenodo.18722859
 
 ### Functions of Consciousness After Coherence: A Functional Taxonomy Beyond Logic, EQ, and Meaning in the AI Era
 **Folder:** `functions-after-coherence/`  
