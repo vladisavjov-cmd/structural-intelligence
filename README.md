@@ -46,3 +46,6 @@ This repository hosts landing pages, abstracts, keywords, and version notes. Can
 
 - **Functions of Consciousness After Coherence: A Functional Taxonomy Beyond Logic, EQ, and Meaning in the AI Era** — DOI: 10.5281/zenodo.18723023  
   Paper page: [papers/functions-after-coherence](./papers/functions-after-coherence/README.md)
+
+  - **Insight Without Contact: Why Understanding Fails and When It Becomes Harmful** — DOI: 10.5281/zenodo.18722925  
+  Paper page: [papers/insight-without-contact](./papers/insight-without-contact/README.md)
