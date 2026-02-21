@@ -35,10 +35,10 @@ This repository hosts landing pages, abstracts, keywords, and version notes. Can
 - **Sovereign and Reflex Agency (SI 3.2)** — DOI: 10.5281/zenodo.18713258  
   Paper page: [papers/sovereign-reflex-agency](./papers/sovereign-reflex-agency/README.md)
 
-  - **Resonance, Suffering, and the Body: Why Truth Is a Metabolic Load** — DOI: (pending)  
+  - **Resonance, Suffering, and the Body: Why Truth Is a Metabolic Load** — DOI: https://doi.org/10.5281/zenodo.18722992
   Paper page: [papers/truth-metabolic-load](./papers/truth-metabolic-load/README.md)
 
-- **Resonance is Not Evidence: A Quantum-Style Model of Epistemic Integrity** — DOI: (pending)  
+- **Resonance is Not Evidence: A Quantum-Style Model of Epistemic Integrity** — DOI: https://doi.org/10.5281/zenodo.18722966 
   Paper page: [papers/resonance-not-evidence](./papers/resonance-not-evidence/README.md)
 
   - **When IQ, EQ, and SI Fail: SQ as the stabilizer of judgment under activation** — DOI: (https://doi.org/10.5281/zenodo.18722859)
@@ -58,3 +58,6 @@ This repository hosts landing pages, abstracts, keywords, and version notes. Can
 
   - **Structural Intelligence and the Demystification of Wisdom** — DOI: 10.5281/zenodo.18722790  
   Paper page: [papers/demystification-of-wisdom](./papers/demystification-of-wisdom/README.md)
+
+- **Truth as Load: Why Human Truth Requires Structure** — DOI: 10.5281/zenodo.18722677  
+  Paper page: [papers/truth-as-load](./papers/truth-as-load/README.md)
