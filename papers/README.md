@@ -31,3 +31,10 @@ Each paper has its own folder with a README (abstract + keywords + links) and a 
 **Keywords:** sovereign agency; reflex agency; reward pressure; programmability; human–AI interaction  
 **Link:** [Read the paper page](./sovereign-reflex-agency/README.md)  
 **DOI:** 10.5281/zenodo.18713258
+
+### Resonance, Suffering, and the Body: Why Truth Is a Metabolic Load
+**Folder:** `truth-metabolic-load/`  
+**Status:** preprint  
+**Keywords:** resonance; suffering; embodiment; truth; coherence; structural intelligence  
+**Link:** [Read the paper page](./truth-metabolic-load/README.md)  
+**DOI:** (add Zenodo DOI when available)
