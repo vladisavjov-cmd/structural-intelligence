@@ -52,3 +52,6 @@ This repository hosts landing pages, abstracts, keywords, and version notes. Can
 
   - **Consciousness as Coherence-First: Logic, EQ, and SQ as Orientation Engines — and Structural Intelligence as the Audit Function in the AI Era** — DOI: 10.5281/zenodo.18723067  
   Paper page: [papers/consciousness-coherence-first](./papers/consciousness-coherence-first/README.md)
+
+- **The Hallucination Regime: When Coherence Replaces Reality** — DOI: 10.5281/zenodo.18722556  
+  Paper page: [papers/hallucination-regime](./papers/hallucination-regime/README.md)
