@@ -49,3 +49,6 @@ This repository hosts landing pages, abstracts, keywords, and version notes. Can
 
   - **Insight Without Contact: Why Understanding Fails and When It Becomes Harmful** — DOI: 10.5281/zenodo.18722925  
   Paper page: [papers/insight-without-contact](./papers/insight-without-contact/README.md)
+
+  - **Consciousness as Coherence-First: Logic, EQ, and SQ as Orientation Engines — and Structural Intelligence as the Audit Function in the AI Era** — DOI: 10.5281/zenodo.18723067  
+  Paper page: [papers/consciousness-coherence-first](./papers/consciousness-coherence-first/README.md)
