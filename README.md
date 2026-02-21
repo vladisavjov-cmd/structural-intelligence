@@ -37,3 +37,6 @@ This repository hosts landing pages, abstracts, keywords, and version notes. Can
 
   - **Resonance, Suffering, and the Body: Why Truth Is a Metabolic Load** — DOI: (pending)  
   Paper page: [papers/truth-metabolic-load](./papers/truth-metabolic-load/README.md)
+
+- **Resonance is Not Evidence: A Quantum-Style Model of Epistemic Integrity** — DOI: (pending)  
+  Paper page: [papers/resonance-not-evidence](./papers/resonance-not-evidence/README.md)
