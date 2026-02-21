@@ -3,10 +3,37 @@
 A philosophical framework for describing how human reality is organized into form: how meaning, roles, constraints, and coherence hold—or fail—under pressure.
 
 ## Concepts
-- **Invariance Constraint**: a non-tradable baseline term that blocks steerability under reward-pressure.
-- **Fixed Worth**: internal worth that never fades; worth treated as invariant rather than priced by signals.
-- **Variable Worth**: worth experienced as fluctuating with signals (approval, status, desirability, correctness).
-- **Pricing Self**: a configuration where valuation regulates cognition and revision is metabolized as devaluation.
+*(Search index of core terms used across the papers. Full definitions: [glossary/GLOSSARY.md](./glossary/GLOSSARY.md))*
+
+### Worth / reward-pressure / agency (steerability)
+- **Invariance Constraint** *(non-tradability condition; anti-programmability)*
+- **Fixed Worth** *(invariant worth; non-priced worth)*
+- **Variable Worth** *(priced worth; contingent worth; approval-dependent worth)*
+- **Pricing Self** *(self as market; valuation-governed cognition)*
+- **Reward-pressure** *(incentive pressure; approval/ranking pressure)*
+- **Self-sale** *(trading answerability for valuation stability; selling out)*
+- **Reflex Agency** *(reactive/signal-driven agency; stabilization output)*
+- **Sovereignty** *(sovereign agency; non-tradable agency; answerable autonomy)*
+
+### Coherence / contact (epistemic integrity)
+- **Coherence** *(sense-making; intelligibility; narrative fit; internal consistency)*
+- **Resonance** *(felt rightness; “it lands”; certainty inflation signal)*
+- **Contact** *(reality contact; constraint contact; tethered truth)*
+- **Constraint** *(hard boundary; non-negotiable limit; reality pushback)*
+- **Consequence** *(cost; downstream effects; who pays)*
+- **Answerability** *(accountability; obligation to revise; truth-binding)*
+- **Tethering** *(grounding; constraint-coupling; coherence anchoring)*
+- **Coherence–Contact Gap** *(sense/truth gap; intelligibility vs reality)*
+
+### Truth-load / audit / repair (structure under time)
+- **Truth-Load** *(load-bearing truth; carryable truth; truth capacity)*
+- **Truth as Load** *(integrability of truth; truth under cost/time)*
+- **Structural Intelligence (SI)** *(form intelligence; structure-sense; coherence architecture)*
+- **Orientation** *(stabilization; continuity frame; orientation floor)*
+- **Structural Audit** *(stress test; integrity test; failure reading)*
+- **Repair** *(revision under cost; correction without collapse; retract-and-rebuild)*
+- **Hallucination Regime** *(coherence replaces reality; plausibility regime; completion-over-truth)*
+- **Coherence-Theater** *(performative coherence; intelligibility theater; fake depth)*
 
 ## Papers
 See the index: **[papers/README.md](./papers/README.md)**
@@ -15,7 +42,7 @@ See the index: **[papers/README.md](./papers/README.md)**
 Definitions live here: **[glossary/GLOSSARY.md](./glossary/GLOSSARY.md)**
 
 ## Author
-Vladisav Jovanović  
+Vladisav Jovanovic  
 PhilPeople: https://philpeople.org/profiles/vladisav-jovanovic/publications  
 ORCID: https://orcid.org/0009-0001-1399-2243
 
