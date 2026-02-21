@@ -52,3 +52,10 @@ Each paper has its own folder with a README (abstract + keywords + links) and a 
 **Keywords:** SQ; judgment; activation; coherence; constraint; repair  
 **Link:** [Read the paper page](./sq-judgment-under-activation/README.md)  
 **DOI:** [(add Zenodo DOI when available)](https://doi.org/10.5281/zenodo.18722859)
+
+### Functions of Consciousness After Coherence: A Functional Taxonomy Beyond Logic, EQ, and Meaning in the AI Era
+**Folder:** `functions-after-coherence/`  
+**Status:** preprint  
+**Keywords:** consciousness; coherence; contact; constraint; repair; wisdom  
+**Link:** [Read the paper page](./functions-after-coherence/README.md)  
+**DOI:** 10.5281/zenodo.18723023
