@@ -66,3 +66,10 @@ Each paper has its own folder with a README (abstract + keywords + links) and a 
 **Keywords:** insight; coherence; contact; constraint; repair; epistemic ethics  
 **Link:** [Read the paper page](./insight-without-contact/README.md)  
 **DOI:** 10.5281/zenodo.18722925
+
+### Consciousness as Coherence-First: Logic, EQ, and SQ as Orientation Engines — and Structural Intelligence as the Audit Function in the AI Era
+**Folder:** `consciousness-coherence-first/`  
+**Status:** preprint  
+**Keywords:** consciousness; coherence-first; orientation; audit; contact; constraint  
+**Link:** [Read the paper page](./consciousness-coherence-first/README.md)  
+**DOI:** 10.5281/zenodo.18723067
