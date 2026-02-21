@@ -1,6 +1,6 @@
 # Structural Intelligence and the Demystification of Wisdom
 
-**Author:** Vladisav Jovanović  
+**Author:** Vladisav Jovanovic  
 **Status:** Preprint  
 **Version:** Version 1.0 — Official Preprint (February 2026)
 
