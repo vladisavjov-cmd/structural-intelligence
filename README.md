@@ -34,3 +34,6 @@ This repository hosts landing pages, abstracts, keywords, and version notes. Can
 
 - **Sovereign and Reflex Agency (SI 3.2)** — DOI: 10.5281/zenodo.18713258  
   Paper page: [papers/sovereign-reflex-agency](./papers/sovereign-reflex-agency/README.md)
+
+  - **Resonance, Suffering, and the Body: Why Truth Is a Metabolic Load** — DOI: (pending)  
+  Paper page: [papers/truth-metabolic-load](./papers/truth-metabolic-load/README.md)
