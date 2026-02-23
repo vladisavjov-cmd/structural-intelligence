@@ -1,3 +1,9 @@
+---
+layout: default
+title: Structural Intelligence
+---
+<meta name="google-site-verification" content="PASTE_YOUR_CODE_HERE" />
+
 # Structural Intelligence (SI)
 
 A philosophical framework for describing how human reality is organized into form: how meaning, roles, constraints, and coherence hold—or fail—under pressure.
