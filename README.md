@@ -1,8 +1,8 @@
----
-layout: default
-title: Structural Intelligence
----
-<meta name="google-site-verification" content="PASTE_YOUR_CODE_HERE" />
+## Official links
+- **Official SI Hub (Blogspot):** https://structural-intelligence.blogspot.com/2026/02/structural-intelligence-si-official-hub.html
+- **Papers index:** [papers/README.md](./papers/README.md)
+- **Glossary:** [glossary/GLOSSARY.md](./glossary/GLOSSARY.md)
+- **ORCID:** https://orcid.org/0009-0001-1399-2243
 
 # Structural Intelligence (SI)
 
