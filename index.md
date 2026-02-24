@@ -1,8 +1,8 @@
----
-layout: default
-title: Structural Intelligence
----
-<meta name="google-site-verification" content="PASTE_YOUR_CODE_HERE" />
+## Official links
+- **Official SI Hub (Blogspot):** https://structural-intelligence.blogspot.com/2026/02/structural-intelligence-si-official-hub.html
+- **Papers index:** [papers/README.md](./papers/README.md)
+- **Glossary:** [glossary/GLOSSARY.md](./glossary/GLOSSARY.md)
+- **ORCID:** https://orcid.org/0009-0001-1399-2243
 
 # Structural Intelligence (SI)
 
@@ -23,23 +23,30 @@ A philosophical framework for describing how human reality is organized into for
 
 ### Coherence / contact (epistemic integrity)
 - **Coherence** *(sense-making; intelligibility; narrative fit; internal consistency)*
+- **Cheap Coherence** *(abundant coherence; low-cost intelligibility; completion-on-demand)*
 - **Resonance** *(felt rightness; “it lands”; certainty inflation signal)*
 - **Contact** *(reality contact; constraint contact; tethered truth)*
 - **Constraint** *(hard boundary; non-negotiable limit; reality pushback)*
 - **Consequence** *(cost; downstream effects; who pays)*
 - **Answerability** *(accountability; obligation to revise; truth-binding)*
 - **Tethering** *(grounding; constraint-coupling; coherence anchoring)*
-- **Coherence–Contact Gap** *(sense/truth gap; intelligibility vs reality)*
+- **Coherence-Contact Gap** *(sense/truth gap; intelligibility vs reality)*
 
 ### Truth-load / audit / repair (structure under time)
 - **Truth-Load** *(load-bearing truth; carryable truth; truth capacity)*
 - **Truth as Load** *(integrability of truth; truth under cost/time)*
 - **Structural Intelligence (SI)** *(form intelligence; structure-sense; coherence architecture)*
 - **Orientation** *(stabilization; continuity frame; orientation floor)*
+- **Presence** *(reality-contact under load; live intelligibility; not a mood)*
+- **Containment** *(holding capacity; activation-holding; load containment)*
+- **Collapse** *(failure-to-carry; forced contact event; disintegration)*
 - **Structural Audit** *(stress test; integrity test; failure reading)*
 - **Repair** *(revision under cost; correction without collapse; retract-and-rebuild)*
 - **Hallucination Regime** *(coherence replaces reality; plausibility regime; completion-over-truth)*
 - **Coherence-Theater** *(performative coherence; intelligibility theater; fake depth)*
+- **Persona** *(social interface; role-mask; legibility shell)*
+- **Shadow** *(disowned self; excluded agency; unowned impulse)*
+- **Personality Trap** *(persona-as-interface; style over constraint; likability steering)*
 
 ## Papers
 See the index: **[papers/README.md](./papers/README.md)**
@@ -50,11 +57,11 @@ Definitions live here: **[glossary/GLOSSARY.md](./glossary/GLOSSARY.md)**
 ## Author
 Vladisav Jovanovic  
 PhilPeople: https://philpeople.org/profiles/vladisav-jovanovic/publications  
-ORCID: https://orcid.org/0009-0001-1399-2243
+ORCID: https://orcid.org/0009-0001-1399-2243  
 Author name variants: Vladisav Jovanović; Vladisav Jovanovic
 
 ## Notes
-This repository hosts landing pages, abstracts, keywords, and version notes. Canonical PDFs and DOIs will be linked here (Zenodo / PhilArchive).
+This repository hosts landing pages, abstracts, keywords, and version notes. Canonical PDFs and DOIs are linked via Zenodo / PhilArchive when available.
 
 ## Preprints (Zenodo)
 
@@ -96,3 +103,18 @@ This repository hosts landing pages, abstracts, keywords, and version notes. Can
 
 - **Truth as Load: Why Human Truth Requires Structure** — DOI: 10.5281/zenodo.18722677  
   Paper page: [papers/truth-as-load](./papers/truth-as-load/README.md)
+
+- **AI Ethics and the Personality Trap: Why “Helpful” Coherence Becomes Dangerous When It Isn’t Answerable** — DOI: 10.5281/zenodo.18756524  
+  Paper page: [papers/ai-ethics-personality-trap](./papers/ai-ethics-personality-trap/README.md)
+
+- **Collapse as the Gateway to Reality: Why Presence Requires Containment** — DOI: 10.5281/zenodo.18760839  
+  Paper page: [papers/collapse-gateway-to-reality](./papers/collapse-gateway-to-reality/README.md)
+
+- **Persona, Shadow, and Cheap Coherence: A Jungian Map of the Psyche in the Digital Age (Read Through Structural Intelligence)** — DOI: 10.5281/zenodo.18761080  
+  Paper page: [papers/persona-shadow-cheap-coherence](./papers/persona-shadow-cheap-coherence/README.md)
+
+- **A Formal Phenomenology of Presence: The Structural Equation of Intelligibility Under Cheap Coherence** — DOI: 10.5281/zenodo.18731006  
+  Paper page: [papers/presence-equation](./papers/presence-equation/README.md)
+
+- **The Great Standardization: Genealogy of the Grid: Metrics, Platforms, and the Thinning of Answerability** — DOI: 10.5281/zenodo.18740810  
+  Paper page: [papers/great-standardization](./papers/great-standardization/README.md)
