@@ -95,3 +95,38 @@ Each paper has its own folder with a README (abstract + keywords + links) and a 
 **Keywords:** truth-load; contact; coherence; constraint; repair; integration  
 **Link:** [Read the paper page](./truth-as-load/README.md)  
 **DOI:** 10.5281/zenodo.18722677
+
+### AI Ethics and the Personality Trap: Why “Helpful” Coherence Becomes Dangerous When It Isn’t Answerable
+**Folder:** `ai-ethics-personality-trap/`  
+**Status:** preprint  
+**Keywords:** AI ethics; personality tuning; helpful coherence; answerability; trust; corrigibility; hallucination regime; sycophancy; human–AI interaction  
+**Link:** [Read the paper page](./ai-ethics-personality-trap/README.md)  
+**DOI:** 10.5281/zenodo.18756524
+
+### Collapse as the Gateway to Reality: Why Presence Requires Containment
+**Folder:** `collapse-gateway-to-reality/`  
+**Status:** preprint  
+**Keywords:** collapse; presence; containment; reality-contact; coherence; truth-load; revision; answerability; structural audit  
+**Link:** [Read the paper page](./collapse-gateway-to-reality/README.md)  
+**DOI:** 10.5281/zenodo.18760839
+
+### Persona, Shadow, and Cheap Coherence: A Jungian Map of the Psyche in the Digital Age (Read Through Structural Intelligence)
+**Folder:** `persona-shadow-cheap-coherence/`  
+**Status:** preprint  
+**Keywords:** Jung; persona; shadow; cheap coherence; projection; individuation; reward-pressure; contact; answerability  
+**Link:** [Read the paper page](./persona-shadow-cheap-coherence/README.md)  
+**DOI:** 10.5281/zenodo.18761080
+
+### A Formal Phenomenology of Presence: The Structural Equation of Intelligibility Under Cheap Coherence
+**Folder:** `presence-equation/`  
+**Status:** preprint  
+**Keywords:** presence; phenomenology; intelligibility; cheap coherence; coherence; contact; constraint; revision; answerability  
+**Link:** [Read the paper page](./presence-equation/README.md)  
+**DOI:** 10.5281/zenodo.18731006
+
+### The Great Standardization: Genealogy of the Grid: Metrics, Platforms, and the Thinning of Answerability
+**Folder:** `great-standardization/`  
+**Status:** preprint  
+**Keywords:** standardization; grid; metrics; platforms; legibility; optimization; bureaucracy; coherence; answerability; audit  
+**Link:** [Read the paper page](./great-standardization/README.md)  
+**DOI:** 10.5281/zenodo.18740810
