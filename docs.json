@@ -1,0 +1,25 @@
+{
+  "$schema": "https://mintlify.com/mintlify.json",
+  "name": "Structural Intelligence",
+  "navigation": [
+    {
+      "group": "Getting Started",
+      "pages": [
+        "introduction"
+      ]
+    },
+    {
+      "group": "The SI Framework",
+      "pages": [
+        "presence-formula"
+      ]
+    }
+  ],
+  "colors": {
+    "primary": "#0070f3",
+    "light": "#3291ff",
+    "dark": "#003262"
+  },
+  "favicon": "/favicon.png",
+  "mode": "dark"
+}
