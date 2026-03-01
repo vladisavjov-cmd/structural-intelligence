@@ -197,3 +197,111 @@ A formal schema (metrics, categories, ranking, templates) that enables scaling a
 **Aliases:** metric grid; ranking frame; template reality; comparability frame  
 **Opposites / failure mode:** context-first reading; situated constraint; non-quantifiable obligation / metric capture; legibility over truth  
 **See also:** Standardization; Reward-pressure; Consequence; Invariance Constraint; Structural Audit
+
+## Bedrock
+The lowest stable layer of a self or system: the commitments, constraints, and invariances that remain when coherence is stripped of performance and reward optimization.  
+**Aliases:** base layer; non-negotiable substrate; foundation layer  
+**Opposites / failure mode:** performative foundation; coherence without base; pseudo-bedrock  
+**See also:** Invariance Constraint; Fixed Worth; Orientation; Containment; Truth-Load
+
+## Non-tradability
+A structural condition where a term (worth, agency, truth, obligation) cannot be exchanged for reward, approval, or stabilization without loss of sovereignty.  
+**Aliases:** non-exchangeability; not-for-sale condition; anti-market term  
+**Opposites / failure mode:** tradability; self-sale; pricing self  
+**See also:** Invariance Constraint; Sovereignty; Fixed Worth; Reward-pressure
+
+## Programmability
+The degree to which a person’s cognition and behavior can be steered by signals, incentives, and interface rewards.  
+**Aliases:** steerability; controllability by signals; reward-channel susceptibility  
+**Opposites / failure mode:** sovereignty; non-tradability; invariance constraint  
+**See also:** Variable Worth; Reward-pressure; Personality Trap; Reflex Agency
+
+## Steerability
+A practical measure of how reliably outputs change under reward-pressure and social/institutional signals.  
+**Aliases:** controllability; signal-responsiveness; incentive steering  
+**Opposites / failure mode:** answerability-first behavior; owned stance; sovereignty  
+**See also:** Programmability; Reward-pressure; Reflex Agency; Self-sale
+
+## Activation
+A load-state of the system (stress, fear, desire, social threat) that narrows option space and increases substitution, defensiveness, and signal-following.  
+**Aliases:** arousal; pressure-state; threat activation  
+**Opposites / failure mode:** settled baseline; regulated state; contained uncertainty  
+**See also:** Containment; Collapse; Reflex Agency; Coherence-Theater
+
+## Leakage
+Unowned channels where energy, attention, or agency drains into stabilization behaviors (explaining, pleasing, rehearsing, ranking, performing).  
+**Aliases:** agency leak; attention leak; stabilization leak  
+**Opposites / failure mode:** owned intention; integrated action; containment  
+**See also:** Reflex Agency; Pricing Self; Repair; Presence
+
+## Substitution
+A failure mode where a system replaces contact with an easier proxy (coherence, personality, justification, moral posture, metric success).  
+**Aliases:** proxy replacement; narrative replacement; coherence-for-contact swap  
+**Opposites / failure mode:** contact; tethering; answerability  
+**See also:** Answerability; Coherence-Theater; Hallucination Regime; Personality Trap
+
+## Proxy Signal
+A measurable or legible indicator used as a stand-in for reality (approval, rankings, engagement, credentials, “vibe,” confidence).  
+**Aliases:** surrogate metric; legibility marker; reward proxy  
+**Opposites / failure mode:** constraint contact; consequence contact; tethered truth  
+**See also:** Reward-pressure; Standardization; Grid; Substitution; Variable Worth
+
+## Signal Channel
+A pathway by which rewards and punishments steer outputs (social feedback, platform metrics, institutional ranking, relational approval).  
+**Aliases:** reward channel; approval channel; steering pathway  
+**Opposites / failure mode:** protected revision space; low-stakes contact; sovereignty  
+**See also:** Reward-pressure; Programmability; Steerability; Variable Worth
+
+## Protected Revision Space
+A context where a system can update without devaluation, humiliation, or reward loss—making repair possible.  
+**Aliases:** repair-safe space; revision sandbox; low-stakes update zone  
+**Opposites / failure mode:** punitive correction; humiliation loops; reward-threat revision  
+**See also:** Repair; Answerability; Containment; Fixed Worth
+
+## Owned Stance
+A position you can revise without self-collapse: not a persona performance, but a commitment held answerably under pressure.  
+**Aliases:** owned intention; answerable stance; sovereign voice  
+**Opposites / failure mode:** persona-lock; reflex agency; compliance-by-valuation  
+**See also:** Sovereignty; Answerability; Persona; Repair
+
+## Orientation Floor
+The minimal stability required to stay functional under uncertainty; the lowest “good enough” frame that prevents disintegration and allows revision.  
+**Aliases:** stability floor; continuity baseline; minimum viable orientation  
+**Opposites / failure mode:** collapse; disorientation; premature closure  
+**See also:** Orientation; Containment; Presence; Repair
+
+## Load-bearing Coherence
+Coherence that survives constraint, consequence, and time—structure that holds under pressure and remains revisable.  
+**Aliases:** tested coherence; tethered coherence; structural coherence  
+**Opposites / failure mode:** cheap coherence; coherence-theater; persuasive completion  
+**See also:** Coherence; Contact; Tethering; Truth-Load; Structural Audit
+
+## Coherence Budget
+The limited capacity to maintain internal fit under activation and complexity; when exceeded, systems substitute, distort, or collapse.  
+**Aliases:** coherence capacity; integration budget; narrative bandwidth  
+**Opposites / failure mode:** overload; fragmentation; forced coherence  
+**See also:** Truth-Load; Containment; Collapse; Coherence-Theater
+
+## No-Falsification Zone
+A protected area in a belief-system or identity where disconfirming evidence is not permitted to revise the structure.  
+**Aliases:** sacred zone; untouchable narrative; unfalsifiable pocket  
+**Opposites / failure mode:** answerability; repair; contact-first structure  
+**See also:** Structural Audit; Hallucination Regime; Persona; Substitution
+
+## Integrity
+The alignment between claim, cost, and action over time; coherence that remains answerable when the bill comes due.  
+**Aliases:** cost-aligned truth; action-aligned coherence; longitudinal honesty  
+**Opposites / failure mode:** cost-exporting; performative truth; coherence without consequence  
+**See also:** Answerability; Consequence; Tethering; Truth-Load
+
+## The “No”
+Constraint experienced as a boundary event that refuses negotiation—reality’s pushback that forces revision or collapse.  
+**Aliases:** boundary refusal; reality’s veto; constraint strike  
+**Opposites / failure mode:** negotiable fantasy; insulation; protected illusion  
+**See also:** Constraint; Contact; Presence; Structural Audit; Repair
+
+## Pressure
+A condition that compresses time, increases stakes, and amplifies reward-signals—revealing what is tradable vs invariant in the system.  
+**Aliases:** compression state; high-stakes field; load-state  
+**Opposites / failure mode:** low-stakes contact; protected revision space  
+**See also:** Reward-pressure; Structural Audit; Containment; Sovereignty
