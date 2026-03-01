@@ -1,4 +1,4 @@
-# /papers/structural-dynamics/README.md
+
 
 # Structural Dynamics: A Systems Theory of Sovereignty and Answerability Under Pressure
 
