@@ -128,7 +128,7 @@ This repository hosts landing pages, abstracts, keywords, and version notes. Can
 - **The Great Standardization: Genealogy of the Grid: Metrics, Platforms, and the Thinning of Answerability** — DOI: 10.5281/zenodo.18740810  
   Paper page: [papers/great-standardization](./papers/great-standardization/README.md)
 
-  - **Architecture of the “No”: Structural Intelligence (SI) as the Organization of Form Under Pressure** — DOI: 10.5281/zenodo.18819217  
+- **Architecture of the “No”: Structural Intelligence (SI) as the Organization of Form Under Pressure** — DOI: 10.5281/zenodo.18819217  
   Paper page: [papers/architecture-of-the-no](./papers/architecture-of-the-no/README.md)
 
 - **Structural Dynamics: A Systems Theory of Sovereignty and Answerability Under Pressure** — DOI: 10.5281/zenodo.18826140  
