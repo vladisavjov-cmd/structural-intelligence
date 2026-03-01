@@ -20,6 +20,10 @@ A philosophical framework for describing how human reality is organized into for
 - **Self-sale** *(trading answerability for valuation stability; selling out)*
 - **Reflex Agency** *(reactive/signal-driven agency; stabilization output)*
 - **Sovereignty** *(sovereign agency; non-tradable agency; answerable autonomy)*
+- **Non-tradability** *(not-for-sale condition; non-exchangeability)*
+- **Programmability** *(steerability by signals; controllability)*
+- **Steerability** *(signal-responsiveness; incentive steering)*
+- **Signal Channel** *(reward/approval channel; steering pathway)*
 
 ### Coherence / contact (epistemic integrity)
 - **Coherence** *(sense-making; intelligibility; narrative fit; internal consistency)*
@@ -31,6 +35,8 @@ A philosophical framework for describing how human reality is organized into for
 - **Answerability** *(accountability; obligation to revise; truth-binding)*
 - **Tethering** *(grounding; constraint-coupling; coherence anchoring)*
 - **Coherence-Contact Gap** *(sense/truth gap; intelligibility vs reality)*
+- **Substitution** *(proxy replacement; coherence-for-contact swap)*
+- **Proxy Signal** *(surrogate metric; legibility marker)*
 
 ### Truth-load / audit / repair (structure under time)
 - **Truth-Load** *(load-bearing truth; carryable truth; truth capacity)*
@@ -47,6 +53,9 @@ A philosophical framework for describing how human reality is organized into for
 - **Persona** *(social interface; role-mask; legibility shell)*
 - **Shadow** *(disowned self; excluded agency; unowned impulse)*
 - **Personality Trap** *(persona-as-interface; style over constraint; likability steering)*
+- **The “No”** *(constraint refusal; reality veto; boundary event)*
+- **Integrity** *(claim–cost–action alignment over time)*
+- **Pressure** *(compression state; high-stakes field; load state)*
 
 ## Papers
 See the index: **[papers/README.md](./papers/README.md)**
@@ -118,3 +127,9 @@ This repository hosts landing pages, abstracts, keywords, and version notes. Can
 
 - **The Great Standardization: Genealogy of the Grid: Metrics, Platforms, and the Thinning of Answerability** — DOI: 10.5281/zenodo.18740810  
   Paper page: [papers/great-standardization](./papers/great-standardization/README.md)
+
+- **Architecture of the “No”: Structural Intelligence (SI) as the Organization of Form Under Pressure** — DOI: 10.5281/zenodo.18819217  
+  Paper page: [papers/architecture-of-the-no](./papers/architecture-of-the-no/README.md)
+
+- **Structural Dynamics: A Systems Theory of Sovereignty and Answerability Under Pressure** — DOI: 10.5281/zenodo.18826140  
+  Paper page: [papers/structural-dynamics](./papers/structural-dynamics/README.md)
