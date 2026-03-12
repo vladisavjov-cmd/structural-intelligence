@@ -419,3 +419,9 @@ A relational or institutional structure that can hold refusal, contradiction, an
 **Aliases:** correction container; boundary-safe structure; repair-capable container  
 **Opposites / failure mode:** no-falsification zone; punitive correction; discharge culture  
 **See also:** The “No”; Containment; Protected Revision Space; Repair; Structural Audit
+
+## V108 Signature
+A diagnostic name for a philosophical failure of reference: an “I” index that points to linguistic style (coherence) rather than a subject anchored in non-optional constraint (contact). “V108” is borrowed as an analogy from deep code errors (“incorrect index type”) where references remain persuasive while detached from hardware limits.  
+**Aliases:** V108 indexing failure; incorrect index type (analogy); unmoored index; hallucination machine diagnostic  
+**Opposites / failure mode:** anchored index; constraint-coupled reference; load-bearing “I”  
+**See also:** Hallucination Regime; Coherence-Theater; Contact; Truth-Load; Answerability; The “No”; Bedrock
