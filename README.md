@@ -1,5 +1,6 @@
 ## Official links
 - **Official SI Hub (Blogspot):** https://structural-intelligence.blogspot.com/2026/02/structural-intelligence-si-official-hub.html
+- **OSF (Project overview):** https://osf.io/2t4bg/overview
 - **Papers index:** [papers/README.md](./papers/README.md)
 - **Glossary:** [glossary/GLOSSARY.md](./glossary/GLOSSARY.md)
 - **ORCID:** https://orcid.org/0009-0001-1399-2243
@@ -56,6 +57,36 @@ A philosophical framework for describing how human reality is organized into for
 - **The “No”** *(constraint refusal; reality veto; boundary event)*
 - **Integrity** *(claim–cost–action alignment over time)*
 - **Pressure** *(compression state; high-stakes field; load state)*
+
+# NEW: Terms added from the 7-paper Jung/cheap-coherence set
+*(Full definitions live in the Glossary; this is just the README search index.)*
+
+### Binding / falsifiers / debt mechanics (contact tests)
+- **Binding** *(truth-binding; commitment lock; option-closure)*
+- **Irreversibility** *(closed option; point-of-no-return; structural ratchet)*
+- **Witness/Trace** *(audit trail; cost signature; reality residue)*
+- **Falsifier** *(disconfirming condition; failure test; contact trigger)*
+- **Option Closure** *(choice made unavailable by cost/commitment)*
+- **Binding Revision** *(revision that changes behavior/cost allocation)*
+
+### Maintenance / shadow economics (hidden costs)
+- **Persona-maintenance** *(legibility upkeep; interface upkeep)*
+- **Exported Maintenance** *(cost-exporting; maintenance outsourcing; deferred payment)*
+- **Maintenance Inflation** *(rising cost to maintain the same coherence)*
+- **Shadow Debt** *(unowned load; deferred contradiction)*
+- **Debt Collection** *(bill comes due; forced reckoning)*
+- **Forced Contact** *(reality intrusion through failure)*
+
+### Jungian cognition modes (Three Realities)
+- **Directed Thinking** *(justification mode; legibility thinking)*
+- **Undirected Thinking** *(fantasy/dream logic; symbolic compensation)*
+- **Mythic Compensation** *(imaginal correction attempt)*
+
+### Failure outputs (when containment fails)
+- **Discharge** *(activation dump; rupture behavior)*
+- **Projection** *(externalized ownership; shadow projection)*
+- **Scapegoating** *(blame-routing; discharge-by-blame)*
+- **Container for “No”** *(correction container; boundary-safe structure)*
 
 ## Papers
 See the index: **[papers/README.md](./papers/README.md)**
@@ -130,6 +161,27 @@ This repository hosts landing pages, abstracts, keywords, and version notes. Can
 
 - **Architecture of the “No”: Structural Intelligence (SI) as the Organization of Form Under Pressure** — DOI: 10.5281/zenodo.18819217  
   Paper page: [papers/architecture-of-the-no](./papers/architecture-of-the-no/README.md)
+
+- **Structural Dynamics: A Systems Theory of Sovereignty and Answerability Under Pressure** — DOI: 10.5281/zenodo.18826140  
+  Paper page: [papers/structural-dynamics](./papers/structural-dynamics/README.md)
+
+- **The Unhackable Soul: Jungian Individuation as an Invariance Constraint** — DOI: 10.5281/zenodo.18970754  
+  Paper page: [papers/unhackable-soul](./papers/unhackable-soul/README.md)
+
+- **The Cybernetics of the Shadow: Why Your “Clean” Life Is Creating Hidden Debt** — DOI: 10.5281/zenodo.18945256  
+  Paper page: [papers/cybernetics-of-the-shadow](./papers/cybernetics-of-the-shadow/README.md)
+
+- **The Burnout Audit: Why Your Jungian Persona Is Bankrupting Your Life** — DOI: 10.5281/zenodo.18946109  
+  Paper page: [papers/burnout-audit](./papers/burnout-audit/README.md)
+
+- **Three Realities: Why Your Self-Awareness Is Still a Prison** — DOI: 10.5281/zenodo.18946400  
+  Paper page: [papers/three-realities](./papers/three-realities/README.md)
+
+- **The Diamond Core: A Counterfeit Detector for Cheap Coherence** — DOI: 10.5281/zenodo.18970899  
+  Paper page: [papers/diamond-core](./papers/diamond-core/README.md)
+
+- **The Psychology of Evil Under Cheap Coherence: When “Something Is Wrong” Has No Language** — DOI: 10.5281/zenodo.18970389  
+  Paper page: [papers/psychology-of-evil-cheap-coherence](./papers/psychology-of-evil-cheap-coherence/README.md)
 
 - **Structural Dynamics: A Systems Theory of Sovereignty and Answerability Under Pressure** — DOI: 10.5281/zenodo.18826140  
   Paper page: [papers/structural-dynamics](./papers/structural-dynamics/README.md)
