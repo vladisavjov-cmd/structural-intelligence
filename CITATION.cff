@@ -1,5 +1,6 @@
 cff-version: 1.2.0
 message: "If you use or cite this repository, please cite it as below."
+message: "If you use, adapt, or cite this repository, please cite it as below and link to the canonical hub pages (README + glossary + SEARCH_MAP)."
 type: software
 title: "Structural Intelligence (SI) — Blueprints"
 authors:
