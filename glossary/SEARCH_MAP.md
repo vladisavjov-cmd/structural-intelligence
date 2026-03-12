@@ -88,8 +88,34 @@
 **In SI:** Truth-Load; Metabolic Load; Contact; Repair  
 **Best starting paper:** [Resonance, Suffering, and the Body](../papers/truth-metabolic-load/README.md)
 
+## People search: “how do I know if something is real or just a story”
+**In SI:** Cheap Coherence; Coherence-Theater; Contact; Witness/Trace; Falsifier; Irreversibility; Binding  
+**Best starting paper:** [The Diamond Core](../papers/diamond-core/README.md)
+
+## People search: “my ‘good life’ feels clean but something is off”
+**In SI:** Shadow; Shadow Debt; Exported Maintenance; Structural Audit; Forced Contact  
+**Best starting paper:** [The Cybernetics of the Shadow](../papers/cybernetics-of-the-shadow/README.md)
+
+## People search: “I keep breaking down / repeating the same collapse”
+**In SI:** Collapse; Debt Collection; Maintenance Inflation; Containment; Repair  
+**Best starting paper:** [The Burnout Audit](../papers/burnout-audit/README.md)
+
+## People search: “I want a self that can’t be manipulated / I’m too programmable”
+**In SI:** Invariance Constraint; Fixed Worth; Programmability; Reward-pressure; Sovereignty; Binding  
+**Best starting paper:** [The Unhackable Soul](../papers/unhackable-soul/README.md)
+
+## People search: “I’m self-aware but it doesn’t help / insight doesn’t bind”
+**In SI:** Coherence-Contact Gap; Directed Thinking; Undirected Thinking; Presence; Binding Revision  
+**Best starting paper:** [Three Realities](../papers/three-realities/README.md)
+
+## People search: “people are getting cruel / scapegoating is everywhere”
+**In SI:** Cheap Coherence; The “No”; Discharge; Projection; Scapegoating; Forced Contact; Answerability  
+**Best starting paper:** [The Psychology of Evil Under Cheap Coherence](../papers/psychology-of-evil-cheap-coherence/README.md)
+
 ---
 
 ## Notes
 - This map is for discoverability. Canonical definitions live in: `glossary/GLOSSARY.md`.
 - If you add new terms, add a plain-language query here with its SI mapping and best starting paper.
+
+
