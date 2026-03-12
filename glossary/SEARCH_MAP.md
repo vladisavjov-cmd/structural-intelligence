@@ -112,6 +112,18 @@
 **In SI:** Cheap Coherence; The “No”; Discharge; Projection; Scapegoating; Forced Contact; Answerability  
 **Best starting paper:** [The Psychology of Evil Under Cheap Coherence](../papers/psychology-of-evil-cheap-coherence/README.md)
 
+## People search: “AI says ‘I’ / feels sentient / but something is off”
+**In SI:** V108 Signature; Hallucination Regime; Coherence-Theater; Contact; Truth-Load  
+**Best starting paper:** [V108 Signature](../concepts/v108/README.md)
+
+## People search: “my identity feels like performance / my ‘I’ feels unmoored”
+**In SI:** V108 Signature; Persona; Cheap Coherence; Coherence-Contact Gap; Bedrock  
+**Best starting paper:** [V108 Signature](../concepts/v108/README.md)
+
+## People search: “how do I tell if a system is coercive / if exit is punished”
+**In SI:** Exit; Answerability; Coherence-Theater; Forced Contact  
+**Best starting paper:** [V108 Signature](../concepts/v108/README.md)
+
 ---
 
 ## Notes
