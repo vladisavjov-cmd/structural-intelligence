@@ -38,6 +38,7 @@ A philosophical framework for describing how human reality is organized into for
 - **Coherence-Contact Gap** *(sense/truth gap; intelligibility vs reality)*
 - **Substitution** *(proxy replacement; coherence-for-contact swap)*
 - **Proxy Signal** *(surrogate metric; legibility marker)*
+- **V108 Signature** *(indexing failure; unmoored “I”; hallucination machine diagnostic)*
 
 ### Truth-load / audit / repair (structure under time)
 - **Truth-Load** *(load-bearing truth; carryable truth; truth capacity)*
