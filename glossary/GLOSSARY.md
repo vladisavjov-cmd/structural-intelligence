@@ -305,3 +305,117 @@ A condition that compresses time, increases stakes, and amplifies reward-signals
 **Aliases:** compression state; high-stakes field; load-state  
 **Opposites / failure mode:** low-stakes contact; protected revision space  
 **See also:** Reward-pressure; Structural Audit; Containment; Sovereignty
+
+## Binding
+A constraint that closes options and forces revision to become real (not merely understood). Binding turns insight into a lived cost/commitment that cannot be undone by narration.  
+**Aliases:** truth-binding; commitment lock; option-closure; non-reversible update  
+**Opposites / failure mode:** unbound insight; ornamental understanding; revision-as-performance  
+**See also:** Answerability; Tethering; Repair; Irreversibility; Truth-Load
+
+## Irreversibility
+A condition where something cannot be “talked back” into its previous state; the mark that contact has occurred because reality has changed (or an option has been closed).  
+**Aliases:** closed option; point of no return; non-undoable cost; structural ratchet  
+**Opposites / failure mode:** reversible theater; “no-cost revision”; narrative reset  
+**See also:** Binding; Consequence; Truth-Load; Repair; Contact
+
+## Witness/Trace
+The evidence of contact that remains when performance stops: observable trace, record, artifact, or cost-signature showing a claim has interacted with reality and paid a price.  
+**Aliases:** trace condition; audit trail; cost signature; reality residue  
+**Opposites / failure mode:** no-trace coherence; private certainty; charisma-as-proof  
+**See also:** Structural Audit; Consequence; Contact; Coherence-Theater; Proxy Signal
+
+## Falsifier
+A specific condition that would prove a claim, stance, or structure wrong (or require revision). A falsifier restores answerability by naming what would force update.  
+**Aliases:** disconfirming condition; failure test; contact trigger; disproof condition  
+**Opposites / failure mode:** no-falsification zone; protected narrative; unfalsifiable identity  
+**See also:** Structural Audit; Answerability; Contact; Coherence-Theater; No-Falsification Zone
+
+## Exported Maintenance
+Stability achieved by shifting costs elsewhere (onto others, the future, the body, the shadow, or the system’s edges) so coherence can remain clean.  
+**Aliases:** cost-exporting; maintenance outsourcing; hidden externalities; deferred payment  
+**Opposites / failure mode:** owned maintenance; integrated cost; repair-first structure  
+**See also:** Consequence; Structural Audit; Shadow; Collapse; Integrity
+
+## Maintenance Inflation
+Rising cost required to keep the same level of coherence, legibility, or social stability over time—often because contact is avoided and debt accumulates.  
+**Aliases:** escalating upkeep; increasing stabilization cost; coherence upkeep inflation  
+**Opposites / failure mode:** decreasing maintenance; repair-driven simplification; load-bearing coherence  
+**See also:** Persona-maintenance; Coherence Budget; Truth-Load; Collapse; Exported Maintenance
+
+## Persona-maintenance
+Ongoing work required to keep a public-facing self coherent, likable, safe, and legible—especially under reward-pressure.  
+**Aliases:** legibility upkeep; role upkeep; social stabilization labor; interface upkeep  
+**Opposites / failure mode:** owned stance; contact-first self-presentation; repairable identity  
+**See also:** Persona; Personality Trap; Reward-pressure; Leakage; Maintenance Inflation
+
+## Shadow Debt
+Accumulated consequence created by disowning truths, needs, anger, limits, or obligations; the “unpaid bill” stored in the shadow that returns as forced contact.  
+**Aliases:** unowned load; excluded truth debt; disowned cost; deferred contradiction  
+**Opposites / failure mode:** integration; owned contradiction; repairable self-reading  
+**See also:** Shadow; Exported Maintenance; Collapse; Structural Audit; Forced Contact
+
+## Debt Collection
+The moment deferred consequences arrive: when exported maintenance and shadow debt can no longer be postponed and the system is forced into contact.  
+**Aliases:** bill comes due; forced reckoning; reality collection event  
+**Opposites / failure mode:** indefinite deferral; protected coherence; perpetual substitution  
+**See also:** Consequence; Collapse; Forced Contact; Structural Audit; Integrity
+
+## Forced Contact
+Contact that arrives through failure rather than choice: reality imposes constraint because coherence can no longer maintain insulation.  
+**Aliases:** constraint strike; reality intrusion; collapse-contact; involuntary correction  
+**Opposites / failure mode:** chosen contact; proactive repair; voluntary revision  
+**See also:** Collapse; The “No”; Constraint; Debt Collection; Structural Audit
+
+## Discharge
+A fast release of activation that substitutes for repair (anger dump, scapegoating, rupture, compulsive action) when containment fails.  
+**Aliases:** pressure release; compulsive release; activation dump; rupture behavior  
+**Opposites / failure mode:** containment; metabolized correction; repair capacity  
+**See also:** Containment; Activation; Repair; Scapegoating; Forced Contact
+
+## Projection
+Attributing disowned impulses/traits/intentions to others to preserve persona coherence and avoid contact with one’s own contradiction.  
+**Aliases:** externalization; displaced ownership; shadow projection  
+**Opposites / failure mode:** ownership; integration; repairable self-reading  
+**See also:** Shadow; Persona; Structural Audit; Scapegoating; Coherence-Theater
+
+## Scapegoating
+Routing consequence onto a target to restore coherence without repair. A social discharge mechanism that preserves the system’s narrative by exporting the bill.  
+**Aliases:** blame-routing; sacrificial target; discharge-by-blame; moral dumping  
+**Opposites / failure mode:** owned consequence; repair; answerability preserved  
+**See also:** Exported Maintenance; Consequence; Integrity; Projection; Forced Contact
+
+## Directed Thinking
+Narrative/analytic cognition optimized for explanation, justification, and social legibility—high coherence output that can bypass contact.  
+**Aliases:** narrative reasoning; justification mode; explanatory mode; legibility thinking  
+**Opposites / failure mode:** presence as contact; constraint-led attention  
+**See also:** Coherence; Persona; Coherence-Theater; Presence; Undirected Thinking
+
+## Undirected Thinking
+Symbolic/associative cognition (dream, fantasy, mythic movement) that compensates for what the persona cannot carry; can reveal truth without guaranteeing binding.  
+**Aliases:** fantasy thinking; imaginal cognition; symbolic compensation; dream logic  
+**Opposites / failure mode:** literalization; symbolic closure mistaken for contact  
+**See also:** Shadow; Projection; Coherence-Contact Gap; Binding; Directed Thinking
+
+## Mythic Compensation
+A symbolic “correction attempt” produced by undirected thinking when lived structure is unbalanced—meaning appears, but may remain unbound.  
+**Aliases:** symbolic compensation; mythic repair attempt; imaginal correction  
+**Opposites / failure mode:** symbolic sedative; myth-as-exit; insight without contact  
+**See also:** Undirected Thinking; Coherence-Contact Gap; Binding; Repair
+
+## Option Closure
+A measurable sign of contact: a real choice becomes unavailable due to cost, commitment, consequence, or irreversibility.  
+**Aliases:** closed door; irreversible choice; commitment closure; constraint-imposed closure  
+**Opposites / failure mode:** “infinite options” fantasy; reversible theater; narrative reset  
+**See also:** Irreversibility; Binding; Consequence; Contact; Truth-Load
+
+## Revision (Binding Revision)
+Updating a claim, stance, or identity in a way that changes behavior and cost allocation over time—not merely changing the story.  
+**Aliases:** corrective update; retract-and-rebuild; cost-bearing revision  
+**Opposites / failure mode:** rationalization; patching; verbal revision without change  
+**See also:** Repair; Answerability; Integrity; Binding; Truth-Load
+
+## Container for “No”
+A relational or institutional structure that can hold refusal, contradiction, and constraint without discharging into collapse, scapegoating, or theater.  
+**Aliases:** correction container; boundary-safe structure; repair-capable container  
+**Opposites / failure mode:** no-falsification zone; punitive correction; discharge culture  
+**See also:** The “No”; Containment; Protected Revision Space; Repair; Structural Audit
