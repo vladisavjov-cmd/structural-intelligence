@@ -9,6 +9,12 @@
 
 A philosophical framework for describing how human reality is organized into form: how meaning, roles, constraints, and coherence hold—or fail—under pressure.
 
+SI is a framework for diagnosing **hallucination regimes** (coherence without contact) in people, institutions, and AI systems.
+It centers **answerability** (revision under constraint), **truth-load** (what can be carried under cost), and **non-tradability** (invariance constraints under reward-pressure).
+Key diagnostics include **V108 Signature**, **exit**, **cost**, **repair**, and **contradiction**.
+
+**Start here:** [SEARCH_MAP](./search_map/SEARCH_MAP.md) (plain language → SI terms → best starting paper)
+
 ## Concepts
 *(Search index of core terms used across the papers. Full definitions: [glossary/GLOSSARY.md](./glossary/GLOSSARY.md))*
 
@@ -184,5 +190,3 @@ This repository hosts landing pages, abstracts, keywords, and version notes. Can
 - **The Psychology of Evil Under Cheap Coherence: When “Something Is Wrong” Has No Language** — DOI: 10.5281/zenodo.18970389  
   Paper page: [papers/psychology-of-evil-cheap-coherence](./papers/psychology-of-evil-cheap-coherence/README.md)
 
-- **Structural Dynamics: A Systems Theory of Sovereignty and Answerability Under Pressure** — DOI: 10.5281/zenodo.18826140  
-  Paper page: [papers/structural-dynamics](./papers/structural-dynamics/README.md)
