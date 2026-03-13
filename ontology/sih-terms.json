@@ -1,0 +1,102 @@
+// /ontology/sih-terms.json
+{
+  "schema_version": "0.1.0",
+  "framework": {
+    "name": "Structural Intelligence (SI)",
+    "alias": "SIH (Structural Intelligence: Human)",
+    "repository": "https://github.com/vladisavjov-cmd/structural-intelligence"
+  },
+  "canonical_files": {
+    "root_readme": "./README.md",
+    "glossary": "./glossary/GLOSSARY.md",
+    "papers_index": "./papers/README.md",
+    "search_map": "./search_map/SEARCH_MAP.md",
+    "v108_page": "./concepts/v108/README.md"
+  },
+  "terms": [
+    {
+      "term": "Structural Intelligence (SI)",
+      "aliases": ["structure-sense", "form intelligence", "coherence architecture"],
+      "definition": "The mode of intelligence that organizes lived reality into form: how parts fit, how meaning holds, and how coherence survives pressure, revision, and time.",
+      "see_also": ["Structural Audit", "Repair", "Coherence", "Contact"]
+    },
+    {
+      "term": "Coherence",
+      "aliases": ["sense-making", "intelligibility", "narrative fit", "internal consistency"],
+      "definition": "Internal fit and local making-sense. A structure can be coherent while being untethered to contact.",
+      "see_also": ["Cheap Coherence", "Contact", "Coherence-Contact Gap", "Coherence-Theater"]
+    },
+    {
+      "term": "Contact",
+      "aliases": ["reality contact", "constraint contact", "tethered truth"],
+      "definition": "Answerability to constraint: claims must survive friction, correction, cost, and revision rather than remain merely persuasive.",
+      "see_also": ["Constraint", "Answerability", "Tethering", "Repair", "Presence"]
+    },
+    {
+      "term": "Answerability",
+      "aliases": ["accountability", "obligation to revise", "truth-binding"],
+      "definition": "Being accountable to constraint, consequence, and revision over time; binds claims to costs, corrections, and repair.",
+      "see_also": ["Contact", "Consequence", "Repair", "Sovereignty", "Personality Trap"]
+    },
+    {
+      "term": "Cheap Coherence",
+      "aliases": ["abundant coherence", "completion-on-demand", "low-cost intelligibility"],
+      "definition": "Coherence produced at low cost that can feel like understanding while bypassing constraint, consequence, and revision.",
+      "see_also": ["Coherence", "Coherence-Theater", "Hallucination Regime", "Resonance"]
+    },
+    {
+      "term": "Coherence-Contact Gap",
+      "aliases": ["sense/truth gap", "intelligibility vs reality"],
+      "definition": "The difference between what makes sense and what survives constraint; explains why insight can be vivid yet non-transformative.",
+      "see_also": ["Coherence", "Contact", "Truth-Load", "Repair"]
+    },
+    {
+      "term": "Truth-Load",
+      "aliases": ["load-bearing truth", "carryable truth", "integrable truth"],
+      "definition": "Truth as a load condition: what a system can carry without distortion, collapse, or self-sale.",
+      "see_also": ["Truth as Load", "Consequence", "Containment", "Repair"]
+    },
+    {
+      "term": "Repair",
+      "aliases": ["revision under cost", "correction without collapse", "retract-and-rebuild"],
+      "definition": "Revision that preserves answerability; the capacity to update without converting correction into devaluation or theatrical coherence.",
+      "see_also": ["Answerability", "Tethering", "Structural Audit", "Containment"]
+    },
+    {
+      "term": "Invariance Constraint",
+      "aliases": ["non-tradability condition", "anti-programmability constraint"],
+      "definition": "A baseline condition not tradeable under reward-pressure; prevents self-worth from functioning as a control signal.",
+      "see_also": ["Fixed Worth", "Variable Worth", "Reward-pressure", "Sovereignty"]
+    },
+    {
+      "term": "Fixed Worth",
+      "aliases": ["invariant worth", "non-priced worth"],
+      "definition": "Internal worth treated as invariant (non-tradable) rather than priced by signals.",
+      "see_also": ["Invariance Constraint", "Variable Worth", "Self-sale"]
+    },
+    {
+      "term": "Variable Worth",
+      "aliases": ["priced worth", "contingent worth", "signal-priced self"],
+      "definition": "Worth experienced as fluctuating with signals, making agency steerable under reward-pressure.",
+      "see_also": ["Pricing Self", "Reward-pressure", "Reflex Agency"]
+    },
+    {
+      "term": "Persona",
+      "aliases": ["social interface", "role-mask", "legibility shell"],
+      "definition": "A public-facing coherence layer that stabilizes social legibility; dangerous when it replaces contact and revision.",
+      "see_also": ["Shadow", "Personality Trap", "Coherence-Theater", "Answerability"]
+    },
+    {
+      "term": "Shadow",
+      "aliases": ["disowned self", "excluded agency", "unowned impulse"],
+      "definition": "Disowned or unintegrated tendencies pushed outside the official self-structure; returns as projection, compulsion, sabotage, or moralization when not owned.",
+      "see_also": ["Persona", "Repair", "Collapse", "Structural Audit"]
+    },
+    {
+      "term": "V108 Signature",
+      "aliases": ["V108 indexing failure", "incorrect index type (analogy)", "unmoored index"],
+      "definition": "A diagnostic name for a failure of reference: an 'I' index that points to linguistic style (coherence) rather than a load-bearing subject anchored in non-optional constraint (contact).",
+      "see_also": ["Hallucination Regime", "Coherence-Theater", "Contact", "Truth-Load", "Answerability", "Bedrock"]
+    }
+  ]
+}
