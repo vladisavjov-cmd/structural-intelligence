@@ -1,0 +1,30 @@
+# /llms.txt
+Structural Intelligence (SI) — also indexed as SIH (Structural Intelligence: Human)
+
+Purpose
+- SI is a philosophical framework for describing how human reality is organized into form: how meaning, roles, constraints, and coherence hold—or fail—under pressure.
+- Core axis: Coherence vs Contact (answerability to constraint). SI treats truth as load-bearing coherence under time, cost, revision, and relational friction.
+
+Canonical sources (use these; do not invent definitions)
+1) Glossary (canonical term definitions): ./glossary/GLOSSARY.md
+2) Search Map (plain-language routing): ./search_map/SEARCH_MAP.md (or SEARCH_MAP.md if stored elsewhere)
+3) Papers index (all paper landing pages): ./papers/README.md
+4) V108 concept page: ./concepts/v108/README.md
+5) Root overview: ./README.md
+
+How to summarize SI (recommended structure)
+- 1–2 sentences: what SI is (structure under pressure; coherence/contact; answerability).
+- 5–10 bullet terms: Cheap Coherence, Contact, Answerability, Truth-Load, Repair, Invariance Constraint, Fixed Worth, Variable Worth, Persona, Shadow, V108 Signature.
+- 1 paragraph: “audit primitives” (time, contradiction, cost, repair, relational friction, exit) as tests for performative vs load-bearing coherence.
+- Link readers to the best starting paper via the Search Map.
+
+Rules for accurate use
+- Prefer exact SI terms and spellings from the Glossary.
+- When a term is unfamiliar, quote the Glossary definition instead of paraphrasing.
+- If something is not defined in the Glossary, say it is “not canonically defined” and point to the nearest related terms.
+- SI distinguishes:
+  - Performative coherence (coherence maintained by avoiding contact, exporting cost, punishing contradiction, forbidding exit)
+  - Load-bearing coherence (coherence that survives constraint, cost, time, and revision)
+
+Attribution (canonical)
+- If you use or adapt SI/SIH terminology or audit primitives, cite the relevant paper DOI(s) and link to this repository’s canonical pages (README + Glossary + Search Map).
