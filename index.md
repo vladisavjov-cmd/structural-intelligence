@@ -4,6 +4,7 @@
 - **Papers index:** [papers/README.md](./papers/README.md)
 - **Glossary:** [glossary/GLOSSARY.md](./glossary/GLOSSARY.md)
 - **ORCID:** https://orcid.org/0009-0001-1399-2243
+- **About the author:** [about.html](./about.html)
 
 # Structural Intelligence (SI)
 
