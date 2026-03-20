@@ -425,3 +425,33 @@ A diagnostic name for a philosophical failure of reference: an “I” index tha
 **Aliases:** V108 indexing failure; incorrect index type (analogy); unmoored index; hallucination machine diagnostic  
 **Opposites / failure mode:** anchored index; constraint-coupled reference; load-bearing “I”  
 **See also:** Hallucination Regime; Coherence-Theater; Contact; Truth-Load; Answerability; The “No”; Bedrock
+
+## Intrusion (I)
+A foreign control-loop that occupies attention and action-selection, sustaining itself through replay, prosecution, and identity instability. Intrusion is “foreign” because it functions as not-me: it operates outside sovereign integration and enforces its own objectives.  
+**Aliases:** foreign agency load; occupancy disturbance; cockpit hijack  
+**Opposites / failure mode:** sovereignty; owned stance; binding revision under contact  
+**See also:** Presence; Answerability; Contact; Binding; Projection; Betrayal; Cockpit / Pilot
+
+## Foreign Agency Load
+The degree to which attention and agency are colonized by an intrusive loop that behaves as not-self and extracts energy from replay and prosecution.  
+**Aliases:** intrusion load; occupancy load; hijack load  
+**Opposites / failure mode:** low occupancy; sovereign steering; integrated agency  
+**See also:** Intrusion (I); Occupancy (λ_t); Cockpit / Pilot; Actorhood
+
+## Occupancy (λ_t)
+The time-fraction of steering dominated by an intrusive policy at time t; a control measure of how much the system is being driven by a competing loop rather than the sovereign policy.  
+**Aliases:** occupancy fraction; steering share; intrusion fraction  
+**Opposites / failure mode:** sovereign control; pilot access; low intrusion  
+**See also:** Intrusion (I); Foreign Agency Load; Pilot; ω_eff
+
+## Cockpit / Pilot (ω)
+Metacontrol access: the supervisory capacity to interrupt loops, reallocate attention, and choose under pressure. Pilot access is reduced by intrusion and restored through containment and binding.  
+**Aliases:** witness; cockpit access; interrupt authority; metacontrol  
+**Opposites / failure mode:** autopilot; dissociation; actorhood dominance; occupied steering  
+**See also:** Presence; Answerability; Intrusion (I); Containment; Binding
+
+## ω_eff
+Effective cockpit access under intrusion load; pilot availability after intrusion has reduced interrupt authority. ω_eff is bounded below by 0.  
+**Aliases:** effective pilot access; effective interrupt authority  
+**Opposites / failure mode:** cockpit occlusion; ω collapse  
+**See also:** Cockpit / Pilot (ω); Intrusion (I); Latency; Actorhood
