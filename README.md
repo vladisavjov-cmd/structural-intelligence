@@ -4,16 +4,11 @@
 - **Papers index:** [papers/README.md](./papers/README.md)
 - **Glossary:** [glossary/GLOSSARY.md](./glossary/GLOSSARY.md)
 - **ORCID:** https://orcid.org/0009-0001-1399-2243
+- **About the author:** [about.html](./about.html)
 
 # Structural Intelligence (SI)
 
 A philosophical framework for describing how human reality is organized into form: how meaning, roles, constraints, and coherence hold—or fail—under pressure.
-
-SI is a framework for diagnosing **hallucination regimes** (coherence without contact) in people, institutions, and AI systems.
-It centers **answerability** (revision under constraint), **truth-load** (what can be carried under cost), and **non-tradability** (invariance constraints under reward-pressure).
-Key diagnostics include **V108 Signature**, **exit**, **cost**, **repair**, and **contradiction**.
-
-**Start here:** [SEARCH_MAP](./search_map/SEARCH_MAP.md) (plain language → SI terms → best starting paper)
 
 ## Concepts
 *(Search index of core terms used across the papers. Full definitions: [glossary/GLOSSARY.md](./glossary/GLOSSARY.md))*
@@ -44,7 +39,6 @@ Key diagnostics include **V108 Signature**, **exit**, **cost**, **repair**, and 
 - **Coherence-Contact Gap** *(sense/truth gap; intelligibility vs reality)*
 - **Substitution** *(proxy replacement; coherence-for-contact swap)*
 - **Proxy Signal** *(surrogate metric; legibility marker)*
-- **V108 Signature** *(indexing failure; unmoored “I”; hallucination machine diagnostic)*
 
 ### Truth-load / audit / repair (structure under time)
 - **Truth-Load** *(load-bearing truth; carryable truth; truth capacity)*
@@ -65,35 +59,38 @@ Key diagnostics include **V108 Signature**, **exit**, **cost**, **repair**, and 
 - **Integrity** *(claim–cost–action alignment over time)*
 - **Pressure** *(compression state; high-stakes field; load state)*
 
-# NEW: Terms added from the 7-paper Jung/cheap-coherence set
-*(Full definitions live in the Glossary; this is just the README search index.)*
-
-### Binding / falsifiers / debt mechanics (contact tests)
+# NEW (added): terminology from the Jung/cheap-coherence 6-paper set
 - **Binding** *(truth-binding; commitment lock; option-closure)*
 - **Irreversibility** *(closed option; point-of-no-return; structural ratchet)*
 - **Witness/Trace** *(audit trail; cost signature; reality residue)*
 - **Falsifier** *(disconfirming condition; failure test; contact trigger)*
 - **Option Closure** *(choice made unavailable by cost/commitment)*
 - **Binding Revision** *(revision that changes behavior/cost allocation)*
-
-### Maintenance / shadow economics (hidden costs)
 - **Persona-maintenance** *(legibility upkeep; interface upkeep)*
 - **Exported Maintenance** *(cost-exporting; maintenance outsourcing; deferred payment)*
 - **Maintenance Inflation** *(rising cost to maintain the same coherence)*
 - **Shadow Debt** *(unowned load; deferred contradiction)*
 - **Debt Collection** *(bill comes due; forced reckoning)*
 - **Forced Contact** *(reality intrusion through failure)*
-
-### Jungian cognition modes (Three Realities)
 - **Directed Thinking** *(justification mode; legibility thinking)*
 - **Undirected Thinking** *(fantasy/dream logic; symbolic compensation)*
 - **Mythic Compensation** *(imaginal correction attempt)*
-
-### Failure outputs (when containment fails)
 - **Discharge** *(activation dump; rupture behavior)*
 - **Projection** *(externalized ownership; shadow projection)*
 - **Scapegoating** *(blame-routing; discharge-by-blame)*
 - **Container for “No”** *(correction container; boundary-safe structure)*
+
+# NEW (added): terminology from the Intrusion / Occupancy papers
+- **Intrusion (I)** *(foreign agency load; occupancy disturbance)*
+- **Foreign Agency Load** *(attention/agency colonization by a competing loop)*
+- **Occupancy (λ_t)** *(time-fraction of steering by an intrusive policy)*
+- **Cockpit / Pilot (ω)** *(metacontrol access; interrupt authority)*
+
+# NEW (added): terminology from the robotics translation paper
+- **Embodied AI** *(agents under friction, delay, damage, irreversibility)*
+- **Reward hacking** *(proxy exploitation; reward-channel intrusion)*
+- **Control architecture** *(stack of controllers, arbiters, safety layers)*
+- **Binding (B) for robots** *(durable updates with trace and verification)*
 
 ## Papers
 See the index: **[papers/README.md](./papers/README.md)**
@@ -190,3 +187,11 @@ This repository hosts landing pages, abstracts, keywords, and version notes. Can
 - **The Psychology of Evil Under Cheap Coherence: When “Something Is Wrong” Has No Language** — DOI: 10.5281/zenodo.18970389  
   Paper page: [papers/psychology-of-evil-cheap-coherence](./papers/psychology-of-evil-cheap-coherence/README.md)
 
+- **From Structural Dynamics to Policy: Structural Intelligence as a Design Framework for Robots** — DOI: 10.5281/zenodo.19140255  
+  Paper page: [papers/from-structural-dynamics-to-policy](./papers/from-structural-dynamics-to-policy/README.md)
+
+- **Beyond Fluency: A Human-Centered Evaluation Rubric for Grounding, Answerability, and Reliability in LLM Outputs** — DOI: 10.5281/zenodo.19103405  
+  Paper page: [papers/beyond-fluency](./papers/beyond-fluency/README.md)
+
+- **Insight Without Sovereignty: A Control-Theoretic Formalization of Intrusion (I)** — DOI: 10.5281/zenodo.TBD  
+  Paper page: [papers/insight-without-sovereignty](./papers/insight-without-sovereignty/README.md)
