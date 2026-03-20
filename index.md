@@ -80,6 +80,18 @@ A philosophical framework for describing how human reality is organized into for
 - **Scapegoating** *(blame-routing; discharge-by-blame)*
 - **Container for “No”** *(correction container; boundary-safe structure)*
 
+# NEW (added): terminology from the Intrusion / Occupancy papers
+- **Intrusion (I)** *(foreign agency load; occupancy disturbance)*
+- **Foreign Agency Load** *(attention/agency colonization by a competing loop)*
+- **Occupancy (λ_t)** *(time-fraction of steering by an intrusive policy)*
+- **Cockpit / Pilot (ω)** *(metacontrol access; interrupt authority)*
+
+# NEW (added): terminology from the robotics translation paper
+- **Embodied AI** *(agents under friction, delay, damage, irreversibility)*
+- **Reward hacking** *(proxy exploitation; reward-channel intrusion)*
+- **Control architecture** *(stack of controllers, arbiters, safety layers)*
+- **Binding (B) for robots** *(durable updates with trace and verification)*
+
 ## Papers
 See the index: **[papers/README.md](./papers/README.md)**
 
@@ -174,3 +186,12 @@ This repository hosts landing pages, abstracts, keywords, and version notes. Can
 
 - **The Psychology of Evil Under Cheap Coherence: When “Something Is Wrong” Has No Language** — DOI: 10.5281/zenodo.18970389  
   Paper page: [papers/psychology-of-evil-cheap-coherence](./papers/psychology-of-evil-cheap-coherence/README.md)
+
+- **From Structural Dynamics to Policy: Structural Intelligence as a Design Framework for Robots** — DOI: 10.5281/zenodo.19140255  
+  Paper page: [papers/from-structural-dynamics-to-policy](./papers/from-structural-dynamics-to-policy/README.md)
+
+- **Beyond Fluency: A Human-Centered Evaluation Rubric for Grounding, Answerability, and Reliability in LLM Outputs** — DOI: 10.5281/zenodo.19103405  
+  Paper page: [papers/beyond-fluency](./papers/beyond-fluency/README.md)
+
+- **Insight Without Sovereignty: A Control-Theoretic Formalization of Intrusion (I)** — DOI: 10.5281/zenodo.TBD  
+  Paper page: [papers/insight-without-sovereignty](./papers/insight-without-sovereignty/README.md)
