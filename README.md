@@ -193,5 +193,5 @@ This repository hosts landing pages, abstracts, keywords, and version notes. Can
 - **Beyond Fluency: A Human-Centered Evaluation Rubric for Grounding, Answerability, and Reliability in LLM Outputs** — DOI: 10.5281/zenodo.19103405  
   Paper page: [papers/beyond-fluency](./papers/beyond-fluency/README.md)
 
-- **Insight Without Sovereignty: A Control-Theoretic Formalization of Intrusion (I)** — DOI: 10.5281/zenodo.TBD  
+- **Insight Without Sovereignty: A Control-Theoretic Formalization of Intrusion (I)** — DOI: 10.5281/zenodo.19140160 
   Paper page: [papers/insight-without-sovereignty](./papers/insight-without-sovereignty/README.md)
