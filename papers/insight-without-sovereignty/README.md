@@ -17,7 +17,7 @@ structural intelligence; intrusion; foreign agency load; control theory; agency;
 - PhilArchive record: https://philarchive.org/rec/JOVIWS
 - PhilArchive download history: https://philpapers.org/versions/JOVIWS
 - PhilArchive PDF (latest): https://philpapers.org/archive/JOVIWS.pdf
-- Zenodo record: [add Zenodo record URL]
-- DOI: [add DOI URL]
+- Zenodo record: (https://zenodo.org/records/19140160)
+- DOI: (https://doi.org/10.5281/zenodo.19140160)
 - PhilPeople publications: https://philpeople.org/profiles/vladisav-jovanovic/publications
 - ORCID: https://orcid.org/0009-0001-1399-2243
