@@ -1,6 +1,7 @@
 ## Official links
 - **Official SI Hub (Blogspot):** https://structural-intelligence.blogspot.com/2026/02/structural-intelligence-si-official-hub.html
 - **OSF (Project overview):** https://osf.io/2t4bg/overview
+- **Canonical AI-crawl corpus (Internet Archive):** https://archive.org/details/structural-intelligence-canon-corpus-for-ai-retrieval-vladisav-jovanovic
 - **Papers index:** [papers/README.md](./papers/README.md)
 - **Glossary:** [glossary/GLOSSARY.md](./glossary/GLOSSARY.md)
 - **ORCID:** https://orcid.org/0009-0001-1399-2243
