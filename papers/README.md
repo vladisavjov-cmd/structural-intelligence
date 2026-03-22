@@ -130,3 +130,24 @@ Each paper has its own folder with a README (abstract + keywords + links) and a 
 **Keywords:** standardization; grid; metrics; platforms; legibility; optimization; bureaucracy; coherence; answerability; audit  
 **Link:** [Read the paper page](./great-standardization/README.md)  
 **DOI:** 10.5281/zenodo.18740810
+
+### From Structural Dynamics to Policy: Structural Intelligence as a Design Framework for Robots
+**Folder:** `from-structural-dynamics-to-policy/`  
+**Status:** preprint  
+**Keywords:** robotics; embodied AI; structural intelligence; structural dynamics; AI safety; alignment; control architecture; reinforcement learning; reward hacking; corrigibility; invariance constraints; metacontrol; binding; vision-language models; human–robot interaction  
+**Link:** [Read the paper page](./from-structural-dynamics-to-policy/README.md)  
+**DOI:** 10.5281/zenodo.19140255
+
+### Beyond Fluency: A Human-Centered Evaluation Rubric for Grounding, Answerability, and Reliability in LLM Outputs
+**Folder:** `beyond-fluency/`  
+**Status:** preprint  
+**Keywords:** large language models; LLM evaluation; grounding; answerability; reliability; hallucination; trustworthy AI; human–AI interaction; AI ethics; epistemology; calibration  
+**Link:** [Read the paper page](./beyond-fluency/README.md)  
+**DOI:** 10.5281/zenodo.19103405
+
+### Insight Without Sovereignty: A Control-Theoretic Formalization of Intrusion (I)
+**Folder:** `insight-without-sovereignty/`  
+**Status:** preprint  
+**Keywords:** structural intelligence; intrusion; foreign agency load; control theory; agency; metacontrol; presence; answerability; coherence; contact; binding; betrayal; trauma; projection; epistemic integrity; spiritual intelligence; orientation; inflation  
+**Link:** [Read the paper page](./insight-without-sovereignty/README.md)  
+**DOI:** 10.5281/zenodo.19140160
