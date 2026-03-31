@@ -124,6 +124,98 @@
 **In SI:** Exit; Answerability; Coherence-Theater; Forced Contact  
 **Best starting paper:** [V108 Signature](../concepts/v108/README.md)
 
+## People search: “I understand my pattern but I still feel occupied / like something else is driving”
+**In SI:** Intrusion (I); Foreign Agency Load; Occupancy (λ_t); Cockpit / Pilot (ω); Binding  
+**Best starting paper:** [Insight Without Sovereignty](../papers/insight-without-sovereignty/README.md)
+
+## People search: “I’m trapped in replay / prosecution / obsessive return”
+**In SI:** Intrusion (I); Occupancy (λ_t); Foreign Agency Load; Projection; Binding  
+**Best starting paper:** [Intrusion as Parasitic Control](../papers/intrusion-parasitic-control/README.md)
+
+## People search: “my life looks stable but it’s held together by patching”
+**In SI:** Structural Debt; Maintenance Inflation; Exported Maintenance; Repair  
+**Best starting paper:** [Structural Intelligence Completion](../papers/structural-intelligence-completion/README.md)
+
+## People search: “why do I keep paying more just to stay the same”
+**In SI:** Maintenance Inflation; Structural Debt; Cheap Coherence; Collapse  
+**Best starting paper:** [Structural Intelligence Completion](../papers/structural-intelligence-completion/README.md)
+
+## People search: “I can feel when something sounds right but isn’t real”
+**In SI:** Coherence; Contact; Felt Difference; Cheap Coherence; Answerability  
+**Best starting paper:** [The Felt Difference Between Coherence and Contact](../papers/felt-difference-coherence-contact/README.md)
+
+## People search: “I know I should revise but under pressure I defend instead”
+**In SI:** Answerability; Pressure; Repair; Containment; Contact  
+**Best starting paper:** [What Answerability Feels Like Under Pressure](../papers/what-answerability-feels-like/README.md)
+
+## People search: “I keep projecting / seeing my own stuff in other people”
+**In SI:** Projection; Shadow; Awakening; Legibility; Integration  
+**Best starting paper:** [Projection, Structure, and Awakening](../papers/projection-structure-awakening/README.md)
+
+## People search: “what does awakening actually mean without mysticism”
+**In SI:** Awakening; Projection; Shadow; Legibility; Presence  
+**Best starting paper:** [Projection, Structure, and Awakening](../papers/projection-structure-awakening/README.md)
+
+## People search: “I want the deeper philosophy of structure, not just the psychology”
+**In SI:** Structure; Field; Local Structuration; Stabilization  
+**Best starting paper:** [Beyond Structural Intelligence](../papers/beyond-structural-intelligence/README.md)
+
+## People search: “what is structure actually supposed to mean here”
+**In SI:** Structure; Field; Local Structuration; Stabilization; Viability  
+**Best starting paper:** [Structure, Field, and Local Structuration](../papers/structure-field-local-structuration/README.md)
+
+## People search: “why does anything hold together at all”
+**In SI:** Viability; Dissipation; Local Structuration; Cost of Holding  
+**Best starting paper:** [Why Structure Appears](../papers/why-structure-appears/README.md)
+
+## People search: “why does my life feel chaotic even though there is still some structure”
+**In SI:** Chaos; Structural Presence; Scale; Fragmentation; Local Structuration  
+**Best starting paper:** [Chaos and Local Structuration](../papers/chaos-local-structuration/README.md)
+
+## People search: “what kind of structure is this actually / how is it holding”
+**In SI:** Expressions of Structure; Dominance; Structural Debt; Compensation; Integration  
+**Best starting paper:** [The Expressions of Structure](../papers/expressions-of-structure/README.md)
+
+## People search: “something collapsed but the burden is still here”
+**In SI:** Collapse; Reorganization; Grief; Local Structuration; Invariance  
+**Best starting paper:** [The Metabolism of Structure](../papers/metabolism-of-structure/README.md)
+
+## People search: “grief feels structural, not just emotional”
+**In SI:** Collapse; Grief; Reorganization; Over-coupling; Fixed Worth  
+**Best starting paper:** [The Metabolism of Structure](../papers/metabolism-of-structure/README.md)
+
+## People search: “I can feel structure in experience but I can’t explain it”
+**In SI:** Structure; Lived Movement; Orientation; Flow; Threshold  
+**Best starting paper:** [Structure as Lived Movement](../papers/structure-lived-movement/README.md)
+
+## People search: “why does technology make things feel more captured instead of more free”
+**In SI:** Technology; Capture; Answerability; Reward-pressure; Grid  
+**Best starting paper:** [Technology Under Structural Intelligence](../papers/technology-under-structural-intelligence/README.md)
+
+## People search: “how do I judge whether tech helps truth or just scales manipulation”
+**In SI:** Technology; Capture; Answerability; Coherence-Theater; Consequence  
+**Best starting paper:** [Technology Under Structural Intelligence](../papers/technology-under-structural-intelligence/README.md)
+
+## People search: “I need the full SI architecture / variables / system map”
+**In SI:** Presence; Intrusion (I); Structural Debt; Somatic Capacity; Network Viscosity; Frictional Design  
+**Best starting paper:** [The Architecture of Structural Intelligence (SI)](../papers/architecture-of-structural-intelligence/README.md)
+
+## People search: “I want the complete systems version, not just the human version”
+**In SI:** Presence; Structural Debt; Occupancy (λ_t); Network Viscosity; Epistemic Exchange Rate  
+**Best starting paper:** [The Architecture of Structural Intelligence (SI)](../papers/architecture-of-structural-intelligence/README.md)
+
+## People search: “how do I tell when representation is outrunning reality”
+**In SI:** Drift Ratio; Coherence-Contact Gap; Answerability; Representation  
+**Best starting paper:** [The Drift Ratio](../papers/drift-ratio/README.md)
+
+## People search: “this sounds polished but I need a way to measure drift”
+**In SI:** Drift Ratio; Coherence-Theater; Answerability; Contact  
+**Best starting paper:** [The Drift Ratio](../papers/drift-ratio/README.md)
+
+## People search: “I need the pressure version / the architecture of constraint itself”
+**In SI:** The “No”; Answerability; Binding; Constraint; Sovereignty  
+**Best starting paper:** [Architecture of the “No”](../papers/architecture-of-the-no/README.md)
+
 ---
 
 ## Notes
