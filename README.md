@@ -1,7 +1,6 @@
 ## Official links
 - **Official SI Hub (Blogspot):** https://structural-intelligence.blogspot.com/2026/02/structural-intelligence-si-official-hub.html
 - **OSF (Project overview):** https://osf.io/2t4bg/overview
-- **Canonical AI-crawl corpus (Internet Archive):** https://archive.org/details/structural-intelligence-canon-corpus-for-ai-retrieval-vladisav-jovanovic
 - **Papers index:** [papers/README.md](./papers/README.md)
 - **Glossary:** [glossary/GLOSSARY.md](./glossary/GLOSSARY.md)
 - **ORCID:** https://orcid.org/0009-0001-1399-2243
@@ -60,7 +59,27 @@ A philosophical framework for describing how human reality is organized into for
 - **Integrity** *(claim–cost–action alignment over time)*
 - **Pressure** *(compression state; high-stakes field; load state)*
 
-# NEW (added): terminology from the Jung/cheap-coherence 6-paper set
+### Philosophy of structure / field / local structuration
+- **Structure** *(patterned stabilization; relational structure; organized relation)*
+- **Field** *(differentiated whole; relational field; structured field)*
+- **Local Structuration** *(local formation; local holding; localized stabilization)*
+- **Stabilization** *(holding; persistence; organized continuity)*
+- **Structural Presence** *(dynamic adequacy; organizing presence; local adequacy)*
+- **Viability** *(persistence capacity; survivability; real continuation)*
+- **Dissipation** *(diffusion; weak coupling loss; structural loosening)*
+- **Dominance** *(governing share; local primacy; organizing lead)*
+- **Boundary Integrity** *(local distinction; structural boundary; differentiation strength)*
+- **Scale** *(level of assessment; structural level; relevance scale)*
+- **Threshold** *(phase-change point; breaking point; structural transition)*
+- **Field-Fit** *(reality fit; adequacy to conditions; structural fit)*
+- **Reorganizing Capacity** *(adaptive revision capacity; phase-shift ability; restructurability)*
+- **Structural Debt** *(deferred structural bill; unresolved burden; compensatory debt)*
+- **Fragmentation** *(unsynthesized multiplicity; structural overcrowding; competing relation)*
+- **Stabilization Lag** *(lag; delayed re-fit; structural lateness)*
+- **Gradient Load** *(pressure gradient; mismatch intensity; differential load)*
+- **Relational Anchoring** *(borrowed stability; host support; deeper coupling)*
+
+### Added from the Jung / cheap-coherence / intrusion / completion papers
 - **Binding** *(truth-binding; commitment lock; option-closure)*
 - **Irreversibility** *(closed option; point-of-no-return; structural ratchet)*
 - **Witness/Trace** *(audit trail; cost signature; reality residue)*
@@ -80,17 +99,25 @@ A philosophical framework for describing how human reality is organized into for
 - **Projection** *(externalized ownership; shadow projection)*
 - **Scapegoating** *(blame-routing; discharge-by-blame)*
 - **Container for “No”** *(correction container; boundary-safe structure)*
-
-# NEW (added): terminology from the Intrusion / Occupancy papers
 - **Intrusion (I)** *(foreign agency load; occupancy disturbance)*
 - **Foreign Agency Load** *(attention/agency colonization by a competing loop)*
 - **Occupancy (λ_t)** *(time-fraction of steering by an intrusive policy)*
 - **Cockpit / Pilot (ω)** *(metacontrol access; interrupt authority)*
-
-# NEW (added): terminology from the robotics translation paper
+- **ω_eff** *(effective cockpit access under intrusion load)*
+- **Somatic Capacity** *(bodily capacity; metabolic bandwidth; contact-processing capacity)*
+- **Exit Architecture** *(decoupling capacity; sovereignty exit; escape structure)*
+- **Network Viscosity** *(narrative resistance; propagation drag; epistemic friction)*
+- **Epistemic Exchange Rate** *(coherence/verification cost ratio; truth affordability ratio)*
+- **Frictional Design** *(synthetic viscosity; anti-theater interface; answerability-oriented design)*
+- **Drift Ratio** *(representation/answerability ratio; drift metric; coherence overrun ratio)*
+- **Capture** *(system capture; proxy capture; steering capture)*
+- **Technology** *(structural amplifier; scaling interface; epistemic machinery)*
+- **Awakening** *(structural return; inward legibility; reclaimed seeing)*
+- **Legibility** *(readability; structural visibility; intelligible form)*
+- **Peace** *(integrated presence; reduced inner war; stabilized reconciliation)*
 - **Embodied AI** *(agents under friction, delay, damage, irreversibility)*
-- **Reward hacking** *(proxy exploitation; reward-channel intrusion)*
-- **Control architecture** *(stack of controllers, arbiters, safety layers)*
+- **Reward Hacking** *(proxy exploitation; reward-channel intrusion)*
+- **Control Architecture** *(stack of controllers, arbiters, safety layers)*
 - **Binding (B) for robots** *(durable updates with trace and verification)*
 
 ## Papers
@@ -194,5 +221,50 @@ This repository hosts landing pages, abstracts, keywords, and version notes. Can
 - **Beyond Fluency: A Human-Centered Evaluation Rubric for Grounding, Answerability, and Reliability in LLM Outputs** — DOI: 10.5281/zenodo.19103405  
   Paper page: [papers/beyond-fluency](./papers/beyond-fluency/README.md)
 
-- **Insight Without Sovereignty: A Control-Theoretic Formalization of Intrusion (I)** — DOI: 10.5281/zenodo.19140160 
+- **Insight Without Sovereignty: A Control-Theoretic Formalization of Intrusion (I)** — DOI: 10.5281/zenodo.19140160  
   Paper page: [papers/insight-without-sovereignty](./papers/insight-without-sovereignty/README.md)
+
+- **Intrusion as Parasitic Control: A Structural Intelligence Bridge Between Psyche, Organisms, and AI** — DOI: 10.5281/zenodo.19146321  
+  Paper page: [papers/intrusion-parasitic-control](./papers/intrusion-parasitic-control/README.md)
+
+- **Structural Intelligence Completion: Intrusion, Structural Debt, Anchoring, Somatic Capacity, Exit Architecture, Viscosity, and Frictional Design Under Cheap Coherence** — DOI: 10.5281/zenodo.19203567  
+  Paper page: [papers/structural-intelligence-completion](./papers/structural-intelligence-completion/README.md)
+
+- **The Architecture of Structural Intelligence (SI): A Unified Completion of Presence, Debt, and Occupancy Dynamics** — DOI: 10.5281/zenodo.19203732  
+  Paper page: [papers/architecture-of-structural-intelligence](./papers/architecture-of-structural-intelligence/README.md)
+
+- **The Drift Ratio: Coherence, Contact, and Answerability in Structural Intelligence** — DOI: 10.5281/zenodo.19221270  
+  Paper page: [papers/drift-ratio](./papers/drift-ratio/README.md)
+
+- **Technology Under Structural Intelligence: From Plato’s Republic to the AI Era: Why Technology Becomes Either an Engine of Capture or an Aid to Answerability** — DOI: 10.5281/zenodo.19258029  
+  Paper page: [papers/technology-under-structural-intelligence](./papers/technology-under-structural-intelligence/README.md)
+
+- **Beyond Structural Intelligence: Toward a Philosophy of Structure** — DOI: 10.5281/zenodo.19262201  
+  Paper page: [papers/beyond-structural-intelligence](./papers/beyond-structural-intelligence/README.md)
+
+- **What Answerability Feels Like Under Pressure: An Experiential Companion to Structural Intelligence** — DOI: 10.5281/zenodo.19311706  
+  Paper page: [papers/what-answerability-feels-like](./papers/what-answerability-feels-like/README.md)
+
+- **The Felt Difference Between Coherence and Contact: An Experiential Companion to Structural Intelligence** — DOI: 10.5281/zenodo.19311940  
+  Paper page: [papers/felt-difference-coherence-contact](./papers/felt-difference-coherence-contact/README.md)
+
+- **The Expressions of Structure: Dominance and the Forms Local Structuration Takes** — DOI: 10.5281/zenodo.19312123  
+  Paper page: [papers/expressions-of-structure](./papers/expressions-of-structure/README.md)
+
+- **Why Structure Appears: Viability, Dissipation, and the Cost of Holding** — DOI: 10.5281/zenodo.19331769  
+  Paper page: [papers/why-structure-appears](./papers/why-structure-appears/README.md)
+
+- **The Metabolism of Structure: Collapse, Grief, and Reorganization** — DOI: 10.5281/zenodo.19332058  
+  Paper page: [papers/metabolism-of-structure](./papers/metabolism-of-structure/README.md)
+
+- **Structure, Field, and Local Structuration: Toward a More Exact Philosophy of Structure** — DOI: 10.5281/zenodo.19332618  
+  Paper page: [papers/structure-field-local-structuration](./papers/structure-field-local-structuration/README.md)
+
+- **Structure as Lived Movement: An Experiential Companion to the Philosophy of Structure** — DOI: 10.5281/zenodo.19351525  
+  Paper page: [papers/structure-lived-movement](./papers/structure-lived-movement/README.md)
+
+- **Chaos and Local Structuration: Why Fields Exceed the Formations That Try to Hold Them** — DOI: 10.5281/zenodo.19351737  
+  Paper page: [papers/chaos-local-structuration](./papers/chaos-local-structuration/README.md)
+
+- **Projection, Structure, and Awakening: On the Human Legibility of Reality** — DOI: 10.5281/zenodo.19352276  
+  Paper page: [papers/projection-structure-awakening](./papers/projection-structure-awakening/README.md)
