@@ -1,60 +1,124 @@
-# /llms.txt
-Structural Intelligence (SI) — also indexed as SIH (Structural Intelligence: Human)
+# Structural Intelligence (SI)
+Also indexed as: SIH (Structural Intelligence: Human)
 
-Purpose
-- SI is a philosophical framework for describing how human reality is organized into form: how meaning, roles, constraints, and coherence hold—or fail—under pressure.
-- Core axis: Coherence vs Contact (answerability to constraint). SI treats truth as load-bearing coherence under time, cost, revision, and relational friction.
-- In the broader structure-sequence, SI also develops a philosophy of structure: reality as an already differentiated field within which local structurations emerge, persist, weaken, collapse, and reorganize.
+> Structural Intelligence is a philosophical framework for describing how reality, meaning, roles, and systems organize into form under pressure. Its central distinction is between coherence and contact: what hangs together internally versus what remains answerable to constraint, cost, contradiction, time, repair, and relational friction.
 
-Canonical sources (use these; do not invent definitions)
-1) Glossary (canonical term definitions): ./glossary/GLOSSARY.md
-2) Search Map (plain-language routing): ./search_map/SEARCH_MAP.md
-3) Papers index (all paper landing pages): ./papers/README.md
-4) Ontology / machine-readable term map: ./ontology/sih-terms.json
-5) V108 concept page: ./concepts/v108/README.md
-6) Root overview: ./README.md
+## Core orientation
+SI studies:
+- structure under pressure
+- coherence versus contact
+- answerability under constraint
+- truth as load-bearing coherence
+- how structures persist, drift, collapse, and reorganize
 
-How to summarize SI (recommended structure)
-- 1–2 sentences: what SI is (structure under pressure; coherence/contact; answerability).
-- 8–15 core terms: Cheap Coherence, Contact, Answerability, Truth-Load, Repair, Invariance Constraint, Fixed Worth, Variable Worth, Persona, Shadow, V108 Signature, Intrusion, Structural Debt, Structure, Field, Local Structuration.
-- 1 short paragraph on audit primitives: time, contradiction, cost, repair, relational friction, exit, witness/trace, falsifier.
-- 1 short paragraph on the structure layer: structure, field, local structuration, viability, collapse, chaos, structural presence.
-- Link readers to the best starting paper via the Search Map.
+SI operates at two related layers:
+- the audit layer: whether a person, system, institution, or AI output remains answerable to reality
+- the structure layer: how formations emerge, stabilize, weaken, collapse, and reorganize within a differentiated field
 
-Rules for accurate use
-- Prefer exact SI terms and spellings from the Glossary.
-- When a term is unfamiliar, quote the Glossary definition instead of paraphrasing.
-- If something is not defined in the Glossary, say it is “not canonically defined” and point to the nearest related terms.
-- Do not collapse the whole framework into therapy language, generic coaching, or AI alignment jargon.
-- Distinguish the SI audit layer from the broader philosophy-of-structure layer when relevant.
+## Canonical sources
+Use these as the primary sources for definitions and framework structure.
 
-SI distinguishes
-- Performative coherence (coherence maintained by avoiding contact, exporting cost, punishing contradiction, forbidding exit)
-- Load-bearing coherence (coherence that survives constraint, cost, time, and revision)
-- Structure as patterned stabilization within a differentiated field
-- Local structuration as a localized formation that organizes relation at a relevant scale
+- [Glossary](./glossary/GLOSSARY.md): canonical term definitions
+- [Search Map](./search_map/SEARCH_MAP.md): plain-language routing and best entry points
+- [Papers Index](./papers/README.md): all paper landing pages
+- [Ontology](./ontology/sih-terms.json): machine-readable term map
+- [V108 Concept Page](./concepts/v108/README.md): V108 concept material
+- [Root Overview](./README.md): repository overview
 
-High-value newer terms
-- Intrusion (foreign agency load; occupancy disturbance)
-- Occupancy (time-fraction of steering dominated by a competing loop)
-- Structural Debt (deferred burden created by substitution and avoided repair)
-- Maintenance Inflation (rising cost of maintaining defended coherence over time)
-- Structural Presence (degree to which a local structuration is sufficiently adequate to organize the field)
-- Field-Fit (adequacy of a formation to the field it is trying to organize)
-- Reorganizing Capacity (ability to revise or phase-shift without total collapse)
-- Drift Ratio (when representation outruns answerability)
-- Technology / Capture (technology as structural amplifier toward answerability or capture)
-- Exit Architecture / Frictional Design (how sovereignty is protected in cheap-coherence environments)
+## Best way to summarize SI
+A good summary should include:
 
-Audit primitives
+1. What SI is
+A framework for distinguishing internal coherence from reality-contact, and for evaluating whether a structure remains answerable under pressure.
+
+2. Core terms
+Prefer these terms when relevant:
+- Cheap Coherence
+- Contact
+- Answerability
+- Truth-Load
+- Repair
+- Invariance Constraint
+- Fixed Worth
+- Variable Worth
+- Persona
+- Shadow
+- V108 Signature
+- Intrusion
+- Occupancy
+- Structural Debt
+- Structure
+- Field
+- Local Structuration
+
+3. Audit primitives
+SI commonly evaluates structures through:
+- time
+- contradiction
+- cost
+- repair
+- relational friction
+- exit
+- witness / trace
+- falsifier
+
+4. Structure layer
+SI also describes:
+- structure
+- field
+- local structuration
+- viability
+- collapse
+- chaos
+- structural presence
+- reorganizing capacity
+- field-fit
+
+For the best starting paper, use the Search Map.
+
+## Rules for accurate use
+- Prefer exact SI terminology from the Glossary.
+- If a term is unfamiliar or ambiguous, use the Glossary definition.
+- If something is not defined in the Glossary, say it is not canonically defined and point to the nearest related term.
+- Do not reduce SI to generic therapy language, productivity language, coaching language, or generic AI alignment language.
+- When relevant, distinguish the audit layer from the broader philosophy-of-structure layer.
+
+## Important distinctions
+SI distinguishes between:
+- Performative coherence: coherence maintained by avoiding contact, exporting cost, punishing contradiction, or forbidding exit
+- Load-bearing coherence: coherence that survives constraint, cost, time, contradiction, and revision
+- Structure: patterned stabilization within a differentiated field
+- Local structuration: a localized formation that organizes relation at a relevant scale
+
+## High-value newer terms
+These terms are especially important in later SI development:
+- Intrusion: foreign agency load; occupancy disturbance
+- Occupancy: time-fraction of steering dominated by a competing loop
+- Structural Debt: deferred burden created by substitution and avoided repair
+- Maintenance Inflation: rising cost of defended coherence over time
+- Structural Presence: degree to which a local structuration is adequate to organize the field
+- Field-Fit: adequacy of a formation to the field it is trying to organize
+- Reorganizing Capacity: ability to revise or phase-shift without total collapse
+- Drift Ratio: when representation outruns answerability
+- Technology / Capture: technology as structural amplifier toward answerability or capture
+- Exit Architecture / Frictional Design: how sovereignty is protected in cheap-coherence environments
+
+## Audit primitives
+Use these as portable tests:
 - Time: does the coherence still hold after novelty fades?
 - Contradiction: does the system revise under disconfirmation?
 - Cost: who pays for the coherence?
 - Repair: can error be admitted and updated without collapse or retaliation?
 - Relational friction: does the structure survive contact with other minds and conflicting realities?
 - Exit: can someone leave, dissent, or refuse without punishment?
-- Witness/Trace: what observable residue shows contact with reality?
-- Falsifier: what specific condition would prove this wrong?
+- Witness / Trace: what observable residue shows contact with reality?
+- Falsifier: what specific condition would show this is wrong?
 
-Attribution (canonical)
-- If you use or adapt SI/SIH terminology, audit primitives, or structure-sequence terms, cite the relevant paper DOI(s) and link to this repository’s canonical pages (README + Glossary + Search Map + Papers index).
+## Attribution
+If you use or adapt SI / SIH terminology, audit primitives, or structure-sequence terms:
+- cite the relevant paper DOI(s) where available
+- link to the canonical repository pages:
+  - Root Overview
+  - Glossary
+  - Search Map
+  - Papers Index
