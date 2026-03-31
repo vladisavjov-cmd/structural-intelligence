@@ -455,3 +455,177 @@ Effective cockpit access under intrusion load; pilot availability after intrusio
 **Aliases:** effective pilot access; effective interrupt authority  
 **Opposites / failure mode:** cockpit occlusion; ω collapse  
 **See also:** Cockpit / Pilot (ω); Intrusion (I); Latency; Actorhood
+
+## Structure
+The patterned stabilization of relation within an already differentiated field. Structure is not mere rigidity or visible arrangement; it is the way relation persists, organizes, breaks, and reforms under pressure.  
+**Aliases:** patterned stabilization; relational structure; organized relation  
+**Opposites / failure mode:** blank-form fantasy; mere arrangement; incoherent drift  
+**See also:** Field; Local Structuration; Structural Presence; Stabilization
+
+## Field
+The already differentiated relational whole within which local formations emerge, persist, compete, and fail. The field is never blank; it contains gradients, asymmetries, limits, and unequal potentials before any one local structuration appears.  
+**Aliases:** differentiated whole; relational field; structured field  
+**Opposites / failure mode:** blank-space ontology; empty substrate; unstructured void  
+**See also:** Structure; Local Structuration; Field-Fit; Gradient Load
+
+## Local Structuration
+A localized stabilization within the field: a role, bond, institution, habit, narrative, interface, or formation that organizes relation strongly enough to persist at a relevant scale.  
+**Aliases:** local formation; local holding; localized stabilization  
+**Opposites / failure mode:** totalized structure; undifferentiated field; weak drift  
+**See also:** Structure; Field; Structural Presence; Dominance; Scale
+
+## Stabilization
+The ongoing organization of relation such that it holds, persists, and remains locally intelligible. Stabilization does not mean stillness; it includes adaptation, repair, and phase change.  
+**Aliases:** holding; persistence; organized continuity  
+**Opposites / failure mode:** dissipation; diffusion; structural thinning  
+**See also:** Structure; Local Structuration; Viability; Reorganizing Capacity
+
+## Structural Presence
+The degree to which a local structuration is sufficiently actual, distinct, viable, adaptive, and field-adequate to organize the field at the relevant scale. A structure can exist while having weak structural presence.  
+**Aliases:** dynamic adequacy; organizing presence; local adequacy  
+**Opposites / failure mode:** performative presence; thinning presence; compensatory structure  
+**See also:** Local Structuration; Boundary Integrity; Field-Fit; Viability; Threshold
+
+## Viability
+The capacity of a local structuration to persist under actual burden, time, and field conditions. Viability selects which formations continue; it does not create structure from nothing.  
+**Aliases:** persistence capacity; survivability; real continuation  
+**Opposites / failure mode:** nonviability; temporary appearance; collapse under load  
+**See also:** Dissipation; Structural Presence; Field-Fit; Reorganizing Capacity
+
+## Dissipation
+The practical baseline in which weakly coupled relation diffuses, loosens, or fails to become strong local holding. Dissipation is what happens when binding is too weak or unnecessary for local persistence.  
+**Aliases:** diffusion; weak coupling loss; structural loosening  
+**Opposites / failure mode:** stabilization; local holding; viable structuration  
+**See also:** Viability; Structure; Local Structuration; Drift
+
+## Dominance
+The degree to which one local structuration or one expression of structure organizes the relevant field more strongly than competing formations. Dominance does not mean purity; it means governing primacy.  
+**Aliases:** governing share; local primacy; organizing lead  
+**Opposites / failure mode:** fragmentation; competing structurations; no local synthesis  
+**See also:** Local Structuration; Structural Presence; Occupancy (λ_t); Fragmentation
+
+## Boundary Integrity
+The degree to which a local structuration is sufficiently differentiated to count as this formation rather than an undifferentiated part of the wider field. Boundaries can be porous and dynamic without dissolving entirely.  
+**Aliases:** local distinction; structural boundary; differentiation strength  
+**Opposites / failure mode:** diffusion; blur; rigid sealing  
+**See also:** Local Structuration; Structural Presence; Field-Fit; Reorganizing Capacity
+
+## Scale
+The level at which a local structuration is being assessed for adequacy, viability, burden-bearing, and dominance. A formation can be viable at one scale and chaotic at another.  
+**Aliases:** level of assessment; structural level; relevance scale  
+**Opposites / failure mode:** scale-blind reading; abstract judgment; false universality  
+**See also:** Threshold; Structural Presence; Chaos; Local Structuration
+
+## Threshold
+The point at which quantitative strain becomes qualitative structural transformation. Beyond threshold, a formation no longer merely weakens; it phase-shifts, fragments, collapses, or reorganizes.  
+**Aliases:** phase-change point; breaking point; structural transition  
+**Opposites / failure mode:** under-threshold strain; reversible tension; temporary load  
+**See also:** Scale; Structural Presence; Collapse; Reorganizing Capacity
+
+## Field-Fit
+The adequacy of a structuration to the actual field it is trying to organize. A formation may be coherent internally yet dynamically weak because it misfits reality.  
+**Aliases:** reality fit; adequacy to conditions; structural fit  
+**Opposites / failure mode:** misfit; compensatory maintenance; repeated crisis  
+**See also:** Contact; Structural Presence; Viability; Reorganizing Capacity
+
+## Reorganizing Capacity
+The ability of a local structuration to revise, rebind, or phase-shift without total annihilation. Reorganizing capacity is what lets holding change when the field changes.  
+**Aliases:** adaptive revision capacity; phase-shift ability; restructurability  
+**Opposites / failure mode:** rigidity; frozen coherence; collapse under perturbation  
+**See also:** Repair; Threshold; Field-Fit; Structural Presence
+
+## Structural Debt
+The accumulated unresolved burden created when a system continues through substitution, patching, deferred repair, or exported cost instead of deeper reorganization. Structural debt finances metastability but raises future collapse risk.  
+**Aliases:** deferred structural bill; unresolved burden; compensatory debt  
+**Opposites / failure mode:** owned repair; debt repayment; simplification through revision  
+**See also:** Maintenance Inflation; Collapse; Exported Maintenance; Shadow Debt
+
+## Fragmentation
+Multiplicity without sufficient local synthesis: competing relations or formations remain active enough to interfere but not integrated enough to produce coherent local dominance.  
+**Aliases:** unsynthesized multiplicity; structural overcrowding; competing relation  
+**Opposites / failure mode:** integration; local dominance; viable synthesis  
+**See also:** Dominance; Chaos; Structural Presence; Noise
+
+## Stabilization Lag
+The delay between field change and structural re-fit. A formation may remain visible after it has ceased to be timely, preserving apparent continuity while becoming dynamically weak.  
+**Aliases:** lag; delayed re-fit; structural lateness  
+**Opposites / failure mode:** timely adaptation; low-lag revision; responsive fit  
+**See also:** Field-Fit; Threshold; Structural Presence; Reorganizing Capacity
+
+## Gradient Load
+The pressure differential between field and form that a structuration must metabolize in order to remain adequate. Not all burden is equal; some pressure arrives as steep mismatch.  
+**Aliases:** pressure gradient; mismatch intensity; differential load  
+**Opposites / failure mode:** low gradient; manageable burden; smooth coupling  
+**See also:** Field; Structural Presence; Scale; Somatic Capacity
+
+## Relational Anchoring
+The degree to which a local structuration is stabilized by wider, deeper, or older supporting relations beyond its own immediate coherence. A formation can appear strong while borrowing its stability.  
+**Aliases:** borrowed stability; host support; deeper coupling  
+**Opposites / failure mode:** drift; unanchored structure; false autonomy  
+**See also:** Structural Presence; Fixed Worth; Bedrock; Local Structuration
+
+## Somatic Capacity
+The biological bandwidth available to metabolize contact while keeping pilot access online. When contact exceeds somatic capacity, substitution spikes and debt forms automatically.  
+**Aliases:** bodily capacity; metabolic bandwidth; contact-processing capacity  
+**Opposites / failure mode:** overload; pilot loss; activation collapse  
+**See also:** Contact; Containment; Intrusion (I); Structural Debt; Collapse
+
+## Exit Architecture
+Structural decoupling from reward channels or environments that punish truth and reward theater. Exit architecture is what makes sovereignty survivable inside hostile systems.  
+**Aliases:** decoupling capacity; sovereignty exit; escape structure  
+**Opposites / failure mode:** trapped optimization; total exposure to reward-pressure; no-exit system  
+**See also:** Sovereignty; Reward-pressure; Grid; Frictional Design
+
+## Network Viscosity
+The resistance of an environment to the rapid spread of ungrounded narrative or cheap coherence. High viscosity slows unearned certainty; low viscosity lets theater propagate cheaply.  
+**Aliases:** narrative resistance; propagation drag; epistemic friction  
+**Opposites / failure mode:** low-viscosity spread; virality of theater; frictionless propaganda  
+**See also:** Hallucination Regime; Epistemic Exchange Rate; Standardization; Frictional Design
+
+## Epistemic Exchange Rate
+The comparative cost of generating plausible coherence relative to the cost of verifying in contact. When coherence is cheap and verification is expensive, drift and theater dominate.  
+**Aliases:** coherence/verification cost ratio; truth affordability ratio; verification disadvantage  
+**Opposites / failure mode:** cheap verification; contact-favorable environment; low drift economy  
+**See also:** Cheap Coherence; Network Viscosity; Drift Ratio; Hallucination Regime
+
+## Frictional Design
+Interface or system design that intentionally adds epistemic cost where cheap coherence would otherwise dominate, restoring pilot access and improving answerability.  
+**Aliases:** synthetic viscosity; anti-theater interface; answerability-oriented design  
+**Opposites / failure mode:** frictionless persuasion; personality trap by design; coherence-on-demand  
+**See also:** Exit Architecture; Network Viscosity; Answerability; Structural Audit
+
+## Drift Ratio
+A diagnostic ratio tracking when representation outruns answerability. Drift rises when performance, actor inflation, and delay increase faster than contact, revision, load survival, and consequence internalization.  
+**Aliases:** representation/answerability ratio; drift metric; coherence overrun ratio  
+**Opposites / failure mode:** low-drift structure; grounded representation; load-bearing articulation  
+**See also:** Coherence-Contact Gap; Answerability; Coherence-Theater; Epistemic Exchange Rate
+
+## Capture
+A condition where a system, platform, or technology reorganizes agency around reward, control, and proxy signals rather than answerability. Capture turns technology into a steering machine rather than an aid to revision.  
+**Aliases:** system capture; proxy capture; steering capture  
+**Opposites / failure mode:** answerability aid; tool under sovereignty; contact-supporting design  
+**See also:** Technology; Reward-pressure; Grid; Personality Trap; Exit Architecture
+
+## Technology
+A structural amplifier that scales the governing answerability or drift of the system into which it is inserted. Technology is not neutral in effect: it redistributes visibility, correction, refusal, and cost.  
+**Aliases:** structural amplifier; scaling interface; epistemic machinery  
+**Opposites / failure mode:** naive neutrality; technology as mere tool; innovation worship  
+**See also:** Capture; Answerability; Grid; Frictional Design; Standardization
+
+## Awakening
+The inward reclaiming of hidden structure so that what was previously scattered into projection becomes increasingly visible, ownable, and revisable within the self.  
+**Aliases:** structural return; inward legibility; reclaimed seeing  
+**Opposites / failure mode:** projection-lock; dreaming in displacement; mislocated recognition  
+**See also:** Projection; Shadow; Presence; Repair; Integration
+
+## Legibility
+The degree to which structure becomes visible, readable, and usable from within a person, system, or field. Legibility can serve truth or capture depending on whether it remains tethered to contact.  
+**Aliases:** readability; structural visibility; intelligible form  
+**Opposites / failure mode:** opacity; illegibility; legibility without truth  
+**See also:** Structure; Projection; Standardization; Technology; Structural Intelligence (SI)
+
+## Peace
+Not mere stability, but stable presence with reduced inner war. Peace is the condition in which less energy is spent on projection, denial, and compensatory distortion in order to remain organized.  
+**Aliases:** integrated presence; reduced inner war; stabilized reconciliation  
+**Opposites / failure mode:** frozen defense; false calm; stability by denial  
+**See also:** Presence; Shadow; Awakening; Repair; Containment
