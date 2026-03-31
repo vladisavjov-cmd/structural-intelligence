@@ -151,3 +151,115 @@ Each paper has its own folder with a README (abstract + keywords + links) and a 
 **Keywords:** structural intelligence; intrusion; foreign agency load; control theory; agency; metacontrol; presence; answerability; coherence; contact; binding; betrayal; trauma; projection; epistemic integrity; spiritual intelligence; orientation; inflation  
 **Link:** [Read the paper page](./insight-without-sovereignty/README.md)  
 **DOI:** 10.5281/zenodo.19140160
+
+### Architecture of the “No”: Structural Intelligence (SI) as the Organization of Form Under Pressure
+**Folder:** `architecture-of-the-no/`  
+**Status:** preprint  
+**Keywords:** structural intelligence; agency; sovereignty; cheap coherence; reality-contact; presence; answerability; constraint; revision; falsifiers; binding  
+**Link:** [Read the paper page](./architecture-of-the-no/README.md)  
+**DOI:** 10.5281/zenodo.19018987
+
+### Beyond Structural Intelligence: Toward a Philosophy of Structure
+**Folder:** `beyond-structural-intelligence/`  
+**Status:** preprint  
+**Keywords:** structure; structural intelligence; field; local structuration; coherence; truth; patterned relation; institutions; philosophy of technology; social epistemology; repair; emergence  
+**Link:** [Read the paper page](./beyond-structural-intelligence/README.md)  
+**DOI:** 10.5281/zenodo.19262201
+
+### Chaos and Local Structuration: Why Fields Exceed the Formations That Try to Hold Them
+**Folder:** `chaos-local-structuration/`  
+**Status:** preprint  
+**Keywords:** chaos; structure; local structuration; field; dominance; viability; structural presence; collapse; fragmentation; repair; philosophy of structure  
+**Link:** [Read the paper page](./chaos-local-structuration/README.md)  
+**DOI:** 10.5281/zenodo.19351737
+
+### The Drift Ratio: Coherence, Contact, and Answerability in Structural Intelligence
+**Folder:** `drift-ratio/`  
+**Status:** preprint  
+**Keywords:** structural intelligence; drift ratio; coherence; contact; answerability; representation; epistemic integrity; formal epistemology; social epistemology; philosophy of artificial intelligence; organizational failure  
+**Link:** [Read the paper page](./drift-ratio/README.md)  
+**DOI:** 10.5281/zenodo.19221270
+
+### The Expressions of Structure: Dominance and the Forms Local Structuration Takes
+**Folder:** `expressions-of-structure/`  
+**Status:** preprint  
+**Keywords:** structure; structural intelligence; dominance; local structuration; structural debt; repair; coherence; institutions; technology; integration; compensation; decay; emergence  
+**Link:** [Read the paper page](./expressions-of-structure/README.md)  
+**DOI:** 10.5281/zenodo.19312123
+
+### The Felt Difference Between Coherence and Contact: An Experiential Companion to Structural Intelligence
+**Folder:** `felt-difference-coherence-contact/`  
+**Status:** preprint  
+**Keywords:** coherence; contact; structural intelligence; experience; answerability; pressure; reality; phenomenology; truth; repair  
+**Link:** [Read the paper page](./felt-difference-coherence-contact/README.md)  
+**DOI:** 10.5281/zenodo.19311940
+
+### Intrusion as Parasitic Control: A Structural Intelligence Bridge Between Psyche, Organisms, and AI
+**Folder:** `intrusion-parasitic-control/`  
+**Status:** preprint  
+**Keywords:** structural intelligence; intrusion; parasitic control; foreign agency load; occupancy; control theory; cybernetics; coherence vs contact; cheap coherence; answerability; binding; invariance constraints; reward hacking; AI alignment; systems theory  
+**Link:** [Read the paper page](./intrusion-parasitic-control/README.md)  
+**DOI:** 10.5281/zenodo.19146321
+
+### The Metabolism of Structure: Collapse, Grief, and Reorganization
+**Folder:** `metabolism-of-structure/`  
+**Status:** preprint  
+**Keywords:** structure; collapse; grief; reorganization; fixed worth; invariance; local structuration; transformation; repair; over-coupling; burden; metabolism  
+**Link:** [Read the paper page](./metabolism-of-structure/README.md)  
+**DOI:** 10.5281/zenodo.19332058
+
+### Projection, Structure, and Awakening: On the Human Legibility of Reality
+**Folder:** `projection-structure-awakening/`  
+**Status:** preprint  
+**Keywords:** projection; structure; awakening; Jung; shadow; individuation; structural intelligence; legibility; integration; presence; reality; self-disclosure  
+**Link:** [Read the paper page](./projection-structure-awakening/README.md)  
+**DOI:** 10.5281/zenodo.19352276
+
+### Structural Intelligence Completion: Intrusion, Structural Debt, Anchoring, Somatic Capacity, Exit Architecture, Viscosity, and Frictional Design Under Cheap Coherence
+**Folder:** `structural-intelligence-completion/`  
+**Status:** preprint  
+**Keywords:** structural intelligence; answerability; cheap coherence; presence; contact; binding; intrusion; occupancy; structural debt; fixed worth; relational anchoring; somatic capacity; exit architecture; viscosity; epistemic exchange rate; AI ethics; grounding; reliability; control theory; frictional design  
+**Link:** [Read the paper page](./structural-intelligence-completion/README.md)  
+**DOI:** 10.5281/zenodo.19203567
+
+### Structure, Field, and Local Structuration: Toward a More Exact Philosophy of Structure
+**Folder:** `structure-field-local-structuration/`  
+**Status:** preprint  
+**Keywords:** structure; field; local structuration; viability; load; dominance; scale; chaos; stabilization; philosophy of structure; ontology; truth-load  
+**Link:** [Read the paper page](./structure-field-local-structuration/README.md)  
+**DOI:** 10.5281/zenodo.19332618
+
+### Structure as Lived Movement: An Experiential Companion to the Philosophy of Structure
+**Folder:** `structure-lived-movement/`  
+**Status:** preprint  
+**Keywords:** structure; experience; movement; stabilization; collapse; emergence; field; lived philosophy; orientation; grief; flow; reality  
+**Link:** [Read the paper page](./structure-lived-movement/README.md)  
+**DOI:** 10.5281/zenodo.19351525
+
+### Technology Under Structural Intelligence: From Plato’s Republic to the AI Era: Why Technology Becomes Either an Engine of Capture or an Aid to Answerability
+**Folder:** `technology-under-structural-intelligence/`  
+**Status:** preprint  
+**Keywords:** technology; structural intelligence; answerability; cheap coherence; reality-contact; AI; platforms; governance; capture; epistemology; corrigibility; consequence  
+**Link:** [Read the paper page](./technology-under-structural-intelligence/README.md)  
+**DOI:** 10.5281/zenodo.19258029
+
+### The Architecture of Structural Intelligence (SI): A Unified Completion of Presence, Debt, and Occupancy Dynamics
+**Folder:** `architecture-of-structural-intelligence/`  
+**Status:** preprint  
+**Keywords:** structural intelligence; answerability; cheap coherence; presence; contact; intrusion; occupancy; structural debt; somatic capacity; network viscosity; epistemic exchange rate; frictional design; AI ethics; control theory  
+**Link:** [Read the paper page](./architecture-of-structural-intelligence/README.md)  
+**DOI:** 10.5281/zenodo.19203732
+
+### What Answerability Feels Like Under Pressure: An Experiential Companion to Structural Intelligence
+**Folder:** `what-answerability-feels-like/`  
+**Status:** preprint  
+**Keywords:** answerability; structural intelligence; pressure; revision; repair; contact; consequence; containment; phenomenology; coherence; correction  
+**Link:** [Read the paper page](./what-answerability-feels-like/README.md)  
+**DOI:** 10.5281/zenodo.19311706
+
+### Why Structure Appears: Viability, Dissipation, and the Cost of Holding
+**Folder:** `why-structure-appears/`  
+**Status:** preprint  
+**Keywords:** structure; local structuration; viability; dissipation; repair; emergence; structural intelligence; patterned relation; burden; cost; persistence  
+**Link:** [Read the paper page](./why-structure-appears/README.md)  
+**DOI:** 10.5281/zenodo.19331769
