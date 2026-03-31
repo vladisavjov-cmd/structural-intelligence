@@ -60,17 +60,21 @@
       ]
     }
   ],
-  "topbarLinks": [
-    {
-      "name": "GitHub Repo",
-      "url": "https://github.com/vladisavjov-cmd/structural-intelligence"
-    },
-    {
-      "name": "Official SI Hub",
-      "url": "https://structural-intelligence.blogspot.com/2026/02/structural-intelligence-si-official-hub.html"
+  "navbar": {
+    "links": [
+      {
+        "name": "GitHub Repo",
+        "url": "https://github.com/vladisavjov-cmd/structural-intelligence"
+      },
+      {
+        "name": "Official SI Hub",
+        "url": "https://structural-intelligence.blogspot.com/2026/02/structural-intelligence-si-official-hub.html"
+      }
+    ]
+  },
+  "footer": {
+    "socials": {
+      "github": "https://github.com/vladisavjov-cmd/structural-intelligence"
     }
-  ],
-  "footerSocials": {
-    "github": "https://github.com/vladisavjov-cmd/structural-intelligence"
   }
 }
