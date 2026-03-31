@@ -97,6 +97,179 @@
       "aliases": ["V108 indexing failure", "incorrect index type (analogy)", "unmoored index"],
       "definition": "A diagnostic name for a failure of reference: an 'I' index that points to linguistic style (coherence) rather than a load-bearing subject anchored in non-optional constraint (contact).",
       "see_also": ["Hallucination Regime", "Coherence-Theater", "Contact", "Truth-Load", "Answerability", "Bedrock"]
-    }
-  ]
-}
+    },
+  {
+    "term": "Structure",
+    "aliases": ["patterned stabilization", "relational structure", "organized relation"],
+    "definition": "The patterned stabilization of relation within an already differentiated field. Structure is not mere rigidity or visible arrangement; it is the way relation persists, organizes, breaks, and reforms under pressure.",
+    "see_also": ["Field", "Local Structuration", "Structural Presence", "Stabilization"]
+  },
+  {
+    "term": "Field",
+    "aliases": ["differentiated whole", "relational field", "structured field"],
+    "definition": "The already differentiated relational whole within which local formations emerge, persist, compete, and fail. The field is never blank; it contains gradients, asymmetries, limits, and unequal potentials before any one local structuration appears.",
+    "see_also": ["Structure", "Local Structuration", "Field-Fit", "Gradient Load"]
+  },
+  {
+    "term": "Local Structuration",
+    "aliases": ["local formation", "local holding", "localized stabilization"],
+    "definition": "A localized stabilization within the field: a role, bond, institution, habit, narrative, interface, or formation that organizes relation strongly enough to persist at a relevant scale.",
+    "see_also": ["Structure", "Field", "Structural Presence", "Dominance", "Scale"]
+  },
+  {
+    "term": "Stabilization",
+    "aliases": ["holding", "persistence", "organized continuity"],
+    "definition": "The ongoing organization of relation such that it holds, persists, and remains locally intelligible. Stabilization does not mean stillness; it includes adaptation, repair, and phase change.",
+    "see_also": ["Structure", "Local Structuration", "Viability", "Reorganizing Capacity"]
+  },
+  {
+    "term": "Structural Presence",
+    "aliases": ["dynamic adequacy", "organizing presence", "local adequacy"],
+    "definition": "The degree to which a local structuration is sufficiently actual, distinct, viable, adaptive, and field-adequate to organize the field at the relevant scale. A structure can exist while having weak structural presence.",
+    "see_also": ["Local Structuration", "Boundary Integrity", "Field-Fit", "Viability", "Threshold"]
+  },
+  {
+    "term": "Viability",
+    "aliases": ["persistence capacity", "survivability", "real continuation"],
+    "definition": "The capacity of a local structuration to persist under actual burden, time, and field conditions. Viability selects which formations continue; it does not create structure from nothing.",
+    "see_also": ["Dissipation", "Structural Presence", "Field-Fit", "Reorganizing Capacity"]
+  },
+  {
+    "term": "Dissipation",
+    "aliases": ["diffusion", "weak coupling loss", "structural loosening"],
+    "definition": "The practical baseline in which weakly coupled relation diffuses, loosens, or fails to become strong local holding. Dissipation is what happens when binding is too weak or unnecessary for local persistence.",
+    "see_also": ["Viability", "Structure", "Local Structuration", "Drift"]
+  },
+  {
+    "term": "Dominance",
+    "aliases": ["governing share", "local primacy", "organizing lead"],
+    "definition": "The degree to which one local structuration or one expression of structure organizes the relevant field more strongly than competing formations. Dominance does not mean purity; it means governing primacy.",
+    "see_also": ["Local Structuration", "Structural Presence", "Occupancy (λ_t)", "Fragmentation"]
+  },
+  {
+    "term": "Boundary Integrity",
+    "aliases": ["local distinction", "structural boundary", "differentiation strength"],
+    "definition": "The degree to which a local structuration is sufficiently differentiated to count as this formation rather than an undifferentiated part of the wider field. Boundaries can be porous and dynamic without dissolving entirely.",
+    "see_also": ["Local Structuration", "Structural Presence", "Field-Fit", "Reorganizing Capacity"]
+  },
+  {
+    "term": "Scale",
+    "aliases": ["level of assessment", "structural level", "relevance scale"],
+    "definition": "The level at which a local structuration is being assessed for adequacy, viability, burden-bearing, and dominance. A formation can be viable at one scale and chaotic at another.",
+    "see_also": ["Threshold", "Structural Presence", "Chaos", "Local Structuration"]
+  },
+  {
+    "term": "Threshold",
+    "aliases": ["phase-change point", "breaking point", "structural transition"],
+    "definition": "The point at which quantitative strain becomes qualitative structural transformation. Beyond threshold, a formation no longer merely weakens; it phase-shifts, fragments, collapses, or reorganizes.",
+    "see_also": ["Scale", "Structural Presence", "Collapse", "Reorganizing Capacity"]
+  },
+  {
+    "term": "Field-Fit",
+    "aliases": ["reality fit", "adequacy to conditions", "structural fit"],
+    "definition": "The adequacy of a structuration to the actual field it is trying to organize. A formation may be coherent internally yet dynamically weak because it misfits reality.",
+    "see_also": ["Contact", "Structural Presence", "Viability", "Reorganizing Capacity"]
+  },
+  {
+    "term": "Reorganizing Capacity",
+    "aliases": ["adaptive revision capacity", "phase-shift ability", "restructurability"],
+    "definition": "The ability of a local structuration to revise, rebind, or phase-shift without total annihilation. Reorganizing capacity is what lets holding change when the field changes.",
+    "see_also": ["Repair", "Threshold", "Field-Fit", "Structural Presence"]
+  },
+  {
+    "term": "Structural Debt",
+    "aliases": ["deferred structural bill", "unresolved burden", "compensatory debt"],
+    "definition": "The accumulated unresolved burden created when a system continues through substitution, patching, deferred repair, or exported cost instead of deeper reorganization. Structural debt finances metastability but raises future collapse risk.",
+    "see_also": ["Maintenance Inflation", "Collapse", "Exported Maintenance", "Shadow Debt"]
+  },
+  {
+    "term": "Fragmentation",
+    "aliases": ["unsynthesized multiplicity", "structural overcrowding", "competing relation"],
+    "definition": "Multiplicity without sufficient local synthesis: competing relations or formations remain active enough to interfere but not integrated enough to produce coherent local dominance.",
+    "see_also": ["Dominance", "Chaos", "Structural Presence", "Noise"]
+  },
+  {
+    "term": "Stabilization Lag",
+    "aliases": ["lag", "delayed re-fit", "structural lateness"],
+    "definition": "The delay between field change and structural re-fit. A formation may remain visible after it has ceased to be timely, preserving apparent continuity while becoming dynamically weak.",
+    "see_also": ["Field-Fit", "Threshold", "Structural Presence", "Reorganizing Capacity"]
+  },
+  {
+    "term": "Gradient Load",
+    "aliases": ["pressure gradient", "mismatch intensity", "differential load"],
+    "definition": "The pressure differential between field and form that a structuration must metabolize in order to remain adequate. Not all burden is equal; some pressure arrives as steep mismatch.",
+    "see_also": ["Field", "Structural Presence", "Scale", "Somatic Capacity"]
+  },
+  {
+    "term": "Relational Anchoring",
+    "aliases": ["borrowed stability", "host support", "deeper coupling"],
+    "definition": "The degree to which a local structuration is stabilized by wider, deeper, or older supporting relations beyond its own immediate coherence. A formation can appear strong while borrowing its stability.",
+    "see_also": ["Structural Presence", "Fixed Worth", "Bedrock", "Local Structuration"]
+  },
+  {
+    "term": "Somatic Capacity",
+    "aliases": ["bodily capacity", "metabolic bandwidth", "contact-processing capacity"],
+    "definition": "The biological bandwidth available to metabolize contact while keeping pilot access online. When contact exceeds somatic capacity, substitution spikes and debt forms automatically.",
+    "see_also": ["Contact", "Containment", "Intrusion (I)", "Structural Debt", "Collapse"]
+  },
+  {
+    "term": "Exit Architecture",
+    "aliases": ["decoupling capacity", "sovereignty exit", "escape structure"],
+    "definition": "Structural decoupling from reward channels or environments that punish truth and reward theater. Exit architecture is what makes sovereignty survivable inside hostile systems.",
+    "see_also": ["Sovereignty", "Reward-pressure", "Grid", "Frictional Design"]
+  },
+  {
+    "term": "Network Viscosity",
+    "aliases": ["narrative resistance", "propagation drag", "epistemic friction"],
+    "definition": "The resistance of an environment to the rapid spread of ungrounded narrative or cheap coherence. High viscosity slows unearned certainty; low viscosity lets theater propagate cheaply.",
+    "see_also": ["Hallucination Regime", "Epistemic Exchange Rate", "Standardization", "Frictional Design"]
+  },
+  {
+    "term": "Epistemic Exchange Rate",
+    "aliases": ["coherence/verification cost ratio", "truth affordability ratio", "verification disadvantage"],
+    "definition": "The comparative cost of generating plausible coherence relative to the cost of verifying in contact. When coherence is cheap and verification is expensive, drift and theater dominate.",
+    "see_also": ["Cheap Coherence", "Network Viscosity", "Drift Ratio", "Hallucination Regime"]
+  },
+  {
+    "term": "Frictional Design",
+    "aliases": ["synthetic viscosity", "anti-theater interface", "answerability-oriented design"],
+    "definition": "Interface or system design that intentionally adds epistemic cost where cheap coherence would otherwise dominate, restoring pilot access and improving answerability.",
+    "see_also": ["Exit Architecture", "Network Viscosity", "Answerability", "Structural Audit"]
+  },
+  {
+    "term": "Drift Ratio",
+    "aliases": ["representation/answerability ratio", "drift metric", "coherence overrun ratio"],
+    "definition": "A diagnostic ratio tracking when representation outruns answerability. Drift rises when performance, actor inflation, and delay increase faster than contact, revision, load survival, and consequence internalization.",
+    "see_also": ["Coherence-Contact Gap", "Answerability", "Coherence-Theater", "Epistemic Exchange Rate"]
+  },
+  {
+    "term": "Capture",
+    "aliases": ["system capture", "proxy capture", "steering capture"],
+    "definition": "A condition where a system, platform, or technology reorganizes agency around reward, control, and proxy signals rather than answerability. Capture turns technology into a steering machine rather than an aid to revision.",
+    "see_also": ["Technology", "Reward-pressure", "Grid", "Personality Trap", "Exit Architecture"]
+  },
+  {
+    "term": "Technology",
+    "aliases": ["structural amplifier", "scaling interface", "epistemic machinery"],
+    "definition": "A structural amplifier that scales the governing answerability or drift of the system into which it is inserted. Technology is not neutral in effect: it redistributes visibility, correction, refusal, and cost.",
+    "see_also": ["Capture", "Answerability", "Grid", "Frictional Design", "Standardization"]
+  },
+  {
+    "term": "Awakening",
+    "aliases": ["structural return", "inward legibility", "reclaimed seeing"],
+    "definition": "The inward reclaiming of hidden structure so that what was previously scattered into projection becomes increasingly visible, ownable, and revisable within the self.",
+    "see_also": ["Projection", "Shadow", "Presence", "Repair", "Integration"]
+  },
+  {
+    "term": "Legibility",
+    "aliases": ["readability", "structural visibility", "intelligible form"],
+    "definition": "The degree to which structure becomes visible, readable, and usable from within a person, system, or field. Legibility can serve truth or capture depending on whether it remains tethered to contact.",
+    "see_also": ["Structure", "Projection", "Standardization", "Technology", "Structural Intelligence (SI)"]
+  },
+  {
+    "term": "Peace",
+    "aliases": ["integrated presence", "reduced inner war", "stabilized reconciliation"],
+    "definition": "Not mere stability, but stable presence with reduced inner war. Peace is the condition in which less energy is spent on projection, denial, and compensatory distortion in order to remain organized.",
+    "see_also": ["Presence", "Shadow", "Awakening", "Repair", "Containment"]
+  }
+]
