@@ -629,3 +629,81 @@ Not mere stability, but stable presence with reduced inner war. Peace is the con
 **Aliases:** integrated presence; reduced inner war; stabilized reconciliation  
 **Opposites / failure mode:** frozen defense; false calm; stability by denial  
 **See also:** Presence; Shadow; Awakening; Repair; Containment
+
+## Adequacy
+The degree to which a structure is actually sufficient for the burden, field, and scale it is trying to organize. Adequacy is not appearance or internal elegance; it is whether the formation can really hold.  
+**Aliases:** sufficiency; real fit; holding adequacy; structural sufficiency  
+**Opposites / failure mode:** inadequacy; performative fit; apparent structure; misfit  
+**See also:** Structural Presence; Field-Fit; Viability; Burden-Bearing; Scale
+
+## Pilot Severance
+A condition in which the pilot is no longer effectively coupled to steering, revision, or live contact. The structure may continue performing, but answerable control has been cut or thinned.  
+**Aliases:** cockpit severance; steering severance; pilot disconnection; metacontrol loss  
+**Opposites / failure mode:** pilot access; sovereign steering; live metacontrol  
+**See also:** Cockpit / Pilot (ω); ω_eff; Intrusion (I); Presence; Collapse
+
+## Collapse Survivability
+The degree to which a structure, person, or local structuration can endure collapse pressure without total annihilation, allowing some continuity, reorganization, or retained presence after breakdown.  
+**Aliases:** survival through collapse; post-collapse viability; breakdown survivability  
+**Opposites / failure mode:** terminal collapse; annihilating breakdown; non-survivable collapse  
+**See also:** Collapse; Reorganizing Capacity; Viability; Threshold; Metabolism of Structure
+
+## Structuration
+The process by which relation becomes locally stabilized into a formation that can persist, organize burden, and structure a field at a relevant scale. Structuration is not static arrangement but the ongoing emergence and holding of form.  
+**Aliases:** formation process; local stabilization; structure-formation; organized relation  
+**Opposites / failure mode:** dissipation; unheld relation; non-formation  
+**See also:** Structure; Local Structuration; Stabilization; Structural Dynamics
+
+## Structural Dynamics
+The patterned changes by which a structure persists, adapts, drifts, fragments, collapses, or reorganizes under changing burden and field conditions.  
+**Aliases:** dynamics of structure; structural movement; form under change  
+**Opposites / failure mode:** static formalism; frozen structure; changeless model  
+**See also:** Structuration; Reorganizing Capacity; Threshold; Collapse; Stabilization Lag
+
+## Mathematical Grammar of Structure
+A formal descriptive framework for expressing how structure holds, fails, reorganizes, and survives under pressure using explicit relational and adequacy conditions.  
+**Aliases:** formal grammar of structure; structural formalism; mathematical structure grammar  
+**Opposites / failure mode:** vague formalism; empty mathematization; symbolic precision without contact  
+**See also:** Adequacy; Pilot Severance; Collapse Survivability; Structural Dynamics; Field-Fit
+
+## Metabolism of Structure
+The process by which structure bears burden, breaks down, grieves, reorganizes, and continues through successive phases of holding and collapse. Structure has a metabolism when breakdown is treated as part of ongoing organization rather than as pure negation.  
+**Aliases:** structural metabolism; breakdown metabolism; organizational metabolism  
+**Opposites / failure mode:** static structure fantasy; collapse as pure end; non-metabolized breakdown  
+**See also:** Collapse; Grief; Reorganization; Burden; Collapse Survivability
+
+## Grief
+A metabolic interval in which a system continues under reality-pressure after a prior holding formation has collapsed and before a new one is fully formed. In this sense, grief is structural labor, not merely emotion.  
+**Aliases:** metabolic grief; collapse interval; burdened transition  
+**Opposites / failure mode:** bypassed grief; premature reclosure; collapse denial  
+**See also:** Metabolism of Structure; Collapse; Reorganization; Burden; Threshold
+
+## Reorganization
+The forming of a new or revised structuration after drift, collapse, or burden has made the prior formation nonviable. Reorganization is not mere recovery; it is a changed way of holding relation.  
+**Aliases:** restructuring; re-formation; reorganized holding; new stabilization  
+**Opposites / failure mode:** patching; restoration fantasy; frozen persistence  
+**See also:** Repair; Reorganizing Capacity; Collapse; Structuration; Metabolism of Structure
+
+## Burden
+The actual load, pressure, or relational demand a structure must carry in order to remain viable. Burden is what reveals whether a formation is merely present or actually adequate.  
+**Aliases:** load; carried pressure; structural demand; holding demand  
+**Opposites / failure mode:** load-blindness; burden denial; appearance without carrying  
+**See also:** Truth-Load; Gradient Load; Adequacy; Viability; Burden-Bearing
+
+## Burden-Bearing
+The capacity of a structure to actually carry the pressures, demands, and consequences assigned to it without immediate drift, collapse, or substitution.  
+**Aliases:** load-bearing capacity; carrying capacity; burden capacity  
+**Opposites / failure mode:** burden failure; non-carrying structure; performative holding  
+**See also:** Burden; Adequacy; Viability; Structural Presence; Collapse Survivability
+
+## Survivability
+The capacity of a structure or local formation to continue through hostile conditions, strain, or partial breakdown while retaining enough integrity for later repair or reorganization.  
+**Aliases:** survival capacity; persistence under strain; continuity capacity  
+**Opposites / failure mode:** non-survivability; annihilation; terminal failure  
+**See also:** Viability; Collapse Survivability; Reorganizing Capacity; Boundary Integrity
+
+## Phase Shift
+A qualitative transformation in the way a structure organizes relation once strain, burden, or mismatch crosses threshold. A phase shift is not mere weakening but a change in the mode of holding.  
+**Aliases:** structural phase change; mode shift; qualitative transition  
+**Opposites / failure mode:** reversible strain; superficial adjustment; no real transformation  
+**See also:** Threshold; Reorganization; Collapse; Structural Dynamics; Stabilization
