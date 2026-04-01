@@ -63,21 +63,33 @@ A philosophical framework for describing how human reality is organized into for
 - **Structure** *(patterned stabilization; relational structure; organized relation)*
 - **Field** *(differentiated whole; relational field; structured field)*
 - **Local Structuration** *(local formation; local holding; localized stabilization)*
+- **Structuration** *(formation process; local stabilization; structure-formation)*
 - **Stabilization** *(holding; persistence; organized continuity)*
 - **Structural Presence** *(dynamic adequacy; organizing presence; local adequacy)*
+- **Adequacy** *(sufficiency; real fit; holding adequacy; structural sufficiency)*
 - **Viability** *(persistence capacity; survivability; real continuation)*
+- **Survivability** *(survival capacity; persistence under strain; continuity capacity)*
 - **Dissipation** *(diffusion; weak coupling loss; structural loosening)*
 - **Dominance** *(governing share; local primacy; organizing lead)*
 - **Boundary Integrity** *(local distinction; structural boundary; differentiation strength)*
 - **Scale** *(level of assessment; structural level; relevance scale)*
 - **Threshold** *(phase-change point; breaking point; structural transition)*
+- **Phase Shift** *(structural phase change; mode shift; qualitative transition)*
 - **Field-Fit** *(reality fit; adequacy to conditions; structural fit)*
 - **Reorganizing Capacity** *(adaptive revision capacity; phase-shift ability; restructurability)*
+- **Reorganization** *(restructuring; re-formation; reorganized holding; new stabilization)*
+- **Structural Dynamics** *(dynamics of structure; structural movement; form under change)*
 - **Structural Debt** *(deferred structural bill; unresolved burden; compensatory debt)*
 - **Fragmentation** *(unsynthesized multiplicity; structural overcrowding; competing relation)*
 - **Stabilization Lag** *(lag; delayed re-fit; structural lateness)*
 - **Gradient Load** *(pressure gradient; mismatch intensity; differential load)*
 - **Relational Anchoring** *(borrowed stability; host support; deeper coupling)*
+- **Burden** *(load; carried pressure; structural demand; holding demand)*
+- **Burden-Bearing** *(load-bearing capacity; carrying capacity; burden capacity)*
+- **Metabolism of Structure** *(structural metabolism; breakdown metabolism; organizational metabolism)*
+- **Grief** *(metabolic grief; collapse interval; burdened transition)*
+- **Collapse Survivability** *(survival through collapse; post-collapse viability; breakdown survivability)*
+- **Mathematical Grammar of Structure** *(formal grammar of structure; structural formalism; mathematical structure grammar)*
 
 ### Added from the Jung / cheap-coherence / intrusion / completion papers
 - **Binding** *(truth-binding; commitment lock; option-closure)*
@@ -104,6 +116,7 @@ A philosophical framework for describing how human reality is organized into for
 - **Occupancy (λ_t)** *(time-fraction of steering by an intrusive policy)*
 - **Cockpit / Pilot (ω)** *(metacontrol access; interrupt authority)*
 - **ω_eff** *(effective cockpit access under intrusion load)*
+- **Pilot Severance** *(cockpit severance; steering severance; pilot disconnection)*
 - **Somatic Capacity** *(bodily capacity; metabolic bandwidth; contact-processing capacity)*
 - **Exit Architecture** *(decoupling capacity; sovereignty exit; escape structure)*
 - **Network Viscosity** *(narrative resistance; propagation drag; epistemic friction)*
@@ -268,3 +281,18 @@ This repository hosts landing pages, abstracts, keywords, and version notes. Can
 
 - **Projection, Structure, and Awakening: On the Human Legibility of Reality** — DOI: 10.5281/zenodo.19352276  
   Paper page: [papers/projection-structure-awakening](./papers/projection-structure-awakening/README.md)
+
+- **Intrusion and Collapse: How Deferred Contact Becomes Debt in Psyche and Society** — DOI: 10.5281/zenodo.19367371  
+  Paper page: [papers/intrusion-and-collapse](./papers/intrusion-and-collapse/README.md)
+
+- **The Dynamics of Structuration: Structural Presence, Boundary, Scale, and the Stabilization of Relation** — DOI: 10.5281/zenodo.19367511  
+  Paper page: [papers/dynamics-of-structuration](./papers/dynamics-of-structuration/README.md)
+
+- **Structural Dynamics of Structuration: Presence, Occupancy, Debt, Boundary, and the Stabilization of Relation** — DOI: 10.5281/zenodo.19367649  
+  Paper page: [papers/structural-dynamics-of-structuration](./papers/structural-dynamics-of-structuration/README.md)
+
+- **The Philosophy of Structure Among Its Neighbors: Jung, Process, Systems, and Reality** — DOI: 10.5281/zenodo.19376021  
+  Paper page: [papers/philosophy-of-structure-among-its-neighbors](./papers/philosophy-of-structure-among-its-neighbors/README.md)
+
+- **A Mathematical Grammar of Structure: Adequacy, Pilot Severance, and Collapse Survivability** — DOI: 10.5281/zenodo.19376148  
+  Paper page: [papers/mathematical-grammar-of-structure](./papers/mathematical-grammar-of-structure/README.md)
