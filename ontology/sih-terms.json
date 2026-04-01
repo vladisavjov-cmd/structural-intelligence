@@ -271,5 +271,83 @@
     "aliases": ["integrated presence", "reduced inner war", "stabilized reconciliation"],
     "definition": "Not mere stability, but stable presence with reduced inner war. Peace is the condition in which less energy is spent on projection, denial, and compensatory distortion in order to remain organized.",
     "see_also": ["Presence", "Shadow", "Awakening", "Repair", "Containment"]
+  },
+  {
+    "term": "Adequacy",
+    "aliases": ["sufficiency", "real fit", "holding adequacy", "structural sufficiency"],
+    "definition": "The degree to which a structure is actually sufficient for the burden, field, and scale it is trying to organize. Adequacy is not appearance or internal elegance; it is whether the formation can really hold.",
+    "see_also": ["Structural Presence", "Field-Fit", "Viability", "Burden-Bearing", "Scale"]
+  },
+  {
+    "term": "Pilot Severance",
+    "aliases": ["cockpit severance", "steering severance", "pilot disconnection", "metacontrol loss"],
+    "definition": "A condition in which the pilot is no longer effectively coupled to steering, revision, or live contact. The structure may continue performing, but answerable control has been cut or thinned.",
+    "see_also": ["Cockpit / Pilot (ω)", "ω_eff", "Intrusion (I)", "Presence", "Collapse"]
+  },
+  {
+    "term": "Collapse Survivability",
+    "aliases": ["survival through collapse", "post-collapse viability", "breakdown survivability"],
+    "definition": "The degree to which a structure, person, or local structuration can endure collapse pressure without total annihilation, allowing some continuity, reorganization, or retained presence after breakdown.",
+    "see_also": ["Collapse", "Reorganizing Capacity", "Viability", "Threshold", "Metabolism of Structure"]
+  },
+  {
+    "term": "Structuration",
+    "aliases": ["formation process", "local stabilization", "structure-formation", "organized relation"],
+    "definition": "The process by which relation becomes locally stabilized into a formation that can persist, organize burden, and structure a field at a relevant scale. Structuration is not static arrangement but the ongoing emergence and holding of form.",
+    "see_also": ["Structure", "Local Structuration", "Stabilization", "Structural Dynamics"]
+  },
+  {
+    "term": "Structural Dynamics",
+    "aliases": ["dynamics of structure", "structural movement", "form under change"],
+    "definition": "The patterned changes by which a structure persists, adapts, drifts, fragments, collapses, or reorganizes under changing burden and field conditions.",
+    "see_also": ["Structuration", "Reorganizing Capacity", "Threshold", "Collapse", "Stabilization Lag"]
+  },
+  {
+    "term": "Mathematical Grammar of Structure",
+    "aliases": ["formal grammar of structure", "structural formalism", "mathematical structure grammar"],
+    "definition": "A formal descriptive framework for expressing how structure holds, fails, reorganizes, and survives under pressure using explicit relational and adequacy conditions.",
+    "see_also": ["Adequacy", "Pilot Severance", "Collapse Survivability", "Structural Dynamics", "Field-Fit"]
+  },
+  {
+    "term": "Metabolism of Structure",
+    "aliases": ["structural metabolism", "breakdown metabolism", "organizational metabolism"],
+    "definition": "The process by which structure bears burden, breaks down, grieves, reorganizes, and continues through successive phases of holding and collapse. Structure has a metabolism when breakdown is treated as part of ongoing organization rather than as pure negation.",
+    "see_also": ["Collapse", "Grief", "Reorganization", "Burden", "Collapse Survivability"]
+  },
+  {
+    "term": "Grief",
+    "aliases": ["metabolic grief", "collapse interval", "burdened transition"],
+    "definition": "A metabolic interval in which a system continues under reality-pressure after a prior holding formation has collapsed and before a new one is fully formed. In this sense, grief is structural labor, not merely emotion.",
+    "see_also": ["Metabolism of Structure", "Collapse", "Reorganization", "Burden", "Threshold"]
+  },
+  {
+    "term": "Reorganization",
+    "aliases": ["restructuring", "re-formation", "reorganized holding", "new stabilization"],
+    "definition": "The forming of a new or revised structuration after drift, collapse, or burden has made the prior formation nonviable. Reorganization is not mere recovery; it is a changed way of holding relation.",
+    "see_also": ["Repair", "Reorganizing Capacity", "Collapse", "Structuration", "Metabolism of Structure"]
+  },
+  {
+    "term": "Burden",
+    "aliases": ["load", "carried pressure", "structural demand", "holding demand"],
+    "definition": "The actual load, pressure, or relational demand a structure must carry in order to remain viable. Burden is what reveals whether a formation is merely present or actually adequate.",
+    "see_also": ["Truth-Load", "Gradient Load", "Adequacy", "Viability", "Burden-Bearing"]
+  },
+  {
+    "term": "Burden-Bearing",
+    "aliases": ["load-bearing capacity", "carrying capacity", "burden capacity"],
+    "definition": "The capacity of a structure to actually carry the pressures, demands, and consequences assigned to it without immediate drift, collapse, or substitution.",
+    "see_also": ["Burden", "Adequacy", "Viability", "Structural Presence", "Collapse Survivability"]
+  },
+  {
+    "term": "Survivability",
+    "aliases": ["survival capacity", "persistence under strain", "continuity capacity"],
+    "definition": "The capacity of a structure or local formation to continue through hostile conditions, strain, or partial breakdown while retaining enough integrity for later repair or reorganization.",
+    "see_also": ["Viability", "Collapse Survivability", "Reorganizing Capacity", "Boundary Integrity"]
+  },
+  {
+    "term": "Phase Shift",
+    "aliases": ["structural phase change", "mode shift", "qualitative transition"],
+    "definition": "A qualitative transformation in the way a structure organizes relation once strain, burden, or mismatch crosses threshold. A phase shift is not mere weakening but a change in the mode of holding.",
+    "see_also": ["Threshold", "Reorganization", "Collapse", "Structural Dynamics", "Stabilization"]
   }
 ]
