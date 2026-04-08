@@ -707,3 +707,153 @@ A qualitative transformation in the way a structure organizes relation once stra
 **Aliases:** structural phase change; mode shift; qualitative transition  
 **Opposites / failure mode:** reversible strain; superficial adjustment; no real transformation  
 **See also:** Threshold; Reorganization; Collapse; Structural Dynamics; Stabilization
+
+## Floor
+The deeper anchoring that allows a structure to lose one form without collapsing being into total annihilation. The floor is not just comfort or resilience language; it is the non-tradable condition that makes survivable collapse, grief, and reorganization possible.  
+**Aliases:** deeper floor; invariance floor; survivability floor; anchoring floor  
+**Opposites / failure mode:** false floor; form-totalization; annihilation panic; local form treated as whole being  
+**See also:** Invariance Constraint; Collapse Survivability; Grief; Sovereignty; Reorganization
+
+## False Floor
+A contingent structure mistaken for ultimate anchoring. False floors can stabilize life for a time, but when they break they produce annihilation panic rather than survivable grief.  
+**Aliases:** mislocated floor; pseudo-floor; contingent anchor mistaken for bedrock  
+**Opposites / failure mode:** real floor; deeper anchoring; non-tradable base  
+**See also:** Floor; Persona; Role; Performance; Collapse; Fixed Worth
+
+## Biological Floor
+The most minimal reading of the floor: the organism’s continuation tendency. The body keeps regulating, metabolizing, and resisting dissolution even when one local function or life-organization fails.  
+**Aliases:** organismic floor; embodied continuation floor; minimal life floor  
+**Opposites / failure mode:** biological breakdown; terminal dissolution; no embodied continuation  
+**See also:** Floor; Somatic Capacity; Collapse Survivability; Living Structure
+
+## Psychological Floor
+That dimension of the person which survives the collapse of role, persona, image, or local identity. It names the fact that a person can lose a life-organization without being identical to its loss.  
+**Aliases:** psyche-floor; deeper personhood floor; post-role continuity  
+**Opposites / failure mode:** role-totalization; image-totalization; local identity treated as whole self  
+**See also:** Floor; Persona; Shadow; Grief; Sovereignty
+
+## Phenomenological Floor
+The continuity of lived presence through changing contents of experience. It is the fact that collapse is lived by someone, rather than reducing immediately to pure erasure.  
+**Aliases:** lived-presence floor; experiential floor; continuity of presence  
+**Opposites / failure mode:** experiential erasure; content-totalization; no surviving witness  
+**See also:** Floor; Presence; Deeper Consciousness; Collapse Survivability
+
+## Ontological Floor
+The deepest level of the floor: the condition of being under which local form can fail without total annihilation of being itself. This is the strongest and most metaphysical reading, and should be treated as earned direction rather than cheap certainty.  
+**Aliases:** being-floor; ontological anchoring; deepest invariance  
+**Opposites / failure mode:** local-form ontology; form exhausts being; metaphysical thinness  
+**See also:** Floor; Field; Deeper Being; Open Edge; Invariance Constraint
+
+## Nested Floors
+The view that biological, psychological, phenomenological, and ontological floors are not necessarily separate answers, but layered expressions of one deeper structural necessity.  
+**Aliases:** layered floor model; stacked floors; nested anchoring  
+**Opposites / failure mode:** flat reduction; one-level explanation; premature metaphysical closure  
+**See also:** Biological Floor; Psychological Floor; Phenomenological Floor; Ontological Floor
+
+## Local Form
+A particular embodied, burden-bearing organization of life at a given time. Local form includes the current way a person, relation, or system is organized, without exhausting the deeper reality from which it arose.  
+**Aliases:** current form; local holder; present organization; formed life  
+**Opposites / failure mode:** total self-grounding form; local form mistaken for whole being  
+**See also:** Local Structuration; Floor; Personality; Collapse; Death
+
+## Living Structure
+Structure in the stronger human and biological sense: not mere arrangement, but an organized form that bears burden, accumulates debt, risks collapse, grieves, and reorganizes through time.  
+**Aliases:** burden-bearing structure; living form; real structure in the strong sense  
+**Opposites / failure mode:** formal structure only; mere arrangement; ontologically thin structure  
+**See also:** True Structure; Burden-Bearing; Somatic Capacity; Collapse; Grief
+
+## True Structure
+A structure understood in the stronger sense: the answerable organization of burden through time. A true structure organizes gradient load, can finance itself through truth or debt, can collapse, and can reorganize only through some deeper invariance floor.  
+**Aliases:** real structure; burden-bearing structure; answerable structure  
+**Opposites / failure mode:** formal coherence only; mere organization; performative structure  
+**See also:** Living Structure; Burden; Structural Debt; Floor; The Burden of the Real
+
+## The Burden of the Real
+The claim that reality, in the living and human sense, begins where structure must actually bear burden rather than merely display coherence. It marks the ontological difference between formal organization and lived, answerable structure.  
+**Aliases:** burden-bearing reality; the real as carried; living reality condition  
+**Opposites / failure mode:** formalist reality; coherence without burden; ontological thinness  
+**See also:** Living Structure; True Structure; Burden-Bearing; Contact; Grief
+
+## Personality
+The local organization of body, memory, style, defense, and social form that makes someone recognizably this person. Personality is real and important, but in the later ontology it is not the deepest floor.  
+**Aliases:** local personality form; familiar self-style; embodied personality  
+**Opposites / failure mode:** personality treated as deepest self; personality-totalization  
+**See also:** Local Form; Body-Bound Personality; Floor; Deeper Being
+
+## Body-Bound Personality
+The claim that familiar personality is strongly tied to the body, nervous system, developmental history, memory organization, and relational patterning of this life.  
+**Aliases:** embodied personality; somatically bound personality  
+**Opposites / failure mode:** disembodied personality survival claim; personality treated as free-floating essence  
+**See also:** Personality; Body; Local Form; Death; Floor
+
+## Death (Structural Sense)
+The end of the living local burden-bearing structure. In this sense, death means the body no longer carries load, somatic capacity falls to zero, repair from within ends, and this particular living holder is over.  
+**Aliases:** end of local living form; death of the holder; structural death  
+**Opposites / failure mode:** decorative transition language; symbolic-only death; denial of local ending  
+**See also:** Local Form; Body-Bound Personality; Floor; Open Edge; Consequence
+
+## Open Edge
+A disciplined metaphysical edge where the framework points beyond local form without claiming more than it has earned. It names the question of whether deeper invariance belongs only to the local holder or more deeply to the field itself.  
+**Aliases:** metaphysical edge; earned openness; disciplined ontological question  
+**Opposites / failure mode:** premature certainty; inflation; cheap metaphysics; false closure  
+**See also:** Ontological Floor; Deeper Being; Field; Death
+
+## Deeper Consciousness
+Continuity of presence deeper than ordinary roles, stories, and self-images. It stays on the side of experience: something like witnessing continuity remains through changes in content.  
+**Aliases:** deeper witnessing continuity; deeper presence; continuity through content change  
+**Opposites / failure mode:** content-totalization; role equals self; no surviving witness  
+**See also:** Phenomenological Floor; Presence; Open Edge; Deeper Being
+
+## Deeper Being
+The stronger claim that even consciousness may not be the ultimate floor, and that the deepest invariance belongs to being itself rather than to the local self or its current contents.  
+**Aliases:** deeper ontological being; field-grounded being; ultimate floor  
+**Opposites / failure mode:** consciousness treated as final floor; local self as ultimate  
+**See also:** Ontological Floor; Field; Open Edge; Deeper Consciousness
+
+## Civilizational Occupancy
+The macro-scale capture of steering by substitute controllers. A civilization becomes occupied when major systems remain coherent and operational while their steering is governed by narrower internal logics than the human realities those systems were meant to carry.  
+**Aliases:** macro occupancy; occupied civilization; civilizational steering capture  
+**Opposites / failure mode:** public pilot access; answerable institutions; purpose-governed systems  
+**See also:** Occupancy (λ_t); Substitute Controller; Institutional Drift; Civilizational Debt; Pilot Severance
+
+## Substitute Controller
+A narrower logic that captures the steering of a wider system and begins governing it from within. The system still functions, but what actually steers it is no longer the institution’s declared or humanly intelligible purpose.  
+**Aliases:** substitute governor; captured steering logic; narrower controller  
+**Opposites / failure mode:** purpose-governed steering; answerable governance; mission-led control  
+**See also:** Civilizational Occupancy; Institutional Drift; Capture; Pilot Severance
+
+## Institutional Drift
+The separation of operational coherence from answerability to the wider differentiated field. A system can still work by its own metrics while becoming thinner in care, truth, legitimacy, or wider field-fit.  
+**Aliases:** macro drift; institutional misfit; operational coherence drift  
+**Opposites / failure mode:** field-adequate institution; answerable operation; purpose-bound adaptation  
+**See also:** Drift Ratio; Civilizational Occupancy; Field-Fit; Substitute Controller
+
+## Civilizational Debt
+The macro-scale version of structural debt: hidden burden accumulated when institutions preserve coherence through delayed repair, cost-export, symbolic management, or substitute control rather than answerable revision.  
+**Aliases:** macro structural debt; public debt architecture; hidden civilizational burden  
+**Opposites / failure mode:** public repair; cost re-internalization; answerable institutional revision  
+**See also:** Structural Debt; Institutional Drift; Exported Maintenance; Civilizational Occupancy
+
+## Public Pilot Access
+The degree to which major public systems remain meaningfully steerable by publicly intelligible purposes, reality-based correction, and shared consequence.  
+**Aliases:** civilizational pilot access; macro pilot access; public steering access  
+**Opposites / failure mode:** civilizational pilot severance; occupied governance; symbolic correction only  
+**See also:** Pilot Severance; Civilizational Occupancy; Substitute Controller; Answerability
+
+## Civilizational Pilot Severance
+A macro-scale condition in which public systems continue operating while fewer and fewer actors can interrupt dominant loops, rebind purpose to steering, or make correction genuinely bind.  
+**Aliases:** macro pilot severance; public steering severance; civilizational cockpit loss  
+**Opposites / failure mode:** public pilot access; re-steerable institutions; binding public correction  
+**See also:** Pilot Severance; Civilizational Occupancy; Institutional Drift; Public Pilot Access
+
+## Reality-Bearing Institution
+An institution understood not as a neutral procedure but as a burden-bearing structure built to organize a reality larger than itself.  
+**Aliases:** burden-bearing institution; answerable institution; field-carrying institution  
+**Opposites / failure mode:** neutral-procedure fantasy; metric-self-preservation; substitute-controlled system  
+**See also:** Civilizational Occupancy; Institutional Drift; Burden-Bearing; Field-Fit
+
+## Local Form Does Not Exhaust Being
+A compact ontological claim: the current organization of a person, role, identity, or structure is real, but not the whole of what is. This is what makes survivable collapse and disciplined metaphysical openness possible.  
+**Aliases:** form is not the whole; local form is not ultimate; non-exhaustion claim  
+**Opposites / failure mode:** form-totalization; current self as whole being; collapse equals total annihilation  
+**See also:** Floor; Local Form; Open Edge; Collapse Survivability
