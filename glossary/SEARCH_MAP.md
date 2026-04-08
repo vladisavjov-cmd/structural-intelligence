@@ -304,6 +304,111 @@
 
 ---
 
+## People search: “I survived the collapse but I don’t know what in me survived”
+**In SI:** Floor; Psychological Floor; Phenomenological Floor; Collapse Survivability  
+**Best starting paper:** [What Survives Collapse](../papers/what-survives-collapse/README.md)
+
+## People search: “something ended but I didn’t fully disappear”
+**In SI:** Floor; Local Form Does Not Exhaust Being; Reorganization; Grief  
+**Best starting paper:** [What Survives Collapse](../papers/what-survives-collapse/README.md)
+
+## People search: “I need language for the part of me that remains when roles fall apart”
+**In SI:** Psychological Floor; Persona; Collapse; Sovereignty  
+**Best starting paper:** [What Survives Collapse](../papers/what-survives-collapse/README.md)
+
+## People search: “I can feel a deeper continuity beneath identity change”
+**In SI:** Phenomenological Floor; Deeper Consciousness; Presence; Collapse Survivability  
+**Best starting paper:** [What Survives Collapse](../papers/what-survives-collapse/README.md)
+
+## People search: “what actually makes collapse survivable instead of annihilating”
+**In SI:** Floor; Ontological Floor; Collapse Survivability; Reorganizing Capacity  
+**Best starting paper:** [What Survives Collapse](../papers/what-survives-collapse/README.md)
+
+## People search: “I think I built my life on the wrong thing”
+**In SI:** False Floor; Persona; Performance; Fixed Worth; Collapse  
+**Best starting paper:** [What Survives Collapse](../papers/what-survives-collapse/README.md)
+
+## People search: “what are false floors / what am I treating like bedrock that isn’t”
+**In SI:** False Floor; Bedrock; Invariance Constraint; Fixed Worth  
+**Best starting paper:** [What Survives Collapse](../papers/what-survives-collapse/README.md)
+
+## People search: “truth feels survivable only when something deeper in me doesn’t collapse”
+**In SI:** Floor; Truth-Load; Sovereignty; Invariance Constraint  
+**Best starting paper:** [What Survives Collapse](../papers/what-survives-collapse/README.md)
+
+## People search: “what remains when a life ends”
+**In SI:** Death (Structural Sense); Local Form; Personality; Field; Open Edge  
+**Best starting paper:** [What Remains When a Life Ends?](../papers/what-remains-when-a-life-ends/README.md)
+
+## People search: “does personality survive death”
+**In SI:** Personality; Body-Bound Personality; Local Form; Open Edge  
+**Best starting paper:** [What Remains When a Life Ends?](../papers/what-remains-when-a-life-ends/README.md)
+
+## People search: “what dies and what remains, structurally speaking”
+**In SI:** Death (Structural Sense); Local Form; Field; Deeper Being; Open Edge  
+**Best starting paper:** [What Remains When a Life Ends?](../papers/what-remains-when-a-life-ends/README.md)
+
+## People search: “I want a non-sentimental way to think about death”
+**In SI:** Death (Structural Sense); Body-Bound Personality; Field; Open Edge  
+**Best starting paper:** [What Remains When a Life Ends?](../papers/what-remains-when-a-life-ends/README.md)
+
+## People search: “what if local form is real but not ultimate”
+**In SI:** Local Form Does Not Exhaust Being; Field; Floor; Deeper Being  
+**Best starting paper:** [What Remains When a Life Ends?](../papers/what-remains-when-a-life-ends/README.md)
+
+## People search: “I need the stronger ontology of structure, not just form and coherence”
+**In SI:** Living Structure; True Structure; Burden-Bearing; The Burden of the Real  
+**Best starting paper:** [The Burden of the Real](../papers/burden-of-the-real/README.md)
+
+## People search: “what makes a structure real in the human sense”
+**In SI:** True Structure; Living Structure; Burden; Structural Debt; Grief  
+**Best starting paper:** [The Burden of the Real](../papers/burden-of-the-real/README.md)
+
+## People search: “why isn’t complexity enough for consciousness or AI”
+**In SI:** Living Structure; True Structure; The Burden of the Real; Somatic Capacity  
+**Best starting paper:** [The Burden of the Real](../papers/burden-of-the-real/README.md)
+
+## People search: “what is the difference between formal structure and lived structure”
+**In SI:** Living Structure; True Structure; Burden-Bearing; Contact  
+**Best starting paper:** [The Burden of the Real](../papers/burden-of-the-real/README.md)
+
+## People search: “institutions still function but no longer serve what they were built for”
+**In SI:** Civilizational Occupancy; Substitute Controller; Institutional Drift; Reality-Bearing Institution  
+**Best starting paper:** [Civilizational Occupancy](../papers/civilizational-occupancy/README.md)
+
+## People search: “everything still works but the steering feels gone”
+**In SI:** Civilizational Occupancy; Civilizational Pilot Severance; Public Pilot Access; Substitute Controller  
+**Best starting paper:** [Civilizational Occupancy](../papers/civilizational-occupancy/README.md)
+
+## People search: “why do institutions feel unreal even when they’re still operating”
+**In SI:** Institutional Drift; Civilizational Occupancy; Field-Fit; Civilizational Debt  
+**Best starting paper:** [Civilizational Occupancy](../papers/civilizational-occupancy/README.md)
+
+## People search: “profit / optics / compliance took over the mission”
+**In SI:** Substitute Controller; Civilizational Occupancy; Capture; Institutional Drift  
+**Best starting paper:** [Civilizational Occupancy](../papers/civilizational-occupancy/README.md)
+
+## People search: “what does macro-scale occupancy look like”
+**In SI:** Civilizational Occupancy; Civilizational Debt; Public Pilot Access; Pilot Severance  
+**Best starting paper:** [Civilizational Occupancy](../papers/civilizational-occupancy/README.md)
+
+## People search: “I want the floor / invariance / sovereignty core of the whole framework”
+**In SI:** Floor; Invariance Constraint; Fixed Worth; Sovereignty; Deeper Being  
+**Best starting paper:** [The Diamond Core](../papers/diamond-core/README.md)
+
+## People search: “I need the death / field / invariance side of SI”
+**In SI:** Field; Local Form; Open Edge; Deeper Being; Death (Structural Sense)  
+**Best starting paper:** [What Remains When a Life Ends?](../papers/what-remains-when-a-life-ends/README.md)
+
+## People search: “collapse forced me to ask what is deeper than my current form”
+**In SI:** Floor; Ontological Floor; Local Form Does Not Exhaust Being; Open Edge  
+**Best starting paper:** [What Survives Collapse](../papers/what-survives-collapse/README.md)
+
+## People search: “I need the ontology of burden, not just the psychology of burden”
+**In SI:** The Burden of the Real; Living Structure; True Structure; Burden-Bearing  
+**Best starting paper:** [The Burden of the Real](../papers/burden-of-the-real/README.md)
+
+
 ## Notes
 - This map is for discoverability. Canonical definitions live in: `glossary/GLOSSARY.md`.
 - If you add new terms, add a plain-language query here with its SI mapping and best starting paper.
