@@ -163,6 +163,7 @@ A philosophical framework for describing how human reality is organized into for
 - **Spirituality** *(deeper contact with being; not escape from structure)*
 - **Inwardness** *(living inward relation to truth, burden, and field)*
 - **Spiritualized Coherence** *(spiritual language or image without answerable contact)*
+- **The Diamond Core** *(friction, sentience, and invariance; counterfeit detector for cheap coherence)*
 
 ## Papers
 See the index: **[papers/README.md](./papers/README.md)**
@@ -363,3 +364,6 @@ This repository hosts landing pages, abstracts, keywords, and version notes. Can
 
 - **Mechanics of the Soul: Spirituality, Being, and Contact in Structural Intelligence** — DOI: 10.5281/zenodo.19469298  
   Paper page: [papers/mechanics-of-the-soul](./papers/mechanics-of-the-soul/README.md)
+
+- **The Diamond Core: Friction, Sentience, and Invariance in Structural Intelligence** — DOI: 10.5281/zenodo.19433003  
+  Paper page: [papers/diamond-core](./papers/diamond-core/README.md)
