@@ -133,6 +133,37 @@ A philosophical framework for describing how human reality is organized into for
 - **Control Architecture** *(stack of controllers, arbiters, safety layers)*
 - **Binding (B) for robots** *(durable updates with trace and verification)*
 
+### Added from the floor / invariance / civilizational / burden papers
+- **Floor** *(deeper floor; invariance floor; survivability floor)*
+- **False Floor** *(mislocated floor; pseudo-floor; contingent anchor mistaken for bedrock)*
+- **Biological Floor** *(organismic floor; embodied continuation floor)*
+- **Psychological Floor** *(deeper personhood floor; post-role continuity)*
+- **Phenomenological Floor** *(lived-presence floor; experiential floor)*
+- **Ontological Floor** *(being-floor; deepest invariance; ontological anchoring)*
+- **Nested Floors** *(layered floor model; stacked floors; nested anchoring)*
+- **Local Form** *(current form; local holder; formed life)*
+- **Living Structure** *(burden-bearing structure; living form; real structure in the strong sense)*
+- **True Structure** *(real structure; answerable structure; burden-bearing structure)*
+- **The Burden of the Real** *(burden-bearing reality; the real as carried)*
+- **Personality** *(local personality form; familiar self-style; embodied personality)*
+- **Body-Bound Personality** *(embodied personality; somatically bound personality)*
+- **Death (Structural Sense)** *(end of local living form; structural death; death of the holder)*
+- **Open Edge** *(metaphysical edge; disciplined ontological question; earned openness)*
+- **Deeper Consciousness** *(deeper witnessing continuity; continuity through content change)*
+- **Deeper Being** *(field-grounded being; deeper ontological being; ultimate floor)*
+- **Civilizational Occupancy** *(macro occupancy; occupied civilization; civilizational steering capture)*
+- **Substitute Controller** *(substitute governor; captured steering logic; narrower controller)*
+- **Institutional Drift** *(macro drift; institutional misfit; operational coherence drift)*
+- **Civilizational Debt** *(macro structural debt; public debt architecture; hidden civilizational burden)*
+- **Public Pilot Access** *(civilizational pilot access; public steering access; macro pilot access)*
+- **Civilizational Pilot Severance** *(macro pilot severance; public steering severance; civilizational cockpit loss)*
+- **Reality-Bearing Institution** *(burden-bearing institution; answerable institution; field-carrying institution)*
+- **Local Form Does Not Exhaust Being** *(form is not the whole; local form is not ultimate; non-exhaustion claim)*
+- **Soul** *(living depth; burden-bearing inwardness; depth relation to truth)*
+- **Spirituality** *(deeper contact with being; not escape from structure)*
+- **Inwardness** *(living inward relation to truth, burden, and field)*
+- **Spiritualized Coherence** *(spiritual language or image without answerable contact)*
+
 ## Papers
 See the index: **[papers/README.md](./papers/README.md)**
 
@@ -296,3 +327,39 @@ This repository hosts landing pages, abstracts, keywords, and version notes. Can
 
 - **A Mathematical Grammar of Structure: Adequacy, Pilot Severance, and Collapse Survivability** — DOI: 10.5281/zenodo.19376148  
   Paper page: [papers/mathematical-grammar-of-structure](./papers/mathematical-grammar-of-structure/README.md)
+
+- **Archetypes and Structure: Jungian Psychology, Occupancy, and Structural Intelligence** — DOI: 10.5281/zenodo.19389439  
+  Paper page: [papers/archetypes-and-structure](./papers/archetypes-and-structure/README.md)
+
+- **Civilizational Occupancy: Substitute Controllers, Institutional Drift, and Human Steering** — DOI: 10.5281/zenodo.19441137  
+  Paper page: [papers/civilizational-occupancy](./papers/civilizational-occupancy/README.md)
+
+- **The Burden of the Real: Structure, Consciousness, and the Ontological Limit of Artificial Intelligence** — DOI: 10.5281/zenodo.19411442  
+  Paper page: [papers/burden-of-the-real](./papers/burden-of-the-real/README.md)
+
+- **The Architecture of Relation: Love, Cost-Export, Forgiveness, and Relational Debt** — DOI: 10.5281/zenodo.19423215  
+  Paper page: [papers/architecture-of-relation](./papers/architecture-of-relation/README.md)
+
+- **Enactivism and Structural Intelligence: Sense-Making, Presence, and Answerability Under Pressure** — DOI: 10.5281/zenodo.19402108  
+  Paper page: [papers/structural-intelligence-and-enactivism](./papers/structural-intelligence-and-enactivism/README.md)
+
+- **Structural Intelligence and Stoicism: A Bridge Between Discipline, Reality, and Sovereignty** — DOI: 10.5281/zenodo.19411296  
+  Paper page: [papers/structural-intelligence-and-stoicism](./papers/structural-intelligence-and-stoicism/README.md)
+
+- **Systems Theory and Structural Intelligence: Regulation, Drift, Debt, and Answerability** — DOI: 10.5281/zenodo.19402376  
+  Paper page: [papers/systems-theory-and-structural-intelligence](./papers/systems-theory-and-structural-intelligence/README.md)
+
+- **What Families Make Their Children Carry: Intergenerational Structural Debt** — DOI: 10.5281/zenodo.19441242  
+  Paper page: [papers/what-families-make-their-children-carry](./papers/what-families-make-their-children-carry/README.md)
+
+- **Why We Can't Let Go: Relational Debt, Drama, and Liberation** — DOI: 10.5281/zenodo.19432980  
+  Paper page: [papers/why-we-cant-let-go](./papers/why-we-cant-let-go/README.md)
+
+- **What Survives Collapse: The Metaphysics of the Floor** — DOI: 10.5281/zenodo.19450492  
+  Paper page: [papers/what-survives-collapse](./papers/what-survives-collapse/README.md)
+
+- **What Remains When a Life Ends?: Field, Personality, and the Open Edge of Invariance** — DOI: 10.5281/zenodo.19450984  
+  Paper page: [papers/what-remains-when-a-life-ends](./papers/what-remains-when-a-life-ends/README.md)
+
+- **Mechanics of the Soul: Spirituality, Being, and Contact in Structural Intelligence** — DOI: 10.5281/zenodo.19469298  
+  Paper page: [papers/mechanics-of-the-soul](./papers/mechanics-of-the-soul/README.md)
