@@ -349,5 +349,155 @@
     "aliases": ["structural phase change", "mode shift", "qualitative transition"],
     "definition": "A qualitative transformation in the way a structure organizes relation once strain, burden, or mismatch crosses threshold. A phase shift is not mere weakening but a change in the mode of holding.",
     "see_also": ["Threshold", "Reorganization", "Collapse", "Structural Dynamics", "Stabilization"]
+  },
+  {
+    "term": "Floor",
+    "aliases": ["deeper floor", "invariance floor", "survivability floor", "anchoring floor"],
+    "definition": "The deeper anchoring that allows a structure to lose one form without collapsing being into total annihilation. The floor is not just comfort or resilience language; it is the non-tradable condition that makes survivable collapse, grief, and reorganization possible.",
+    "see_also": ["Invariance Constraint", "Collapse Survivability", "Grief", "Sovereignty", "Reorganization"]
+  },
+  {
+    "term": "False Floor",
+    "aliases": ["mislocated floor", "pseudo-floor", "contingent anchor mistaken for bedrock"],
+    "definition": "A contingent structure mistaken for ultimate anchoring. False floors can stabilize life for a time, but when they break they produce annihilation panic rather than survivable grief.",
+    "see_also": ["Floor", "Persona", "Role", "Performance", "Collapse", "Fixed Worth"]
+  },
+  {
+    "term": "Biological Floor",
+    "aliases": ["organismic floor", "embodied continuation floor", "minimal life floor"],
+    "definition": "The most minimal reading of the floor: the organism’s continuation tendency. The body keeps regulating, metabolizing, and resisting dissolution even when one local function or life-organization fails.",
+    "see_also": ["Floor", "Somatic Capacity", "Collapse Survivability", "Living Structure"]
+  },
+  {
+    "term": "Psychological Floor",
+    "aliases": ["psyche-floor", "deeper personhood floor", "post-role continuity"],
+    "definition": "That dimension of the person which survives the collapse of role, persona, image, or local identity. It names the fact that a person can lose a life-organization without being identical to its loss.",
+    "see_also": ["Floor", "Persona", "Shadow", "Grief", "Sovereignty"]
+  },
+  {
+    "term": "Phenomenological Floor",
+    "aliases": ["lived-presence floor", "experiential floor", "continuity of presence"],
+    "definition": "The continuity of lived presence through changing contents of experience. It is the fact that collapse is lived by someone, rather than reducing immediately to pure erasure.",
+    "see_also": ["Floor", "Presence", "Deeper Consciousness", "Collapse Survivability"]
+  },
+  {
+    "term": "Ontological Floor",
+    "aliases": ["being-floor", "ontological anchoring", "deepest invariance"],
+    "definition": "The deepest level of the floor: the condition of being under which local form can fail without total annihilation of being itself. This is the strongest and most metaphysical reading, and should be treated as earned direction rather than cheap certainty.",
+    "see_also": ["Floor", "Field", "Deeper Being", "Open Edge", "Invariance Constraint"]
+  },
+  {
+    "term": "Nested Floors",
+    "aliases": ["layered floor model", "stacked floors", "nested anchoring"],
+    "definition": "The view that biological, psychological, phenomenological, and ontological floors are not necessarily separate answers, but layered expressions of one deeper structural necessity.",
+    "see_also": ["Biological Floor", "Psychological Floor", "Phenomenological Floor", "Ontological Floor"]
+  },
+  {
+    "term": "Local Form",
+    "aliases": ["current form", "local holder", "present organization", "formed life"],
+    "definition": "A particular embodied, burden-bearing organization of life at a given time. Local form includes the current way a person, relation, or system is organized, without exhausting the deeper reality from which it arose.",
+    "see_also": ["Local Structuration", "Floor", "Personality", "Collapse", "Death (Structural Sense)"]
+  },
+  {
+    "term": "Living Structure",
+    "aliases": ["burden-bearing structure", "living form", "real structure in the strong sense"],
+    "definition": "Structure in the stronger human and biological sense: not mere arrangement, but an organized form that bears burden, accumulates debt, risks collapse, grieves, and reorganizes through time.",
+    "see_also": ["True Structure", "Burden-Bearing", "Somatic Capacity", "Collapse", "Grief"]
+  },
+  {
+    "term": "True Structure",
+    "aliases": ["real structure", "burden-bearing structure", "answerable structure"],
+    "definition": "A structure understood in the stronger sense: the answerable organization of burden through time. A true structure organizes gradient load, can finance itself through truth or debt, can collapse, and can reorganize only through some deeper invariance floor.",
+    "see_also": ["Living Structure", "Burden", "Structural Debt", "Floor", "The Burden of the Real"]
+  },
+  {
+    "term": "The Burden of the Real",
+    "aliases": ["burden-bearing reality", "the real as carried", "living reality condition"],
+    "definition": "The claim that reality, in the living and human sense, begins where structure must actually bear burden rather than merely display coherence. It marks the ontological difference between formal organization and lived, answerable structure.",
+    "see_also": ["Living Structure", "True Structure", "Burden-Bearing", "Contact", "Grief"]
+  },
+  {
+    "term": "Personality",
+    "aliases": ["local personality form", "familiar self-style", "embodied personality"],
+    "definition": "The local organization of body, memory, style, defense, and social form that makes someone recognizably this person. Personality is real and important, but in the later ontology it is not the deepest floor.",
+    "see_also": ["Local Form", "Body-Bound Personality", "Floor", "Deeper Being"]
+  },
+  {
+    "term": "Body-Bound Personality",
+    "aliases": ["embodied personality", "somatically bound personality"],
+    "definition": "The claim that familiar personality is strongly tied to the body, nervous system, developmental history, memory organization, and relational patterning of this life.",
+    "see_also": ["Personality", "Body", "Local Form", "Death (Structural Sense)", "Floor"]
+  },
+  {
+    "term": "Death (Structural Sense)",
+    "aliases": ["end of local living form", "death of the holder", "structural death"],
+    "definition": "The end of the living local burden-bearing structure. In this sense, death means the body no longer carries load, somatic capacity falls to zero, repair from within ends, and this particular living holder is over.",
+    "see_also": ["Local Form", "Body-Bound Personality", "Floor", "Open Edge", "Consequence"]
+  },
+  {
+    "term": "Open Edge",
+    "aliases": ["metaphysical edge", "earned openness", "disciplined ontological question"],
+    "definition": "A disciplined metaphysical edge where the framework points beyond local form without claiming more than it has earned. It names the question of whether deeper invariance belongs only to the local holder or more deeply to the field itself.",
+    "see_also": ["Ontological Floor", "Deeper Being", "Field", "Death (Structural Sense)"]
+  },
+  {
+    "term": "Deeper Consciousness",
+    "aliases": ["deeper witnessing continuity", "deeper presence", "continuity through content change"],
+    "definition": "Continuity of presence deeper than ordinary roles, stories, and self-images. It stays on the side of experience: something like witnessing continuity remains through changes in content.",
+    "see_also": ["Phenomenological Floor", "Presence", "Open Edge", "Deeper Being"]
+  },
+  {
+    "term": "Deeper Being",
+    "aliases": ["deeper ontological being", "field-grounded being", "ultimate floor"],
+    "definition": "The stronger claim that even consciousness may not be the ultimate floor, and that the deepest invariance belongs to being itself rather than to the local self or its current contents.",
+    "see_also": ["Ontological Floor", "Field", "Open Edge", "Deeper Consciousness"]
+  },
+  {
+    "term": "Civilizational Occupancy",
+    "aliases": ["macro occupancy", "occupied civilization", "civilizational steering capture"],
+    "definition": "The macro-scale capture of steering by substitute controllers. A civilization becomes occupied when major systems remain coherent and operational while their steering is governed by narrower internal logics than the human realities those systems were meant to carry.",
+    "see_also": ["Occupancy (λ_t)", "Substitute Controller", "Institutional Drift", "Civilizational Debt", "Pilot Severance"]
+  },
+  {
+    "term": "Substitute Controller",
+    "aliases": ["substitute governor", "captured steering logic", "narrower controller"],
+    "definition": "A narrower logic that captures the steering of a wider system and begins governing it from within. The system still functions, but what actually steers it is no longer the institution’s declared or humanly intelligible purpose.",
+    "see_also": ["Civilizational Occupancy", "Institutional Drift", "Capture", "Pilot Severance"]
+  },
+  {
+    "term": "Institutional Drift",
+    "aliases": ["macro drift", "institutional misfit", "operational coherence drift"],
+    "definition": "The separation of operational coherence from answerability to the wider differentiated field. A system can still work by its own metrics while becoming thinner in care, truth, legitimacy, or wider field-fit.",
+    "see_also": ["Drift Ratio", "Civilizational Occupancy", "Field-Fit", "Substitute Controller"]
+  },
+  {
+    "term": "Civilizational Debt",
+    "aliases": ["macro structural debt", "public debt architecture", "hidden civilizational burden"],
+    "definition": "The macro-scale version of structural debt: hidden burden accumulated when institutions preserve coherence through delayed repair, cost-export, symbolic management, or substitute control rather than answerable revision.",
+    "see_also": ["Structural Debt", "Institutional Drift", "Exported Maintenance", "Civilizational Occupancy"]
+  },
+  {
+    "term": "Public Pilot Access",
+    "aliases": ["civilizational pilot access", "macro pilot access", "public steering access"],
+    "definition": "The degree to which major public systems remain meaningfully steerable by publicly intelligible purposes, reality-based correction, and shared consequence.",
+    "see_also": ["Pilot Severance", "Civilizational Occupancy", "Substitute Controller", "Answerability"]
+  },
+  {
+    "term": "Civilizational Pilot Severance",
+    "aliases": ["macro pilot severance", "public steering severance", "civilizational cockpit loss"],
+    "definition": "A macro-scale condition in which public systems continue operating while fewer and fewer actors can interrupt dominant loops, rebind purpose to steering, or make correction genuinely bind.",
+    "see_also": ["Pilot Severance", "Civilizational Occupancy", "Institutional Drift", "Public Pilot Access"]
+  },
+  {
+    "term": "Reality-Bearing Institution",
+    "aliases": ["burden-bearing institution", "answerable institution", "field-carrying institution"],
+    "definition": "An institution understood not as a neutral procedure but as a burden-bearing structure built to organize a reality larger than itself.",
+    "see_also": ["Civilizational Occupancy", "Institutional Drift", "Burden-Bearing", "Field-Fit"]
+  },
+  {
+    "term": "Local Form Does Not Exhaust Being",
+    "aliases": ["form is not the whole", "local form is not ultimate", "non-exhaustion claim"],
+    "definition": "A compact ontological claim: the current organization of a person, role, identity, or structure is real, but not the whole of what is. This is what makes survivable collapse and disciplined metaphysical openness possible.",
+    "see_also": ["Floor", "Local Form", "Open Edge", "Collapse Survivability"]
   }
 ]
