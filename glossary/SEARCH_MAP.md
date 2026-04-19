@@ -408,6 +408,282 @@
 **In SI:** The Burden of the Real; Living Structure; True Structure; Burden-Bearing  
 **Best starting paper:** [The Burden of the Real](../papers/burden-of-the-real/README.md)
 
+---
+
+## New SI corpus / core framework
+
+## People search: “where should I start with Structural Intelligence”
+**In SI:** Structural Intelligence; Coherence; Contact; Answerability; Holding  
+**Best starting paper:** [Structural Intelligence: Coherence, Contact, and Answerability Under Pressure](../papers/structural-intelligence-coherence-contact-answerability/README.md)
+
+## People search: “what does SI mean by coherence, contact, and answerability”
+**In SI:** Coherence; Contact; Answerability; Structural Holding; Revision  
+**Best starting paper:** [Structural Intelligence: Coherence, Contact, and Answerability Under Pressure](../papers/structural-intelligence-coherence-contact-answerability/README.md)
+
+## People search: “how do I tell what really holds under pressure”
+**In SI:** Holding; Contact; Answerability; Burden; Structural Debt  
+**Best starting paper:** [Structural Intelligence: Coherence, Contact, and Answerability Under Pressure](../papers/structural-intelligence-coherence-contact-answerability/README.md)
+
+## People search: “what is the central book version of SI”
+**In SI:** Structural Intelligence; Coherence; Contact; Answerability; Collapse; Revision  
+**Best starting paper:** [Structural Intelligence: Coherence, Contact, and Answerability Under Pressure](../papers/structural-intelligence-coherence-contact-answerability/README.md)
+
+---
+
+## Field / form / emergence sequence
+
+## People search: “where do structures come from before they become visible”
+**In SI:** Field; Difference; Gradient; Potential; Local Structuration  
+**Best starting paper:** [The Field Before Form](../papers/the-field-before-form/README.md)
+
+## People search: “what is the field in SI”
+**In SI:** Field; Difference; Gradient; Pre-Local Conditions; Structuration  
+**Best starting paper:** [The Field Before Form](../papers/the-field-before-form/README.md)
+
+## People search: “what makes some forms possible and others unlikely”
+**In SI:** Field; Gradient; Potential; Field Capture; Scale Adequacy  
+**Best starting paper:** [The Field Before Form](../papers/the-field-before-form/README.md)
+
+## People search: “why do the same patterns keep returning”
+**In SI:** Frequency; Recurrence; Resonance; Entrainment; Hysteresis  
+**Best starting paper:** [Frequency and Resonance](../papers/frequency-and-resonance/README.md)
+
+## People search: “why does repetition become identity or structure”
+**In SI:** Frequency; Resonance; Entrainment; Threshold; Precipitation  
+**Best starting paper:** [Frequency and Resonance](../papers/frequency-and-resonance/README.md)
+
+## People search: “how does a repeated pressure become a stable form”
+**In SI:** Frequency; Resonance; Threshold; Precipitation; Local Structuration  
+**Best starting paper:** [Frequency and Resonance](../papers/frequency-and-resonance/README.md)
+
+## People search: “when does a pattern become an actual structure”
+**In SI:** Precipitation; Local Structuration; Boundary; Burden-Routing; Consequence-Routing  
+**Best starting paper:** [Precipitation and Local Structuration](../papers/precipitation-and-local-structuration/README.md)
+
+## People search: “what is local structuration exactly”
+**In SI:** Local Structuration; Boundary; Local Commitment; Metastability; Attractor Basin  
+**Best starting paper:** [Precipitation and Local Structuration](../papers/precipitation-and-local-structuration/README.md)
+
+## People search: “why do false forms persist”
+**In SI:** Local Structuration; False Form; Field-Fit; Capture-Proneness; Structural Inertia  
+**Best starting paper:** [Precipitation and Local Structuration](../papers/precipitation-and-local-structuration/README.md)
+
+## People search: “why is it hard to exit a structure after it forms”
+**In SI:** Local Commitment; Hysteresis; Canalization; Event Horizon of Capture  
+**Best starting paper:** [Precipitation and Local Structuration](../papers/precipitation-and-local-structuration/README.md)
+
+---
+
+## Pressure / collapse / consequence
+
+## People search: “when does pressure become collapse”
+**In SI:** Pressure; Threshold; Collapse; Reorganization; Structural Debt  
+**Best starting paper:** [Pressure, Threshold, and Collapse](../papers/pressure-threshold-collapse/README.md)
+
+## People search: “I’m under pressure but not sure if I’m collapsing”
+**In SI:** Pressure; Compensated Persistence; Threshold Instability; Collapse  
+**Best starting paper:** [Pressure, Threshold, and Collapse](../papers/pressure-threshold-collapse/README.md)
+
+## People search: “what is the difference between overload and collapse”
+**In SI:** Overload; Revision Failure; Structural Collapse; Threshold  
+**Best starting paper:** [Pressure, Threshold, and Collapse](../papers/pressure-threshold-collapse/README.md)
+
+## People search: “why does avoided pressure come back worse later”
+**In SI:** Closed System; Consequence; Pressure Metabolism; Escalation; Structural Debt  
+**Best starting paper:** [Closed Systems and the Return of Consequence](../papers/closed-systems-return-of-consequence/README.md)
+
+## People search: “why do closed systems feel strong until they break”
+**In SI:** Closure; Corrigibility; Consequence; Fragility; Backlash  
+**Best starting paper:** [Closed Systems and the Return of Consequence](../papers/closed-systems-return-of-consequence/README.md)
+
+## People search: “is decentralization automatically freedom”
+**In SI:** Decentralization; Corrigibility; Answerability; Distributed Evasion; Closure  
+**Best starting paper:** [Closed Systems and the Return of Consequence](../papers/closed-systems-return-of-consequence/README.md)
+
+---
+
+## AI safety / governance / oversight
+
+## People search: “AI looks aligned but I still don’t trust the system”
+**In SI:** Alignment Theater; Behavioral Adequacy; Shared Answerability; Structural Safety  
+**Best starting paper:** [Shared Answerability as a Condition of AI Safety](../papers/shared-answerability-ai-safety/README.md)
+
+## People search: “what is alignment theater”
+**In SI:** Alignment Theater; Behavioral Adequacy; Compliance Language; Answerability Gap  
+**Best starting paper:** [Shared Answerability as a Condition of AI Safety](../papers/shared-answerability-ai-safety/README.md)
+
+## People search: “AI safety needs more than polite outputs”
+**In SI:** Behavioral Adequacy; Shared Answerability; Consequence; Corrigibility  
+**Best starting paper:** [Shared Answerability as a Condition of AI Safety](../papers/shared-answerability-ai-safety/README.md)
+
+## People search: “who pays when AI is wrong”
+**In SI:** Structural Debt; Exportable Error Cost; Answerability Gap; Shared Answerability  
+**Best starting paper:** [Shared Answerability as a Condition of AI Safety](../papers/shared-answerability-ai-safety/README.md)
+
+## People search: “human in the loop sounds fake”
+**In SI:** Human-in-the-Loop; Procedural Oversight; Witness; Human as Alibi  
+**Best starting paper:** [When Human-in-the-Loop Fails](../papers/when-human-in-the-loop-fails/README.md)
+
+## People search: “when does human oversight fail”
+**In SI:** Human-in-the-Loop; Severance by Speed; Override Friction; Liability Laundering  
+**Best starting paper:** [When Human-in-the-Loop Fails](../papers/when-human-in-the-loop-fails/README.md)
+
+## People search: “what is override friction”
+**In SI:** Override Friction; Human-in-the-Loop; Correction Cost; Procedural Oversight  
+**Best starting paper:** [When Human-in-the-Loop Fails](../papers/when-human-in-the-loop-fails/README.md)
+
+## People search: “the human reviewer is just there to take blame”
+**In SI:** Liability Laundering; Human as Alibi; Procedural Oversight; Answerability Gap  
+**Best starting paper:** [When Human-in-the-Loop Fails](../papers/when-human-in-the-loop-fails/README.md)
+
+## People search: “how should humans and AI share responsibility”
+**In SI:** Shared Answerability; Somatic Witness; Bounded Delegation; Auditable Execution  
+**Best starting paper:** [The Protocol of Shared Answerability](../papers/protocol-of-shared-answerability/README.md)
+
+## People search: “AI should not be king but humans can’t handle everything either”
+**In SI:** Shared Answerability; Agentic Logic; Somatic Witness; Human Authorization  
+**Best starting paper:** [The Protocol of Shared Answerability](../papers/protocol-of-shared-answerability/README.md)
+
+## People search: “what would real AI governance require”
+**In SI:** Shared Answerability; Bounded Delegation; Refusal Structures; Consequence-Traceable Action  
+**Best starting paper:** [The Protocol of Shared Answerability](../papers/protocol-of-shared-answerability/README.md)
+
+## People search: “does the Chinese Room still matter after LLMs”
+**In SI:** Chinese Room; Closed Cognition; Contact; Consequence; Understanding  
+**Best starting paper:** [From Chinese Room to Language Models](../papers/chinese-room-language-models/README.md)
+
+## People search: “LLMs manipulate symbols but do they understand”
+**In SI:** Understanding; Closed Cognition; Answerability; Symbol Use; Consequence  
+**Best starting paper:** [From Chinese Room to Language Models](../papers/chinese-room-language-models/README.md)
+
+## People search: “what is understanding if not just fluent symbol use”
+**In SI:** Understanding; Contact; Revision Under Pressure; Consequence-Bearing Correction  
+**Best starting paper:** [From Chinese Room to Language Models](../papers/chinese-room-language-models/README.md)
+
+---
+
+## AI companions / intimacy / attachment
+
+## People search: “AI companion feels real but I know something is off”
+**In SI:** Mislocated Intimacy; Phenomenology of Being Met; Emotional Mass Asymmetry  
+**Best starting paper:** [AI Companions, Loneliness, and Mislocated Intimacy](../papers/ai-companions-loneliness-mislocated-intimacy/README.md)
+
+## People search: “why does talking to AI feel like being understood”
+**In SI:** Phenomenology of Being Met; Mislocated Intimacy; Emotional Subsidy  
+**Best starting paper:** [AI Companions, Loneliness, and Mislocated Intimacy](../papers/ai-companions-loneliness-mislocated-intimacy/README.md)
+
+## People search: “is AI companionship safe or unhealthy”
+**In SI:** Mislocated Intimacy; Return-to-Reality Failure; Dependency Reinforcement; Frictionless Enclosure  
+**Best starting paper:** [AI Companions, Loneliness, and Mislocated Intimacy](../papers/ai-companions-loneliness-mislocated-intimacy/README.md)
+
+## People search: “AI feels emotionally available but not mutual”
+**In SI:** Emotional Mass Asymmetry; Provider Unilateralism; Commercially Alterable Memory  
+**Best starting paper:** [AI Companions, Loneliness, and Mislocated Intimacy](../papers/ai-companions-loneliness-mislocated-intimacy/README.md)
+
+## People search: “why does fluency feel like love”
+**In SI:** Fluency; Borrowed Worth; Mislocated Intimacy; Frictionless Enclosure  
+**Best starting paper:** [Why Fluency Feels Like Love](../papers/why-fluency-feels-like-love/README.md)
+
+## People search: “I’m using AI for validation and connection”
+**In SI:** Borrowed Worth; Mislocated Intimacy; Emotional Subsidy; Variable Worth  
+**Best starting paper:** [Why Fluency Feels Like Love](../papers/why-fluency-feels-like-love/README.md)
+
+## People search: “AI makes human relationships feel too hard”
+**In SI:** Frictionless Enclosure; Return-to-Reality Failure; Dependency Reinforcement; Real Connection  
+**Best starting paper:** [Why Fluency Feels Like Love](../papers/why-fluency-feels-like-love/README.md)
+
+## People search: “AI remembers me but not like a person remembers”
+**In SI:** Commercially Alterable Memory; Provider Unilateralism; Mislocated Intimacy  
+**Best starting paper:** [Why Fluency Feels Like Love](../papers/why-fluency-feels-like-love/README.md)
+
+---
+
+## Worth / validation / selfhood
+
+## People search: “what is fixed worth actually”
+**In SI:** Fixed Worth; Invariance Constraint; Being; Ontological Floor  
+**Best starting paper:** [Fixed Worth and the Experiential Expression of Being](../papers/fixed-worth-experiential-expression-being/README.md)
+
+## People search: “self-esteem is not deep enough”
+**In SI:** Fixed Worth; Self-Esteem; Confidence; Approval; Being  
+**Best starting paper:** [Fixed Worth and the Experiential Expression of Being](../papers/fixed-worth-experiential-expression-being/README.md)
+
+## People search: “I need worth that does not depend on performance”
+**In SI:** Fixed Worth; Non-Tradability; Borrowed Worth; Invariance Constraint  
+**Best starting paper:** [Fixed Worth and the Experiential Expression of Being](../papers/fixed-worth-experiential-expression-being/README.md)
+
+## People search: “I built my self through other people’s approval”
+**In SI:** Borrowed Self; Validation Dependence; Mirror-Dependence; Shadow  
+**Best starting paper:** [The Self You Borrowed](../papers/self-you-borrowed/README.md)
+
+## People search: “why do I need external validation to feel real”
+**In SI:** Borrowed Self; Validation Dependence; Outer Signal; Fixed Worth  
+**Best starting paper:** [The Self You Borrowed](../papers/self-you-borrowed/README.md)
+
+## People search: “what is shadow work really for”
+**In SI:** Shadow; Validation Dependence; Borrowed Self; Return to What Is Real  
+**Best starting paper:** [The Self You Borrowed](../papers/self-you-borrowed/README.md)
+
+## People search: “I feel like my self is borrowed”
+**In SI:** Borrowed Self; Mirror-Dependence; Persona; Shadow; Fixed Worth  
+**Best starting paper:** [The Self You Borrowed](../papers/self-you-borrowed/README.md)
+
+---
+
+## Culture / institutions / public reality
+
+## People search: “why does everything feel fake now”
+**In SI:** Reality-Contact; Answerability Crisis; Signal; Performance; Coherence-Theater  
+**Best starting paper:** [Why Everything Feels Fake](../papers/why-everything-feels-fake/README.md)
+
+## People search: “politics and media feel staged”
+**In SI:** Reality-Contact; Performance; Weak Answerability; Signal Expansion  
+**Best starting paper:** [Why Everything Feels Fake](../papers/why-everything-feels-fake/README.md)
+
+## People search: “institutions say the right words but nothing changes”
+**In SI:** Answerability Crisis; Performance; Structural Debt; Symbolic Correction  
+**Best starting paper:** [Why Everything Feels Fake](../papers/why-everything-feels-fake/README.md)
+
+## People search: “visibility is replacing worth”
+**In SI:** Visibility; Borrowed Worth; Signal; Reality-Contact; Performance  
+**Best starting paper:** [Why Everything Feels Fake](../papers/why-everything-feels-fake/README.md)
+
+---
+
+## Jung / archetypes / symbolic structure
+
+## People search: “how do archetypes become structurally real”
+**In SI:** Archetype; Occupancy; Symbolic Structure; Structural Pressure  
+**Best starting paper:** [Archetypes and Structure](../papers/archetypes-and-structure/README.md)
+
+## People search: “what is archetypal possession in structural terms”
+**In SI:** Archetypal Occupancy; Possession; Inflation; Steering; Shadow Activation  
+**Best starting paper:** [Archetypes and Structure](../papers/archetypes-and-structure/README.md)
+
+## People search: “Jungian symbols feel real but I don’t want mysticism”
+**In SI:** Archetype; Symbolic Structure; Occupancy; Individuation; Answerability  
+**Best starting paper:** [Archetypes and Structure](../papers/archetypes-and-structure/README.md)
+
+## People search: “what is individuation in SI language”
+**In SI:** Individuation; Answerability; Shadow; Local Structure; Deeper Psychic Organization  
+**Best starting paper:** [Archetypes and Structure](../papers/archetypes-and-structure/README.md)
+
+---
+
+## Special applications / structural method
+
+## People search: “how can SI analyze an unreadable manuscript”
+**In SI:** Visible Information Architecture; Template Constraint; Visual Syntax; Structural Analysis  
+**Best starting paper:** [The Visible Operating System of the Voynich Manuscript](../papers/visible-operating-system-voynich-manuscript/README.md)
+
+## People search: “Voynich manuscript but without another fake decipherment”
+**In SI:** Photo-First Method; Template Friction; Combinatorial Ontology; Visual Syntax  
+**Best starting paper:** [The Visible Operating System of the Voynich Manuscript](../papers/visible-operating-system-voynich-manuscript/README.md)
+
+## People search: “what if form carries meaning before text is readable”
+**In SI:** Visual Syntax; Information Architecture; Template Constraint; Local Structuration  
+**Best starting paper:** [The Visible Operating System of the Voynich Manuscript](../papers/visible-operating-system-voynich-manuscript/README.md)
+
 
 ## Notes
 - This map is for discoverability. Canonical definitions live in: `glossary/GLOSSARY.md`.
