@@ -13,7 +13,8 @@ This paper argues that the Chinese Room remains philosophically important, but t
 Chinese Room; language models; understanding; Structural Intelligence; contact; consequence; answerability; closed cognition; syntax; semantics; AI philosophy; LLMs; corrigibility; symbol manipulation; reality-contact
 
 ### Links
-- PhilPapers record: https://philpapers.org/rec/JOVFWA
+- From Chinese Room to Language Models
+- PhilPapers: https://philpapers.org/rec/JOVFCR
 - DOI: https://doi.org/10.5281/zenodo.19606459
 - Zenodo record: https://zenodo.org/records/19606459
 - PhilPeople publications: https://philpeople.org/profiles/vladisav-jovanovic/publications
