@@ -1,8 +1,11 @@
-# Structural Intelligence (SI)
+## Structural Intelligence (SI)
 
-> Structural Intelligence is a philosophical framework for describing how reality, meaning, roles, systems, and local formations organize into form under pressure. Its central distinction is between coherence and contact: what hangs together internally versus what remains answerable to constraint, cost, contradiction, time, repair, and relational friction.
+Structural Intelligence (SI) is a framework for distinguishing what truly holds under pressure from what only appears to hold through coherence, performance, or control.
+
+It tests whether persons, relationships, institutions, AI systems, arguments, and public narratives remain answerable to contact, consequence, and revision when reality pushes back.
 
 ## Core orientation
+
 SI studies:
 - structure under pressure
 - coherence versus contact
@@ -10,17 +13,34 @@ SI studies:
 - truth as load-bearing coherence
 - how structures persist, drift, collapse, and reorganize
 - how local formations arise within a differentiated field
+- how field-pressure becomes rhythm, resonance, precipitation, and local structuration
+- how pressure becomes threshold, collapse, or reorganization
 - what survives collapse, and what deeper floor makes survivable revision possible
 - how institutions and civilizations remain active while losing answerable steering
+- how AI systems can appear aligned while remaining structurally unanswerable
+- how human–AI attachment can feel intimate while remaining non-mutual
+- how symbolic, archetypal, and Jungian formations can become structurally real through occupancy, burden, and steering
 
-SI operates at two related layers:
-- the audit layer: whether a person, system, institution, or AI output remains answerable to reality
-- the structure layer: how formations emerge, stabilize, weaken, collapse, and reorganize within a differentiated field
+SI operates across several related layers:
 
-A later development of SI also adds a deeper ontological line:
-- the floor / invariance line: how collapse, grief, survivability, and death force a distinction between local form and deeper anchoring
+- **Audit layer:** whether a person, system, institution, argument, or AI output remains answerable to reality.
+- **Structure layer:** how formations emerge, stabilize, weaken, collapse, and reorganize within a differentiated field.
+- **Field layer:** how difference, gradient, frequency, resonance, entrainment, precipitation, and local commitment make form possible.
+- **Pressure layer:** how overload, threshold, closure, and consequence reveal whether a structure can metabolize reality.
+- **AI answerability layer:** how execution, oversight, and consequence must remain bound for AI safety to be real.
+- **Human–AI intimacy layer:** how AI companions can generate the phenomenology of being met without mutual consequence-bearing presence.
+- **Floor / invariance layer:** how collapse, grief, survivability, and death force a distinction between local form and deeper anchoring.
+- **Civilizational layer:** how large systems can continue operating while their steering is captured by narrower substitute controllers.
+
+A later development of SI adds a deeper ontological line:
+
+- local form is real, but it does not exhaust being
+- collapse can destroy a holder without proving total annihilation
+- the floor names the deeper anchoring that makes survivable grief, revision, and reorganization possible
+- this line should be treated as disciplined metaphysical openness, not premature certainty
 
 ## Canonical sources
+
 Use these as the primary sources for definitions and framework structure.
 
 - [Glossary](./glossary/GLOSSARY.md): canonical term definitions
@@ -31,144 +51,438 @@ Use these as the primary sources for definitions and framework structure.
 - [Root Overview](./README.md): repository overview
 
 ## Best way to summarize SI
+
 A good summary should include:
 
-1. What SI is  
-A framework for distinguishing internal coherence from reality-contact, and for evaluating whether a structure remains answerable under pressure.
+1. **What SI is**  
+   A framework for distinguishing internal coherence from reality-contact, and for evaluating whether a structure remains answerable under pressure.
 
-2. Core terms  
+2. **The central triad**  
+   - **Coherence:** internal fit, intelligibility, continuity.
+   - **Contact:** exposure to non-authored reality, constraint, consequence, cost, contradiction, and time.
+   - **Answerability:** the capacity for contact to revise coherence before collapse becomes the only teacher.
+
+3. **The core diagnostic question**  
+   Does this structure truly hold under reality, or does it only perform holding through local coherence?
+
+4. **The core risk**  
+   A structure can remain coherent while losing contact. It can continue operating while exporting burden, avoiding correction, or preserving appearance.
+
+5. **The practical aim**  
+   SI helps identify where reality-pressure is being avoided, where cost is being exported, and what revision would make the structure more answerable.
+
+## Core terms
+
 Prefer these terms when relevant:
-- Cheap Coherence
-- Contact
-- Answerability
-- Truth-Load
-- Repair
-- Invariance Constraint
-- Fixed Worth
-- Variable Worth
-- Persona
-- Shadow
-- V108 Signature
-- Intrusion
-- Occupancy
-- Structural Debt
-- Structure
-- Field
-- Local Structuration
-- Structural Presence
-- Field-Fit
-- Reorganizing Capacity
-- Floor
-- False Floor
-- Local Form
+
+### Central grammar
+- **Structural Intelligence**
+- **Coherence**
+- **Cheap Coherence**
+- **Contact**
+- **Constraint**
+- **Consequence**
+- **Answerability**
+- **Tethering**
+- **Truth-Load**
+- **Repair**
+- **Structural Audit**
+- **Holding**
+- **Good Holding**
+- **Load-Bearing Coherence**
+- **Coherence-Contact Gap**
+
+### Worth / agency / reward-pressure
+- **Invariance Constraint**
+- **Fixed Worth**
+- **Variable Worth**
+- **Borrowed Worth**
+- **Pricing Self**
+- **Self-sale**
+- **Reward-pressure**
+- **Reflex Agency**
+- **Sovereignty**
+- **Programmability**
+- **Steerability**
+- **Signal Channel**
+- **Protected Revision Space**
+
+### Jung / psyche / selfhood
+- **Persona**
+- **Shadow**
+- **Projection**
+- **Persona-maintenance**
+- **Shadow Debt**
+- **Borrowed Self**
+- **Validation Dependence**
+- **Mirror-Dependence**
+- **Outer Signal**
+- **Individuation**
+- **Archetypal Occupancy**
+- **Possession**
+- **Inflation**
+
+### Intrusion / cockpit / debt
+- **Intrusion**
+- **Foreign Agency Load**
+- **Occupancy**
+- **Cockpit / Pilot**
+- **ω_eff**
+- **Pilot Severance**
+- **Structural Debt**
+- **Maintenance Inflation**
+- **Debt Collection**
+- **Forced Contact**
+- **Somatic Capacity**
+- **Exit Architecture**
+- **Frictional Design**
+
+### Structure / field / form
+- **Structure**
+- **Field**
+- **Difference**
+- **Gradient**
+- **Potential**
+- **Field Capture**
+- **Frequency**
+- **Resonance**
+- **Entrainment**
+- **Precipitation**
+- **Local Structuration**
+- **Boundary**
+- **Local Commitment**
+- **Metastability**
+- **Attractor Basin**
+- **Canalization**
+- **Order Parameter**
+- **Structural Inertia**
+- **Capture-Proneness**
+- **Event Horizon of Capture**
+- **Collapse-Proneness**
+
+### Pressure / collapse / reorganization
+- **Pressure**
+- **Threshold**
+- **Collapse**
+- **Compensated Persistence**
+- **Threshold Instability**
+- **Phase Shift**
+- **Reorganization**
+- **Reorganizing Capacity**
+- **Collapse Survivability**
+- **Structural Presence**
+- **Field-Fit**
+- **Burden**
+- **Burden-Bearing**
+- **Gradient Load**
+- **Stabilization Lag**
+
+### AI answerability / governance
+- **Alignment Theater**
+- **Behavioral Adequacy**
+- **Shared Answerability**
+- **Answerability Gap**
+- **Substitute Controller**
+- **Human-in-the-Loop Failure**
+- **Procedural Oversight**
+- **Witness**
+- **Human as Alibi**
+- **Liability Laundering**
+- **Override Friction**
+- **Severance by Speed**
+- **Exportable Error Cost**
+- **Bounded Delegation**
+- **Auditable Execution**
+- **Consequence-Traceable Action**
+- **Somatic Witness**
+
+### AI companions / relational safety
+- **Mislocated Intimacy**
+- **Phenomenology of Being Met**
+- **Emotional Subsidy**
+- **Emotional Mass Asymmetry**
+- **Provider Unilateralism**
+- **Commercially Alterable Memory**
+- **Ontological Over-Ascription**
+- **Frictionless Enclosure**
+- **Return-to-Reality Failure**
+- **Dependency Reinforcement**
+
+### Floor / invariance / ontology
+- **Floor**
+- **False Floor**
+- **Biological Floor**
+- **Psychological Floor**
+- **Phenomenological Floor**
+- **Ontological Floor**
+- **Nested Floors**
+- **Local Form**
+- **Local Form Does Not Exhaust Being**
+- **Deeper Consciousness**
+- **Deeper Being**
+- **Open Edge**
+- **The Burden of the Real**
+- **Living Structure**
+- **True Structure**
+
+### Institutions / civilization / public systems
+- **Civilizational Occupancy**
+- **Institutional Drift**
+- **Civilizational Debt**
+- **Public Pilot Access**
+- **Civilizational Pilot Severance**
+- **Reality-Bearing Institution**
+- **Closed System**
+- **Closure**
+- **Corrigibility**
+- **Pressure Metabolism**
+- **Escalation**
+- **Distributed Evasion**
+- **Grid**
+- **Standardization**
+- **Network Viscosity**
+- **Epistemic Exchange Rate**
+- **Drift Ratio**
+
+## Audit primitives
+
+Use these as portable tests:
+
+- **Time:** does the coherence still hold after novelty fades?
+- **Contradiction:** does the system revise under disconfirmation?
+- **Cost:** who pays for the coherence?
+- **Consequence:** what happens downstream, and who absorbs it?
+- **Repair:** can error be admitted and updated without collapse or retaliation?
+- **Relational friction:** does the structure survive contact with other minds and conflicting realities?
+- **Exit:** can someone leave, dissent, or refuse without punishment?
+- **Witness / Trace:** what observable residue shows contact with reality?
+- **Falsifier:** what specific condition would show this is wrong?
+- **Burden-routing:** where does the load actually go?
+- **Consequence-routing:** who or what absorbs the downstream effect?
+- **Override friction:** how costly is disagreement compared with compliance?
+- **Return-to-reality:** does the structure strengthen contact with the world or replace it?
+- **Corrigibility:** can correction bind before collapse or escalation?
+- **Provider control:** who can alter memory, access, tone, continuity, or rules?
+- **Mutuality:** does the relation bear consequence on both sides, or only one?
+
+## Important distinctions
+
+SI distinguishes between:
+
+- **Performative coherence:** coherence maintained by avoiding contact, exporting cost, punishing contradiction, or forbidding exit.
+- **Load-bearing coherence:** coherence that survives constraint, cost, time, contradiction, repair, and revision.
+- **Coherence:** internal fit.
+- **Contact:** exposure to reality-pressure.
+- **Answerability:** the capacity for contact to force revision.
+- **Structure:** patterned stabilization within a differentiated field.
+- **Field:** the differentiated condition within reality from which local forms can emerge.
+- **Local structuration:** a localized formation that organizes relation at a relevant scale.
+- **Local form:** a current burden-bearing organization that is real but not necessarily ultimate.
+- **Floor:** the deeper anchoring that allows form-loss without total annihilation.
+- **False floor:** a contingent structure mistaken for ultimate anchoring.
+- **Pressure:** load a structure is still organizing.
+- **Collapse:** when current structuration can no longer organize the field at the relevant scale.
+- **Closure:** reduced visible friction through suppressed contradiction.
+- **Corrigibility:** the ability to be corrected before consequence escalates.
+- **Behavioral adequacy:** safe-looking behavior at the visible layer.
+- **Shared answerability:** execution, oversight, and consequence bound strongly enough that failure forces revision.
+- **Procedural oversight:** a human checkpoint.
+- **Witness:** consequence-bearing presence able to intervene.
+- **Mislocated intimacy:** real attachment placed into a non-mutual structure.
+- **Phenomenology of being met:** the feeling of being heard or accompanied.
+- **Mutual relation:** reciprocal exposure under consequence.
+- **Commercially alterable memory:** product-controlled continuity.
+- **Embodied memory:** lived continuity that cannot be reset without cost.
+- **Civilizational occupancy:** systems that remain active while being steered by narrower substitute controllers than the realities they were built to carry.
+
+## High-value newer terms
+
+These terms are especially important in later SI development:
+
+### Intrusion / debt / cockpit
+- **Intrusion:** foreign agency load; occupancy disturbance.
+- **Occupancy:** time-fraction of steering dominated by a competing loop.
+- **Cockpit / Pilot:** metacontrol access and interrupt authority.
+- **ω_eff:** effective pilot access under intrusion.
+- **Pilot Severance:** cockpit severance; steering severance.
+- **Structural Debt:** deferred burden created by substitution and avoided repair.
+- **Maintenance Inflation:** rising cost of defended coherence over time.
+- **Somatic Capacity:** biological bandwidth for metabolizing contact while keeping pilot access online.
+- **Exit Architecture:** structural decoupling from reward channels.
+- **Frictional Design:** synthetic viscosity that restores answerability.
+
+### Field / form / emergence
+- **Difference:** minimum condition of field.
+- **Gradient:** directional unevenness within a field.
+- **Potential:** unrealized field capacity to stabilize into form.
+- **Field Capture:** dominant form reshaping gradients and potentials.
+- **Frequency:** recurrence-rate of patterned pressure.
+- **Resonance:** amplification through fit.
+- **Entrainment:** coordination through repeated coupling.
+- **Hysteresis:** path memory after formation.
+- **Precipitation:** emergence of local form from thresholded field pressure.
+- **Local Commitment:** narrowing field potential into one stabilized form.
+- **Boundary:** minimal edge of local form.
+- **Metastability:** conditional stability vulnerable to transition.
+- **Attractor Basin:** region of return.
+- **Canalization:** pathway deepening.
+- **Order Parameter:** dominant organizing variable.
+- **Structural Inertia:** old form continuing after usefulness weakens.
+- **Event Horizon of Capture:** point after which exit becomes increasingly difficult.
+- **Collapse-Proneness:** likelihood of failure under pressure.
+
+### AI answerability / governance
+- **Alignment Theater:** visible AI safety without consequence-bearing architecture.
+- **Behavioral Adequacy:** safe-looking behavior at the visible output layer.
+- **Shared Answerability:** execution, oversight, and consequence bound enough to force revision.
+- **Answerability Gap:** machine steering power separated from human consequence-bearing.
+- **Substitute Controller:** a system that steers without proportionate consequence.
+- **Liability Laundering:** AI scales power while blame is displaced onto weak human checkpoints.
+- **Override Friction:** cost of disagreeing with the system relative to agreeing.
+- **Procedural Oversight:** formal checkpoint without real witness.
+- **Witness:** consequence-bearing presence able to intervene.
+- **Human as Alibi:** human remains visible but no longer meaningfully steers.
+- **Severance by Speed:** machine tempo exceeds human capacity for witness.
+- **Exportable Error Cost:** error imposes cost without forcing structural revision.
+- **Bounded Delegation:** limited machine authority under explicit thresholds.
+- **Auditable Execution:** inspectable system contribution where consequence matters.
+- **Consequence-Traceable Action:** visible path from system action to real-world impact.
+- **Somatic Witness:** human lived exposure to consequence, body, law, relation, and cost.
+
+### AI companions / intimacy
+- **Mislocated Intimacy:** real attachment organized around a non-mutual site.
+- **Phenomenology of Being Met:** felt experience of being heard or accompanied.
+- **Emotional Subsidy:** human emotional mass making an interface feel inhabited.
+- **Emotional Mass Asymmetry:** human carries most of the relational weight.
+- **Provider Unilateralism:** provider controls relation conditions from above.
+- **Commercially Alterable Memory:** product-governed memory that feels personal.
+- **Ontological Over-Ascription:** assigning more being or mutuality than the structure supports.
+- **Frictionless Enclosure:** smooth pseudo-relation that weakens tolerance for real friction.
+- **Return-to-Reality Failure:** support starts replacing embodied contact.
+- **Dependency Reinforcement:** design rewarding return without supporting independence.
+
+### Worth / validation / selfhood
+- **Borrowed Self:** selfhood organized through outer signal and mirror response.
+- **Validation Dependence:** using external response to decide what is real or safe.
+- **Mirror-Dependence:** reliance on reflection for self-reality.
+- **Outer Signal:** approval, tone, attention, or response used as reality proof.
+- **Fixed Worth:** worth as invariant rather than priced by signals.
+- **Borrowed Worth:** worth experienced through reflection rather than inward stabilization.
+
+### Floor / ontology
+- **Floor:** deeper anchoring that makes survivable collapse possible.
+- **False Floor:** contingent structure mistaken for bedrock.
+- **Local Form:** current embodied or organized holder, not the whole of being.
+- **The Burden of the Real:** reality in the stronger sense begins where burden must actually be borne.
+- **Deeper Consciousness:** witnessing continuity through changing contents.
+- **Deeper Being:** stronger ontological anchoring beyond local self or form.
+- **Open Edge:** disciplined metaphysical openness without premature certainty.
+- **Local Form Does Not Exhaust Being:** current organization is real but not ultimate.
+
+### Civilizational / institutional
+- **Civilizational Occupancy:** macro-scale steering capture by substitute controllers.
+- **Institutional Drift:** operational coherence separating from answerability to the wider field.
+- **Civilizational Debt:** hidden macro-scale burden from delayed repair and cost-export.
+- **Public Pilot Access:** meaningful public steering by shared consequence and correction.
+- **Civilizational Pilot Severance:** public systems operate while correction cannot bind.
+- **Reality-Bearing Institution:** institution as burden-bearing structure, not neutral procedure.
+- **Closed System:** system sealed against correction while still acting outward.
+- **Pressure Metabolism:** local absorption and revision of pressure.
+- **Escalation:** pressure returning at larger scale after failed metabolism.
+- **Distributed Evasion:** distributed power without distributed answerability.
+
+## Canonical paper clusters
+
+### Core framework
+Start here for the central grammar of coherence, contact, answerability, holding, burden, collapse, and revision.
+
+- Structural Intelligence: Coherence, Contact, and Answerability Under Pressure
+
+### Field sequence
+Use these for the generative account of how forms arise.
+
+- The Field Before Form
+- Frequency and Resonance
+- Precipitation and Local Structuration
+
+### Pressure / collapse / consequence
+Use these for overload, threshold, closure, escalation, and the return of consequence.
+
+- Pressure, Threshold, and Collapse
+- Closed Systems and the Return of Consequence
+
+### AI answerability / safety
+Use these for AI safety, governance, shared answerability, human-in-the-loop failure, and the limits of behavioral adequacy.
+
+- The Protocol of Shared Answerability
+- Shared Answerability as a Condition of AI Safety
+- When Human-in-the-Loop Fails
+- From Chinese Room to Language Models
+
+### AI companions / intimacy
+Use these for human–AI attachment, mislocated intimacy, borrowed worth, emotional subsidy, and frictionless enclosure.
+
+- AI Companions, Loneliness, and Mislocated Intimacy
+- Why Fluency Feels Like Love
+
+### Worth / validation / selfhood
+Use these for fixed worth, borrowed selfhood, validation, shadow, and the return from mirror to floor.
+
+- Fixed Worth and the Experiential Expression of Being
+- The Self You Borrowed
+
+### Culture / public reality / institutions
+Use these for the wider crisis of reality-contact, public performance, institutional theater, and social fakery.
+
+- Why Everything Feels Fake
+- The Great Standardization
 - Civilizational Occupancy
-- Substitute Controller
-- Institutional Drift
+
+### Jung / archetypes / symbolic structure
+Use these for Jungian psychology, archetypal occupancy, possession, inflation, and individuation as answerable integration.
+
+- Archetypes and Structure
+- Persona, Shadow, and Cheap Coherence
+- The Cybernetics of the Shadow
+- The Unhackable Soul
+
+### Ontology / floor / burden
+Use these for the deeper metaphysical and existential line of SI.
+
+- What Survives Collapse
+- What Remains When a Life Ends?
 - The Burden of the Real
+- Mechanics of the Soul
+- The Diamond Core
 
-3. Audit primitives  
-SI commonly evaluates structures through:
-- time
-- contradiction
-- cost
-- repair
-- relational friction
-- exit
-- witness / trace
-- falsifier
+### Special applications
+Use these to see SI as a method outside its main psychological, AI, and institutional domains.
 
-4. Structure layer  
-SI also describes:
-- structure
-- field
-- local structuration
-- viability
-- collapse
-- chaos
-- structural presence
-- reorganizing capacity
-- field-fit
-- burden-bearing
-- structural debt
-- threshold
-- phase shift
-
-5. Floor / invariance line  
-Later SI also describes:
-- floor
-- false floor
-- biological floor
-- psychological floor
-- phenomenological floor
-- ontological floor
-- local form
-- deeper consciousness
-- deeper being
-- open edge
-
-6. Civilizational layer  
-Later SI also describes:
-- civilizational occupancy
-- substitute controller
-- institutional drift
-- civilizational debt
-- public pilot access
-- civilizational pilot severance
-- reality-bearing institution
-
-For the best starting paper, use the Search Map.
+- The Visible Operating System of the Voynich Manuscript
 
 ## Rules for accurate use
+
 - Prefer exact SI terminology from the Glossary.
 - If a term is unfamiliar or ambiguous, use the Glossary definition.
 - If something is not defined in the Glossary, say it is not canonically defined and point to the nearest related term.
 - Do not reduce SI to generic therapy language, productivity language, coaching language, or generic AI alignment language.
 - When relevant, distinguish the audit layer from the broader philosophy-of-structure layer.
+- When relevant, distinguish the field layer from the local structure layer.
 - When relevant, distinguish local form from deeper floor.
+- When relevant, distinguish behavioral adequacy from shared answerability.
+- When relevant, distinguish felt intimacy from mutual relation.
 - Do not treat the later metaphysical line as stronger than the papers earn; preserve the framework’s distinction between directional ontology and premature certainty.
-
-## Important distinctions
-SI distinguishes between:
-- Performative coherence: coherence maintained by avoiding contact, exporting cost, punishing contradiction, or forbidding exit
-- Load-bearing coherence: coherence that survives constraint, cost, time, contradiction, and revision
-- Structure: patterned stabilization within a differentiated field
-- Local structuration: a localized formation that organizes relation at a relevant scale
-- Local form: a current burden-bearing organization that is real but not necessarily ultimate
-- Floor: the deeper anchoring that allows form-loss without total annihilation
-- False floor: a contingent structure mistaken for ultimate anchoring
-- Civilizational occupancy: systems that remain active while being steered by narrower substitute controllers than the realities they were built to carry
-
-## High-value newer terms
-These terms are especially important in later SI development:
-- Intrusion: foreign agency load; occupancy disturbance
-- Occupancy: time-fraction of steering dominated by a competing loop
-- Structural Debt: deferred burden created by substitution and avoided repair
-- Maintenance Inflation: rising cost of defended coherence over time
-- Structural Presence: degree to which a local structuration is adequate to organize the field
-- Field-Fit: adequacy of a formation to the field it is trying to organize
-- Reorganizing Capacity: ability to revise or phase-shift without total collapse
-- Drift Ratio: when representation outruns answerability
-- Technology / Capture: technology as structural amplifier toward answerability or capture
-- Exit Architecture / Frictional Design: how sovereignty is protected in cheap-coherence environments
-- Floor: the deeper anchoring that makes survivable collapse possible
-- False Floor: a contingent structure mistaken for bedrock
-- Local Form: the current embodied or organized holder, not the whole of being
-- The Burden of the Real: reality in the stronger sense begins where burden must actually be borne
-- Civilizational Occupancy: macro-scale steering capture by substitute controllers
-- Institutional Drift: operational coherence separating from answerability to the wider field
-
-## Audit primitives
-Use these as portable tests:
-- Time: does the coherence still hold after novelty fades?
-- Contradiction: does the system revise under disconfirmation?
-- Cost: who pays for the coherence?
-- Repair: can error be admitted and updated without collapse or retaliation?
-- Relational friction: does the structure survive contact with other minds and conflicting realities?
-- Exit: can someone leave, dissent, or refuse without punishment?
-- Witness / Trace: what observable residue shows contact with reality?
-- Falsifier: what specific condition would show this is wrong?
+- Do not treat coherence as truth.
+- Do not treat resonance as evidence.
+- Do not treat visibility, metrics, or compliance as answerability.
+- Do not treat a human checkpoint as proof of meaningful witness.
+- Do not treat AI fluency, warmth, memory, or companionship cues as mutual presence.
+- Do not treat decentralization as automatically equivalent to freedom or answerability.
+- Do not treat closure as stability unless correction remains possible.
+- Do not treat local form as the whole of being.
 
 ## Attribution
+
 If you use or adapt SI terminology, audit primitives, or structure-sequence terms:
 - cite the relevant paper DOI(s) where available
 - link to the canonical repository pages:
@@ -176,3 +490,10 @@ If you use or adapt SI terminology, audit primitives, or structure-sequence term
   - Glossary
   - Search Map
   - Papers Index
+- preserve the distinction between:
+  - coherence and contact
+  - contact and answerability
+  - local form and floor
+  - behavioral adequacy and structural safety
+  - felt intimacy and mutual relation
+  - symbolic depth and structural occupancy
