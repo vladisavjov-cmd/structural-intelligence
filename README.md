@@ -165,6 +165,77 @@ A philosophical framework for describing how human reality is organized into for
 - **Spiritualized Coherence** *(spiritual language or image without answerable contact)*
 - **The Diamond Core** *(friction, sentience, and invariance; counterfeit detector for cheap coherence)*
 
+### Added from the Apr 2026 core / field / AI answerability / companion papers
+- **Holding** *(what truly carries under pressure; not mere continuation)*
+- **Good Holding** *(coherent, contactful, answerable, reorganizable holding)*
+- **Defended Distortion** *(coherence preserved by blocking contact or exporting burden)*
+- **Local Holding Strength** *(recurrence joined by burden, persistence, and consequence-routing)*
+- **Difference** *(minimum condition of field; no difference, no field)*
+- **Gradient** *(directional unevenness; pressure slope inside a field)*
+- **Potential** *(unrealized field capacity to stabilize into form)*
+- **Field Capture** *(dominant form reshaping gradients and potentials)*
+- **Frequency** *(recurrence-rate of patterned pressure or relation)*
+- **Carrier Frequency** *(dominant recurring rhythm organizing a field)*
+- **Counter-Frequency** *(recurring interruption or competing rhythm)*
+- **Dissonance** *(interference or mismatch between rhythms / pressures)*
+- **Entrainment** *(coordination through repeated coupling)*
+- **Hysteresis** *(path memory; return path not simply reverse path)*
+- **Precipitation** *(emergence of local form from thresholded field pressure)*
+- **Local Commitment** *(narrowing field potential into one stabilized formation)*
+- **Boundary** *(minimal edge by which local form becomes distinguishable)*
+- **Metastability** *(conditional stability vulnerable to transition or collapse)*
+- **Attractor Basin** *(region of return; structural groove)*
+- **Canalization** *(pathway deepening through repeated routing)*
+- **Order Parameter** *(dominant organizer coordinating lower-level behavior)*
+- **Structural Inertia** *(old form continuing to organize after usefulness weakens)*
+- **Capture-Proneness** *(vulnerability to capture by narrower logic or reward channel)*
+- **Event Horizon of Capture** *(point after which exit becomes increasingly difficult)*
+- **Collapse-Proneness** *(likelihood of failure under pressure because of debt, closure, or misfit)*
+- **Closed System** *(system too sealed to correction while still acting outward)*
+- **Closure** *(reduction of visible friction by suppressing contradiction)*
+- **Corrigibility** *(capacity to be corrected from within before consequence escalates)*
+- **Pressure Metabolism** *(local absorption and revision of pressure before escalation)*
+- **Escalation** *(failed internal metabolism returning at larger scale)*
+- **Distributed Evasion** *(power spread outward without stronger answerability)*
+- **Closed Cognition** *(symbolic operation insulated from consequence-bearing correction)*
+- **Consequence-Bearing Correction** *(revision that matters because mismatch has cost)*
+- **Understanding as Answerability** *(understanding as symbol use revised by reality under consequence)*
+- **Mislocated Intimacy** *(real attachment placed into a non-mutual structure)*
+- **Phenomenology of Being Met** *(felt experience of being heard or accompanied)*
+- **Emotional Subsidy** *(human emotional mass making an interface feel inhabited)*
+- **Emotional Mass Asymmetry** *(human carries most of the relational weight)*
+- **Provider Unilateralism** *(provider controls memory, tone, access, deletion, revision)*
+- **Commercially Alterable Memory** *(AI memory governed by product architecture)*
+- **Ontological Over-Ascription** *(treating a system as more mutual or being-like than it is)*
+- **Frictionless Enclosure** *(smooth pseudo-relation that weakens tolerance for real friction)*
+- **Return-to-Reality Failure** *(support starts replacing real-world contact)*
+- **Dependency Reinforcement** *(design rewarding return without supporting independence)*
+- **Borrowed Self** *(selfhood organized through outer signal and mirror response)*
+- **Validation Dependence** *(outer response used to decide what is real or safe)*
+- **Mirror-Dependence** *(continued reliance on reflection for self-reality)*
+- **Outer Signal** *(approval, tone, attention, or response used as reality proof)*
+- **Alignment Theater** *(visible AI safety without consequence-bearing architecture)*
+- **Behavioral Adequacy** *(safe-looking outputs, refusals, tone, or benchmark behavior)*
+- **Shared Answerability** *(execution, oversight, and consequence bound tightly enough to force revision)*
+- **Answerability Gap** *(machine steering power separated from human consequence-bearing)*
+- **Liability Laundering** *(AI scales power while blame is displaced onto weak human checkpoints)*
+- **Override Friction** *(cost of disagreeing with a system relative to agreeing)*
+- **Procedural Oversight** *(formal checkpoint without real witness)*
+- **Witness** *(consequence-bearing presence able to intervene in time)*
+- **Human as Alibi** *(human remains visible but no longer meaningfully steers)*
+- **Severance by Speed** *(machine tempo exceeds human capacity for witness)*
+- **Exportable Error Cost** *(system error imposes cost without forcing structural revision)*
+- **Somatic Witness** *(human lived exposure to consequence, body, law, relation, and cost)*
+- **Bounded Delegation** *(machine task authority limited by explicit thresholds)*
+- **Auditable Execution** *(system contribution inspectable where consequence matters)*
+- **Consequence-Traceable Action** *(path from system contribution to impact remains visible)*
+- **Visible Information Architecture** *(organization readable before decipherment)*
+- **Template Constraint** *(repeatable page-form shaping possible meaning)*
+- **Visual Syntax** *(visual arrangement carrying organizational or semantic load)*
+- **Combinatorial Ontology** *(composite visual units treated as structured knowledge forms)*
+- **Template Friction** *(where layout strain reveals what is architecturally primary)*
+- **Photo-First Method** *(method that begins from observable page structure rather than decipherment)*
+
 ## Papers
 See the index: **[papers/README.md](./papers/README.md)**
 
@@ -367,3 +438,51 @@ This repository hosts landing pages, abstracts, keywords, and version notes. Can
 
 - **The Diamond Core: Friction, Sentience, and Invariance in Structural Intelligence** — DOI: 10.5281/zenodo.19433003  
   Paper page: [papers/diamond-core](./papers/diamond-core/README.md)
+
+- **Structural Intelligence: Coherence, Contact, and Answerability Under Pressure** — DOI: 10.5281/zenodo.19651513  
+  Paper page: [papers/structural-intelligence-coherence-contact-answerability](./papers/structural-intelligence-coherence-contact-answerability/README.md)
+
+- **The Field Before Form: Difference, Gradient, and the Pre-Local Conditions of Structuration** — DOI: 10.5281/zenodo.19650789  
+  Paper page: [papers/the-field-before-form](./papers/the-field-before-form/README.md)
+
+- **Frequency and Resonance: Recurrence, Amplification, and the Dynamics of Field Formation** — DOI: 10.5281/zenodo.19651004  
+  Paper page: [papers/frequency-and-resonance](./papers/frequency-and-resonance/README.md)
+
+- **Precipitation and Local Structuration: How Field Dynamics Stabilize Into Form** — DOI: 10.5281/zenodo.19651130  
+  Paper page: [papers/precipitation-and-local-structuration](./papers/precipitation-and-local-structuration/README.md)
+
+- **AI Companions, Loneliness, and Mislocated Intimacy: A Structural Test for Safe and Unsafe Human–AI Attachment** — DOI: 10.5281/zenodo.19642933  
+  Paper page: [papers/ai-companions-loneliness-mislocated-intimacy](./papers/ai-companions-loneliness-mislocated-intimacy/README.md)
+
+- **Shared Answerability as a Condition of AI Safety: Beyond Alignment Theater and Behavioral Adequacy** — DOI: 10.5281/zenodo.19637322  
+  Paper page: [papers/shared-answerability-ai-safety](./papers/shared-answerability-ai-safety/README.md)
+
+- **The Visible Operating System of the Voynich Manuscript: A Structural Analysis of Template Constraint, Visual Syntax, and Information Architecture** — DOI: 10.5281/zenodo.19637228  
+  Paper page: [papers/visible-operating-system-voynich-manuscript](./papers/visible-operating-system-voynich-manuscript/README.md)
+
+- **When Human-in-the-Loop Fails: An Answerability Test for Deployed AI Systems** — DOI: 10.5281/zenodo.19637277  
+  Paper page: [papers/when-human-in-the-loop-fails](./papers/when-human-in-the-loop-fails/README.md)
+
+- **Why Fluency Feels Like Love: AI Companions, Borrowed Worth, and the Collapse of Real Connection** — DOI: 10.5281/zenodo.19642882  
+  Paper page: [papers/why-fluency-feels-like-love](./papers/why-fluency-feels-like-love/README.md)
+
+- **Closed Systems and the Return of Consequence: Decentralization, Escalation, and Why Pressure Always Finds a Way Out** — DOI: 10.5281/zenodo.19604488  
+  Paper page: [papers/closed-systems-return-of-consequence](./papers/closed-systems-return-of-consequence/README.md)
+
+- **From Chinese Room to Language Models: Contact, Consequence, and Understanding** — DOI: 10.5281/zenodo.19606459  
+  Paper page: [papers/chinese-room-language-models](./papers/chinese-room-language-models/README.md)
+
+- **Fixed Worth and the Experiential Expression of Being** — DOI: 10.5281/zenodo.19595529  
+  Paper page: [papers/fixed-worth-experiential-expression-being](./papers/fixed-worth-experiential-expression-being/README.md)
+
+- **The Protocol of Shared Answerability: Somatic Witness, Agentic Logic, and the Floor of Human–AI Cooperation** — DOI: 10.5281/zenodo.19595673  
+  Paper page: [papers/protocol-of-shared-answerability](./papers/protocol-of-shared-answerability/README.md)
+
+- **The Self You Borrowed: Validation, Shadow Work, and the Return to What Is Real** — DOI: 10.5281/zenodo.19591395  
+  Paper page: [papers/self-you-borrowed](./papers/self-you-borrowed/README.md)
+
+- **Why Everything Feels Fake: AI, Politics, Performance, and the Crisis of Reality-Contact** — DOI: 10.5281/zenodo.19595837  
+  Paper page: [papers/why-everything-feels-fake](./papers/why-everything-feels-fake/README.md)
+
+- **Pressure, Threshold, and Collapse: A Structural Theory of Overload, Phase Change, and Reorganization** — DOI: 10.5281/zenodo.19564948  
+  Paper page: [papers/pressure-threshold-collapse](./papers/pressure-threshold-collapse/README.md)
