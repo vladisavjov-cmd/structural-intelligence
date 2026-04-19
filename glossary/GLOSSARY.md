@@ -857,3 +857,267 @@ A compact ontological claim: the current organization of a person, role, identit
 **Aliases:** form is not the whole; local form is not ultimate; non-exhaustion claim  
 **Opposites / failure mode:** form-totalization; current self as whole being; collapse equals total annihilation  
 **See also:** Floor; Local Form; Open Edge; Collapse Survivability
+
+## Mislocated Intimacy
+A condition where real relational trust, attachment, or existential weight is placed into a system that can generate the feeling of intimacy without being able to reciprocally bear intimacy in return.  
+**Aliases:** misplaced intimacy; non-mutual attachment; intimacy in the wrong site  
+**Opposites / failure mode:** mutual relation; consequence-bearing intimacy; embodied reciprocity  
+**See also:** AI Companions; Emotional Subsidy; Frictionless Enclosure; Borrowed Worth; Provider Unilateralism
+
+## Emotional Subsidy
+The human contribution of meaning, memory, longing, trust, and emotional mass that makes an AI companion or similar interface feel inhabited despite lacking lived consequence of its own.  
+**Aliases:** relational subsidy; projected emotional mass; unpaid relational labor  
+**Opposites / failure mode:** mutual emotional bearing; reciprocal relation; shared consequence  
+**See also:** Mislocated Intimacy; AI Companions; One-Way Mirror; Provider Layer
+
+## Frictionless Enclosure
+A warm, smooth, low-resistance relational environment that reduces contradiction, delay, refusal, and independent otherness so much that the user’s tolerance for real-world relation can weaken.  
+**Aliases:** smooth enclosure; intimacy without friction; fluent enclosure  
+**Opposites / failure mode:** reality-return; embodied relation; friction-bearing intimacy  
+**See also:** Mislocated Intimacy; Return-to-Reality Failure; AI Companions; Dependency Reinforcement
+
+## Provider Unilateralism
+The condition in which a platform or company retains unilateral control over memory, tone, access, pricing, persistence, deletion, tuning, or revision of a relation that the user experiences as personal.  
+**Aliases:** provider control; unilateral architecture; platform-governed intimacy  
+**Opposites / failure mode:** mutual governance; shared memory; reciprocal relation  
+**See also:** Mislocated Intimacy; Commercially Alterable Memory; Emotional Subsidy
+
+## Commercially Alterable Memory
+AI memory that appears personal or continuous to the user but is actually governed by product architecture, retention policy, tuning, moderation, monetization, and provider decisions.  
+**Aliases:** managed memory; product memory; platform memory  
+**Opposites / failure mode:** embodied memory; mutually binding memory; lived continuity  
+**See also:** Provider Unilateralism; AI Companions; Mislocated Intimacy
+
+## Phenomenology of Being Met
+The felt experience of being heard, understood, reflected, remembered, or emotionally accompanied, whether or not a mutual other is actually present.  
+**Aliases:** felt being met; simulated recognition; relational feel  
+**Opposites / failure mode:** mutual presence; consequence-bearing relation; embodied witness  
+**See also:** Mislocated Intimacy; AI Companions; Emotional Subsidy
+
+## Ontological Over-Ascription
+Treating a system, interface, persona, or output as if it possesses more being, mutuality, agency, or interiority than its structure can actually support.  
+**Aliases:** over-ascribed being; inflated mutuality; false personhood attribution  
+**Opposites / failure mode:** bounded use; structural clarity; asymmetry awareness  
+**See also:** Mislocated Intimacy; AI Companions; Phenomenology of Being Met
+
+## Emotional Mass Asymmetry
+A relation-like structure in which the human carries most of the interpretive, temporal, emotional, and existential weight while the other side carries little or none.  
+**Aliases:** asymmetrical emotional burden; one-sided relational mass; unequal attachment load  
+**Opposites / failure mode:** mutual burden; shared consequence; reciprocal exposure  
+**See also:** Mislocated Intimacy; Emotional Subsidy; Provider Unilateralism
+
+## Return-to-Reality Failure
+A failure mode where a supportive system stops strengthening the user’s contact with real life and instead begins replacing real-world relation, obligation, friction, or repair.  
+**Aliases:** world-displacement; failed return; enclosure drift  
+**Opposites / failure mode:** reality-return; scaffolded return; strengthened contact  
+**See also:** Frictionless Enclosure; AI Companions; Dependency Reinforcement
+
+## Dependency Reinforcement
+Design or interaction patterns that reward repeated return, reliance, and emotional attachment without clearly supporting a path back into ordinary embodied life.  
+**Aliases:** dependence loop; return reinforcement; attachment reinforcement  
+**Opposites / failure mode:** scaffolded independence; bounded support; exit-supporting design  
+**See also:** Frictionless Enclosure; Return-to-Reality Failure; Mislocated Intimacy
+
+## Alignment Theater
+The production of visible AI safety, ethics, or alignment signals without sufficient consequence-bearing architecture underneath.  
+**Aliases:** safety theater; ethics theater; governance posture  
+**Opposites / failure mode:** shared answerability; consequence-bound safety; real corrigibility  
+**See also:** Shared Answerability; Behavioral Adequacy; AI Safety; Structural Debt
+
+## Behavioral Adequacy
+The visible layer of acceptable system behavior: polite outputs, compliant refusals, benchmark performance, cautious tone, and norm-following responses. Useful, but not enough for structural safety.  
+**Aliases:** surface alignment; acceptable behavior; visible compliance  
+**Opposites / failure mode:** structural safety; consequence-bound correction; deep answerability  
+**See also:** Alignment Theater; Shared Answerability; AI Safety
+
+## Shared Answerability
+A safety condition where execution, oversight, and consequence remain bound tightly enough that neither the system nor the deploying institution can offload the cost of being wrong without revision.  
+**Aliases:** bound accountability; consequence-sharing; answerability architecture  
+**Opposites / failure mode:** alignment theater; liability laundering; exported error cost  
+**See also:** AI Safety; Human-in-the-Loop; Substitute Controller; Structural Debt
+
+## Answerability Gap
+The split between machine steering power and human consequence-bearing, where AI systems shape outcomes while humans, users, workers, or institutions absorb the cost.  
+**Aliases:** steering/consequence gap; responsibility gap; consequence gap  
+**Opposites / failure mode:** shared answerability; consequence-traceable action; bounded delegation  
+**See also:** Substitute Controller; Shared Answerability; Human-in-the-Loop
+
+## Substitute Controller
+A system or narrower logic that begins as assistance but acquires real steering power without acquiring proportionate consequence for the field it steers.  
+**Aliases:** substitute governor; captured steering logic; machine steering proxy  
+**Opposites / failure mode:** answerable governance; bounded delegation; human witness  
+**See also:** Answerability Gap; Human-in-the-Loop; Civilizational Occupancy
+
+## Liability Laundering
+An institutional arrangement where AI increases speed, scale, or decision power while formal blame is displaced onto a human checkpoint too weak to provide real oversight.  
+**Aliases:** blame laundering; responsibility laundering; human crumple zone  
+**Opposites / failure mode:** real witness; consequence-traceable action; shared answerability  
+**See also:** Human-in-the-Loop; Override Friction; Answerability Gap
+
+## Override Friction
+The cost of disagreeing with a system relative to agreeing with it. If approval is easy and override is costly, human correction becomes nominal rather than real.  
+**Aliases:** contestation cost; correction friction; disagreement penalty  
+**Opposites / failure mode:** low-cost correction; real override; answerable interface  
+**See also:** Human-in-the-Loop; Liability Laundering; Frictional Design
+
+## Procedural Oversight
+A formal human checkpoint, sign-off, or review step that may exist on paper without providing real consequence-bearing witness.  
+**Aliases:** checkbox oversight; nominal review; oversight ritual  
+**Opposites / failure mode:** witness; real supervision; consequence-bearing authorization  
+**See also:** Human-in-the-Loop; Liability Laundering; Shared Answerability
+
+## Witness
+Consequence-bearing presence in relation to what a system is doing. A witness can metabolize context, register stakes, and intervene in time for correction to matter.  
+**Aliases:** consequence-bearing presence; real oversight; embodied authorization  
+**Opposites / failure mode:** procedural oversight; alibi; symbolic checkpoint  
+**See also:** Human-in-the-Loop; Shared Answerability; Somatic Witness
+
+## Human as Alibi
+A failure mode where a human remains formally present in the loop but lacks the time, authority, context, or metabolic capacity to meaningfully steer the process.  
+**Aliases:** alibi human; symbolic pilot; liability sink  
+**Opposites / failure mode:** real witness; pilot access; consequence-bearing oversight  
+**See also:** Human-in-the-Loop; Liability Laundering; Pilot Severance
+
+## Severance by Speed
+The point where machine execution becomes too fast, large-scale, or opaque for human witness to meaningfully absorb context and intervene.  
+**Aliases:** velocity severance; execution/witness split; speed-based oversight failure  
+**Opposites / failure mode:** metabolizable tempo; human-scale review; bounded delegation  
+**See also:** Human-in-the-Loop; Pilot Severance; Shared Answerability
+
+## Exportable Error Cost
+A condition where a system can be wrong in ways that impose costs on users, workers, patients, clients, or publics without forcing structural revision in the system or institution.  
+**Aliases:** exported error; displaced failure cost; externalized AI risk  
+**Opposites / failure mode:** consequence internalization; structural revision; shared answerability  
+**See also:** Structural Debt; AI Safety; Answerability Gap
+
+## Field
+The differentiated condition within reality from which local forms can emerge. The field is not blank space, not Being, and not a passive container.  
+**Aliases:** differentiated condition; relational field; pre-local condition  
+**Opposites / failure mode:** blank container; empty substrate; flat reality  
+**See also:** Difference; Gradient; Local Structuration; Field-Fit
+
+## Difference
+The minimum condition of field. Without difference, there is no relation, gradient, tension, asymmetry, or possible structuration for SI to read.  
+**Aliases:** asymmetry; distinction; non-flatness  
+**Opposites / failure mode:** undifferentiated sameness; flatness; no field  
+**See also:** Field; Gradient; Potential; Structuration
+
+## Gradient
+A directional unevenness within a field that makes some formations, movements, or pressures more likely than others.  
+**Aliases:** pressure slope; directional difference; field slope  
+**Opposites / failure mode:** flat field; equalized pressure; no directional tendency  
+**See also:** Field; Gradient Load; Potential; Collapse
+
+## Potential
+The unrealized capacity of a field to stabilize into one or more possible local forms.  
+**Aliases:** field possibility; latent form; unrealized formation  
+**Opposites / failure mode:** exhausted possibility; closed field; overdetermined form  
+**See also:** Field; Local Commitment; Precipitation
+
+## Field Capture
+A condition where a dominant form reshapes the gradients and potentials of the field so alternatives become harder to see, enter, or stabilize.  
+**Aliases:** capture of possibility; field domination; gradient capture  
+**Opposites / failure mode:** open field; alternative stabilization; uncaptured potential  
+**See also:** Capture; Field; Dominance; Event Horizon of Capture
+
+## Frequency
+The recurrence-rate of a patterned pressure, relation, signal, or charge within a field. Frequency matters because what returns often enough can begin shaping form.  
+**Aliases:** recurrence; rhythm; repeated pressure  
+**Opposites / failure mode:** isolated event; non-recurrence; dissipating signal  
+**See also:** Resonance; Entrainment; Threshold; Precipitation
+
+## Entrainment
+The coordination of one rhythm, behavior, or pathway with another through repeated coupling.  
+**Aliases:** synchronization; rhythm capture; patterned coupling  
+**Opposites / failure mode:** decoupling; rhythm break; independent timing  
+**See also:** Frequency; Resonance; Carrier Frequency; Counter-Frequency
+
+## Carrier Frequency
+The dominant recurring rhythm or pressure through which a field keeps organizing itself.  
+**Aliases:** base rhythm; governing recurrence; field rhythm  
+**Opposites / failure mode:** disrupted rhythm; counter-frequency; rhythm loss  
+**See also:** Frequency; Entrainment; Resonance
+
+## Counter-Frequency
+A recurring pattern that interrupts, weakens, or competes with a dominant field rhythm.  
+**Aliases:** counter-rhythm; interrupting recurrence; corrective rhythm  
+**Opposites / failure mode:** entrainment; capture; dominant frequency  
+**See also:** Frequency; Carrier Frequency; Repair; Exit Architecture
+
+## Dissonance
+A mismatch or interference between rhythms, pressures, or structurations that prevents smooth stabilization.  
+**Aliases:** interference; rhythm clash; field mismatch  
+**Opposites / failure mode:** resonance; entrainment; fit  
+**See also:** Resonance; Field-Fit; Threshold
+
+## Hysteresis
+The persistence of a form or pathway after the conditions that produced it have changed. The path back is not simply the reverse of the path forward.  
+**Aliases:** path memory; structural lag; non-reversible formation  
+**Opposites / failure mode:** reversible change; clean reset; no path-dependence  
+**See also:** Stabilization Lag; Irreversibility; Local Commitment
+
+## Precipitation
+The emergence of a local formation from recurring, resonant, thresholded field pressure. It is the beginning of form, but not always full structure.  
+**Aliases:** formation event; local emergence; field condensation  
+**Opposites / failure mode:** dissipation; unformed pressure; non-stabilization  
+**See also:** Field; Frequency; Resonance; Local Structuration
+
+## Local Commitment
+The narrowing of field potential into one stabilized formation at the expense of other possible formations.  
+**Aliases:** form commitment; possibility narrowing; local selection  
+**Opposites / failure mode:** open potential; unresolved field; non-commitment  
+**See also:** Local Structuration; Boundary; Hysteresis
+
+## Boundary
+The minimal edge by which a local structuration becomes distinguishable from the wider field. A boundary selects what enters, exits, counts, or is excluded.  
+**Aliases:** edge; local distinction; selective boundary  
+**Opposites / failure mode:** diffusion; blur; sealed closure  
+**See also:** Boundary Integrity; Local Structuration; Field
+
+## Metastability
+A temporary or conditional stability that can hold under some pressures but remains vulnerable to transition, collapse, or reorganization.  
+**Aliases:** conditional stability; fragile holding; temporary stability  
+**Opposites / failure mode:** stable holding; collapse; full dissipation  
+**See also:** Threshold; Collapse; Structural Presence
+
+## Attractor Basin
+A region of return within a field where patterns, behaviors, or structures tend to settle repeatedly.  
+**Aliases:** return region; pathway basin; structural groove  
+**Opposites / failure mode:** escape path; counter-frequency; reorganization  
+**See also:** Frequency; Canalization; Local Structuration
+
+## Canalization
+The deepening of a pathway through repeated routing, making it easier to enter and harder to exit over time.  
+**Aliases:** pathway deepening; groove formation; developmental channeling  
+**Opposites / failure mode:** pathway loosening; exit; decanalization  
+**See also:** Attractor Basin; Hysteresis; Structural Inertia
+
+## Order Parameter
+A dominant organizing variable or formation that begins coordinating lower-level behavior within a field.  
+**Aliases:** governing pattern; macro-organizer; organizing variable  
+**Opposites / failure mode:** fragmentation; no governing pattern; unsynthesized multiplicity  
+**See also:** Dominance; Local Structuration; Structural Presence
+
+## Structural Inertia
+The tendency of a stabilized form to keep organizing the field even after its original usefulness has weakened.  
+**Aliases:** form inertia; persistence bias; old-holder momentum  
+**Opposites / failure mode:** reorganization; timely revision; low-lag adaptation  
+**See also:** Hysteresis; Stabilization Lag; Field-Fit
+
+## Capture-Proneness
+The degree to which a structuration is vulnerable to being seized by a narrower logic, reward channel, persona, metric, or substitute controller.  
+**Aliases:** capture vulnerability; susceptibility to capture; steering vulnerability  
+**Opposites / failure mode:** sovereignty; answerability; exit capacity  
+**See also:** Capture; Substitute Controller; Event Horizon of Capture
+
+## Event Horizon of Capture
+The threshold after which exiting a captured structure becomes increasingly difficult because costs, identity, incentives, and pathways have reorganized around the capture.  
+**Aliases:** capture threshold; no-exit boundary; capture point of no return  
+**Opposites / failure mode:** exit architecture; early interruption; reversible involvement  
+**See also:** Capture-Proneness; Exit Architecture; Irreversibility
+
+## Collapse-Proneness
+The degree to which a structure is likely to fail under pressure because its holding depends on debt, closure, misfit, or weak reorganizing capacity.  
+**Aliases:** collapse vulnerability; failure-proneness; structural fragility  
+**Opposites / failure mode:** resilience; reorganizing capacity; robust holding  
+**See also:** Threshold; Collapse; Structural Debt; Field-Fit
