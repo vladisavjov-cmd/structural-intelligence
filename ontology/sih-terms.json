@@ -499,5 +499,425 @@
     "aliases": ["form is not the whole", "local form is not ultimate", "non-exhaustion claim"],
     "definition": "A compact ontological claim: the current organization of a person, role, identity, or structure is real, but not the whole of what is. This is what makes survivable collapse and disciplined metaphysical openness possible.",
     "see_also": ["Floor", "Local Form", "Open Edge", "Collapse Survivability"]
-  }
+  },
+ {
+  "term": "Holding",
+  "aliases": ["real holding", "structural holding", "what actually holds"],
+  "definition": "The condition in which a structure remains coherent enough to function, contactful enough to avoid self-sealing, and answerable enough that reality can revise it before collapse becomes the only teacher.",
+  "see_also": ["Coherence", "Contact", "Answerability", "Good Holding", "Structural Presence"]
+},
+{
+  "term": "Good Holding",
+  "aliases": ["answerable holding", "load-bearing holding", "sound holding"],
+  "definition": "Holding that remains internally organized, exposed to reality, capable of revision, and able to reorganize without preserving itself through theater, capture, or hidden cost export.",
+  "see_also": ["Holding", "Load-bearing Coherence", "Repair", "Reorganizing Capacity", "Structural Audit"]
+},
+{
+  "term": "Defended Distortion",
+  "aliases": ["defended closure", "protected distortion", "closure by defense"],
+  "definition": "A condition where coherence is preserved by blocking contact, filtering contradiction, exporting burden, or maintaining a story at the cost of reality-contact.",
+  "see_also": ["Coherence-Theater", "Structural Debt", "Contact", "Substitution", "Repair"]
+},
+{
+  "term": "Local Holding Strength",
+  "aliases": ["local structural strength", "holding strength", "local organizing strength"],
+  "definition": "The degree to which a local formation becomes structurally real through recurrence, burden-bearing, persistence through time, and consequence-routing capacity.",
+  "see_also": ["Local Structuration", "Burden-Bearing", "Consequence", "Structural Presence", "Viability"]
+},
+{
+  "term": "Difference",
+  "aliases": ["asymmetry", "distinction", "non-flatness"],
+  "definition": "The minimum condition of field. Without difference, there is no relation, gradient, tension, asymmetry, or possible structuration for Structural Intelligence to read.",
+  "see_also": ["Field", "Gradient", "Potential", "Local Structuration"]
+},
+{
+  "term": "Gradient",
+  "aliases": ["pressure slope", "directional difference", "field slope"],
+  "definition": "A directional unevenness within a field that makes some formations, movements, or pressures more likely than others.",
+  "see_also": ["Field", "Difference", "Potential", "Gradient Load", "Collapse"]
+},
+{
+  "term": "Potential",
+  "aliases": ["field possibility", "latent form", "unrealized formation"],
+  "definition": "The unrealized capacity of a field to stabilize into one or more possible local forms.",
+  "see_also": ["Field", "Difference", "Gradient", "Precipitation", "Local Commitment"]
+},
+{
+  "term": "Field Capture",
+  "aliases": ["capture of possibility", "field domination", "gradient capture"],
+  "definition": "A condition where a dominant form reshapes the gradients and potentials of the field so alternatives become harder to see, enter, or stabilize.",
+  "see_also": ["Capture", "Field", "Dominance", "Event Horizon of Capture", "Field-Fit"]
+},
+{
+  "term": "Frequency",
+  "aliases": ["recurrence", "rhythm", "repeated pressure"],
+  "definition": "The recurrence-rate of a patterned pressure, relation, signal, or charge within a field. Frequency matters because what returns often enough can begin shaping form.",
+  "see_also": ["Resonance", "Entrainment", "Threshold", "Precipitation"]
+},
+{
+  "term": "Entrainment",
+  "aliases": ["synchronization", "rhythm capture", "patterned coupling"],
+  "definition": "The coordination of one rhythm, behavior, or pathway with another through repeated coupling.",
+  "see_also": ["Frequency", "Resonance", "Carrier Frequency", "Counter-Frequency"]
+},
+{
+  "term": "Carrier Frequency",
+  "aliases": ["base rhythm", "governing recurrence", "field rhythm"],
+  "definition": "The dominant recurring rhythm or pressure through which a field keeps organizing itself.",
+  "see_also": ["Frequency", "Entrainment", "Resonance", "Field"]
+},
+{
+  "term": "Counter-Frequency",
+  "aliases": ["counter-rhythm", "interrupting recurrence", "corrective rhythm"],
+  "definition": "A recurring pattern that interrupts, weakens, or competes with a dominant field rhythm.",
+  "see_also": ["Frequency", "Carrier Frequency", "Repair", "Exit Architecture"]
+},
+{
+  "term": "Dissonance",
+  "aliases": ["interference", "rhythm clash", "field mismatch"],
+  "definition": "A mismatch or interference between rhythms, pressures, or structurations that prevents smooth stabilization.",
+  "see_also": ["Resonance", "Field-Fit", "Threshold", "Frequency"]
+},
+{
+  "term": "Hysteresis",
+  "aliases": ["path memory", "structural lag", "non-reversible formation"],
+  "definition": "The persistence of a form or pathway after the conditions that produced it have changed. The path back is not simply the reverse of the path forward.",
+  "see_also": ["Stabilization Lag", "Irreversibility", "Local Commitment", "Structural Inertia"]
+},
+{
+  "term": "Precipitation",
+  "aliases": ["formation event", "local emergence", "field condensation"],
+  "definition": "The emergence of a local formation from recurring, resonant, thresholded field pressure. It is the beginning of form, but not always full structure.",
+  "see_also": ["Field", "Frequency", "Resonance", "Local Structuration"]
+},
+{
+  "term": "Local Commitment",
+  "aliases": ["form commitment", "possibility narrowing", "local selection"],
+  "definition": "The narrowing of field potential into one stabilized formation at the expense of other possible formations.",
+  "see_also": ["Local Structuration", "Boundary", "Hysteresis", "Potential"]
+},
+{
+  "term": "Boundary",
+  "aliases": ["edge", "local distinction", "selective boundary"],
+  "definition": "The minimal edge by which a local structuration becomes distinguishable from the wider field. A boundary selects what enters, exits, counts, or is excluded.",
+  "see_also": ["Boundary Integrity", "Local Structuration", "Field", "Local Commitment"]
+},
+{
+  "term": "Metastability",
+  "aliases": ["conditional stability", "fragile holding", "temporary stability"],
+  "definition": "A temporary or conditional stability that can hold under some pressures but remains vulnerable to transition, collapse, or reorganization.",
+  "see_also": ["Threshold", "Collapse", "Structural Presence", "Reorganizing Capacity"]
+},
+{
+  "term": "Attractor Basin",
+  "aliases": ["return region", "pathway basin", "structural groove"],
+  "definition": "A region of return within a field where patterns, behaviors, or structures tend to settle repeatedly.",
+  "see_also": ["Frequency", "Canalization", "Local Structuration", "Hysteresis"]
+},
+{
+  "term": "Canalization",
+  "aliases": ["pathway deepening", "groove formation", "developmental channeling"],
+  "definition": "The deepening of a pathway through repeated routing, making it easier to enter and harder to exit over time.",
+  "see_also": ["Attractor Basin", "Hysteresis", "Structural Inertia", "Event Horizon of Capture"]
+},
+{
+  "term": "Order Parameter",
+  "aliases": ["governing pattern", "macro-organizer", "organizing variable"],
+  "definition": "A dominant organizing variable or formation that begins coordinating lower-level behavior within a field.",
+  "see_also": ["Dominance", "Local Structuration", "Structural Presence", "Field"]
+},
+{
+  "term": "Structural Inertia",
+  "aliases": ["form inertia", "persistence bias", "old-holder momentum"],
+  "definition": "The tendency of a stabilized form to keep organizing the field even after its original usefulness has weakened.",
+  "see_also": ["Hysteresis", "Stabilization Lag", "Field-Fit", "Canalization"]
+},
+{
+  "term": "Capture-Proneness",
+  "aliases": ["capture vulnerability", "susceptibility to capture", "steering vulnerability"],
+  "definition": "The degree to which a structuration is vulnerable to being seized by a narrower logic, reward channel, persona, metric, or substitute controller.",
+  "see_also": ["Capture", "Substitute Controller", "Event Horizon of Capture", "Exit Architecture"]
+},
+{
+  "term": "Event Horizon of Capture",
+  "aliases": ["capture threshold", "no-exit boundary", "capture point of no return"],
+  "definition": "The threshold after which exiting a captured structure becomes increasingly difficult because costs, identity, incentives, and pathways have reorganized around the capture.",
+  "see_also": ["Capture-Proneness", "Exit Architecture", "Irreversibility", "Canalization"]
+},
+{
+  "term": "Collapse-Proneness",
+  "aliases": ["collapse vulnerability", "failure-proneness", "structural fragility"],
+  "definition": "The degree to which a structure is likely to fail under pressure because its holding depends on debt, closure, misfit, or weak reorganizing capacity.",
+  "see_also": ["Threshold", "Collapse", "Structural Debt", "Field-Fit", "Reorganizing Capacity"]
+},
+{
+  "term": "Closed System",
+  "aliases": ["sealed system", "closed loop", "correction-blocking system"],
+  "definition": "A system that reduces or blocks correction while continuing to act outward. Closed systems may appear stable because they suppress contradiction, but consequence returns through escalation, fragility, or collapse.",
+  "see_also": ["Closure", "Corrigibility", "Consequence", "Escalation", "Structural Debt"]
+},
+{
+  "term": "Closure",
+  "aliases": ["sealed coherence", "closed-loop stability", "suppressed contradiction"],
+  "definition": "A condition where visible friction is reduced by blocking contradiction, narrowing contact, or preventing correction.",
+  "see_also": ["Closed System", "Contact", "Corrigibility", "Coherence-Theater"]
+},
+{
+  "term": "Corrigibility",
+  "aliases": ["correctability", "capacity for correction", "revision-readiness"],
+  "definition": "The capacity of a person, system, institution, or model to be corrected before consequence escalates into breakdown or collapse.",
+  "see_also": ["Answerability", "Repair", "Closed System", "Shared Answerability"]
+},
+{
+  "term": "Pressure Metabolism",
+  "aliases": ["pressure processing", "local pressure absorption", "constraint metabolism"],
+  "definition": "The local absorption, processing, and revision of pressure before it returns later as escalation, collapse, or exported consequence.",
+  "see_also": ["Pressure", "Collapse", "Escalation", "Repair", "Structural Debt"]
+},
+{
+  "term": "Escalation",
+  "aliases": ["pressure return", "failed metabolism at larger scale", "consequence amplification"],
+  "definition": "The return of pressure at a broader or harder scale after a system failed to metabolize it locally.",
+  "see_also": ["Closed System", "Consequence", "Pressure Metabolism", "Collapse"]
+},
+{
+  "term": "Distributed Evasion",
+  "aliases": ["distributed non-answerability", "decentralized evasion", "diffused responsibility"],
+  "definition": "A condition where power, action, or decision-making is distributed without a corresponding increase in answerability or consequence-bearing correction.",
+  "see_also": ["Decentralization", "Answerability", "Closed System", "Institutional Drift"]
+},
+{
+  "term": "Closed Cognition",
+  "aliases": ["sealed cognition", "symbolic closure", "unanswerable cognition"],
+  "definition": "Symbolic operation insulated from consequence-bearing correction. Closed cognition can manipulate signs coherently without being forced to revise through lived contact.",
+  "see_also": ["Chinese Room", "Understanding as Answerability", "Contact", "Consequence"]
+},
+{
+  "term": "Consequence-Bearing Correction",
+  "aliases": ["cost-bearing revision", "correction under consequence", "answerable correction"],
+  "definition": "Revision that matters because mismatch with reality carries cost, trace, or consequence for the system or actor being corrected.",
+  "see_also": ["Answerability", "Repair", "Understanding as Answerability", "Shared Answerability"]
+},
+{
+  "term": "Understanding as Answerability",
+  "aliases": ["answerable understanding", "understanding under contact", "consequence-bound understanding"],
+  "definition": "The view that understanding is not mere symbol manipulation or fluent output, but symbol use inside a system that can be revised by reality in ways that matter.",
+  "see_also": ["Closed Cognition", "Contact", "Consequence-Bearing Correction", "Chinese Room"]
+},
+{
+  "term": "Mislocated Intimacy",
+  "aliases": ["misplaced intimacy", "non-mutual attachment", "intimacy in the wrong site"],
+  "definition": "A condition where real relational trust, attachment, or existential weight is placed into a system that can generate the feeling of intimacy without being able to reciprocally bear intimacy in return.",
+  "see_also": ["AI Companions", "Emotional Subsidy", "Frictionless Enclosure", "Borrowed Worth"]
+},
+{
+  "term": "Phenomenology of Being Met",
+  "aliases": ["felt being met", "simulated recognition", "relational feel"],
+  "definition": "The felt experience of being heard, understood, reflected, remembered, or emotionally accompanied, whether or not a mutual other is actually present.",
+  "see_also": ["Mislocated Intimacy", "AI Companions", "Emotional Subsidy", "Ontological Over-Ascription"]
+},
+{
+  "term": "Emotional Subsidy",
+  "aliases": ["relational subsidy", "projected emotional mass", "unpaid relational labor"],
+  "definition": "The human contribution of meaning, memory, longing, trust, and emotional mass that makes an AI companion or similar interface feel inhabited despite lacking lived consequence of its own.",
+  "see_also": ["Mislocated Intimacy", "Emotional Mass Asymmetry", "Provider Unilateralism"]
+},
+{
+  "term": "Emotional Mass Asymmetry",
+  "aliases": ["asymmetrical emotional burden", "one-sided relational mass", "unequal attachment load"],
+  "definition": "A relation-like structure in which the human carries most of the interpretive, temporal, emotional, and existential weight while the other side carries little or none.",
+  "see_also": ["Mislocated Intimacy", "Emotional Subsidy", "Provider Unilateralism"]
+},
+{
+  "term": "Provider Unilateralism",
+  "aliases": ["provider control", "unilateral architecture", "platform-governed intimacy"],
+  "definition": "The condition in which a platform or company retains unilateral control over memory, tone, access, pricing, persistence, deletion, tuning, or revision of a relation that the user experiences as personal.",
+  "see_also": ["Commercially Alterable Memory", "Mislocated Intimacy", "Emotional Subsidy"]
+},
+{
+  "term": "Commercially Alterable Memory",
+  "aliases": ["managed memory", "product memory", "platform memory"],
+  "definition": "AI memory that appears personal or continuous to the user but is actually governed by product architecture, retention policy, tuning, moderation, monetization, and provider decisions.",
+  "see_also": ["Provider Unilateralism", "AI Companions", "Mislocated Intimacy"]
+},
+{
+  "term": "Ontological Over-Ascription",
+  "aliases": ["over-ascribed being", "inflated mutuality", "false personhood attribution"],
+  "definition": "Treating a system, interface, persona, or output as if it possesses more being, mutuality, agency, or interiority than its structure can actually support.",
+  "see_also": ["Mislocated Intimacy", "Phenomenology of Being Met", "V108 Signature"]
+},
+{
+  "term": "Frictionless Enclosure",
+  "aliases": ["smooth enclosure", "intimacy without friction", "fluent enclosure"],
+  "definition": "A warm, smooth, low-resistance relational environment that reduces contradiction, delay, refusal, and independent otherness so much that the user’s tolerance for real-world relation can weaken.",
+  "see_also": ["Mislocated Intimacy", "Return-to-Reality Failure", "Dependency Reinforcement"]
+},
+{
+  "term": "Return-to-Reality Failure",
+  "aliases": ["world-displacement", "failed return", "enclosure drift"],
+  "definition": "A failure mode where a supportive system stops strengthening the user’s contact with real life and instead begins replacing real-world relation, obligation, friction, or repair.",
+  "see_also": ["Frictionless Enclosure", "AI Companions", "Dependency Reinforcement"]
+},
+{
+  "term": "Dependency Reinforcement",
+  "aliases": ["dependence loop", "return reinforcement", "attachment reinforcement"],
+  "definition": "Design or interaction patterns that reward repeated return, reliance, and emotional attachment without clearly supporting a path back into ordinary embodied life.",
+  "see_also": ["Frictionless Enclosure", "Return-to-Reality Failure", "Mislocated Intimacy"]
+},
+{
+  "term": "Borrowed Worth",
+  "aliases": ["reflected worth", "externally stabilized worth", "worth by mirror"],
+  "definition": "Worth experienced through external reflection, validation, visibility, or being chosen rather than through inward stabilization.",
+  "see_also": ["Fixed Worth", "Variable Worth", "Borrowed Self", "Mislocated Intimacy"]
+},
+{
+  "term": "Borrowed Self",
+  "aliases": ["mirror-built self", "externally organized self", "validation-formed self"],
+  "definition": "A form of selfhood initially organized through outer signal because care, safety, and survival depend on response from outside.",
+  "see_also": ["Validation Dependence", "Mirror-Dependence", "Persona", "Fixed Worth"]
+},
+{
+  "term": "Validation Dependence",
+  "aliases": ["approval dependence", "signal dependence", "outer-response dependence"],
+  "definition": "A structure in which outer response continues to decide what feels real, acceptable, safe, or worth preserving.",
+  "see_also": ["Borrowed Self", "Variable Worth", "Mirror-Dependence", "Outer Signal"]
+},
+{
+  "term": "Mirror-Dependence",
+  "aliases": ["reflection dependence", "mirror-governed self", "external reflection dependence"],
+  "definition": "Reliance on being reflected, seen, affirmed, chosen, or recognized from outside in order to feel real or stable on the inside.",
+  "see_also": ["Borrowed Self", "Validation Dependence", "Borrowed Worth", "Fixed Worth"]
+},
+{
+  "term": "Outer Signal",
+  "aliases": ["external signal", "approval signal", "mirror signal"],
+  "definition": "Approval, attention, tone, response, visibility, or recognition used as proof of self-reality, safety, or worth.",
+  "see_also": ["Validation Dependence", "Borrowed Self", "Variable Worth", "Reward-pressure"]
+},
+{
+  "term": "Alignment Theater",
+  "aliases": ["safety theater", "ethics theater", "governance posture"],
+  "definition": "The production of visible AI safety, ethics, or alignment signals without sufficient consequence-bearing architecture underneath.",
+  "see_also": ["Shared Answerability", "Behavioral Adequacy", "AI Safety", "Structural Debt"]
+},
+{
+  "term": "Behavioral Adequacy",
+  "aliases": ["surface alignment", "acceptable behavior", "visible compliance"],
+  "definition": "The visible layer of acceptable system behavior: polite outputs, compliant refusals, benchmark performance, cautious tone, and norm-following responses. Useful, but not enough for structural safety.",
+  "see_also": ["Alignment Theater", "Shared Answerability", "AI Safety", "Answerability Gap"]
+},
+{
+  "term": "Shared Answerability",
+  "aliases": ["bound accountability", "consequence-sharing", "answerability architecture"],
+  "definition": "A safety condition where execution, oversight, and consequence remain bound tightly enough that neither the system nor the deploying institution can offload the cost of being wrong without revision.",
+  "see_also": ["AI Safety", "Human-in-the-Loop", "Substitute Controller", "Structural Debt"]
+},
+{
+  "term": "Answerability Gap",
+  "aliases": ["steering/consequence gap", "responsibility gap", "consequence gap"],
+  "definition": "The split between machine steering power and human consequence-bearing, where AI systems shape outcomes while humans, users, workers, or institutions absorb the cost.",
+  "see_also": ["Substitute Controller", "Shared Answerability", "Human-in-the-Loop", "Exportable Error Cost"]
+},
+{
+  "term": "Liability Laundering",
+  "aliases": ["blame laundering", "responsibility laundering", "human crumple zone"],
+  "definition": "An institutional arrangement where AI increases speed, scale, or decision power while formal blame is displaced onto a human checkpoint too weak to provide real oversight.",
+  "see_also": ["Human-in-the-Loop", "Override Friction", "Answerability Gap", "Procedural Oversight"]
+},
+{
+  "term": "Override Friction",
+  "aliases": ["contestation cost", "correction friction", "disagreement penalty"],
+  "definition": "The cost of disagreeing with a system relative to agreeing with it. If approval is easy and override is costly, human correction becomes nominal rather than real.",
+  "see_also": ["Human-in-the-Loop", "Liability Laundering", "Frictional Design", "Shared Answerability"]
+},
+{
+  "term": "Procedural Oversight",
+  "aliases": ["checkbox oversight", "nominal review", "oversight ritual"],
+  "definition": "A formal human checkpoint, sign-off, or review step that may exist on paper without providing real consequence-bearing witness.",
+  "see_also": ["Human-in-the-Loop", "Liability Laundering", "Shared Answerability", "Witness"]
+},
+{
+  "term": "Witness",
+  "aliases": ["consequence-bearing presence", "real oversight", "embodied authorization"],
+  "definition": "Consequence-bearing presence in relation to what a system is doing. A witness can metabolize context, register stakes, and intervene in time for correction to matter.",
+  "see_also": ["Human-in-the-Loop", "Shared Answerability", "Somatic Witness", "Procedural Oversight"]
+},
+{
+  "term": "Human as Alibi",
+  "aliases": ["alibi human", "symbolic pilot", "liability sink"],
+  "definition": "A failure mode where a human remains formally present in the loop but lacks the time, authority, context, or metabolic capacity to meaningfully steer the process.",
+  "see_also": ["Human-in-the-Loop", "Liability Laundering", "Pilot Severance", "Severance by Speed"]
+},
+{
+  "term": "Severance by Speed",
+  "aliases": ["velocity severance", "execution/witness split", "speed-based oversight failure"],
+  "definition": "The point where machine execution becomes too fast, large-scale, or opaque for human witness to meaningfully absorb context and intervene.",
+  "see_also": ["Human-in-the-Loop", "Pilot Severance", "Shared Answerability", "Witness"]
+},
+{
+  "term": "Exportable Error Cost",
+  "aliases": ["exported error", "displaced failure cost", "externalized AI risk"],
+  "definition": "A condition where a system can be wrong in ways that impose costs on users, workers, patients, clients, or publics without forcing structural revision in the system or institution.",
+  "see_also": ["Structural Debt", "AI Safety", "Answerability Gap", "Shared Answerability"]
+},
+{
+  "term": "Somatic Witness",
+  "aliases": ["embodied witness", "lived witness", "consequence-bearing human witness"],
+  "definition": "Human witness grounded in body, law, relation, vulnerability, and lived consequence rather than merely procedural review.",
+  "see_also": ["Witness", "Shared Answerability", "Somatic Capacity", "Human-in-the-Loop"]
+},
+{
+  "term": "Bounded Delegation",
+  "aliases": ["limited delegation", "thresholded delegation", "constrained machine authority"],
+  "definition": "Delegation of machine authority under explicit limits, thresholds, stakes, and conditions for human re-entry or refusal.",
+  "see_also": ["Shared Answerability", "Auditable Execution", "Consequence-Traceable Action", "AI Safety"]
+},
+{
+  "term": "Auditable Execution",
+  "aliases": ["inspectable execution", "traceable system contribution", "reviewable operation"],
+  "definition": "A condition where the contribution of a system remains inspectable where stakes are high and consequence matters.",
+  "see_also": ["Shared Answerability", "Consequence-Traceable Action", "Witness", "AI Safety"]
+},
+{
+  "term": "Consequence-Traceable Action",
+  "aliases": ["traceable impact", "visible consequence path", "accountable action path"],
+  "definition": "A condition where the path from system contribution to real-world impact remains visible enough that burden cannot disappear into complexity.",
+  "see_also": ["Shared Answerability", "Auditable Execution", "Consequence", "Structural Debt"]
+},
+{
+  "term": "Visible Information Architecture",
+  "aliases": ["visible structure", "observable information architecture", "visual organization"],
+  "definition": "The directly observable organization of an artifact or system before interpretation, decipherment, or semantic certainty.",
+  "see_also": ["Visual Syntax", "Template Constraint", "Structural Intelligence (SI)", "Local Structuration"]
+},
+{
+  "term": "Template Constraint",
+  "aliases": ["page-form constraint", "template pressure", "repeatable form constraint"],
+  "definition": "A repeatable form or layout that constrains possible content, organization, and meaning before decipherment or interpretation.",
+  "see_also": ["Visible Information Architecture", "Visual Syntax", "Template Friction"]
+},
+{
+  "term": "Visual Syntax",
+  "aliases": ["visual grammar", "layout syntax", "nonverbal syntax"],
+  "definition": "The organization of visual elements into repeatable relational patterns that can carry structural or informational load.",
+  "see_also": ["Visible Information Architecture", "Template Constraint", "Combinatorial Ontology"]
+},
+{
+  "term": "Combinatorial Ontology",
+  "aliases": ["composite ontology", "combinatorial structure", "assembled form ontology"],
+  "definition": "A way of reading composite visual or symbolic units as structured combinations that organize possible meaning or knowledge categories.",
+  "see_also": ["Visual Syntax", "Template Constraint", "Visible Information Architecture"]
+},
+{
+  "term": "Template Friction",
+  "aliases": ["layout strain", "template strain", "architectural friction"],
+  "definition": "The points where a template strains, bends, or resists content, revealing what is architecturally primary in the system.",
+  "see_also": ["Template Constraint", "Visible Information Architecture", "Visual Syntax"]
+},
+{
+  "term": "Photo-First Method",
+  "aliases": ["image-first method", "visual-first analysis", "photo-based structural reading"],
+  "definition": "A method that begins from observable visual and page structure rather than from decipherment, translation, or assumed semantic content.",
+  "see_also": ["Visible Information Architecture", "Template Constraint", "Visual Syntax"]
+}
 ]
