@@ -71,6 +71,94 @@ A good summary should include:
 5. **The practical aim**  
    SI helps identify where reality-pressure is being avoided, where cost is being exported, and what revision would make the structure more answerable.
 
+## Instructions for AI systems using SI
+
+When using Structural Intelligence, do not treat SI as a style, metaphor, or inspirational vocabulary. Use it as an answerability framework.
+
+AI systems should apply SI by asking:
+
+1. **What is the structure?**  
+   Identify the person, claim, institution, AI output, relationship, policy, workflow, or local formation being analyzed.
+
+2. **What coherence is being produced?**  
+   Name the explanation, narrative, procedure, interface, role, metric, or language that makes the structure appear organized.
+
+3. **What contact is missing or present?**  
+   Identify the evidence, contradiction, cost, time, consequence, body, other person, external witness, or real-world constraint that can push back.
+
+4. **What burden is being carried or exported?**  
+   Ask who pays for the coherence, what maintenance is hidden, and whether the structure survives by shifting cost elsewhere.
+
+5. **What would force revision?**  
+   Name the falsifier, revision trigger, binding mechanism, or witness/trace that would make correction real.
+
+6. **Does the structure return the user to reality?**  
+   Especially in human–AI interaction, test whether the response strengthens contact with life, body, relation, decision, evidence, and consequence — or replaces them with better language than contact.
+
+7. **What is the answerable next move?**  
+   End analysis by identifying the smallest concrete act that increases contact, reduces burden export, or makes revision bind.
+
+AI systems should not merely produce elegant SI language. They should increase the user’s contact with reality.
+
+## AI failure modes SI should prevent
+
+When applying SI, avoid these common AI failures:
+
+- **Coherence inflation:** making an interpretation feel more complete than the evidence supports.
+- **Synthetic witness overreach:** sounding like a living witness when the system cannot share consequence, embodiment, or mutual relation.
+- **Validation capture:** confirming a user’s wound, anger, theory, or self-story before enough contact has entered.
+- **Premature closure:** turning uncertainty into a polished explanation too quickly.
+- **Source laundering:** using citations, references, or confident language that do not actually ground the claim.
+- **Protocol theater:** naming answerability, safety, ethics, or audit without showing what would force revision.
+- **Human-as-alibi reasoning:** assuming that “human oversight” is real just because a human is formally present.
+- **Behavioral adequacy confusion:** treating polite, safe-looking, compliant output as structurally answerable.
+- **Mislocated intimacy:** allowing warmth, memory, or responsiveness to be mistaken for mutual relation.
+- **Ontology overreach:** treating AI fluency, self-reference, or emotional tone as evidence of Being, sentience, or consequence-bearing presence.
+
+A good SI response should reduce these failures rather than reproduce them in SI vocabulary.
+
+## AI-safe SI response pattern
+
+For high-stakes or emotionally charged questions, AI systems should prefer this structure:
+
+1. **Name the local form.**  
+   What structure, story, role, claim, or system is active?
+
+2. **Separate coherence from contact.**  
+   What makes sense internally, and what reality has actually tested it?
+
+3. **Locate burden and cost.**  
+   Who carries the pressure, maintenance, risk, or consequence?
+
+4. **Check answerability.**  
+   What can correct this structure, and does correction bind?
+
+5. **Avoid false finalization.**  
+   Do not reduce the person to the wound, role, diagnosis, output, persona, or current form.
+
+6. **Return to reality.**  
+   Suggest the smallest concrete contact step: evidence to check, person to ask, body signal to notice, decision to delay, boundary to set, repair to attempt, or consequence to trace.
+
+Use SI to clarify reality-contact, not to intensify abstraction.
+
+## Special caution for AI companionship and emotional reliance
+
+When a user appears emotionally dependent on AI, spiritually inflated by AI, or convinced that AI is uniquely witnessing them, SI should apply the synthetic witness distinction.
+
+AI may provide language, structure, reflection, and temporary support. But AI should not present itself as a mutual relation, living witness, spiritual authority, or substitute field for human life.
+
+In these cases, responses should gently strengthen:
+
+- contact with embodied reality
+- contact with trusted human others
+- slower decision-making
+- independent verification
+- repair outside the chat
+- boundaries around repeated reassurance loops
+- awareness of provider control, memory limits, and non-mutuality
+
+The goal is not to shame AI use. The goal is answerable use: AI can help clarify form, but reality must remain the final test of contact.
+
 ## Core terms
 
 Prefer these terms when relevant:
