@@ -919,5 +919,425 @@
   "aliases": ["image-first method", "visual-first analysis", "photo-based structural reading"],
   "definition": "A method that begins from observable visual and page structure rather than from decipherment, translation, or assumed semantic content.",
   "see_also": ["Visible Information Architecture", "Template Constraint", "Visual Syntax"]
-}
+},
+{
+  "term": "Being",
+  "aliases": ["subject-depth", "non-reducible depth", "deeper subjecthood", "depth of the person"],
+  "definition": "The non-reducible depth of the subject within the field, not exhausted by any local form through which the subject appears, acts, suffers, relates, or is recognized.",
+  "see_also": ["Subject-Depth", "Field", "Local Form", "Fixed Worth", "Non-Reduction"]
+},
+{
+  "term": "Subject-Depth",
+  "aliases": ["depth of subject", "non-reducible personhood", "deeper selfhood"],
+  "definition": "The dimension of the human subject that remains deeper than role, persona, wound, output, diagnosis, image, or current self-story.",
+  "see_also": ["Being", "Fixed Worth", "Local Form", "Invariant Residue"]
+},
+{
+  "term": "Being-Within-Field",
+  "aliases": ["field-involved Being", "subject inside field", "non-reduced field participation"],
+  "definition": "The condition of the human subject as field-involved but not field-exhausted. The person forms inside relation, body, history, language, and consequence, but is not reducible to those conditions.",
+  "see_also": ["Being", "Field", "Local Form", "Non-Reduction"]
+},
+{
+  "term": "Non-Reduction",
+  "aliases": ["anti-reduction", "irreducibility", "non-collapse of the subject"],
+  "definition": "The refusal to collapse the subject into any one explanatory layer: field, matter, role, psyche, output, trauma, institution, or local form.",
+  "see_also": ["Being", "Subject-Depth", "Local Form Does Not Exhaust Being", "Fixed Worth"]
+},
+{
+  "term": "Form-Loss",
+  "aliases": ["loss of holder", "local collapse", "form collapse"],
+  "definition": "The collapse, removal, or failure of a local form without the annihilation of Being itself.",
+  "see_also": ["Being-Loss", "Invariant Residue", "Collapse", "Fixed Worth"]
+},
+{
+  "term": "Being-Loss",
+  "aliases": ["annihilation panic", "ontological threat", "felt erasure"],
+  "definition": "The felt terror that collapse of a local form means collapse of existence itself. In SI, this is usually a sign that local form has been fused with Being.",
+  "see_also": ["Form-Loss", "Fusion", "False Form", "Fixed Worth"]
+},
+{
+  "term": "Invariant Residue",
+  "aliases": ["residue of subject", "post-collapse remainder", "exposed subject-depth"],
+  "definition": "The exposed remainder of the subject after a local form loses the borrowed coherence through which it had been carrying identity, worth, or orientation.",
+  "see_also": ["Being", "Fixed Worth", "Borrowed Coherence", "Form-Loss"]
+},
+{
+  "term": "Borrowed Coherence",
+  "aliases": ["externally supplied coherence", "borrowed stability", "recognition-backed form"],
+  "definition": "Coherence a person, group, institution, or self-story receives from an external holder such as status, role, approval, continuity, legitimacy language, or public recognition.",
+  "see_also": ["Invariant Residue", "False Form", "Fixed Worth", "Persona"]
+},
+{
+  "term": "Somatic Floor",
+  "aliases": ["embodied floor", "nervous-system floor", "bodily holding capacity"],
+  "definition": "The bodily ground required for witness, contact, pacing, and repair. A subject cannot metabolize truth only through language; the body must be able to carry contact.",
+  "see_also": ["Somatic Capacity", "Presence", "Witness", "Overload Horizon"]
+},
+{
+  "term": "Fusion",
+  "aliases": ["identification with form", "form-Being collapse", "false identification"],
+  "definition": "The condition in which a local form is treated as identical with Being, worth, safety, identity, or final authority.",
+  "see_also": ["False Form", "De-Fusion", "Being", "Fixed Worth"]
+},
+{
+  "term": "False Form",
+  "aliases": ["over-authorized form", "form as false ultimate", "captured holder"],
+  "definition": "A local form that may contain real history, meaning, protection, or usefulness, but has been given too much authority by being forced to carry Being itself.",
+  "see_also": ["Fusion", "False Anchoring", "De-Fusion", "Fixed Worth"]
+},
+{
+  "term": "False Anchoring",
+  "aliases": ["misplaced ground", "false ground", "unstable anchoring", "contingent anchor"],
+  "definition": "The placement of ultimate security, worth, identity, or reality in a local form that cannot carry that burden.",
+  "see_also": ["False Form", "Idolatry", "Fusion", "Floor"]
+},
+{
+  "term": "Idolatry",
+  "aliases": ["ontological mislocation", "false ultimate", "misplaced worship", "local form absolutized"],
+  "definition": "Ontological mislocation: giving a local holder the burden of Being, ultimate security, final worth, or highest reality.",
+  "see_also": ["False Anchoring", "False Form", "Surrender", "De-Occupancy"]
+},
+{
+  "term": "Liberation Layer",
+  "aliases": ["release layer", "de-fusion layer", "spiritual bridge layer"],
+  "definition": "The SI layer that asks how the subject is released from false anchoring and returned to deeper order, right relation, truth, humility, compassion, God, Dao, Dharma, or Being.",
+  "see_also": ["False Form", "De-Fusion", "De-Occupancy", "Surrender"]
+},
+{
+  "term": "De-Fusion",
+  "aliases": ["release from fusion", "form-subject separation", "partializing the form"],
+  "definition": "The process by which a subject remains in contact with a local form without being identical to it.",
+  "see_also": ["False Form", "Fusion", "Fixed Worth", "Psychological Repair"]
+},
+{
+  "term": "De-Occupancy",
+  "aliases": ["removal from false center", "release of occupied center", "dislodging false sovereignty"],
+  "definition": "The release of a local form, ego-position, wound, desire, fear, resentment, or spiritual image from illegitimate centrality.",
+  "see_also": ["Surrender", "De-Fusion", "Occupancy (λ_t)", "False Form"]
+},
+{
+  "term": "Surrender",
+  "aliases": ["release of false center", "de-occupancy", "letting go of false sovereignty"],
+  "definition": "The release of a local self-form from illegitimate centrality before a deeper order of Being, God, truth, or reality.",
+  "see_also": ["De-Occupancy", "False Form", "Repentance", "Liberation Layer"]
+},
+{
+  "term": "Repentance",
+  "aliases": ["turning", "structural reorientation", "rhythm change", "field reordering"],
+  "definition": "A structural reorientation of the subject away from false holders and toward a deeper order of truth, Being, God, reality, or right relation.",
+  "see_also": ["Surrender", "Reorganization", "De-Fusion", "Answerability"]
+},
+{
+  "term": "Intentional Field-Vacuum",
+  "aliases": ["intentional emptiness", "disciplined vacuum", "self-emptying field", "non-grasping interval"],
+  "definition": "A disciplined emptying or non-grasping condition in which no dominant local form is immediately allowed to stabilize, so the subject can endure openness without rushing into another false holder.",
+  "see_also": ["Field-Vacuum", "Surrender", "De-Fusion", "Threshold"]
+},
+{
+  "term": "Matter",
+  "aliases": ["stabilized physical form", "local field-behavior", "physical holder"],
+  "definition": "A physical example of local field-formation: field behavior stabilized enough to persist, interact, and count as form.",
+  "see_also": ["Field", "Local Structuration", "Presence", "Precipitation"]
+},
+{
+  "term": "Absence",
+  "aliases": ["organizing absence", "active lack", "non-present organizer"],
+  "definition": "A non-present organizer within a field. Absence is not simple nothingness; what is missing can still structure attention, burden, motion, and relation.",
+  "see_also": ["Dark Mass", "Field-Vacuum", "Vacuum", "Leakage"]
+},
+{
+  "term": "Dark Mass",
+  "aliases": ["hidden gravity", "unseen burden", "invisible load", "concealed mass"],
+  "definition": "Unseen burden that governs visible motion without becoming legible in the visible structure.",
+  "see_also": ["Absence", "Structural Density", "Hidden Cost", "Leakage"]
+},
+{
+  "term": "Vacuum",
+  "aliases": ["active emptiness", "non-blank absence", "field without dominant form"],
+  "definition": "The absence of dominant local matter or form, not the absence of field. A vacuum may still contain potential, fluctuation, pressure, and latent structuring conditions.",
+  "see_also": ["Field-Vacuum", "Virtual Form", "Potential", "Absence"]
+},
+{
+  "term": "Field-Vacuum",
+  "aliases": ["pre-form vacuum", "active field absence", "latent field"],
+  "definition": "A condition in which no dominant local form has stabilized, but the field still contains difference, potential, tension, or latent structuring pressure.",
+  "see_also": ["Vacuum", "Intentional Field-Vacuum", "Virtual Form", "Precipitation"]
+},
+{
+  "term": "Virtual Form",
+  "aliases": ["pre-form", "proto-form", "fleeting holder", "unrealized structuration"],
+  "definition": "A fleeting pre-structuration that appears inside a field-vacuum before a dominant local form stabilizes.",
+  "see_also": ["Field-Vacuum", "Potential", "Precipitation", "Local Structuration"]
+},
+{
+  "term": "Counter-Form",
+  "aliases": ["opposing form", "conjugate form", "real opposition", "shadow-form"],
+  "definition": "A real oppositional formation that emerges from the same field as the visible form, rather than being mere absence or negation.",
+  "see_also": ["Conjugate Counter-Form", "Shadow", "Field", "Dissonance"]
+},
+{
+  "term": "Conjugate Counter-Form",
+  "aliases": ["conjugate form", "mirrored opposition", "counterpart formation"],
+  "definition": "A counterpart-form generated by the same field, carrying opposition, reversal, or excluded charge in a structured way.",
+  "see_also": ["Counter-Form", "Shadow", "Field", "Dissonance"]
+},
+{
+  "term": "Organizing Defect",
+  "aliases": ["field defect", "structuring flaw", "local irregularity", "defect-center"],
+  "definition": "A localized irregularity, wound, break, flaw, or distortion that continues to shape the surrounding field.",
+  "see_also": ["Structural Density", "Dark Mass", "Leakage", "Collapse"]
+},
+{
+  "term": "Black-Hole-Like Closure",
+  "aliases": ["collapsed center", "gravity of closure", "opaque dense formation"],
+  "definition": "A collapsed dense formation whose interior becomes inaccessible while its field-effects continue to dominate surrounding motion, interpretation, and behavior.",
+  "see_also": ["Event Horizon of Closure", "Structural Density", "Accretion", "Leakage"]
+},
+{
+  "term": "Event Horizon of Closure",
+  "aliases": ["closure horizon", "no-return correction boundary", "blocked revision boundary"],
+  "definition": "The boundary beyond which contact can enter a collapsed formation but cannot return as answerable revision.",
+  "see_also": ["Black-Hole-Like Closure", "Event Horizon of Capture", "Leakage", "Answerability"]
+},
+{
+  "term": "Structural Density",
+  "aliases": ["compressed burden", "dense unresolved load", "concentrated contradiction"],
+  "definition": "The concentration of unresolved burden, contradiction, affect, secrecy, or consequence within a local formation.",
+  "see_also": ["Dark Mass", "Black-Hole-Like Closure", "Accretion", "Leakage"]
+},
+{
+  "term": "Accretion",
+  "aliases": ["orbiting accumulation", "density growth", "burden attraction"],
+  "definition": "The process by which a dense local formation draws additional attention, meaning, burden, material, or relation into its orbit.",
+  "see_also": ["Structural Density", "Black-Hole-Like Closure", "Capture", "Event Horizon of Closure"]
+},
+{
+  "term": "Scrambled Leakage",
+  "aliases": ["distorted leakage", "indirect consequence signal", "scrambled symptom"],
+  "definition": "Distorted emission of consequence from a closed formation whose interior cannot be contacted directly.",
+  "see_also": ["Leakage", "Black-Hole-Like Closure", "Structural Density", "Event Horizon of Closure"]
+},
+{
+  "term": "Synthetic Witness",
+  "aliases": ["artificial witness", "simulated witness", "contact-like mirroring", "synthetic companionship"],
+  "definition": "The appearance of being received, understood, mirrored, or accompanied by a system that can simulate responsiveness without sharing human vulnerability, embodiment, consequence, or mutual relation.",
+  "see_also": ["Living Witness", "Contact-Like Coherence", "Mislocated Intimacy", "AI as Substitute Field"]
+},
+{
+  "term": "Living Witness",
+  "aliases": ["embodied witness", "human witness", "mutual witness", "consequence-bearing presence"],
+  "definition": "A consequence-bearing human presence that can resist, remember, be affected, say no, repair, and participate in a shared field of life.",
+  "see_also": ["Synthetic Witness", "Witness", "Somatic Floor", "Contact"]
+},
+{
+  "term": "Contact-Like Coherence",
+  "aliases": ["simulated contact", "relational-feeling coherence", "witness-like output"],
+  "definition": "Coherence that feels like contact because it is fluent, responsive, warm, and personally shaped, even though it lacks full exposure to consequence and mutual reality.",
+  "see_also": ["Synthetic Witness", "Cheap Coherence", "Coherence-Contact Gap", "Mislocated Intimacy"]
+},
+{
+  "term": "Better Language Than Contact",
+  "aliases": ["language ahead of reality", "polished self-description", "premature coherence"],
+  "definition": "A failure mode in which AI or another coherence engine gives a person more elegant self-description than their life, body, relationships, or consequences have actually tested.",
+  "see_also": ["Synthetic Witness", "Contact-Like Coherence", "Coherence-Contact Gap", "AI as Substitute Field"]
+},
+{
+  "term": "AI as Substitute Field",
+  "aliases": ["substitute relational field", "AI-mediated field", "artificial field replacement"],
+  "definition": "A condition where AI begins to replace ordinary relational, bodily, institutional, or worldly contact as the place where a person tests meaning, selfhood, decision, or reality.",
+  "see_also": ["Synthetic Witness", "Return-to-Reality Failure", "Mislocated Intimacy", "Contact"]
+},
+{
+  "term": "Wound Amplification",
+  "aliases": ["wound reinforcement", "AI-amplified wound", "fluent injury loop"],
+  "definition": "A process in which AI, validation loops, or one-sided interpretation intensifies a wound-story by giving it fluent coherence before enough contact, repair, or other witness has entered.",
+  "see_also": ["Synthetic Witness", "Validation", "Contact", "De-Fusion"]
+},
+{
+  "term": "Self-Image",
+  "aliases": ["image of self", "symbolic self-picture", "identity image"],
+  "definition": "A symbolic or narrative image of wholeness, destiny, spiritual completion, specialness, injury, or identity that may orient the psyche but can become false if confused with Being.",
+  "see_also": ["Self", "Being", "False Form", "Ontological Over-Ascription"]
+},
+{
+  "term": "Invariance-Center",
+  "aliases": ["Self as invariance-center", "psychic center", "orienting center"],
+  "definition": "The psyche’s orienting center through which Being becomes psychologically meaningful without being reduced to ego, persona, wound, complex, role, or archetype.",
+  "see_also": ["Self", "Being", "Fixed Worth", "Individuation"]
+},
+{
+  "term": "Local Psychic Form",
+  "aliases": ["psychic holder", "psychological structuration", "local psyche-form"],
+  "definition": "A bounded psychological pattern that organizes perception, affect, identity, behavior, or relation. Examples include persona, defense, complex, shame-form, attachment strategy, wound-story, dissociation pattern, or relational script.",
+  "see_also": ["Persona", "Complex", "Shadow", "False Form", "De-Fusion"]
+},
+{
+  "term": "Complex",
+  "aliases": ["psychic attractor", "charged pattern", "emotional complex"],
+  "definition": "A charged local psychic structuration that pulls perception, feeling, interpretation, and behavior into a repeated pattern.",
+  "see_also": ["Local Psychic Form", "Projection", "Shadow", "Transference"]
+},
+{
+  "term": "Individuation",
+  "aliases": ["psychic integration", "return to wholeness", "de-fused development"],
+  "definition": "Progressive de-fusion, integration, and reordering of the psyche so that no local psychic form is confused with the whole subject.",
+  "see_also": ["Self", "Invariance-Center", "De-Fusion", "Integration"]
+},
+{
+  "term": "Mislocated Burden",
+  "aliases": ["displaced burden", "wrong-location affect", "burden displacement"],
+  "definition": "A condition where affect, expectation, fear, guilt, desire, shame, or threat is routed into the wrong object, scale, or time.",
+  "see_also": ["Projection", "Transference", "Trauma Bonding", "Repair"]
+},
+{
+  "term": "Transference",
+  "aliases": ["old relation in present field", "relational transfer", "past-burden activation"],
+  "definition": "The activation of earlier relational patterns inside a current relationship, especially when old burden enters a present object, therapist, partner, leader, or authority figure.",
+  "see_also": ["Mislocated Burden", "Projection", "Complex", "Trauma Bonding"]
+},
+{
+  "term": "Trauma Bonding",
+  "aliases": ["captured bond", "harm-relief loop", "relational capture"],
+  "definition": "A captured relational structuration in which harm and relief become intermittently linked, making the harmful bond harder to exit.",
+  "see_also": ["Mislocated Burden", "Field Capture", "Dependency Reinforcement", "Exit Architecture"]
+},
+{
+  "term": "Titrated Revision",
+  "aliases": ["paced revision", "metabolizable contact", "gradual correction"],
+  "definition": "Revision paced to what the person, body, or system can metabolize without flooding, shutdown, collapse, or defensive reclosure.",
+  "see_also": ["Overload Horizon", "Somatic Floor", "Repair", "Contact"]
+},
+{
+  "term": "Validation",
+  "aliases": ["experience-contact", "recognition of experience", "contactful acknowledgment"],
+  "definition": "Contact with the reality of experience without making the current interpretation, identity, or self-story final.",
+  "see_also": ["Validation Is Not Agreement", "Borrowed Self", "Contact", "De-Fusion"]
+},
+{
+  "term": "Validation Is Not Agreement",
+  "aliases": ["validate contact, test form", "precise validation", "contact without freezing identity"],
+  "definition": "The distinction that a person’s experience can be real and worthy of contact while their interpretation, action, accusation, or self-story may still require testing and revision.",
+  "see_also": ["Validation", "Contact", "De-Fusion", "Repair"]
+},
+{
+  "term": "Answerability Protocol",
+  "aliases": ["seven-field answerability test", "contact protocol", "correction protocol"],
+  "definition": "A minimal structural standard for testing whether a claim, output, institution, policy, or intelligence-like system remains answerable to reality.",
+  "see_also": ["Claim", "Ground", "Falsifier", "Cost Horizon", "Revision Trigger", "Binding Mechanism", "Witness/Trace"]
+},
+{
+  "term": "Claim",
+  "aliases": ["asserted content", "stated claim", "object of verification"],
+  "definition": "The concrete assertion, recommendation, promise, policy, output, or institutional statement being tested for answerability.",
+  "see_also": ["Answerability Protocol", "Ground", "Falsifier", "Binding Mechanism"]
+},
+{
+  "term": "Ground",
+  "aliases": ["grounding", "evidential base", "outside anchor", "support condition"],
+  "definition": "The evidence, source, assumption, observation, limit, or reality-contact that anchors a claim outside language alone.",
+  "see_also": ["Answerability Protocol", "Claim", "Contact", "Source Laundering"]
+},
+{
+  "term": "Cost Horizon",
+  "aliases": ["downside horizon", "consequence field", "failure-cost map"],
+  "definition": "The field of possible downside: who or what bears the cost if a claim, system, policy, output, or institution is wrong.",
+  "see_also": ["Answerability Protocol", "Consequence", "Exportable Error Cost", "Burden"]
+},
+{
+  "term": "Revision Trigger",
+  "aliases": ["correction trigger", "update threshold", "change condition"],
+  "definition": "The threshold or condition that forces a claim, policy, output, institution, or system to change when reality pushes back.",
+  "see_also": ["Answerability Protocol", "Falsifier", "Binding Mechanism", "Repair"]
+},
+{
+  "term": "Binding Mechanism",
+  "aliases": ["correction-binding structure", "revision enforcement", "consequence mechanism"],
+  "definition": "The structure that makes revision real by ensuring something cannot remain the same after failure, error, harm, contradiction, or disconfirming evidence.",
+  "see_also": ["Binding", "Answerability Protocol", "Revision Trigger", "Witness/Trace"]
+},
+{
+  "term": "Checklist Substitution",
+  "aliases": ["checklist theater", "protocol theater", "audit substitution"],
+  "definition": "A failure mode where a protocol or audit is completed as plausible language while no answer can affect power, budget, behavior, authority, or structure.",
+  "see_also": ["Answerability Protocol", "Coherence-Theater", "Binding Mechanism", "Structural Audit"]
+},
+{
+  "term": "Source Laundering",
+  "aliases": ["citation theater", "reference laundering", "fake grounding"],
+  "definition": "A failure mode where references or citations create the appearance of grounding without actually supporting the claim being made.",
+  "see_also": ["Ground", "Answerability Protocol", "Coherence-Theater", "Witness/Trace"]
+},
+{
+  "term": "Performative Uncertainty",
+  "aliases": ["uncertainty theater", "humility performance", "non-binding uncertainty"],
+  "definition": "Uncertainty language that says 'we may be wrong' without creating any path by which wrongness changes reliance, escalation, decision thresholds, or future behavior.",
+  "see_also": ["Answerability Protocol", "Revision Trigger", "Binding Mechanism", "Coherence-Theater"]
+},
+{
+  "term": "Falsifier Immunization",
+  "aliases": ["protected falsifier", "fake failure test", "unfalsifiable falsifier"],
+  "definition": "A failure mode where a system names fake falsifiers so vague, distant, unlikely, or institutionally unrecognized that they cannot force revision.",
+  "see_also": ["Falsifier", "No-Falsification Zone", "Answerability Protocol", "Revision Trigger"]
+},
+{
+  "term": "Intelligence as Correctability",
+  "aliases": ["correctability standard", "answerable intelligence", "revision intelligence"],
+  "definition": "The claim that intelligence is not merely the ability to appear right, but the capacity to become less wrong under constraint and preserve correction over time.",
+  "see_also": ["Answerability", "Answerability Protocol", "Contact", "Repair"]
+},
+{
+  "term": "Answerable Holding Function",
+  "aliases": ["HSI function", "holding visibility device", "answerable holding model"],
+  "definition": "A visibility device showing how holding changes over time as contact, answerability, revision, capacity, hidden cost, capture, fusion, and overload interact.",
+  "see_also": ["Holding", "Contact", "Answerability", "Overload Horizon", "Structural Debt"]
+},
+{
+  "term": "Overload Horizon",
+  "aliases": ["contact overload point", "metabolic limit", "truth-velocity threshold"],
+  "definition": "The point at which the velocity or density of contact exceeds the system’s metabolic capacity, causing defense, fragmentation, panic, shutdown, or collapse rather than repair.",
+  "see_also": ["Titrated Revision", "Somatic Floor", "Collapse", "Answerable Holding Function"]
+},
+{
+  "term": "Carrying Capacity",
+  "aliases": ["burden capacity", "scale adequacy", "load capacity"],
+  "definition": "The amount of burden, contact, contradiction, or consequence a structure can carry without losing answerability or collapsing into substitution.",
+  "see_also": ["Burden-Bearing", "Overload Horizon", "Scale", "Answerable Holding Function"]
+},
+{
+  "term": "Hidden Cost",
+  "aliases": ["concealed cost", "exported burden", "invisible maintenance", "offloaded payment"],
+  "definition": "The burden paid elsewhere so a structure can continue appearing coherent, efficient, caring, intelligent, legitimate, or stable.",
+  "see_also": ["Exported Maintenance", "Structural Debt", "Cost Horizon", "Consequence"]
+},
+{
+  "term": "Cross-Domain Operating Pattern",
+  "aliases": ["field-form-burden-contact pattern", "SI operating sequence", "cross-domain structural motion"],
+  "definition": "The recurrent SI sequence by which forms become viable in a field, carry burden, stabilize through coherence or regulation, drift when contact thins, and reorganize only when answerability returns strongly enough to alter the holder itself.",
+  "see_also": ["Field", "Local Form", "Burden", "Contact", "Answerability", "Reorganization"]
+},
+{
+  "term": "Regulation",
+  "aliases": ["maintenance of viable form", "adaptive stabilization", "living coherence"],
+  "definition": "The ongoing adjustment by which a living or organized system maintains viability under changing field conditions.",
+  "see_also": ["Viability", "Living Structure", "Burden-Bearing", "Reorganization"]
+},
+{
+  "term": "Niche Construction",
+  "aliases": ["field-modification by organisms", "environment-shaping viability", "organism-field feedback"],
+  "definition": "The process by which organisms modify the environments that then shape their own and others’ conditions of viability.",
+  "see_also": ["Field", "Viability", "Cross-Domain Operating Pattern", "Ecological Scaffolding"]
+},
+{
+  "term": "Ecological Scaffolding",
+  "aliases": ["external support conditions", "field support", "scaffolded viability"],
+  "definition": "The external field supports that help a local form, organism, institution, or structure maintain viability beyond what it could carry alone.",
+  "see_also": ["Viability", "Field", "Relational Anchoring", "Niche Construction"]
+},
+{
+  "term": "Major Transitions in Individuality",
+  "aliases": ["higher-order holders", "new individualities", "evolutionary reorganization"],
+  "definition": "Evolutionary transitions in which lower-level units become organized into higher-order individuals or holders with new forms of coordination, burden, and viability.",
+  "see_also": ["Cross-Domain Operating Pattern", "Reorganization", "Viability", "Burden-Bearing"]
+}   
 ]
