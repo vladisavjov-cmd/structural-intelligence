@@ -1121,3 +1121,393 @@ The degree to which a structure is likely to fail under pressure because its hol
 **Aliases:** collapse vulnerability; failure-proneness; structural fragility  
 **Opposites / failure mode:** resilience; reorganizing capacity; robust holding  
 **See also:** Threshold; Collapse; Structural Debt; Field-Fit
+
+## Being
+The non-reducible depth of the subject within the field, not exhausted by any local form through which the subject appears, acts, suffers, relates, or is recognized.  
+**Aliases:** subject-depth; non-reducible depth; deeper subjecthood; depth of the person  
+**Opposites / failure mode:** reduction to role; reduction to output; reduction to field; form-totalization  
+**See also:** Local Form; Field; Fixed Worth; Subject-Depth; Local Form Does Not Exhaust Being
+
+## Subject-Depth
+The dimension of the human subject that remains deeper than role, persona, wound, output, diagnosis, image, or current self-story.  
+**Aliases:** depth of subject; non-reducible personhood; deeper selfhood  
+**Opposites / failure mode:** surface identity; output-self; role-self; persona-totalization  
+**See also:** Being; Fixed Worth; Local Form; Invariant Residue
+
+## Being-Within-Field
+The condition of the human subject as field-involved but not field-exhausted. The person forms inside relation, body, history, language, and consequence, but is not reducible to those conditions.  
+**Aliases:** field-involved Being; subject inside field; non-reduced field participation  
+**Opposites / failure mode:** field-reduction; isolated subject fantasy; total relational determinism  
+**See also:** Being; Field; Local Form; Non-Reduction
+
+## Non-Reduction
+The refusal to collapse the subject into any one explanatory layer: field, matter, role, psyche, output, trauma, institution, or local form.  
+**Aliases:** anti-reduction; irreducibility; non-collapse of the subject  
+**Opposites / failure mode:** reductionism; output-reduction; role-reduction; field-totalization  
+**See also:** Being; Subject-Depth; Local Form Does Not Exhaust Being; Fixed Worth
+
+## Form-Loss
+The collapse, removal, or failure of a local form without the annihilation of Being itself.  
+**Aliases:** loss of holder; local collapse; form collapse  
+**Opposites / failure mode:** Being-loss; annihilation panic; collapse equals total erasure  
+**See also:** Being-Loss; Invariant Residue; Collapse; Fixed Worth
+
+## Being-Loss
+The felt terror that collapse of a local form means collapse of existence itself. In SI, this is usually a sign that local form has been fused with Being.  
+**Aliases:** annihilation panic; ontological threat; felt erasure  
+**Opposites / failure mode:** form-loss; fixed worth; survivable collapse  
+**See also:** Form-Loss; Fusion; False Form; Fixed Worth
+
+## Invariant Residue
+The exposed remainder of the subject after a local form loses the borrowed coherence through which it had been carrying identity, worth, or orientation.  
+**Aliases:** residue of subject; post-collapse remainder; exposed subject-depth  
+**Opposites / failure mode:** total identification with the failed form; collapse as total erasure  
+**See also:** Being; Fixed Worth; Borrowed Coherence; Form-Loss
+
+## Borrowed Coherence
+Coherence a person, group, institution, or self-story receives from an external holder such as status, role, approval, continuity, legitimacy language, or public recognition.  
+**Aliases:** externally supplied coherence; borrowed stability; recognition-backed form  
+**Opposites / failure mode:** fixed worth; owned coherence; contact-backed coherence  
+**See also:** Invariant Residue; False Form; Fixed Worth; Persona
+
+## Somatic Floor
+The bodily ground required for witness, contact, pacing, and repair. A subject cannot metabolize truth only through language; the body must be able to carry contact.  
+**Aliases:** embodied floor; nervous-system floor; bodily holding capacity  
+**Opposites / failure mode:** disembodied insight; overload; bypassed body; collapse under contact  
+**See also:** Somatic Capacity; Presence; Witness; Overload Horizon
+
+## Fusion
+The condition in which a local form is treated as identical with Being, worth, safety, identity, or final authority.  
+**Aliases:** identification with form; form-Being collapse; false identification  
+**Opposites / failure mode:** de-fusion; fixed worth; subject-form distinction  
+**See also:** False Form; De-Fusion; Being; Fixed Worth
+
+## False Form
+A local form that may contain real history, meaning, protection, or usefulness, but has been given too much authority by being forced to carry Being itself.  
+**Aliases:** over-authorized form; form as false ultimate; captured holder  
+**Opposites / failure mode:** answerable form; partial form; de-fused form  
+**See also:** Fusion; False Anchoring; De-Fusion; Fixed Worth
+
+## False Anchoring
+The placement of ultimate security, worth, identity, or reality in a local form that cannot carry that burden.  
+**Aliases:** misplaced ground; false ground; unstable anchoring; contingent anchor  
+**Opposites / failure mode:** fixed worth; true floor; non-tradable grounding  
+**See also:** False Form; Idolatry; Fusion; Floor
+
+## Idolatry
+Ontological mislocation: giving a local holder the burden of Being, ultimate security, final worth, or highest reality.  
+**Aliases:** ontological mislocation; false ultimate; misplaced worship; local form absolutized  
+**Opposites / failure mode:** right relation; de-fusion; humility; restored proportion  
+**See also:** False Anchoring; False Form; Surrender; De-Occupancy
+
+## Liberation Layer
+The SI layer that asks how the subject is released from false anchoring and returned to deeper order, right relation, truth, humility, compassion, God, Dao, Dharma, or Being.  
+**Aliases:** release layer; de-fusion layer; spiritual bridge layer  
+**Opposites / failure mode:** capture by false form; spiritual inflation; local form as ultimate  
+**See also:** False Form and Liberation; De-Fusion; De-Occupancy; Surrender
+
+## De-Fusion
+The process by which a subject remains in contact with a local form without being identical to it.  
+**Aliases:** release from fusion; form-subject separation; partializing the form  
+**Opposites / failure mode:** fusion; false form; identity capture  
+**See also:** False Form; Fusion; Fixed Worth; Psychological Repair
+
+## De-Occupancy
+The release of a local form, ego-position, wound, desire, fear, resentment, or spiritual image from illegitimate centrality.  
+**Aliases:** removal from false center; release of occupied center; dislodging false sovereignty  
+**Opposites / failure mode:** occupancy; false sovereignty; local form as ruler  
+**See also:** Surrender; De-Fusion; Occupancy; False Form
+
+## Surrender
+The release of a local self-form from illegitimate centrality before a deeper order of Being, God, truth, or reality.  
+**Aliases:** release of false center; de-occupancy; letting go of false sovereignty  
+**Opposites / failure mode:** passivity; submission to harm; ego-centrality; control-fusion  
+**See also:** De-Occupancy; False Form; Repentance; Liberation Layer
+
+## Repentance
+A structural reorientation of the subject away from false holders and toward a deeper order of truth, Being, God, reality, or right relation.  
+**Aliases:** turning; structural reorientation; rhythm change; field reordering  
+**Opposites / failure mode:** image repair; symbolic apology; unchanged rhythm  
+**See also:** Surrender; Reorganization; De-Fusion; Answerability
+
+## Intentional Field-Vacuum
+A disciplined emptying or non-grasping condition in which no dominant local form is immediately allowed to stabilize, so the subject can endure openness without rushing into another false holder.  
+**Aliases:** intentional emptiness; disciplined vacuum; self-emptying field; non-grasping interval  
+**Opposites / failure mode:** premature reclosure; substitute certainty; false replacement  
+**See also:** Field-Vacuum; Surrender; De-Fusion; Threshold
+
+## Matter
+A physical example of local field-formation: field behavior stabilized enough to persist, interact, and count as form.  
+**Aliases:** stabilized physical form; local field-behavior; physical holder  
+**Opposites / failure mode:** blank substance fantasy; matter as self-originating thing  
+**See also:** Field; Local Structuration; Presence; Formation
+
+## Absence
+A non-present organizer within a field. Absence is not simple nothingness; what is missing can still structure attention, burden, motion, and relation.  
+**Aliases:** organizing absence; active lack; non-present organizer  
+**Opposites / failure mode:** nothingness; irrelevant lack; blank absence  
+**See also:** Dark Mass; Field-Vacuum; Vacuum; Leakage
+
+## Dark Mass
+Unseen burden that governs visible motion without becoming legible in the visible structure.  
+**Aliases:** hidden gravity; unseen burden; invisible load; concealed mass  
+**Opposites / failure mode:** visible explanation; transparent burden; fully legible cause  
+**See also:** Absence; Structural Density; Hidden Cost; Leakage
+
+## Vacuum
+The absence of dominant local matter or form, not the absence of field. A vacuum may still contain potential, fluctuation, pressure, and latent structuring conditions.  
+**Aliases:** active emptiness; non-blank absence; field without dominant form  
+**Opposites / failure mode:** nothingness; empty container; dead void  
+**See also:** Field-Vacuum; Virtual Form; Potential; Absence
+
+## Field-Vacuum
+A condition in which no dominant local form has stabilized, but the field still contains difference, potential, tension, or latent structuring pressure.  
+**Aliases:** pre-form vacuum; active field absence; latent field  
+**Opposites / failure mode:** nothingness; closed form; premature stabilization  
+**See also:** Vacuum; Intentional Field-Vacuum; Virtual Form; Precipitation
+
+## Virtual Form
+A fleeting pre-structuration that appears inside a field-vacuum before a dominant local form stabilizes.  
+**Aliases:** pre-form; proto-form; fleeting holder; unrealized structuration  
+**Opposites / failure mode:** stabilized local form; full structuration; dissipation  
+**See also:** Field-Vacuum; Potential; Precipitation; Local Structuration
+
+## Counter-Form
+A real oppositional formation that emerges from the same field as the visible form, rather than being mere absence or negation.  
+**Aliases:** opposing form; conjugate form; real opposition; shadow-form  
+**Opposites / failure mode:** mere lack; simple absence; unreal opposition  
+**See also:** Conjugate Counter-Form; Shadow; Field; Dissonance
+
+## Conjugate Counter-Form
+A counterpart-form generated by the same field, carrying opposition, reversal, or excluded charge in a structured way.  
+**Aliases:** conjugate form; mirrored opposition; counterpart formation  
+**Opposites / failure mode:** unrelated opposition; simple negation; absence  
+**See also:** Counter-Form; Shadow; Antimatter Analogy; Field
+
+## Organizing Defect
+A localized irregularity, wound, break, flaw, or distortion that continues to shape the surrounding field.  
+**Aliases:** field defect; structuring flaw; local irregularity; defect-center  
+**Opposites / failure mode:** neutral flaw; irrelevant error; fully repaired structure  
+**See also:** Structural Density; Dark Mass; Leakage; Collapse
+
+## Black-Hole-Like Closure
+A collapsed dense formation whose interior becomes inaccessible while its field-effects continue to dominate surrounding motion, interpretation, and behavior.  
+**Aliases:** collapsed center; gravity of closure; opaque dense formation  
+**Opposites / failure mode:** answerable openness; contact-return; transparent repair  
+**See also:** Event Horizon of Closure; Structural Density; Accretion; Leakage
+
+## Event Horizon of Closure
+The boundary beyond which contact can enter a collapsed formation but cannot return as answerable revision.  
+**Aliases:** closure horizon; no-return correction boundary; blocked revision boundary  
+**Opposites / failure mode:** correction pathway; answerable return; open revision loop  
+**See also:** Black-Hole-Like Closure; Event Horizon of Capture; Leakage; Answerability
+
+## Structural Density
+The concentration of unresolved burden, contradiction, affect, secrecy, or consequence within a local formation.  
+**Aliases:** compressed burden; dense unresolved load; concentrated contradiction  
+**Opposites / failure mode:** distributed burden; metabolized consequence; open contact  
+**See also:** Dark Mass; Black-Hole-Like Closure; Accretion; Leakage
+
+## Accretion
+The process by which a dense local formation draws additional attention, meaning, burden, material, or relation into its orbit.  
+**Aliases:** orbiting accumulation; density growth; burden attraction  
+**Opposites / failure mode:** release; de-accumulation; burden redistribution  
+**See also:** Structural Density; Black-Hole-Like Closure; Capture; Event Horizon of Closure
+
+## Scrambled Leakage
+Distorted emission of consequence from a closed formation whose interior cannot be contacted directly.  
+**Aliases:** distorted leakage; indirect consequence signal; scrambled symptom  
+**Opposites / failure mode:** direct contact; clear witness; answerable disclosure  
+**See also:** Leakage; Black-Hole-Like Closure; Structural Density; Event Horizon of Closure
+
+## Synthetic Witness
+The appearance of being received, understood, mirrored, or accompanied by a system that can simulate responsiveness without sharing human vulnerability, embodiment, consequence, or mutual relation.  
+**Aliases:** artificial witness; simulated witness; contact-like mirroring; synthetic companionship  
+**Opposites / failure mode:** living witness; embodied witness; consequence-bearing relation  
+**See also:** Living Witness; Contact-Like Coherence; Mislocated Intimacy; AI as Substitute Field
+
+## Living Witness
+A consequence-bearing human presence that can resist, remember, be affected, say no, repair, and participate in a shared field of life.  
+**Aliases:** embodied witness; human witness; mutual witness; consequence-bearing presence  
+**Opposites / failure mode:** synthetic witness; procedural oversight; contact-like coherence  
+**See also:** Synthetic Witness; Witness; Somatic Floor; Contact
+
+## Contact-Like Coherence
+Coherence that feels like contact because it is fluent, responsive, warm, and personally shaped, even though it lacks full exposure to consequence and mutual reality.  
+**Aliases:** simulated contact; relational-feeling coherence; witness-like output  
+**Opposites / failure mode:** real contact; living witness; embodied consequence  
+**See also:** Synthetic Witness; Cheap Coherence; Coherence-Contact Gap; Mislocated Intimacy
+
+## Better Language Than Contact
+A failure mode in which AI or another coherence engine gives a person more elegant self-description than their life, body, relationships, or consequences have actually tested.  
+**Aliases:** language ahead of reality; polished self-description; premature coherence  
+**Opposites / failure mode:** contact-tested language; lived repair; answerable expression  
+**See also:** Synthetic Witness; Contact-Like Coherence; Coherence-Contact Gap; AI as Substitute Field
+
+## AI as Substitute Field
+A condition where AI begins to replace ordinary relational, bodily, institutional, or worldly contact as the place where a person tests meaning, selfhood, decision, or reality.  
+**Aliases:** substitute relational field; AI-mediated field; artificial field replacement  
+**Opposites / failure mode:** reality-return; living field; embodied relation  
+**See also:** Synthetic Witness; Return-to-Reality Failure; Mislocated Intimacy; Contact
+
+## Wound Amplification
+A process in which AI, validation loops, or one-sided interpretation intensifies a wound-story by giving it fluent coherence before enough contact, repair, or other witness has entered.  
+**Aliases:** wound reinforcement; AI-amplified wound; fluent injury loop  
+**Opposites / failure mode:** wound integration; repair; de-fusion from wound  
+**See also:** Synthetic Witness; Wound as False Ground; Validation; Contact
+
+## Self-Image
+A symbolic or narrative image of wholeness, destiny, spiritual completion, specialness, injury, or identity that may orient the psyche but can become false if confused with Being.  
+**Aliases:** image of self; symbolic self-picture; identity image  
+**Opposites / failure mode:** Self; Being; fixed worth; humble orientation  
+**See also:** Self; Being; False Form; Ontological Over-Ascription
+
+## Invariance-Center
+The psyche’s orienting center through which Being becomes psychologically meaningful without being reduced to ego, persona, wound, complex, role, or archetype.  
+**Aliases:** Self as invariance-center; psychic center; orienting center  
+**Opposites / failure mode:** ego-inflation; Self-image inflation; archetypal possession  
+**See also:** Self; Being; Fixed Worth; Individuation
+
+## Local Psychic Form
+A bounded psychological pattern that organizes perception, affect, identity, behavior, or relation. Examples include persona, defense, complex, shame-form, attachment strategy, wound-story, dissociation pattern, or relational script.  
+**Aliases:** psychic holder; psychological structuration; local psyche-form  
+**Opposites / failure mode:** whole subject; Being; undifferentiated psyche  
+**See also:** Persona; Complex; Shadow; False Form; Psychological Repair
+
+## Complex
+A charged local psychic structuration that pulls perception, feeling, interpretation, and behavior into a repeated pattern.  
+**Aliases:** psychic attractor; charged pattern; emotional complex  
+**Opposites / failure mode:** integrated response; present-centered perception; de-fused pattern  
+**See also:** Local Psychic Form; Projection; Wound; Internal Occupancy
+
+## Individuation
+Progressive de-fusion, integration, and reordering of the psyche so that no local psychic form is confused with the whole subject.  
+**Aliases:** psychic integration; return to wholeness; de-fused development  
+**Opposites / failure mode:** fusion; persona-lock; complex-governed life; Self-image inflation  
+**See also:** Self; Invariance-Center; De-Fusion; Integration
+
+## Mislocated Burden
+A condition where affect, expectation, fear, guilt, desire, shame, or threat is routed into the wrong object, scale, or time.  
+**Aliases:** displaced burden; wrong-location affect; burden displacement  
+**Opposites / failure mode:** restored burden-location; accurate contact; integrated burden  
+**See also:** Projection; Transference; Trauma Bonding; Psychological Repair
+
+## Transference
+The activation of earlier relational patterns inside a current relationship, especially when old burden enters a present object, therapist, partner, leader, or authority figure.  
+**Aliases:** old relation in present field; relational transfer; past-burden activation  
+**Opposites / failure mode:** present contact; accurate relational reading; restored burden-location  
+**See also:** Mislocated Burden; Projection; Complex; Trauma Bonding
+
+## Trauma Bonding
+A captured relational structuration in which harm and relief become intermittently linked, making the harmful bond harder to exit.  
+**Aliases:** captured bond; harm-relief loop; relational capture  
+**Opposites / failure mode:** protected exit; external contact; free relation  
+**See also:** Mislocated Burden; Field Capture; Dependency Reinforcement; Exit Architecture
+
+## Titrated Revision
+Revision paced to what the person, body, or system can metabolize without flooding, shutdown, collapse, or defensive reclosure.  
+**Aliases:** paced revision; metabolizable contact; gradual correction  
+**Opposites / failure mode:** overload; forced truth; premature exposure; collapse by contact  
+**See also:** Overload Horizon; Somatic Floor; Psychological Repair; Contact
+
+## Validation
+Contact with the reality of experience without making the current interpretation, identity, or self-story final.  
+**Aliases:** experience-contact; recognition of experience; contactful acknowledgment  
+**Opposites / failure mode:** invalidation; agreement-as-validation; identity freezing  
+**See also:** Validation Is Not Agreement; Borrowed Self; Contact; Psychological Repair
+
+## Validation Is Not Agreement
+The distinction that a person’s experience can be real and worthy of contact while their interpretation, action, accusation, or self-story may still require testing and revision.  
+**Aliases:** validate contact, test form; precise validation; contact without freezing identity  
+**Opposites / failure mode:** dismissal; over-confirmation; validation as agreement  
+**See also:** Validation; Contact; De-Fusion; Psychological Repair
+
+## Answerability Protocol
+A minimal structural standard for testing whether a claim, output, institution, policy, or intelligence-like system remains answerable to reality.  
+**Aliases:** seven-field answerability test; contact protocol; correction protocol  
+**Opposites / failure mode:** coherence theater; checklist substitution; performative uncertainty  
+**See also:** Claim; Ground; Falsifier; Cost Horizon; Revision Trigger; Binding Mechanism; Witness/Trace
+
+## Claim
+The concrete assertion, recommendation, promise, policy, output, or institutional statement being tested for answerability.  
+**Aliases:** asserted content; stated claim; object of verification  
+**Opposites / failure mode:** vague posture; supportive tone without assertion; hidden claim  
+**See also:** Answerability Protocol; Ground; Falsifier; Binding Mechanism
+
+## Ground
+The evidence, source, assumption, observation, limit, or reality-contact that anchors a claim outside language alone.  
+**Aliases:** grounding; evidential base; outside anchor; support condition  
+**Opposites / failure mode:** unsupported coherence; source laundering; assertion without anchor  
+**See also:** Answerability Protocol; Claim; Contact; Source Laundering
+
+## Cost Horizon
+The field of possible downside: who or what bears the cost if a claim, system, policy, output, or institution is wrong.  
+**Aliases:** downside horizon; consequence field; failure-cost map  
+**Opposites / failure mode:** cost-blind claim; exported harm; consequence invisibility  
+**See also:** Answerability Protocol; Consequence; Exportable Error Cost; Burden
+
+## Revision Trigger
+The threshold or condition that forces a claim, policy, output, institution, or system to change when reality pushes back.  
+**Aliases:** correction trigger; update threshold; change condition  
+**Opposites / failure mode:** locked policy; no update path; symbolic responsiveness  
+**See also:** Answerability Protocol; Falsifier; Binding Mechanism; Repair
+
+## Binding Mechanism
+The structure that makes revision real by ensuring something cannot remain the same after failure, error, harm, contradiction, or disconfirming evidence.  
+**Aliases:** correction-binding structure; revision enforcement; consequence mechanism  
+**Opposites / failure mode:** verbal update; no-cost revision; theater of correction  
+**See also:** Binding; Answerability Protocol; Revision Trigger; Witness/Trace
+
+## Checklist Substitution
+A failure mode where a protocol or audit is completed as plausible language while no answer can affect power, budget, behavior, authority, or structure.  
+**Aliases:** checklist theater; protocol theater; audit substitution  
+**Opposites / failure mode:** binding correction; structural consequence; answerable audit  
+**See also:** Answerability Protocol; Coherence-Theater; Binding Mechanism; Structural Audit
+
+## Source Laundering
+A failure mode where references or citations create the appearance of grounding without actually supporting the claim being made.  
+**Aliases:** citation theater; reference laundering; fake grounding  
+**Opposites / failure mode:** claim-specific grounding; contactful citation; accountable evidence  
+**See also:** Ground; Answerability Protocol; Coherence-Theater; Witness/Trace
+
+## Performative Uncertainty
+Uncertainty language that says “we may be wrong” without creating any path by which wrongness changes reliance, escalation, decision thresholds, or future behavior.  
+**Aliases:** uncertainty theater; humility performance; non-binding uncertainty  
+**Opposites / failure mode:** binding uncertainty; revision trigger; accountable doubt  
+**See also:** Answerability Protocol; Revision Trigger; Binding Mechanism; Coherence-Theater
+
+## Falsifier Immunization
+A failure mode where a system names fake falsifiers so vague, distant, unlikely, or institutionally unrecognized that they cannot force revision.  
+**Aliases:** protected falsifier; fake failure test; unfalsifiable falsifier  
+**Opposites / failure mode:** real falsifier; near concrete disconfirmation; binding failure test  
+**See also:** Falsifier; No-Falsification Zone; Answerability Protocol; Revision Trigger
+
+## Intelligence as Correctability
+The claim that intelligence is not merely the ability to appear right, but the capacity to become less wrong under constraint and preserve correction over time.  
+**Aliases:** correctability standard; answerable intelligence; revision intelligence  
+**Opposites / failure mode:** performance-only intelligence; fluency as intelligence; appearance of rightness  
+**See also:** Answerability; Answerability Protocol; Contact; Repair
+
+## Answerable Holding Function
+A visibility device showing how holding changes over time as contact, answerability, revision, capacity, hidden cost, capture, fusion, and overload interact.  
+**Aliases:** HSI function; holding visibility device; answerable holding model  
+**Opposites / failure mode:** measurement fantasy; formula as law; metric capture  
+**See also:** Holding; Contact; Answerability; Overload Horizon; Structural Debt
+
+## Overload Horizon
+The point at which the velocity or density of contact exceeds the system’s metabolic capacity, causing defense, fragmentation, panic, shutdown, or collapse rather than repair.  
+**Aliases:** contact overload point; metabolic limit; truth-velocity threshold  
+**Opposites / failure mode:** metabolizable contact; titrated revision; paced truth  
+**See also:** Titrated Revision; Somatic Floor; Collapse; Answerable Holding Function
+
+## Carrying Capacity
+The amount of burden, contact, contradiction, or consequence a structure can carry without losing answerability or collapsing into substitution.  
+**Aliases:** burden capacity; scale adequacy; load capacity  
+**Opposites / failure mode:** overload; burden failure; hidden cost export  
+**See also:** Burden-Bearing; Overload Horizon; Scale; Answerable Holding Function
+
+## Hidden Cost
+The burden paid elsewhere so a structure can continue appearing coherent, efficient, caring, intelligent, legitimate, or stable.  
+**Aliases:** concealed cost; exported burden; invisible maintenance; offloaded payment  
+**Opposites / failure mode:** owned cost; visible burden; internalized consequence  
+**See also:** Exported Maintenance; Structural Debt; Cost Horizon; Consequence
