@@ -235,6 +235,85 @@ A philosophical framework for describing how human reality is organized into for
 - **Combinatorial Ontology** *(composite visual units treated as structured knowledge forms)*
 - **Template Friction** *(where layout strain reveals what is architecturally primary)*
 - **Photo-First Method** *(method that begins from observable page structure rather than decipherment)*
+### Added from the latest field / Being / psyche / AI witness books
+
+- **Being** *(subject-depth; non-reducible depth; deeper subjecthood)*
+- **Subject-Depth** *(depth of subject; non-reducible personhood; deeper selfhood)*
+- **Being-Within-Field** *(field-involved Being; subject inside field; non-reduced field participation)*
+- **Non-Reduction** *(anti-reduction; irreducibility; non-collapse of the subject)*
+- **Form-Loss** *(loss of holder; local collapse; form collapse)*
+- **Being-Loss** *(annihilation panic; ontological threat; felt erasure)*
+- **Invariant Residue** *(residue of subject; post-collapse remainder; exposed subject-depth)*
+- **Borrowed Coherence** *(externally supplied coherence; borrowed stability; recognition-backed form)*
+- **Somatic Floor** *(embodied floor; nervous-system floor; bodily holding capacity)*
+
+- **Fusion** *(identification with form; form-Being collapse; false identification)*
+- **False Form** *(over-authorized form; form as false ultimate; captured holder)*
+- **False Anchoring** *(misplaced ground; false ground; unstable anchoring; contingent anchor)*
+- **Idolatry** *(ontological mislocation; false ultimate; misplaced worship; local form absolutized)*
+- **Liberation Layer** *(release layer; de-fusion layer; spiritual bridge layer)*
+- **De-Fusion** *(release from fusion; form-subject separation; partializing the form)*
+- **De-Occupancy** *(removal from false center; release of occupied center; dislodging false sovereignty)*
+- **Surrender** *(release of false center; de-occupancy; letting go of false sovereignty)*
+- **Repentance** *(turning; structural reorientation; rhythm change; field reordering)*
+- **Intentional Field-Vacuum** *(intentional emptiness; disciplined vacuum; self-emptying field; non-grasping interval)*
+
+- **Matter** *(stabilized physical form; local field-behavior; physical holder)*
+- **Absence** *(organizing absence; active lack; non-present organizer)*
+- **Dark Mass** *(hidden gravity; unseen burden; invisible load; concealed mass)*
+- **Vacuum** *(active emptiness; non-blank absence; field without dominant form)*
+- **Field-Vacuum** *(pre-form vacuum; active field absence; latent field)*
+- **Virtual Form** *(pre-form; proto-form; fleeting holder; unrealized structuration)*
+- **Counter-Form** *(opposing form; conjugate form; real opposition; shadow-form)*
+- **Conjugate Counter-Form** *(conjugate form; mirrored opposition; counterpart formation)*
+- **Organizing Defect** *(field defect; structuring flaw; local irregularity; defect-center)*
+- **Black-Hole-Like Closure** *(collapsed center; gravity of closure; opaque dense formation)*
+- **Event Horizon of Closure** *(closure horizon; no-return correction boundary; blocked revision boundary)*
+- **Structural Density** *(compressed burden; dense unresolved load; concentrated contradiction)*
+- **Accretion** *(orbiting accumulation; density growth; burden attraction)*
+- **Scrambled Leakage** *(distorted leakage; indirect consequence signal; scrambled symptom)*
+
+- **Synthetic Witness** *(artificial witness; simulated witness; contact-like mirroring; synthetic companionship)*
+- **Living Witness** *(embodied witness; human witness; mutual witness; consequence-bearing presence)*
+- **Contact-Like Coherence** *(simulated contact; relational-feeling coherence; witness-like output)*
+- **Better Language Than Contact** *(language ahead of reality; polished self-description; premature coherence)*
+- **AI as Substitute Field** *(substitute relational field; AI-mediated field; artificial field replacement)*
+- **Wound Amplification** *(wound reinforcement; AI-amplified wound; fluent injury loop)*
+
+- **Self-Image** *(image of self; symbolic self-picture; identity image)*
+- **Invariance-Center** *(Self as invariance-center; psychic center; orienting center)*
+- **Local Psychic Form** *(psychic holder; psychological structuration; local psyche-form)*
+- **Complex** *(psychic attractor; charged pattern; emotional complex)*
+- **Individuation** *(psychic integration; return to wholeness; de-fused development)*
+- **Mislocated Burden** *(displaced burden; wrong-location affect; burden displacement)*
+- **Transference** *(old relation in present field; relational transfer; past-burden activation)*
+- **Trauma Bonding** *(captured bond; harm-relief loop; relational capture)*
+- **Titrated Revision** *(paced revision; metabolizable contact; gradual correction)*
+- **Validation** *(experience-contact; recognition of experience; contactful acknowledgment)*
+- **Validation Is Not Agreement** *(validate contact, test form; precise validation; contact without freezing identity)*
+
+- **Answerability Protocol** *(seven-field answerability test; contact protocol; correction protocol)*
+- **Claim** *(asserted content; stated claim; object of verification)*
+- **Ground** *(grounding; evidential base; outside anchor; support condition)*
+- **Cost Horizon** *(downside horizon; consequence field; failure-cost map)*
+- **Revision Trigger** *(correction trigger; update threshold; change condition)*
+- **Binding Mechanism** *(correction-binding structure; revision enforcement; consequence mechanism)*
+- **Checklist Substitution** *(checklist theater; protocol theater; audit substitution)*
+- **Source Laundering** *(citation theater; reference laundering; fake grounding)*
+- **Performative Uncertainty** *(uncertainty theater; humility performance; non-binding uncertainty)*
+- **Falsifier Immunization** *(protected falsifier; fake failure test; unfalsifiable falsifier)*
+- **Intelligence as Correctability** *(correctability standard; answerable intelligence; revision intelligence)*
+
+- **Answerable Holding Function** *(HSI function; holding visibility device; answerable holding model)*
+- **Overload Horizon** *(contact overload point; metabolic limit; truth-velocity threshold)*
+- **Carrying Capacity** *(burden capacity; scale adequacy; load capacity)*
+- **Hidden Cost** *(concealed cost; exported burden; invisible maintenance; offloaded payment)*
+
+- **Cross-Domain Operating Pattern** *(field-form-burden-contact pattern; SI operating sequence; cross-domain structural motion)*
+- **Regulation** *(maintenance of viable form; adaptive stabilization; living coherence)*
+- **Niche Construction** *(field-modification by organisms; environment-shaping viability; organism-field feedback)*
+- **Ecological Scaffolding** *(external support conditions; field support; scaffolded viability)*
+- **Major Transitions in Individuality** *(higher-order holders; new individualities; evolutionary reorganization)*
 
 ## Papers
 See the index: **[papers/README.md](./papers/README.md)**
@@ -486,3 +565,33 @@ This repository hosts landing pages, abstracts, keywords, and version notes. Can
 
 - **Pressure, Threshold, and Collapse: A Structural Theory of Overload, Phase Change, and Reorganization** — DOI: 10.5281/zenodo.19564948  
   Paper page: [papers/pressure-threshold-collapse](./papers/pressure-threshold-collapse/README.md)
+
+  - **Matter, Absence, and Counter-Form: Presence, Vacuum, Antimatter, and Collapse-Density in Structural Intelligence** — DOI: 10.5281/zenodo.19671792  
+  Paper page: [papers/matter-absence-counter-form](./papers/matter-absence-counter-form/README.md)
+
+- **Being and Field: Subject-Depth, Local Form, and the Non-Reduction of the Human** — DOI: 10.5281/zenodo.19671855  
+  Paper page: [papers/being-and-field](./papers/being-and-field/README.md)
+
+- **Testing What Holds: A Practical Method for Structural Intelligence** — DOI: 10.5281/zenodo.19671953  
+  Paper page: [papers/testing-what-holds](./papers/testing-what-holds/README.md)
+
+- **The Terrible Miracle of AI: Coherence, Contact, and the New Problem of Synthetic Witness** — DOI: 10.5281/zenodo.19692814  
+  Paper page: [papers/terrible-miracle-of-ai](./papers/terrible-miracle-of-ai/README.md)
+
+- **The Self, Fixed Worth, and Psychological Repair: Jungian Integration, Trauma, Validation, and Structural Intelligence** — DOI: 10.5281/zenodo.19693315  
+  Paper page: [papers/self-fixed-worth-psychological-repair](./papers/self-fixed-worth-psychological-repair/README.md)
+
+- **The Field and the Form: How Structure Emerges, Captures, Collapses, and Reorganizes** — DOI: 10.5281/zenodo.19707387  
+  Paper page: [papers/field-and-form](./papers/field-and-form/README.md)
+
+- **The Psyche and the Self: How Psychic Forms Protect, Capture, and Return to the Whole Person** — DOI: 10.5281/zenodo.19707638  
+  Paper page: [papers/psyche-and-the-self](./papers/psyche-and-the-self/README.md)
+
+- **Structural Intelligence as a Cross-Domain Operating Pattern: Field, Viability, Burden, Evolution, and Reorganization Across Psyche, Institutions, AI, Physics, and Biology** — DOI: 10.5281/zenodo.19707793  
+  Paper page: [papers/cross-domain-operating-pattern](./papers/cross-domain-operating-pattern/README.md)
+
+- **The Answerability Protocol: A Minimal Standard for Synthetic Coherence** — DOI: 10.5281/zenodo.19707980  
+  Paper page: [papers/answerability-protocol](./papers/answerability-protocol/README.md)
+
+- **False Form and Liberation: Spiritual Teaching as De-Fusion in Structural Intelligence** — DOI: 10.5281/zenodo.19708120  
+  Paper page: [papers/false-form-and-liberation](./papers/false-form-and-liberation/README.md)
