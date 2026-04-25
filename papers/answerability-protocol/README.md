@@ -17,3 +17,6 @@ answerability; synthetic coherence; Structural Intelligence; AI evaluation; inst
 - Zenodo record: https://zenodo.org/records/19707980
 - PhilPeople publications: https://philpeople.org/profiles/vladisav-jovanovic/publications
 - ORCID: https://orcid.org/0009-0001-1399-2243
+- - PhilPapers record: https://philpapers.org/rec/JOVTAP
+- PhilArchive record: https://philarchive.org/rec/JOVTAP
+- PhilArchive direct PDF: https://philarchive.org/archive/JOVTAP.pdf
