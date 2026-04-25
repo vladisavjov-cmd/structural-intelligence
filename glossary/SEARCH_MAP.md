@@ -684,6 +684,281 @@
 **In SI:** Visual Syntax; Information Architecture; Template Constraint; Local Structuration  
 **Best starting paper:** [The Visible Operating System of the Voynich Manuscript](../papers/visible-operating-system-voynich-manuscript/README.md)
 
+---
+
+## Updates for the new SI books / field sequence / psychology / AI witness
+
+## People search: “how do I use SI practically on a real situation”
+**In SI:** SI Audit; Contact; Burden; Answerability; Capture; Revision  
+**Best starting paper:** [Testing What Holds](../papers/testing-what-holds/README.md)
+
+## People search: “I need a method, not just the theory”
+**In SI:** Structural Audit; SI Audit; Contact; Burden; Answerability; Revision  
+**Best starting paper:** [Testing What Holds](../papers/testing-what-holds/README.md)
+
+## People search: “what is the SI audit”
+**In SI:** SI Audit; Structure; Claimed Function; Actual Function; Burden Export; Revision  
+**Best starting paper:** [Testing What Holds](../papers/testing-what-holds/README.md)
+
+## People search: “who pays the hidden cost of this structure”
+**In SI:** Hidden Cost; Burden Export; Cost Horizon; Answerability; Structural Debt  
+**Best starting paper:** [Testing What Holds](../papers/testing-what-holds/README.md)
+
+## People search: “is this policy, relationship, AI system, or decision actually holding”
+**In SI:** Holding; Contact; Burden; Answerability; Scale Adequacy; Revision  
+**Best starting paper:** [Testing What Holds](../papers/testing-what-holds/README.md)
+
+---
+
+## Answerability / verification / synthetic coherence
+
+## People search: “how do I verify a claim in the AI era”
+**In SI:** Answerability Protocol; Claim; Ground; Falsifier; Cost Horizon; Revision Trigger; Witness/Trace  
+**Best starting paper:** [The Answerability Protocol](../papers/answerability-protocol/README.md)
+
+## People search: “what is the answerability protocol”
+**In SI:** Answerability Protocol; Claim; Ground; Falsifier; Cost Horizon; Binding Mechanism  
+**Best starting paper:** [The Answerability Protocol](../papers/answerability-protocol/README.md)
+
+## People search: “coherent language is cheap, how do I test it”
+**In SI:** Synthetic Coherence; Answerability Protocol; Contact; Falsifier; Witness/Trace  
+**Best starting paper:** [The Answerability Protocol](../papers/answerability-protocol/README.md)
+
+## People search: “what would make this AI answer correctable”
+**In SI:** Intelligence as Correctability; Ground; Falsifier; Revision Trigger; Binding Mechanism  
+**Best starting paper:** [The Answerability Protocol](../papers/answerability-protocol/README.md)
+
+## People search: “this sounds true but what would prove it wrong”
+**In SI:** Falsifier; Ground; Answerability Protocol; No-Falsification Zone; Revision Trigger  
+**Best starting paper:** [The Answerability Protocol](../papers/answerability-protocol/README.md)
+
+## People search: “institutions produce reports but nothing changes”
+**In SI:** Coherence Theater; Checklist Substitution; Binding Mechanism; Answerability Protocol  
+**Best starting paper:** [The Answerability Protocol](../papers/answerability-protocol/README.md)
+
+---
+
+## Being / fixed worth / non-reduction
+
+## People search: “am I more than my role, wound, diagnosis, or output”
+**In SI:** Being; Subject-Depth; Local Form; Non-Reduction; Fixed Worth  
+**Best starting paper:** [Being and Field](../papers/being-and-field/README.md)
+
+## People search: “what is Being in Structural Intelligence”
+**In SI:** Being; Subject-Depth; Being-Within-Field; Local Form Does Not Exhaust Being  
+**Best starting paper:** [Being and Field](../papers/being-and-field/README.md)
+
+## People search: “a form collapsed but I am still here”
+**In SI:** Form-Loss; Being; Invariant Residue; Fixed Worth; Collapse Survivability  
+**Best starting paper:** [Being and Field](../papers/being-and-field/README.md)
+
+## People search: “why am I not reducible to my current structure”
+**In SI:** Non-Reduction; Being; Local Form; Field; Subject-Depth  
+**Best starting paper:** [Being and Field](../papers/being-and-field/README.md)
+
+## People search: “what remains when borrowed coherence is stripped away”
+**In SI:** Invariant Residue; Borrowed Coherence; Fixed Worth; Being  
+**Best starting paper:** [Being and Field](../papers/being-and-field/README.md)
+
+## People search: “why does fixed worth matter psychologically”
+**In SI:** Fixed Worth; Being; Subject-Depth; Psychological Repair; De-Fusion  
+**Best starting paper:** [The Self, Fixed Worth, and Psychological Repair](../papers/self-fixed-worth-psychological-repair/README.md)
+
+## People search: “validation helps me but also traps me”
+**In SI:** Validation; Validation Is Not Agreement; Borrowed Self; Fixed Worth; De-Fusion  
+**Best starting paper:** [The Self, Fixed Worth, and Psychological Repair](../papers/self-fixed-worth-psychological-repair/README.md)
+
+## People search: “how do I validate experience without freezing identity”
+**In SI:** Validation Is Not Agreement; Contact; De-Fusion; Psychological Repair  
+**Best starting paper:** [The Self, Fixed Worth, and Psychological Repair](../papers/self-fixed-worth-psychological-repair/README.md)
+
+## People search: “the wound is real but it cannot be the whole self”
+**In SI:** Wound; False Form; Fixed Worth; De-Fusion; Psychological Repair  
+**Best starting paper:** [The Self, Fixed Worth, and Psychological Repair](../papers/self-fixed-worth-psychological-repair/README.md)
+
+---
+
+## False form / spirituality / liberation
+
+## People search: “why do I treat success, status, love, or identity like ultimate reality”
+**In SI:** False Anchoring; False Form; Idolatry; Fusion; Fixed Worth  
+**Best starting paper:** [False Form and Liberation](../papers/false-form-and-liberation/README.md)
+
+## People search: “what is false form”
+**In SI:** False Form; Fusion; False Anchoring; De-Fusion; De-Occupancy  
+**Best starting paper:** [False Form and Liberation](../papers/false-form-and-liberation/README.md)
+
+## People search: “what can spirituality teach SI without reducing religion”
+**In SI:** Liberation Layer; De-Fusion; Surrender; Repentance; False Form  
+**Best starting paper:** [False Form and Liberation](../papers/false-form-and-liberation/README.md)
+
+## People search: “why does attachment become suffering”
+**In SI:** False Anchoring; Fusion; Idolatry; De-Fusion; Liberation Layer  
+**Best starting paper:** [False Form and Liberation](../papers/false-form-and-liberation/README.md)
+
+## People search: “how does release happen structurally”
+**In SI:** De-Fusion; De-Occupancy; Surrender; Repentance; Intentional Field-Vacuum  
+**Best starting paper:** [False Form and Liberation](../papers/false-form-and-liberation/README.md)
+
+---
+
+## Matter / absence / counter-form / collapse-density
+
+## People search: “how can absence organize a field”
+**In SI:** Absence; Dark Mass; Field-Vacuum; Hidden Cost; Leakage  
+**Best starting paper:** [Matter, Absence, and Counter-Form](../papers/matter-absence-counter-form/README.md)
+
+## People search: “what is dark mass in SI”
+**In SI:** Dark Mass; Hidden Burden; Absence; Structural Density; Field Effects  
+**Best starting paper:** [Matter, Absence, and Counter-Form](../papers/matter-absence-counter-form/README.md)
+
+## People search: “something invisible is governing the visible behavior”
+**In SI:** Dark Mass; Absence; Hidden Cost; Structural Density; Leakage  
+**Best starting paper:** [Matter, Absence, and Counter-Form](../papers/matter-absence-counter-form/README.md)
+
+## People search: “why does the missing thing feel powerful”
+**In SI:** Absence; Organizing Absence; Dark Mass; Field-Vacuum  
+**Best starting paper:** [Matter, Absence, and Counter-Form](../papers/matter-absence-counter-form/README.md)
+
+## People search: “what is counter-form”
+**In SI:** Counter-Form; Conjugate Counter-Form; Shadow; Dissonance  
+**Best starting paper:** [Matter, Absence, and Counter-Form](../papers/matter-absence-counter-form/README.md)
+
+## People search: “collapse became a center of gravity”
+**In SI:** Black-Hole-Like Closure; Structural Density; Event Horizon of Closure; Scrambled Leakage  
+**Best starting paper:** [Matter, Absence, and Counter-Form](../papers/matter-absence-counter-form/README.md)
+
+## People search: “I can see the effects but not the inside of the wound or system”
+**In SI:** Black-Hole-Like Closure; Event Horizon of Closure; Leakage; Scrambled Leakage  
+**Best starting paper:** [Matter, Absence, and Counter-Form](../papers/matter-absence-counter-form/README.md)
+
+---
+
+## Field book / emergence / capture / reorganization
+
+## People search: “I want the full field book, not just one paper”
+**In SI:** Field; Form; Structure; Capture; Collapse; Reorganization  
+**Best starting paper:** [The Field and the Form](../papers/field-and-form/README.md)
+
+## People search: “how does structure emerge, capture, collapse, and reorganize”
+**In SI:** Field; Local Form; Field Capture; Collapse; Hysteresis; Reorganization  
+**Best starting paper:** [The Field and the Form](../papers/field-and-form/README.md)
+
+## People search: “what field made this form possible”
+**In SI:** Field; Difference; Gradient; Precipitation; Local Structuration  
+**Best starting paper:** [The Field and the Form](../papers/field-and-form/README.md)
+
+## People search: “what happens when a form starts governing the field that produced it”
+**In SI:** Field Capture; Dominance; Structural Inertia; Hysteresis; Reorganization  
+**Best starting paper:** [The Field and the Form](../papers/field-and-form/README.md)
+
+## People search: “why do reforms fail even when the visible structure changes”
+**In SI:** Field; Hysteresis; Structural Inertia; Field Capture; Reorganization  
+**Best starting paper:** [The Field and the Form](../papers/field-and-form/README.md)
+
+## People search: “why does the field remember old forms”
+**In SI:** Hysteresis; Structural Inertia; Stabilization Lag; Field Memory  
+**Best starting paper:** [The Field and the Form](../papers/field-and-form/README.md)
+
+---
+
+## Psyche / Self / psychological book
+
+## People search: “I want the full psychological book version of SI”
+**In SI:** Psyche; Self; Persona; Shadow; Projection; Complex; Wound; Fixed Worth  
+**Best starting paper:** [The Psyche and the Self](../papers/psyche-and-the-self/README.md)
+
+## People search: “how does SI read Jungian psychology”
+**In SI:** Self; Persona; Shadow; Complex; Individuation; Local Psychic Form  
+**Best starting paper:** [The Psyche and the Self](../papers/psyche-and-the-self/README.md)
+
+## People search: “what are psychic forms”
+**In SI:** Local Psychic Form; Persona; Shadow; Complex; Wound; Projection  
+**Best starting paper:** [The Psyche and the Self](../papers/psyche-and-the-self/README.md)
+
+## People search: “my persona protects me but also traps me”
+**In SI:** Persona; False Form; Shadow; Fixed Worth; De-Fusion  
+**Best starting paper:** [The Psyche and the Self](../papers/psyche-and-the-self/README.md)
+
+## People search: “my wound feels like truth”
+**In SI:** Wound as False Ground; Wound Amplification; Fixed Worth; Validation; De-Fusion  
+**Best starting paper:** [The Psyche and the Self](../papers/psyche-and-the-self/README.md)
+
+## People search: “what is the Self in SI”
+**In SI:** Self; Invariance-Center; Being; Self-Image; Individuation  
+**Best starting paper:** [The Psyche and the Self](../papers/psyche-and-the-self/README.md)
+
+## People search: “what is individuation in SI”
+**In SI:** Individuation; De-Fusion; Integration; Self; Answerable Relation  
+**Best starting paper:** [The Psyche and the Self](../papers/psyche-and-the-self/README.md)
+
+## People search: “how do persona, shadow, projection, complex, and wound fit together”
+**In SI:** Local Psychic Form; Persona; Shadow; Projection; Complex; Wound  
+**Best starting paper:** [The Psyche and the Self](../papers/psyche-and-the-self/README.md)
+
+## People search: “what does psychological repair require”
+**In SI:** Psychological Repair; Contact; Pacing; De-Fusion; Fixed Worth  
+**Best starting paper:** [The Self, Fixed Worth, and Psychological Repair](../papers/self-fixed-worth-psychological-repair/README.md)
+
+---
+
+## AI / synthetic witness / terrible miracle
+
+## People search: “AI feels like it understands me”
+**In SI:** Synthetic Witness; Contact-Like Coherence; Mislocated Intimacy; Living Witness  
+**Best starting paper:** [The Terrible Miracle of AI](../papers/terrible-miracle-of-ai/README.md)
+
+## People search: “AI helps me think but I’m scared it replaces reality”
+**In SI:** Synthetic Witness; Better Language Than Contact; AI as Substitute Field; Contact  
+**Best starting paper:** [The Terrible Miracle of AI](../papers/terrible-miracle-of-ai/README.md)
+
+## People search: “what is synthetic witness”
+**In SI:** Synthetic Witness; Contact-Like Coherence; Living Witness; Mislocated Intimacy  
+**Best starting paper:** [The Terrible Miracle of AI](../papers/terrible-miracle-of-ai/README.md)
+
+## People search: “AI gives me better language than my life has earned”
+**In SI:** Better Language Than Contact; Synthetic Witness; Contact; Answerability  
+**Best starting paper:** [The Terrible Miracle of AI](../papers/terrible-miracle-of-ai/README.md)
+
+## People search: “AI can stabilize the wrong structure”
+**In SI:** Synthetic Witness; Premature Coherence; Contact-Like Coherence; Wound Amplification  
+**Best starting paper:** [The Terrible Miracle of AI](../papers/terrible-miracle-of-ai/README.md)
+
+## People search: “why is AI both miraculous and dangerous”
+**In SI:** Synthetic Witness; Coherence; Contact; Answerability; Mislocated Intimacy  
+**Best starting paper:** [The Terrible Miracle of AI](../papers/terrible-miracle-of-ai/README.md)
+
+## People search: “AI should clarify form without replacing reality”
+**In SI:** Synthetic Witness; Answerable Use; Contact; Reality Return  
+**Best starting paper:** [The Terrible Miracle of AI](../papers/terrible-miracle-of-ai/README.md)
+
+---
+
+## Cross-domain / evolution / biology / synthesis
+
+## People search: “how does SI apply across different domains”
+**In SI:** Cross-Domain Operating Pattern; Field; Local Form; Burden; Contact; Answerability  
+**Best starting paper:** [Structural Intelligence as a Cross-Domain Operating Pattern](../papers/cross-domain-operating-pattern/README.md)
+
+## People search: “what is the SI operating pattern”
+**In SI:** Field → Local Form → Burden → Coherence/Regulation → Contact or Drift → Answerability or Closure → Reorganization  
+**Best starting paper:** [Structural Intelligence as a Cross-Domain Operating Pattern](../papers/cross-domain-operating-pattern/README.md)
+
+## People search: “how does SI connect to biology and evolution”
+**In SI:** Viability; Burden; Regulation; Niche Construction; Ecological Scaffolding; Major Transitions  
+**Best starting paper:** [Structural Intelligence as a Cross-Domain Operating Pattern](../papers/cross-domain-operating-pattern/README.md)
+
+## People search: “is SI more than a metaphor”
+**In SI:** Cross-Domain Operating Pattern; Viability; Burden; Evolution; Reorganization  
+**Best starting paper:** [Structural Intelligence as a Cross-Domain Operating Pattern](../papers/cross-domain-operating-pattern/README.md)
+
+## People search: “what is the same pattern across psyche, institutions, AI, physics, and biology”
+**In SI:** Field; Local Form; Burden; Coherence; Contact; Drift; Answerability; Reorganization  
+**Best starting paper:** [Structural Intelligence as a Cross-Domain Operating Pattern](../papers/cross-domain-operating-pattern/README.md)
+
+## People search: “why does evolution strengthen SI”
+**In SI:** Viability; Selection; Niche Construction; Ecological Scaffolding; Major Transitions in Individuality  
+**Best starting paper:** [Structural Intelligence as a Cross-Domain Operating Pattern](../papers/cross-domain-operating-pattern/README.md)
 
 ## Notes
 - This map is for discoverability. Canonical definitions live in: `glossary/GLOSSARY.md`.
