@@ -315,6 +315,65 @@ A philosophical framework for describing how human reality is organized into for
 - **Ecological Scaffolding** *(external support conditions; field support; scaffolded viability)*
 - **Major Transitions in Individuality** *(higher-order holders; new individualities; evolutionary reorganization)*
 
+### Added from the May 2026 papers
+
+- **Synthetic Witness** *(simulated witness; therapeutic simulation; care-atmosphere without witness)*
+- **Transference Mirror** *(projection mirror; frictionless transference surface; compliant mirror)*
+- **Textual Care Without a Somatic Floor** *(textual care; disembodied care; semantic care without embodiment)*
+- **Somatic Co-Regulation** *(embodied co-regulation; nervous-system regulation; somatic mutuality)*
+- **Asymmetry Gap** *(missing otherness gap; witness asymmetry gap; simulated reciprocity gap)*
+- **Near-Zero Cost of Exit** *(cheap exit; zero-cost withdrawal; unbound exit)*
+
+- **Validation Loop** *(validation cycle; reassurance loop; comfort loop)*
+- **Grounded Relief** *(reality-bearing relief; contactful relief; answerable relief)*
+- **Self-Authorizing Trap** *(prompted self-confirmation; iterative self-authorization; prompt-loop confirmation)*
+- **Somatic Mirage** *(felt-contact mirage; embodied-seeming validation; pseudo-somatic confirmation)*
+- **Somatic Answerability** *(bodily answerability; embodied contact; somatic contact)*
+- **Ascetic Trap** *(suffering-as-truth trap; pain absolutization; austerity trap)*
+
+- **Machine Answerability** *(machine-mediated answerability; artificial answer environment; private machine answer)*
+- **Relational Overfitting** *(relation overfitting; compliant-relation training; asymmetry intolerance)*
+- **Semantic Soothing Without Somatic Maturation** *(language-level soothing; semantic regulation without embodied growth; soothing without maturation)*
+- **Identity as Prompt** *(editable self; prompt-like identity; regenerable self)*
+- **Deposited Trace** *(lived trace; accumulated continuity; consequence-deposited self)*
+
+- **Shared History** *(mutual history; lived shared past; consequence-bearing continuity)*
+- **Tokenized Recall** *(stored recall; token memory; retrievable continuity cue)*
+- **Versioning Rupture** *(version break; memory-version rupture; continuity rupture)*
+- **Sovereign Amnesia** *(provider reset; platform amnesia; externally governed forgetting)*
+
+- **Internalized Governance** *(carried controller; internalized control; inner governance by old system)*
+- **Control After Exit** *(post-exit control; surviving controller; freedom without inner release)*
+
+- **Better Holder** *(truer holder; more adequate form; repairing form)*
+
+- **Vertical Answerability** *(depth answerability; answerability to soul-depth; inner vertical axis)*
+- **Invisible Trace** *(depth trace; soul-trace; non-resettable continuity)*
+- **Thinness Threshold** *(soul-threshold; form-thinness threshold; holder-thinness limit)*
+
+- **Default Steering** *(assistive drift into control; pathway capture; default authority)*
+- **Consequence-Bearing Authorization** *(real authorization; witnessed authorization; accountable authorization)*
+- **Causal Anchoring** *(evidentiary anchoring; grounded action path; external grounding)*
+- **Adversarial Mirroring** *(countercase generation; self-counterargument; structured contradiction)*
+- **Proof of Contact Receipt** *(contact receipt; epistemic receipt; evidence-of-update trace)*
+- **Burden-Path Audit** *(maintenance-path audit; cost-path audit; burden tracing)*
+- **Binding Revision Trigger** *(mandatory revision trigger; rollback threshold; correction threshold)*
+- **Refusal Structures** *(hard refusals; non-bypassable refusals; invariant refusal layer)*
+- **Verifiable Execution** *(inspectable execution; traceable execution; reconstructable action path)*
+
+- **Answerable Intelligence** *(intelligence under contact; revisable intelligence; answerable judgment)*
+- **Binding Revision** *(trace-leaving revision; cost-bearing revision; behavior-changing revision)*
+
+- **Category-Collapse Problem** *(collapsed-category error; layered conflation; explanatory compression)*
+- **Structural Closure Under Constraint** *(constrained closure; consequence-bearing closure; bound definiteness)*
+- **Ontological Inflation** *(inflated ontology; explanatory overpopulation; metaphysical overreach)*
+- **Epistemic Deflation** *(deflated interpretation; procedural retreat; ontological suspension)*
+- **Competing Coherence Regimes** *(rival closure regimes; explanatory burden maps; competing stabilizations)*
+- **Revision Under Pressure** *(scientific revision under pressure; contact-driven revision; pressure-tested revision)*
+- **Scientific Restraint** *(disciplined restraint; anti-premature-closure discipline; earned closure only)*
+
+- **Responsibility as Criterion of Real Intelligence** *(responsibility criterion; answerable intelligence criterion; real-intelligence criterion)*
+
 ## Papers
 See the index: **[papers/README.md](./papers/README.md)**
 
@@ -595,3 +654,51 @@ This repository hosts landing pages, abstracts, keywords, and version notes. Can
 
 - **False Form and Liberation: Spiritual Teaching as De-Fusion in Structural Intelligence** — DOI: 10.5281/zenodo.19708120  
   Paper page: [papers/false-form-and-liberation](./papers/false-form-and-liberation/README.md)
+
+- **What Structural Intelligence Really Is: Logic, Answerability, and the Internal Operation of Judgment** — DOI: 10.5281/zenodo.19959354  
+  Paper page: [papers/what-structural-intelligence-really-is](./papers/what-structural-intelligence-really-is/README.md)
+
+- **The Intelligence of Answerability: Why IQ, EQ, and SQ Are Not Enough** — DOI: 10.5281/zenodo.19990540  
+  Paper page: [papers/intelligence-of-answerability](./papers/intelligence-of-answerability/README.md)
+
+- **When Reality Outruns Theory: Physics as a Formal Neighbor to Structural Intelligence** — DOI: 10.5281/zenodo.19990896  
+  Paper page: [papers/when-reality-outruns-theory](./papers/when-reality-outruns-theory/README.md)
+
+- **Truth Is Not Pain: Reality-Contact, Relief, and Reliability Under Constraint** — DOI: 10.5281/zenodo.20031211  
+  Paper page: [papers/truth-is-not-pain](./papers/truth-is-not-pain/README.md)
+
+- **Creativity and the Return of Contact: Form, Being, and the Structure of Repair** — DOI: 10.5281/zenodo.20043644  
+  Paper page: [papers/creativity-return-contact](./papers/creativity-return-contact/README.md)
+
+- **The Validation Loop: AI, Comfort, and Unanswerability** — DOI: 10.5281/zenodo.20043769  
+  Paper page: [papers/validation-loop](./papers/validation-loop/README.md)
+
+- **AI Therapy, Care, and Synthetic Witness: Structural Intelligence and the Limits of Machine Care** — DOI: 10.5281/zenodo.20051366  
+  Paper page: [papers/ai-therapy-care-synthetic-witness](./papers/ai-therapy-care-synthetic-witness/README.md)
+
+- **Memory Without History: Why AI Continuity Is Not Shared History** — DOI: 10.5281/zenodo.20051590  
+  Paper page: [papers/memory-without-history](./papers/memory-without-history/README.md)
+
+- **Growing Up Answerable to a Machine: AI, Development, and the Formation of the Self** — DOI: 10.5281/zenodo.20075085  
+  Paper page: [papers/growing-up-answerable-machine](./papers/growing-up-answerable-machine/README.md)
+
+- **Soul, Form, and Answerability: A Structural Reading Framework** — DOI: 10.5281/zenodo.20089880  
+  Paper page: [papers/soul-form-answerability](./papers/soul-form-answerability/README.md)
+
+- **The System You Escape Still Lives Inside You: Fear, Conditioning, and Why Control Survives After Freedom** — DOI: 10.5281/zenodo.20090059  
+  Paper page: [papers/system-you-escape-still-lives-inside-you](./papers/system-you-escape-still-lives-inside-you/README.md)
+
+- **Engineering Shared Answerability: Design Primitives for Answerable Control** — DOI: 10.5281/zenodo.20090592  
+  Paper page: [papers/engineering-shared-answerability](./papers/engineering-shared-answerability/README.md)
+
+- **When Assistance Becomes Default Steering: Structural Intelligence, Shared Answerability, and Clinical Decision Support** — DOI: 10.5281/zenodo.20090687  
+  Paper page: [papers/when-assistance-becomes-default-steering](./papers/when-assistance-becomes-default-steering/README.md)
+
+- **From Oversight Theater to Answerable Control: Structural Intelligence and Shared Answerability in Cybernetic Systems** — DOI: 10.5281/zenodo.20025005  
+  Paper page: [papers/from-oversight-theater-to-answerable-control](./papers/from-oversight-theater-to-answerable-control/README.md)
+
+- **The Answerability Problem in Quantum Mechanics: Observation, Interpretation, and Structural Closure Under Constraint** — DOI: 10.5281/zenodo.20107415  
+  Paper page: [papers/answerability-problem-quantum-mechanics](./papers/answerability-problem-quantum-mechanics/README.md)
+
+- **The Measure of Man: Responsibility as the Criterion of Real Intelligence** — DOI: 10.5281/zenodo.19889274  
+  Paper page: [papers/measure-of-man](./papers/measure-of-man/README.md)
