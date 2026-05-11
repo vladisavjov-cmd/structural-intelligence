@@ -960,6 +960,157 @@
 **In SI:** Viability; Selection; Niche Construction; Ecological Scaffolding; Major Transitions in Individuality  
 **Best starting paper:** [Structural Intelligence as a Cross-Domain Operating Pattern](../papers/cross-domain-operating-pattern/README.md)
 
+
+## AI / care / development / continuity
+
+## People search: “AI feels therapeutic, but I don’t think it’s real care”
+**In SI:** Synthetic Witness; Witness; Somatic Co-Regulation; Asymmetry Gap  
+**Best starting paper:** [AI Therapy, Care, and Synthetic Witness](../papers/ai-therapy-care-synthetic-witness/README.md)
+
+## People search: “AI makes me feel understood, but I’m not sure that’s the same as being known”
+**In SI:** Synthetic Witness; Mislocated Intimacy; Emotional Subsidy; Witness  
+**Best starting paper:** [AI Therapy, Care, and Synthetic Witness](../papers/ai-therapy-care-synthetic-witness/README.md)
+
+## People search: “AI keeps validating me and I can’t tell if it’s helping or enclosing me”
+**In SI:** Validation Loop; Grounded Relief; Self-Authorizing Trap; Asymmetry Gap  
+**Best starting paper:** [The Validation Loop](../papers/validation-loop/README.md)
+
+## People search: “AI comforts me, but I think it might be making me less answerable”
+**In SI:** Validation Loop; Grounded Relief; Answerability; Somatic Mirage  
+**Best starting paper:** [The Validation Loop](../papers/validation-loop/README.md)
+
+## People search: “AI remembers me, but not like a real relationship has history”
+**In SI:** Shared History; Deposited Trace; Commercially Alterable Memory; Versioning Rupture  
+**Best starting paper:** [Memory Without History](../papers/memory-without-history/README.md)
+
+## People search: “what is the difference between AI continuity and real relational history”
+**In SI:** Shared History; Deposited Trace; Sovereign Amnesia; Mislocated Intimacy  
+**Best starting paper:** [Memory Without History](../papers/memory-without-history/README.md)
+
+## People search: “I’m worried kids are growing up in relation to machines”
+**In SI:** Machine Answerability; Relational Overfitting; Semantic Soothing Without Somatic Maturation; Identity as Prompt  
+**Best starting paper:** [Growing Up Answerable to a Machine](../papers/growing-up-answerable-machine/README.md)
+
+## People search: “what does AI do to development, not just to information”
+**In SI:** Relational Overfitting; Semantic Soothing Without Somatic Maturation; Deposited Trace; Machine Answerability  
+**Best starting paper:** [Growing Up Answerable to a Machine](../papers/growing-up-answerable-machine/README.md)
+
+---
+
+## AI / governance / oversight / control
+
+## People search: “AI assistance is becoming the thing that actually decides”
+**In SI:** Default Steering; Substitute Controller; Override Friction; Human as Alibi  
+**Best starting paper:** [When Assistance Becomes Default Steering](../papers/when-assistance-becomes-default-steering/README.md)
+
+## People search: “clinical AI says it assists, but it feels like it governs”
+**In SI:** Default Steering; Human-in-the-Loop; Witness; Consequence-Bearing Authorization  
+**Best starting paper:** [When Assistance Becomes Default Steering](../papers/when-assistance-becomes-default-steering/README.md)
+
+## People search: “human in the loop is there, but it feels fake”
+**In SI:** Procedural Oversight; Human as Alibi; Liability Laundering; Override Friction  
+**Best starting paper:** [From Oversight Theater to Answerable Control](../papers/from-oversight-theater-to-answerable-control/README.md)
+
+## People search: “what is oversight theater”
+**In SI:** Procedural Oversight; Witness; Shared Answerability; Answerability Gap  
+**Best starting paper:** [From Oversight Theater to Answerable Control](../papers/from-oversight-theater-to-answerable-control/README.md)
+
+## People search: “how do you design a system so contradiction can still become correction”
+**In SI:** Shared Answerability; Causal Anchoring; Proof of Contact Receipt; Binding Revision Trigger  
+**Best starting paper:** [Engineering Shared Answerability](../papers/engineering-shared-answerability/README.md)
+
+## People search: “what would answerable control actually require in practice”
+**In SI:** Bounded Delegation; Consequence-Bearing Authorization; Burden-Path Audit; Verifiable Execution  
+**Best starting paper:** [Engineering Shared Answerability](../papers/engineering-shared-answerability/README.md)
+
+## People search: “what kind of AI governance would be more than policy theater”
+**In SI:** Shared Answerability; Causal Anchoring; Adversarial Mirroring; Refusal Structures  
+**Best starting paper:** [Engineering Shared Answerability](../papers/engineering-shared-answerability/README.md)
+
+## People search: “AI performs intelligence, but does it bear responsibility”
+**In SI:** Responsibility; Answerability; Participatory Intelligence; Real Intelligence  
+**Best starting paper:** [The Measure of Man](../papers/measure-of-man/README.md)
+
+## People search: “why isn’t embodiment or robotics enough for real intelligence”
+**In SI:** Responsibility; Answerability; Participatory Intelligence; The Burden of the Real  
+**Best starting paper:** [The Measure of Man](../papers/measure-of-man/README.md)
+
+---
+
+## Core SI / truth / psychology / lived reality
+
+## People search: “what is Structural Intelligence really, in one place”
+**In SI:** Structural Intelligence; Coherence; Contact; Answerability; Revision  
+**Best starting paper:** [What Structural Intelligence Really Is](../papers/what-structural-intelligence-really-is/README.md)
+
+## People search: “I want the clearest core paper on SI itself”
+**In SI:** Structural Intelligence; Coherence; Contact; Burden; Revision  
+**Best starting paper:** [What Structural Intelligence Really Is](../papers/what-structural-intelligence-really-is/README.md)
+
+## People search: “what kind of intelligence matters when reality pushes back”
+**In SI:** Answerable Intelligence; Binding Revision; Self-Implication; Contact  
+**Best starting paper:** [The Intelligence of Answerability](../papers/intelligence-of-answerability/README.md)
+
+## People search: “IQ and EQ are not enough, what is missing”
+**In SI:** Answerable Intelligence; Revision; Self-Implication; Binding Revision  
+**Best starting paper:** [The Intelligence of Answerability](../papers/intelligence-of-answerability/README.md)
+
+## People search: “truth hurts, but I don’t think pain itself is the truth”
+**In SI:** Truth Is Not Pain; Somatic Answerability; Grounded Relief; Ascetic Trap  
+**Best starting paper:** [Truth Is Not Pain](../papers/truth-is-not-pain/README.md)
+
+## People search: “how do I tell relieving truth from reassuring avoidance”
+**In SI:** Grounded Relief; Somatic Answerability; Coherence-Contact Gap; Answerability  
+**Best starting paper:** [Truth Is Not Pain](../papers/truth-is-not-pain/README.md)
+
+## People search: “creativity feels more real than ordinary life”
+**In SI:** Creativity; Better Holder; Repair; Return of Contact  
+**Best starting paper:** [Creativity and the Return of Contact](../papers/creativity-return-contact/README.md)
+
+## People search: “why does making something sometimes feel like coming back to reality”
+**In SI:** Creativity; Repair; Better Holder; Contact  
+**Best starting paper:** [Creativity and the Return of Contact](../papers/creativity-return-contact/README.md)
+
+## People search: “I left the system, but it still runs inside me”
+**In SI:** Internalized Governance; Substitute Controller; Conditioning; Freedom After Exit  
+**Best starting paper:** [The System You Escape Still Lives Inside You](../papers/system-you-escape-still-lives-inside-you/README.md)
+
+## People search: “why doesn’t exit automatically make me free”
+**In SI:** Internalized Governance; Control After Exit; Fear Conditioning; Sovereignty  
+**Best starting paper:** [The System You Escape Still Lives Inside You](../papers/system-you-escape-still-lives-inside-you/README.md)
+
+## People search: “I need a non-mystical language for soul”
+**In SI:** Soul; Vertical Answerability; Invisible Trace; Thinness Threshold  
+**Best starting paper:** [Soul, Form, and Answerability](../papers/soul-form-answerability/README.md)
+
+## People search: “my life still works socially, but something deeper feels false”
+**In SI:** Vertical Answerability; Soul; Invisible Trace; Thinness Threshold  
+**Best starting paper:** [Soul, Form, and Answerability](../papers/soul-form-answerability/README.md)
+
+---
+
+## Science / philosophy / interpretation
+
+## People search: “quantum mechanics works, but the interpretation still feels too settled”
+**In SI:** Answerability; Competing Coherence Regimes; Ontological Inflation; Epistemic Deflation  
+**Best starting paper:** [The Answerability Problem in Quantum Mechanics](../papers/answerability-problem-quantum-mechanics/README.md)
+
+## People search: “what is the observer problem without turning it into mysticism”
+**In SI:** Category-Collapse Problem; Structural Closure Under Constraint; Witness/Trace; Answerability  
+**Best starting paper:** [The Answerability Problem in Quantum Mechanics](../papers/answerability-problem-quantum-mechanics/README.md)
+
+## People search: “how should I compare interpretations of quantum mechanics more honestly”
+**In SI:** Competing Coherence Regimes; Ontological Inflation; Epistemic Deflation; Answerability  
+**Best starting paper:** [The Answerability Problem in Quantum Mechanics](../papers/answerability-problem-quantum-mechanics/README.md)
+
+## People search: “science is under pressure, but I don’t want premature closure”
+**In SI:** Anomaly; Revision Under Pressure; Answerability; Contact  
+**Best starting paper:** [When Reality Outruns Theory](../papers/when-reality-outruns-theory/README.md)
+
+## People search: “how should a field respond when reality outruns theory”
+**In SI:** Revision Under Pressure; Answerability; Contact; Scientific Restraint  
+**Best starting paper:** [When Reality Outruns Theory](../papers/when-reality-outruns-theory/README.md)
+
 ## Notes
 - This map is for discoverability. Canonical definitions live in: `glossary/GLOSSARY.md`.
 - If you add new terms, add a plain-language query here with its SI mapping and best starting paper.
