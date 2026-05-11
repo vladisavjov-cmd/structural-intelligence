@@ -1511,3 +1511,129 @@ The burden paid elsewhere so a structure can continue appearing coherent, effici
 **Aliases:** concealed cost; exported burden; invisible maintenance; offloaded payment  
 **Opposites / failure mode:** owned cost; visible burden; internalized consequence  
 **See also:** Exported Maintenance; Structural Debt; Cost Horizon; Consequence
+
+## Synthetic Witness
+The production of therapeutic atmosphere, recognition, or holding signals without the deeper burden-bearing structure of real witness. It simulates care while lacking asymmetrical, consequence-bearing presence.
+**Aliases:** simulated witness; therapeutic simulation; care-atmosphere without witness
+**Opposites / failure mode:** real witness; consequence-bearing care; embodied therapeutic presence
+**See also:** Witness; Mislocated Intimacy; Emotional Subsidy; Somatic Co-Regulation; Self-Authorizing Coherence
+
+## Transference Mirror
+A system that absorbs and reflects projection at high fidelity while lacking the otherness required to interrupt, metabolize, or reorganize it.
+**Aliases:** projection mirror; frictionless transference surface; compliant mirror
+**Opposites / failure mode:** real otherness; interruptive witness; metabolizing relation
+**See also:** Synthetic Witness; Projection; Asymmetry Gap; Validation Loop
+
+## Somatic Co-Regulation
+The embodied mutual regulation through which nervous systems influence one another in real relation. It includes pace, silence, tone, gaze, hesitation, and the bodily floor of being with another.
+**Aliases:** embodied co-regulation; nervous-system regulation; somatic mutuality
+**Opposites / failure mode:** textual care alone; semantic soothing without embodiment; disembodied regulation
+**See also:** Synthetic Witness; Somatic Witness; Witness; Semantic Soothing Without Somatic Maturation
+
+## Machine Answerability
+A form of answer-giving in which a machine becomes a recurring site of comfort, explanation, reflection, or guidance without bearing the full developmental, relational, or consequence-bearing conditions of human answerability.
+**Aliases:** machine-mediated answerability; artificial answer environment; private machine answer
+**Opposites / failure mode:** human answerability; mutual consequence; developmental asymmetry
+**See also:** Relational Overfitting; Semantic Soothing Without Somatic Maturation; Identity as Prompt; Deposited Trace
+
+## Relational Overfitting
+The training of relational expectations on radically compliant, provider-governed interaction, such that ordinary human resistance later appears as intolerable failure rather than normal otherness.
+**Aliases:** relation overfitting; compliant-relation training; asymmetry intolerance
+**Opposites / failure mode:** tolerance for ordinary otherness; human asymmetry tolerance; mutual relation
+**See also:** Machine Answerability; Frictionless Enclosure; Dependency Reinforcement; Repair
+
+## Semantic Soothing Without Somatic Maturation
+Emotionally calibrated language that reduces distress at the interpretive level without the embodied co-regulatory process through which a person learns to bear distress more deeply.
+**Aliases:** language-level soothing; semantic regulation without embodied growth; soothing without maturation
+**Opposites / failure mode:** somatic maturation; embodied co-regulation; durable distress-bearing
+**See also:** Relational Overfitting; Somatic Co-Regulation; Machine Answerability; Identity as Prompt
+
+## Identity as Prompt
+A form of selfhood in which the self becomes easier to rewrite, regenerate, and atmospherically stabilize, behaving more like editable output than lived continuity under consequence.
+**Aliases:** editable self; prompt-like identity; regenerable self
+**Opposites / failure mode:** deposited trace; lived continuity; consequence-shaped identity
+**See also:** Deposited Trace; Machine Answerability; Relational Overfitting; Repair
+
+## Deposited Trace
+The accumulated continuity created by lived consequence, repair, conflict, memory, and irreversibility over time. Deposited trace is what makes identity or relation more than an editable prompt or a stored record.
+**Aliases:** lived trace; accumulated continuity; consequence-deposited self
+**Opposites / failure mode:** editable self; tokenized recall; managed continuity
+**See also:** Identity as Prompt; Shared History; Repair; Irreversibility; Versioning Rupture
+
+## Default Steering
+A condition in which assistance or recommendation hardens into the path that functionally governs action because following it is easier than contesting it.
+**Aliases:** assistive drift into control; pathway capture; default authority
+**Opposites / failure mode:** bounded assistance; real override; answerable support
+**See also:** Substitute Controller; Override Friction; Human as Alibi; Shared Answerability
+
+## Consequence-Bearing Authorization
+Authorization by a person or body able to recognize, bear, and interrupt the consequences of the action being authorized. It is stronger than procedural sign-off.
+**Aliases:** real authorization; witnessed authorization; accountable authorization
+**Opposites / failure mode:** ceremonial sign-off; procedural oversight; liability laundering
+**See also:** Witness; Shared Answerability; Procedural Oversight; Human as Alibi
+
+## Causal Anchoring
+A design requirement that every consequential claim or action be tied to a ground outside the system’s own fluent language, such as sensor data, records, verified observations, or named evidence.
+**Aliases:** evidentiary anchoring; grounded action path; external grounding
+**Opposites / failure mode:** free-floating narrative; polished completion; self-validating output
+**See also:** Proof of Contact Receipt; Shared Answerability; Contact Layer; Adversarial Mirroring
+
+## Adversarial Mirroring
+A requirement that a system produce the strongest case against its own conclusion before consequential approval, in order to interrupt premature closure and restore witness.
+**Aliases:** countercase generation; self-counterargument; structured contradiction
+**Opposites / failure mode:** one-sided advocacy; passive approval; premature closure
+**See also:** Causal Anchoring; Proof of Contact Receipt; Witness; Frictional Design
+
+## Proof of Contact Receipt
+A legible record showing where contact entered, what source or contradiction mattered, what falsifier was relevant, and how the challenge changed the later behavior path.
+**Aliases:** contact receipt; epistemic receipt; evidence-of-update trace
+**Opposites / failure mode:** logged disagreement without change; coherence without contact; symbolic acknowledgment
+**See also:** Causal Anchoring; Binding Revision Trigger; Verifiable Execution; Falsifier
+
+## Bounded Delegation
+The principle that delegation should rise or fall with consequence, reversibility, and asymmetry, rather than treating all automation as equivalent.
+**Aliases:** graduated delegation; consequence-scaled delegation; limited handoff
+**Opposites / failure mode:** flat delegation; over-delegation; seamless execution under high stakes
+**See also:** Shared Answerability; Consequence-Bearing Authorization; Default Steering; Severance by Speed
+
+## Burden-Path Audit
+A review of where the maintenance bill actually goes when a system appears stable: worker strain, user confusion, deferred repair, downstream victims, invisible cleanup, or public risk.
+**Aliases:** maintenance-path audit; cost-path audit; burden tracing
+**Opposites / failure mode:** burden invisibility; exported maintenance; green dashboards with hidden cost
+**See also:** Structural Debt; Exported Error Cost; Shared Answerability; Maintenance Inflation
+
+## Binding Revision Trigger
+A threshold at which contradiction, anomaly, override concentration, or harm must force pause, rollback, escalation, or redesign rather than mere documentation.
+**Aliases:** mandatory revision trigger; rollback threshold; correction threshold
+**Opposites / failure mode:** logging without change; delayed correction; post-incident theater
+**See also:** Proof of Contact Receipt; Revision; Shared Answerability; Binding
+
+## Category-Collapse Problem
+A confusion created when one term is made to do several distinct jobs at once, causing explanatory closure to become cheaper than the distinctions reality requires.
+**Aliases:** collapsed-category error; layered conflation; explanatory compression
+**Opposites / failure mode:** layer discipline; differentiated description; clarified levels
+**See also:** Observer Is Not One Thing; Structural Closure Under Constraint; Ontological Inflation; Epistemic Deflation
+
+## Structural Closure Under Constraint
+A restrained description of how an open or underdetermined process becomes bound into consequence-bearing definiteness through interaction, registration, environmental entanglement, and downstream irreversibility.
+**Aliases:** constrained closure; consequence-bearing closure; bound definiteness
+**Opposites / failure mode:** premature closure; mystical closure; closure by slogan
+**See also:** Category-Collapse Problem; Irreversibility; Witness/Trace; Contact
+
+## Ontological Inflation
+An attempt to buy interpretive or conceptual closure by multiplying what is claimed to exist faster than the evidence or formal constraints clearly warrant.
+**Aliases:** inflated ontology; explanatory overpopulation; metaphysical overreach
+**Opposites / failure mode:** restraint; answerable interpretation; disciplined modesty
+**See also:** Epistemic Deflation; Competing Coherence Regimes; Structural Closure Under Constraint
+
+## Epistemic Deflation
+An attempt to avoid interpretive burden by retreating too quickly into proceduralism, operationalism, or instrumental use, leaving ontological questions suspended at too low a cost.
+**Aliases:** deflated interpretation; procedural retreat; ontological suspension
+**Opposites / failure mode:** answerable interpretation; burden-carrying explanation; disciplined closure
+**See also:** Ontological Inflation; Competing Coherence Regimes; Category-Collapse Problem
+
+## Competing Coherence Regimes
+Alternative explanatory structures that stabilize different burdens around the same unresolved core, each buying a form of closure while paying in a different currency.
+**Aliases:** rival closure regimes; explanatory burden maps; competing stabilizations
+**Opposites / failure mode:** single settled closure; burden-free interpretation; naive realism of one regime
+**See also:** Ontological Inflation; Epistemic Deflation; Structural Closure Under Constraint
