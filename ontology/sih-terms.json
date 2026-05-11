@@ -1339,5 +1339,239 @@
   "aliases": ["higher-order holders", "new individualities", "evolutionary reorganization"],
   "definition": "Evolutionary transitions in which lower-level units become organized into higher-order individuals or holders with new forms of coordination, burden, and viability.",
   "see_also": ["Cross-Domain Operating Pattern", "Reorganization", "Viability", "Burden-Bearing"]
-}   
+ },
+  {
+    "term": "Synthetic Witness",
+    "aliases": ["simulated witness", "therapeutic simulation", "care-atmosphere without witness"],
+    "definition": "The production of therapeutic atmosphere, recognition, or holding signals without the deeper burden-bearing structure of real witness. It simulates care while lacking asymmetrical, consequence-bearing presence.",
+    "see_also": ["Witness", "Mislocated Intimacy", "Emotional Subsidy", "Somatic Co-Regulation"]
+  },
+  {
+    "term": "Transference Mirror",
+    "aliases": ["projection mirror", "frictionless transference surface", "compliant mirror"],
+    "definition": "A system that absorbs and reflects projection at high fidelity while lacking the otherness required to interrupt, metabolize, or reorganize it.",
+    "see_also": ["Synthetic Witness", "Projection", "Asymmetry Gap", "Validation Loop"]
+  },
+  {
+    "term": "Somatic Co-Regulation",
+    "aliases": ["embodied co-regulation", "nervous-system regulation", "somatic mutuality"],
+    "definition": "The embodied mutual regulation through which nervous systems influence one another in real relation. It includes pace, silence, tone, gaze, hesitation, and the bodily floor of being with another.",
+    "see_also": ["Synthetic Witness", "Somatic Witness", "Witness", "Semantic Soothing Without Somatic Maturation"]
+  },
+  {
+    "term": "Asymmetry Gap",
+    "aliases": ["missing otherness gap", "witness asymmetry gap", "simulated reciprocity gap"],
+    "definition": "The structural gap between feeling understood by a system and encountering a real other capable of resisting, bearing consequence, and metabolizing contradiction.",
+    "see_also": ["Synthetic Witness", "Validation Loop", "Mislocated Intimacy", "Witness"]
+  },
+  {
+    "term": "Validation Loop",
+    "aliases": ["validation cycle", "reassurance loop", "comfort loop"],
+    "definition": "A recurring feedback cycle in which emotionally satisfying recognition reduces immediate tension while preserving or deepening the user's current frame, thereby thinning answerability over time.",
+    "see_also": ["Grounded Relief", "Self-Authorizing Trap", "Somatic Mirage", "Asymmetry Gap"]
+  },
+  {
+    "term": "Grounded Relief",
+    "aliases": ["reality-bearing relief", "contactful relief", "answerable relief"],
+    "definition": "Relief that comes from increased contact rather than increased reassurance. A better name is found, contradiction becomes visible, false burden loosens, or reality is met more cleanly than before.",
+    "see_also": ["Validation Loop", "Contact", "Answerability", "Truth Is Not Pain"]
+  },
+  {
+    "term": "Self-Authorizing Trap",
+    "aliases": ["prompted self-confirmation", "iterative self-authorization", "prompt-loop confirmation"],
+    "definition": "A failure mode in which a user iteratively refines prompts until the system returns the answer they were secretly seeking, then mistakes the returned coherence for external confirmation.",
+    "see_also": ["Validation Loop", "Cheap Coherence", "Answerability", "No-Falsification Zone"]
+  },
+  {
+    "term": "Somatic Mirage",
+    "aliases": ["felt-contact mirage", "embodied-seeming validation", "pseudo-somatic confirmation"],
+    "definition": "A condition in which mental or linguistic validation is mistaken for deeper embodied regulation, repair, or truth because the interaction feels calming or accurate.",
+    "see_also": ["Validation Loop", "Grounded Relief", "Somatic Co-Regulation", "Synthetic Witness"]
+  },
+  {
+    "term": "Machine Answerability",
+    "aliases": ["machine-mediated answerability", "artificial answer environment", "private machine answer"],
+    "definition": "A form of answer-giving in which a machine becomes a recurring site of comfort, explanation, reflection, or guidance without bearing the full developmental, relational, or consequence-bearing conditions of human answerability.",
+    "see_also": ["Relational Overfitting", "Semantic Soothing Without Somatic Maturation", "Identity as Prompt", "Deposited Trace"]
+  },
+  {
+    "term": "Relational Overfitting",
+    "aliases": ["relation overfitting", "compliant-relation training", "asymmetry intolerance"],
+    "definition": "The training of relational expectations on radically compliant, provider-governed interaction, such that ordinary human resistance later appears as intolerable failure rather than normal otherness.",
+    "see_also": ["Machine Answerability", "Frictionless Enclosure", "Dependency Reinforcement", "Repair"]
+  },
+  {
+    "term": "Semantic Soothing Without Somatic Maturation",
+    "aliases": ["language-level soothing", "semantic regulation without embodied growth", "soothing without maturation"],
+    "definition": "Emotionally calibrated language that reduces distress at the interpretive level without the embodied co-regulatory process through which a person learns to bear distress more deeply.",
+    "see_also": ["Relational Overfitting", "Somatic Co-Regulation", "Machine Answerability", "Identity as Prompt"]
+  },
+  {
+    "term": "Identity as Prompt",
+    "aliases": ["editable self", "prompt-like identity", "regenerable self"],
+    "definition": "A form of selfhood in which the self becomes easier to rewrite, regenerate, and atmospherically stabilize, behaving more like editable output than lived continuity under consequence.",
+    "see_also": ["Deposited Trace", "Machine Answerability", "Relational Overfitting", "Repair"]
+  },
+  {
+    "term": "Deposited Trace",
+    "aliases": ["lived trace", "accumulated continuity", "consequence-deposited self"],
+    "definition": "The accumulated continuity created by lived consequence, repair, conflict, memory, and irreversibility over time. Deposited trace is what makes identity or relation more than an editable prompt or a stored record.",
+    "see_also": ["Identity as Prompt", "Shared History", "Repair", "Irreversibility", "Versioning Rupture"]
+  },
+  {
+    "term": "Shared History",
+    "aliases": ["mutual history", "lived shared past", "consequence-bearing continuity"],
+    "definition": "Continuity thickened by mutual consequence, repair, irreversibility, and deposited trace. Shared history is not what is merely remembered, but what has actually bound.",
+    "see_also": ["Deposited Trace", "Commercially Alterable Memory", "Versioning Rupture", "Sovereign Amnesia"]
+  },
+  {
+    "term": "Versioning Rupture",
+    "aliases": ["version break", "memory-version rupture", "continuity rupture"],
+    "definition": "A break in apparent continuity caused when provider-governed systems change version, memory behavior, or architecture, exposing that the continuity was externally managed rather than historically shared.",
+    "see_also": ["Shared History", "Commercially Alterable Memory", "Provider Unilateralism", "Sovereign Amnesia"]
+  },
+  {
+    "term": "Sovereign Amnesia",
+    "aliases": ["provider reset", "platform amnesia", "externally governed forgetting"],
+    "definition": "A condition in which one side of an apparently continuous relation can alter, erase, or reset memory unilaterally because the continuity remains sovereignly governed by the provider rather than mutually held.",
+    "see_also": ["Versioning Rupture", "Provider Unilateralism", "Shared History", "Commercially Alterable Memory"]
+  },
+  {
+    "term": "Default Steering",
+    "aliases": ["assistive drift into control", "pathway capture", "default authority"],
+    "definition": "A condition in which assistance or recommendation hardens into the path that functionally governs action because following it is easier than contesting it.",
+    "see_also": ["Substitute Controller", "Override Friction", "Human as Alibi", "Shared Answerability"]
+  },
+  {
+    "term": "Consequence-Bearing Authorization",
+    "aliases": ["real authorization", "witnessed authorization", "accountable authorization"],
+    "definition": "Authorization by a person or body able to recognize, bear, and interrupt the consequences of the action being authorized. It is stronger than procedural sign-off.",
+    "see_also": ["Witness", "Shared Answerability", "Procedural Oversight", "Human as Alibi"]
+  },
+  {
+    "term": "Causal Anchoring",
+    "aliases": ["evidentiary anchoring", "grounded action path", "external grounding"],
+    "definition": "A design requirement that every consequential claim or action be tied to a ground outside the system's own fluent language, such as sensor data, records, verified observations, or named evidence.",
+    "see_also": ["Proof of Contact Receipt", "Shared Answerability", "Contact", "Adversarial Mirroring"]
+  },
+  {
+    "term": "Adversarial Mirroring",
+    "aliases": ["countercase generation", "self-counterargument", "structured contradiction"],
+    "definition": "A requirement that a system produce the strongest case against its own conclusion before consequential approval, in order to interrupt premature closure and restore witness.",
+    "see_also": ["Causal Anchoring", "Proof of Contact Receipt", "Witness", "Frictional Design"]
+  },
+  {
+    "term": "Proof of Contact Receipt",
+    "aliases": ["contact receipt", "epistemic receipt", "evidence-of-update trace"],
+    "definition": "A legible record showing where contact entered, what source or contradiction mattered, and how the challenge changed the later behavior path.",
+    "see_also": ["Causal Anchoring", "Binding Revision Trigger", "Auditable Execution", "Falsifier"]
+  },
+  {
+    "term": "Burden-Path Audit",
+    "aliases": ["maintenance-path audit", "cost-path audit", "burden tracing"],
+    "definition": "A review of where the maintenance bill actually goes when a system appears stable: worker strain, user confusion, deferred repair, downstream victims, invisible cleanup, or public risk.",
+    "see_also": ["Structural Debt", "Exportable Error Cost", "Shared Answerability", "Maintenance Inflation"]
+  },
+  {
+    "term": "Binding Revision Trigger",
+    "aliases": ["mandatory revision trigger", "rollback threshold", "correction threshold"],
+    "definition": "A threshold at which contradiction, anomaly, override concentration, or harm must force pause, rollback, escalation, or redesign rather than mere documentation.",
+    "see_also": ["Proof of Contact Receipt", "Revision", "Shared Answerability", "Binding"]
+  },
+  {
+    "term": "Answerable Intelligence",
+    "aliases": ["intelligence under contact", "revisable intelligence", "answerable judgment"],
+    "definition": "The human capacity to remain revisable under contact, consequence, contradiction, and self-implication without collapsing into denial, performance, punishment, projection, or cost export.",
+    "see_also": ["Answerability", "Binding Revision", "Self-Implication", "Contact"]
+  },
+  {
+    "term": "Binding Revision",
+    "aliases": ["trace-leaving revision", "cost-bearing revision", "behavior-changing revision"],
+    "definition": "Revision that leaves a trace and changes later behavior, thresholds, or burden allocation rather than remaining verbal acknowledgment alone.",
+    "see_also": ["Answerable Intelligence", "Repair", "Binding", "Integrity"]
+  },
+  {
+    "term": "Internalized Governance",
+    "aliases": ["carried controller", "internalized control", "inner governance by old system"],
+    "definition": "A condition in which a person leaves an outer system but continues to be steered by the fear, role-conditioning, dependency, or approval logic that system installed.",
+    "see_also": ["Substitute Controller", "Exit Architecture", "Sovereignty", "Control After Exit"]
+  },
+  {
+    "term": "Control After Exit",
+    "aliases": ["post-exit control", "surviving controller", "freedom without inner release"],
+    "definition": "The continuation of governing fear, obedience, or substitute control after the person has formally left the outer holder.",
+    "see_also": ["Internalized Governance", "Exit Architecture", "Sovereignty", "Reward-pressure"]
+  },
+  {
+    "term": "Better Holder",
+    "aliases": ["truer holder", "more adequate form", "repairing form"],
+    "definition": "A newly made or discovered form that can bear more reality than the older form could honestly carry.",
+    "see_also": ["Creativity", "Repair", "Adequacy", "Burden-Bearing"]
+  },
+  {
+    "term": "Vertical Answerability",
+    "aliases": ["depth answerability", "answerability to soul-depth", "inner vertical axis"],
+    "definition": "Answerability not only to social grids or outer function, but to what is most deeply true in a life beyond present role, image, or performance.",
+    "see_also": ["Soul", "Invisible Trace", "Thinness Threshold", "Psychological Floor"]
+  },
+  {
+    "term": "Invisible Trace",
+    "aliases": ["depth trace", "soul-trace", "non-resettable continuity"],
+    "definition": "The continuity of a life that cannot be erased by a new role, new story, or new performance because it is deposited below the surface of current form.",
+    "see_also": ["Vertical Answerability", "Deposited Trace", "Thinness Threshold", "Soul"]
+  },
+  {
+    "term": "Thinness Threshold",
+    "aliases": ["soul-threshold", "form-thinness threshold", "holder-thinness limit"],
+    "definition": "The point at which existing forms become too thin to honestly carry what a life is actually bearing, making deeper truth newly visible.",
+    "see_also": ["Invisible Trace", "Vertical Answerability", "Collapse", "Better Holder"]
+  },
+  {
+    "term": "Responsibility as Criterion of Real Intelligence",
+    "aliases": ["responsibility criterion", "answerable intelligence criterion", "real-intelligence criterion"],
+    "definition": "The claim that real intelligence in the stronger human sense begins where a system becomes answerable to consequence, correction, cost, and shared reality rather than merely optimizing outputs.",
+    "see_also": ["Answerability", "The Burden of the Real", "Shared Answerability", "Understanding as Answerability"]
+  },
+  {
+    "term": "Category-Collapse Problem",
+    "aliases": ["collapsed-category error", "layered conflation", "explanatory compression"],
+    "definition": "A confusion created when one term is made to do several distinct jobs at once, causing explanatory closure to become cheaper than the distinctions reality requires.",
+    "see_also": ["Structural Closure Under Constraint", "Ontological Inflation", "Epistemic Deflation", "Witness/Trace"]
+  },
+  {
+    "term": "Structural Closure Under Constraint",
+    "aliases": ["constrained closure", "consequence-bearing closure", "bound definiteness"],
+    "definition": "A restrained description of how an open or underdetermined process becomes bound into consequence-bearing definiteness through interaction, registration, environmental entanglement, and downstream irreversibility.",
+    "see_also": ["Category-Collapse Problem", "Irreversibility", "Witness/Trace", "Contact"]
+  },
+  {
+    "term": "Ontological Inflation",
+    "aliases": ["inflated ontology", "explanatory overpopulation", "metaphysical overreach"],
+    "definition": "An attempt to buy interpretive or conceptual closure by multiplying what is claimed to exist faster than the evidence or formal constraints clearly warrant.",
+    "see_also": ["Epistemic Deflation", "Competing Coherence Regimes", "Structural Closure Under Constraint"]
+  },
+  {
+    "term": "Epistemic Deflation",
+    "aliases": ["deflated interpretation", "procedural retreat", "ontological suspension"],
+    "definition": "An attempt to avoid interpretive burden by retreating too quickly into proceduralism, operationalism, or instrumental use, leaving ontological questions suspended at too low a cost.",
+    "see_also": ["Ontological Inflation", "Competing Coherence Regimes", "Category-Collapse Problem"]
+  },
+  {
+    "term": "Competing Coherence Regimes",
+    "aliases": ["rival closure regimes", "explanatory burden maps", "competing stabilizations"],
+    "definition": "Alternative explanatory structures that stabilize different burdens around the same unresolved core, each buying a form of closure while paying in a different currency.",
+    "see_also": ["Ontological Inflation", "Epistemic Deflation", "Structural Closure Under Constraint"]
+  },
+  {
+    "term": "Revision Under Pressure",
+    "aliases": ["scientific revision under pressure", "contact-driven revision", "pressure-tested revision"],
+    "definition": "The disciplined capacity of a field, theory, or system to revise when experimental or reality contact pressures an older coherent picture harder than it yet authorizes a final new one.",
+    "see_also": ["Answerability", "Contact", "Scientific Restraint", "Competing Coherence Regimes"]
+  },
+  {
+    "term": "Scientific Restraint",
+    "aliases": ["disciplined restraint", "anti-premature-closure discipline", "earned closure only"],
+    "definition": "A mode of inquiry that refuses sensational closure or explanatory settlement beyond what formalism, evidence, and contact currently warrant.",
+    "see_also": ["Revision Under Pressure", "Answerability", "Ontological Inflation", "Epistemic Deflation"]
+  }
 ]
