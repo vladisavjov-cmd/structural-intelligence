@@ -1,0 +1,27 @@
+DOI: https://doi.org/10.6084/m9.figshare.32301765
+
+**Name:** The Structural Intelligence Kernel
+
+**Structural Intelligence: Kernel Specification Paper**
+
+### The Structural Intelligence Kernel  
+**Version 1.0: Canonical Primitives, Derived Dynamics, State Transitions, and Valid Inference Rules**  
+Vladisav Jovanović, May 2026
+
+The Structural Intelligence Kernel is the smallest complete operating architecture from which SI’s major diagnostic moves can be derived. It separates primitive terms from derived dynamics, distinguishes observation from inference, defines valid claim-rules, maps runtime states, and names the conditions under which SI language must downgrade or refuse closure.
+
+This paper is not another expansion of Structural Intelligence. It is a versioned specification for keeping the corpus steerable, teachable, auditable, and resistant to its own coherence-theater.
+
+**Core functions**
+- defines canonical SI primitives
+- derives major SI dynamics from primitives
+- formalizes valid inference rules
+- maps runtime state transitions
+- controls aliases and term collisions
+- states supersession rules
+- provides a compact kernel sheet for public use
+
+**Recommended use**  
+Read this as the operating specification for the SI corpus. It should be used alongside the SI Glossary, External Reader Protocol, Against SI-Theater, Predictive SI Runtime, and case calibration papers.
+
+**File:** `/papers/The_Structural_Intelligence_Kernel_v1_0.pdf`
