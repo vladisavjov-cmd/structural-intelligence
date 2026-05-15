@@ -1573,5 +1573,233 @@
     "aliases": ["disciplined restraint", "anti-premature-closure discipline", "earned closure only"],
     "definition": "A mode of inquiry that refuses sensational closure or explanatory settlement beyond what formalism, evidence, and contact currently warrant.",
     "see_also": ["Revision Under Pressure", "Answerability", "Ontological Inflation", "Epistemic Deflation"]
-  }
+  },
+  {
+  "term": "SI-Theater",
+  "aliases": ["structural theater", "fake depth", "SI-as-style", "performative SI"],
+  "definition": "The use of Structural Intelligence language to create the appearance of depth, diagnosis, authority, or answerability without enough observation, evidence, falsifier, burden path, trace, or revision.",
+  "see_also": ["Coherence-Theater", "False Contact", "Reader Capture", "Refusal Power"]
+},
+{
+  "term": "Observation",
+  "aliases": ["direct observation", "visible evidence", "primary material"],
+  "definition": "What is directly present in the material before interpretation begins. Observation should be separated from inference so the reading does not pretend to know more than it knows.",
+  "see_also": ["Inference", "Trace-Lock Rule", "Falsifier", "Claim Status"]
+},
+{
+  "term": "Inference",
+  "aliases": ["supported inference", "structural inference", "pattern-based reading"],
+  "definition": "A supported reading drawn from a pattern, but not directly visible as fact. Inference must remain marked as inference and stay open to correction.",
+  "see_also": ["Observation", "Claim Status", "Downgrade Rule", "Falsifier"]
+},
+{
+  "term": "Falsifier",
+  "aliases": ["disconfirming condition", "failure test", "contact trigger", "disproof condition"],
+  "definition": "A specific condition, missing fact, or future event that would weaken or overturn a claim. A falsifier keeps SI from becoming sealed interpretation.",
+  "see_also": ["Answerability", "Contact", "Claim Status", "Falsification Ledger"]
+},
+{
+  "term": "Claim Status",
+  "aliases": ["claim force", "status marking", "evidence status", "claim-state"],
+  "definition": "The declared strength of a claim: observed, inferred, provisional, partial, blocked, verified, or not justified. Claim status prevents weak evidence from becoming strong diagnosis.",
+  "see_also": ["Claim Ceiling", "Output State", "Downgrade Rule", "Falsifier"]
+},
+{
+  "term": "Claim Ceiling",
+  "aliases": ["evidence ceiling", "assertion ceiling", "authority boundary"],
+  "definition": "The maximum force a claim is allowed to carry based on its evidence, domain, authority, and transition status. A claim ceiling prevents interpretation from becoming diagnosis, command, or certification.",
+  "see_also": ["Authority Ceiling", "Authority Inflation", "Non-Claim", "Transition Discipline"]
+},
+{
+  "term": "Downgrade Rule",
+  "aliases": ["confidence reduction rule", "claim reduction rule", "status downgrade"],
+  "definition": "A rule requiring a reading to reduce its confidence when evidence is thin, the burden path is unclear, the reader may be captured, or no falsifier is available.",
+  "see_also": ["Claim Status", "Refusal Power", "External Reader Protocol", "No Reading Justified"]
+},
+{
+  "term": "Refusal Power",
+  "aliases": ["disciplined refusal", "method restraint", "refusal state"],
+  "definition": "The capacity of SI to stop, block, downgrade, or refuse a reading when the evidence does not justify completion. A strong SI method must be able to say not enough.",
+  "see_also": ["SI-Theater", "Blocked", "No Reading Justified", "Executable SI"]
+},
+{
+  "term": "External Reader Protocol",
+  "aliases": ["public SI protocol", "non-native reader protocol", "public dependability layer"],
+  "definition": "A public-use protocol for applying SI by non-native readers. It requires claim status, evidence, downgrade rules, falsifiers, reader-capture checks, and public translation.",
+  "see_also": ["Minimal Runtime Sheet", "Reader Capture", "Claim Status", "Downgrade Rule"]
+},
+{
+  "term": "Minimal Runtime Sheet",
+  "aliases": ["SI runtime sheet", "public SI sheet", "minimal instrument"],
+  "definition": "A compact SI instrument that records the domain, observation, inference, evidence, missing information, falsifier, burden bearer, revision trigger, trace, reader-capture risk, and output state.",
+  "see_also": ["Executable SI", "Output State", "Trace-Lock Rule", "External Reader Protocol"]
+},
+{
+  "term": "Executable SI",
+  "aliases": ["executable Structural Intelligence", "SI instrument layer", "runtime SI"],
+  "definition": "The instrument layer of Structural Intelligence: SI as a disciplined method rather than a vocabulary. It separates observation from inference, exposes falsifiers, marks claim status, and routes repair.",
+  "see_also": ["Minimal Runtime Sheet", "Refusal Power", "Repair Routing", "Claim Status"]
+},
+{
+  "term": "Output State",
+  "aliases": ["verdict state", "runtime status", "claim output"],
+  "definition": "The final status of a reading, such as Verified, Partial, Provisional, Blocked, Containment-First, or No Reading Justified.",
+  "see_also": ["Claim Status", "Downgrade Rule", "Predictive Output State", "Minimal Runtime Sheet"]
+},
+{
+  "term": "Reader Capture",
+  "aliases": ["evaluator capture", "auditor capture", "frame capture"],
+  "definition": "A failure mode where the reader adopts the target’s frame, language, urgency, prestige, dashboard, or emotional atmosphere as the baseline of judgment.",
+  "see_also": ["External Reader Protocol", "Auditor Drift", "Reader-Capture Check", "SI-Theater"]
+},
+{
+  "term": "Trace-Lock Rule",
+  "aliases": ["observation lock", "evidence freeze", "trace-preservation rule"],
+  "definition": "The rule that observations should be recorded before interpretation and not quietly rewritten to support the final reading.",
+  "see_also": ["Observation", "Trace", "Trace Laundering", "Minimal Runtime Sheet"]
+},
+{
+  "term": "Trace Laundering",
+  "aliases": ["cleaned trace", "documentation laundering", "record-washing"],
+  "definition": "A failure mode where records, logs, dashboards, citations, or documentation preserve the appearance of accountability while smoothing away the original friction, cost, or contradiction.",
+  "see_also": ["Synthetic Trace", "Oversight Theater", "Compliance Coherence", "Trace-Lock Rule"]
+},
+{
+  "term": "Oversight Theater",
+  "aliases": ["visible oversight without control", "procedural oversight theater", "human-interface alibi"],
+  "definition": "The appearance of human or institutional oversight without real interrupt power, authority, time, context, or consequence-bearing responsibility.",
+  "see_also": ["Human as Alibi", "Answerable Control", "EU AI Act Docking", "Compliance Coherence"]
+},
+{
+  "term": "Answerable Control",
+  "aliases": ["corrigible control", "consequence-bound control", "live answerability"],
+  "definition": "A control structure in which reality can still change system behavior through trace, witness, burden-path visibility, interrupt power, and binding revision.",
+  "see_also": ["Oversight Theater", "EU AI Act Docking", "Robotics Boundary", "Shared Answerability"]
+},
+{
+  "term": "EU AI Act Docking",
+  "aliases": ["AI Act SI mapping", "high-risk AI docking", "compliance runtime mapping"],
+  "definition": "The application of SI runtime discipline to high-risk AI governance, especially risk management, logging, documentation, human oversight, robustness, and conformity assessment.",
+  "see_also": ["Regulatory Docking Layer", "Oversight Theater", "Compliance Coherence", "Answerable Control"]
+},
+{
+  "term": "Compliance Coherence",
+  "aliases": ["formal compliance coherence", "paperwork coherence", "governance coherence"],
+  "definition": "The appearance of safety or accountability produced by documentation, benchmarks, audits, policies, or conformity narratives without proof that correction can bind under live pressure.",
+  "see_also": ["Oversight Theater", "Trace Laundering", "EU AI Act Docking", "Answerable Control"]
+},
+{
+  "term": "Robotics Boundary",
+  "aliases": ["engineering boundary", "embodiment boundary", "robotics transfer boundary"],
+  "definition": "The boundary where SI can help evaluate embodied systems and infrastructure without pretending to be a robotics theory, hardware theory, or engineering architecture.",
+  "see_also": ["Answerable Control", "Field-Stability", "Demo-Stability", "Disciplined Transfer"]
+},
+{
+  "term": "Demo-Stability",
+  "aliases": ["demo robustness", "controlled-setting stability", "presentation stability"],
+  "definition": "A system’s ability to perform well in a demo, benchmark, or controlled presentation without proving that it can hold under real field conditions.",
+  "see_also": ["Field-Stability", "Robotics Boundary", "Cheap Coherence", "Answerable Control"]
+},
+{
+  "term": "Field-Stability",
+  "aliases": ["deployed stability", "real-world stability", "operational answerability"],
+  "definition": "A system’s ability to remain answerable, corrigible, and burden-aware under real deployment conditions, not only in controlled tests.",
+  "see_also": ["Demo-Stability", "Answerable Control", "Robotics Boundary", "Burden-Path Audit"]
+},
+{
+  "term": "Predictive SI",
+  "aliases": ["Predictive Structural Intelligence", "breach-hazard SI", "time-structured SI"],
+  "definition": "The SI layer that estimates breach hazard over a declared time horizon by asking whether contradiction is being metabolized into binding repair quickly enough.",
+  "see_also": ["Breach Hazard", "Declared Horizon", "Predictive Runtime Sheet", "Falsification Ledger"]
+},
+{
+  "term": "Breach Hazard",
+  "aliases": ["breach risk", "forced-contact hazard", "structural failure risk"],
+  "definition": "The rising likelihood that a structure will cross from managed strain into forced contact within a declared time horizon.",
+  "see_also": ["Predictive SI", "Buffer Exhaustion", "Hidden Holder", "Declared Horizon"]
+},
+{
+  "term": "Declared Horizon",
+  "aliases": ["time horizon", "review window", "breach window"],
+  "definition": "The stated time window or review condition attached to a predictive claim. Without a declared horizon, prediction becomes too easy to protect from falsification.",
+  "see_also": ["Breach Hazard", "Falsification Ledger", "Predictive SI", "Output State"]
+},
+{
+  "term": "Hidden Holder",
+  "aliases": ["hidden bearer", "invisible stabilizer", "concealed load-carrier"],
+  "definition": "The person, team, body, utility, worker, ratepayer, community, or background system quietly absorbing strain so the visible structure can continue to appear coherent.",
+  "see_also": ["Burden Export", "Hidden-Holder Depletion", "Structural Debt", "Breach Hazard"]
+},
+{
+  "term": "Burden Export",
+  "aliases": ["cost export", "burden displacement", "maintenance export"],
+  "definition": "The shifting of cost, maintenance, risk, or contradiction away from the visible center of action onto another holder.",
+  "see_also": ["Hidden Holder", "Structural Debt", "Burden-Path Audit", "Exported Maintenance"]
+},
+{
+  "term": "Synthetic Trace",
+  "aliases": ["artificial trace", "generated trace", "trace substitute"],
+  "definition": "A record, dashboard, certificate, AI-generated summary, or compliance artifact that appears to show contact but may not preserve real friction, cost, or correction.",
+  "see_also": ["Trace Laundering", "Synthetic Repair", "Falsification Ledger", "Compliance Coherence"]
+},
+{
+  "term": "Synthetic Repair",
+  "aliases": ["repair theater", "symbolic repair", "representational repair"],
+  "definition": "A repair signal that looks like correction but is carried by dashboards, narratives, future promises, documentation, or symbolic commitments rather than binding structural change.",
+  "see_also": ["Cosmetic Revision", "Synthetic Trace", "Repair", "Trace Laundering"]
+},
+{
+  "term": "Falsification Ledger",
+  "aliases": ["forecast ledger", "SI error ledger", "prediction audit trail"],
+  "definition": "A record of predictive claims, time horizons, anchor variables, falsifiers, outcomes, and required method updates after success or failure.",
+  "see_also": ["Predictive SI", "Declared Horizon", "Self-Falsification Rule", "Breach Hazard"]
+},
+{
+  "term": "Data-Center Grid Case",
+  "aliases": ["AI grid case", "compute burden case", "cloud burden-path case"],
+  "definition": "A Predictive SI case where AI data-center growth is read through burden export, hidden holders, grid strain, ratepayer risk, water pressure, reliability margins, and synthetic sustainability claims.",
+  "see_also": ["Hidden Holder", "Burden Export", "Synthetic Trace", "Breach Hazard"]
+},
+{
+  "term": "Transition Discipline",
+  "aliases": ["governed transition discipline", "passage discipline", "transition runtime"],
+  "definition": "A runtime check for what happens when a claim, output, recommendation, memory, metric, role, or trace crosses into action, authority, continuity, or institutional consequence.",
+  "see_also": ["Custody Owner", "Authority Ceiling", "Revocation Path", "Burden Bearer"]
+},
+{
+  "term": "Custody Owner",
+  "aliases": ["transition owner", "custody holder", "accountable owner"],
+  "definition": "The person, role, process, or institution responsible for a transition and its consequences.",
+  "see_also": ["Transition Discipline", "Burden Bearer", "Revocation Path", "Authority Ceiling"]
+},
+{
+  "term": "Authority Ceiling",
+  "aliases": ["force ceiling", "authority limit", "transition ceiling"],
+  "definition": "The maximum force a transition, claim, output, or recommendation is allowed to carry.",
+  "see_also": ["Claim Ceiling", "Transition Discipline", "Non-Claim", "Custody Owner"]
+},
+{
+  "term": "Revocation Path",
+  "aliases": ["withdrawal route", "reversal path", "refusal path"],
+  "definition": "The declared way a transition, claim, output, or recommendation can be withdrawn, reversed, downgraded, or refused.",
+  "see_also": ["Transition Discipline", "Custody Owner", "Authority Ceiling", "Loss Condition"]
+},
+{
+  "term": "Burden Bearer",
+  "aliases": ["cost bearer", "consequence holder", "error-cost holder"],
+  "definition": "Who or what carries the cost if a claim, output, decision, recommendation, or transition is wrong.",
+  "see_also": ["Hidden Holder", "Burden Export", "Transition Discipline", "Custody Owner"]
+},
+{
+  "term": "Loss Condition",
+  "aliases": ["weakening condition", "unseating condition", "claim-loss test"],
+  "definition": "The evidence, future event, or observed pattern that would weaken, unseat, or downgrade a reading.",
+  "see_also": ["Falsifier", "Claim Status", "Transition Discipline", "Non-Claim"]
+},
+{
+  "term": "Non-Claim",
+  "aliases": ["scope exclusion", "non-assertion", "boundary statement"],
+  "definition": "A statement of what the analysis is not saying. Non-claims prevent hidden diagnosis, legal overreach, metaphysical inflation, and authority creep.",
+  "see_also": ["Claim Ceiling", "Authority Ceiling", "Refusal Power", "Loss Condition"]
+}
 ]
