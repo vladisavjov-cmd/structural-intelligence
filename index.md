@@ -418,6 +418,24 @@ A philosophical framework for describing how human reality is organized into for
 - **Loss Condition** *(weakening condition; unseating condition; claim-loss test)*
 - **Non-Claim** *(scope exclusion; non-assertion; boundary statement)*
 
+- ### Added from The Grammar of Structural Intelligence
+
+- **SI Grammar** *(architectural grammar; dependency grammar; load-bearing hierarchy)*
+- **Primitive Layer** *(field primitives; base architecture; pre-diagnostic layer)*
+- **Structure Layer** *(boundary-binding layer; local structuration layer; holding architecture)*
+- **Contact Layer** *(coherence-contact testing layer; truth-load layer; tethering layer)*
+- **Presence Layer** *(answerability-steering layer; repair layer; reality-coupling layer)*
+- **Failure Layer** *(debt-intrusion-collapse layer; late-stage diagnostic layer)*
+- **Routing Layer** *(domain routing; layer routing; jurisdiction routing)*
+- **Dependency Chain** *(field-to-repair chain; architectural sequence; SI spine)*
+- **Layer Routing** *(selective activation; domain-fit routing; anti-overactivation rule)*
+- **Compression Table** *(term compression; architectural role table; concept ordering table)*
+- **Term Sprawl** *(vocabulary overgrowth; concept overactivation; uncontrolled expansion)*
+- **Overactivation** *(activating every SI layer at once; everything-case failure; layer flooding)*
+- **Load-Bearing Grammar** *(ordered concept hierarchy; grammar under pressure; architecture that binds)*
+- **Architecture Grid** *(observed layer; primitive terms; derived dynamics; diagnostic states; failure modes; repair modes; routing rule; falsifier)*
+- **Architectural Falsifier** *(condition that would weaken or overturn the proposed SI grammar)*
+
 ## Papers
 See the index: **[papers/README.md](./papers/README.md)**
 
@@ -782,3 +800,7 @@ This repository hosts landing pages, abstracts, keywords, and version notes. Can
 
 - **Transition Discipline in Structural Intelligence: Custody, Witness, Revocation, and Claim Ceilings** — DOI: 10.5281/zenodo.20208545  
   Paper page: [papers/transition-discipline-in-structural-intelligence](./papers/transition-discipline-in-structural-intelligence/README.md)
+
+  - **The Grammar of Structural Intelligence: Core Primitives, Derived Dynamics, and Layer Routing** — DOI: 10.5281/zenodo.20209839  
+  Figshare DOI: 10.6084/m9.figshare.32301684  
+  Paper page: [papers/the-grammar-of-structural-intelligence](./papers/the-grammar-of-structural-intelligence/README.md)
