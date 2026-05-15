@@ -436,6 +436,8 @@ A philosophical framework for describing how human reality is organized into for
 - **Architecture Grid** *(observed layer; primitive terms; derived dynamics; diagnostic states; failure modes; repair modes; routing rule; falsifier)*
 - **Architectural Falsifier** *(condition that would weaken or overturn the proposed SI grammar)*
 
+- - **The Structural Intelligence Kernel v1.0** — Structural Intelligence: Kernel Specification Paper. Canonical SI specification defining primitives, derived dynamics, inference rules, state transitions, downgrade conditions, and public-use constraints. DOI: https://doi.org/10.6084/m9.figshare.32301765
+
 ## Papers
 See the index: **[papers/README.md](./papers/README.md)**
 
