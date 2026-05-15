@@ -12,8 +12,11 @@ This methods note develops a transition-discipline layer for Structural Intellig
 ### Keywords
 Structural Intelligence; transition discipline; custody; witness; revocation; claim ceilings; authority; trace; accountability; AI governance; philosophy of technology; epistemology
 
+# Transition Discipline in Structural Intelligence
+
 ### Links
 - DOI: https://doi.org/10.5281/zenodo.20208545
+- Zenodo record: https://zenodo.org/records/20208545
 - PhilPapers record: https://philpapers.org/rec/JOVTDI
 - PhilArchive download history: https://philarchive.org/versions/JOVTDI
 - PhilArchive record: https://philarchive.org/rec/JOVTDI
