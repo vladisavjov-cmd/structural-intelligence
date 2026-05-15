@@ -12,8 +12,11 @@ This paper develops a predictive architecture for Structural Intelligence by ext
 ### Keywords
 Structural Intelligence; predictive SI; breach hazard; buffer exhaustion; answerability; hidden holders; burden export; hysteresis; synthetic trace; resilience engineering; early-warning signals; system safety
 
+# Predictive Structural Intelligence
+
 ### Links
 - DOI: https://doi.org/10.5281/zenodo.20158555
+- Zenodo record: https://zenodo.org/records/20158555
 - PhilPapers record: https://philpapers.org/rec/JOVPSI
 - PhilArchive download history: https://philarchive.org/versions/JOVPSI
 - PhilArchive record: https://philarchive.org/rec/JOVPSI
