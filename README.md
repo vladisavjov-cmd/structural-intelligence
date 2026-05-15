@@ -1,11 +1,15 @@
 ## Official links
 - **Official SI Hub (Blogspot):** https://structural-intelligence.blogspot.com/2026/02/structural-intelligence-si-official-hub.html
 - **OSF (Project overview):** https://osf.io/2t4bg/overview
+- **GitHub repository:** https://github.com/vladisavjov-cmd/structural-intelligence
 - **Papers index:** [papers/README.md](./papers/README.md)
 - **Glossary:** [glossary/GLOSSARY.md](./glossary/GLOSSARY.md)
+- **Figshare profile:** https://figshare.com/authors/Vladisav_Jovanovic/23806141
+- **SSRN author page:** https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=11390668
+- **SSRN sample record:** https://ssrn.com/abstract=6683258
+- **PhilPeople publications:** https://philpeople.org/profiles/vladisav-jovanovic/publications
 - **ORCID:** https://orcid.org/0009-0001-1399-2243
 - **About the author:** [about.html](./about.html)
-
 # Structural Intelligence (SI)
 
 A philosophical framework for describing how human reality is organized into form: how meaning, roles, constraints, and coherence hold—or fail—under pressure.
@@ -374,6 +378,46 @@ A philosophical framework for describing how human reality is organized into for
 
 - **Responsibility as Criterion of Real Intelligence** *(responsibility criterion; answerable intelligence criterion; real-intelligence criterion)*
 
+- ### Added from the May 2026 instrument / predictive / governance sequence
+
+- **SI-Theater** *(structural theater; fake depth; SI-as-style; performative SI)*
+- **Observation** *(direct observation; visible evidence; primary material)*
+- **Inference** *(supported inference; structural inference; pattern-based reading)*
+- **Claim Status** *(claim force; status marking; evidence status)*
+- **Claim Ceiling** *(evidence ceiling; assertion ceiling; authority boundary)*
+- **Downgrade Rule** *(confidence reduction rule; status downgrade; claim reduction rule)*
+- **Refusal Power** *(disciplined refusal; method restraint; refusal state)*
+- **External Reader Protocol** *(public SI protocol; non-native reader protocol; public dependability layer)*
+- **Minimal Runtime Sheet** *(SI runtime sheet; public SI sheet; minimal instrument)*
+- **Executable SI** *(executable Structural Intelligence; SI instrument layer; runtime SI)*
+- **Output State** *(verdict state; runtime status; claim output)*
+- **Reader Capture** *(evaluator capture; auditor capture; frame capture)*
+- **Trace-Lock Rule** *(observation lock; evidence freeze; trace-preservation rule)*
+- **Trace Laundering** *(cleaned trace; documentation laundering; record-washing)*
+- **Oversight Theater** *(visible oversight without control; procedural oversight theater; human-interface alibi)*
+- **Answerable Control** *(corrigible control; consequence-bound control; live answerability)*
+- **EU AI Act Docking** *(AI Act SI mapping; high-risk AI docking; compliance runtime mapping)*
+- **Compliance Coherence** *(formal compliance coherence; paperwork coherence; governance coherence)*
+- **Robotics Boundary** *(engineering boundary; embodiment boundary; robotics transfer boundary)*
+- **Demo-Stability** *(demo robustness; controlled-setting stability; presentation stability)*
+- **Field-Stability** *(deployed stability; real-world stability; operational answerability)*
+- **Predictive SI** *(Predictive Structural Intelligence; breach-hazard SI; time-structured SI)*
+- **Breach Hazard** *(breach risk; forced-contact hazard; structural failure risk)*
+- **Declared Horizon** *(time horizon; review window; breach window)*
+- **Hidden Holder** *(hidden bearer; invisible stabilizer; concealed load-carrier)*
+- **Burden Export** *(cost export; burden displacement; maintenance export)*
+- **Synthetic Trace** *(artificial trace; generated trace; trace substitute)*
+- **Synthetic Repair** *(repair theater; symbolic repair; representational repair)*
+- **Falsification Ledger** *(forecast ledger; SI error ledger; prediction audit trail)*
+- **Data-Center Grid Case** *(AI grid case; compute burden case; cloud burden-path case)*
+- **Transition Discipline** *(governed transition discipline; passage discipline; transition runtime)*
+- **Custody Owner** *(transition owner; custody holder; accountable owner)*
+- **Authority Ceiling** *(force ceiling; authority limit; transition ceiling)*
+- **Revocation Path** *(withdrawal route; reversal path; refusal path)*
+- **Burden Bearer** *(cost bearer; consequence holder; error-cost holder)*
+- **Loss Condition** *(weakening condition; unseating condition; claim-loss test)*
+- **Non-Claim** *(scope exclusion; non-assertion; boundary statement)*
+
 ## Papers
 See the index: **[papers/README.md](./papers/README.md)**
 
@@ -702,3 +746,39 @@ This repository hosts landing pages, abstracts, keywords, and version notes. Can
 
 - **The Measure of Man: Responsibility as the Criterion of Real Intelligence** — DOI: 10.5281/zenodo.19889274  
   Paper page: [papers/measure-of-man](./papers/measure-of-man/README.md)
+
+- **Against SI-Theater: Failure Modes, False Positives, and Misuse** — DOI: 10.5281/zenodo.20155083  
+  Paper page: [papers/against-si-theater-failure-modes-false-positives-and-misuse](./papers/against-si-theater-failure-modes-false-positives-and-misuse/README.md)
+
+- **Against SI-Theater: Observation, Inference, and Revision in Structural Analysis** — DOI: 10.6084/m9.figshare.32252175  
+  Paper page: [papers/against-si-theater-observation-inference-and-revision](./papers/against-si-theater-observation-inference-and-revision/README.md)
+
+- **AI Data Centers and the Grid: A Predictive Structural Intelligence Case Study of Breach Hazard, Hidden Holders, and Synthetic Repair** — DOI: 10.5281/zenodo.20208727  
+  Paper page: [papers/ai-data-centers-and-the-grid](./papers/ai-data-centers-and-the-grid/README.md)
+
+- **Docking Structural Intelligence into the EU AI Act: Minimal Runtime Sheets, Oversight Theater, and Answerable Control in High-Risk AI Systems** — DOI: 10.5281/zenodo.20155160  
+  Paper page: [papers/docking-structural-intelligence-into-the-eu-ai-act](./papers/docking-structural-intelligence-into-the-eu-ai-act/README.md)
+
+- **External Reader Protocol: Calibration, Downgrade Rules, and Public Use of Structural Intelligence** — DOI: 10.5281/zenodo.20208379  
+  Paper page: [papers/external-reader-protocol](./papers/external-reader-protocol/README.md)
+
+- **From Answerability to Embodiment: Structural Intelligence at the Robotics Boundary** — DOI: 10.6084/m9.figshare.32261982  
+  Zenodo DOI: 10.5281/zenodo.20155286  
+  Paper page: [papers/from-answerability-to-embodiment](./papers/from-answerability-to-embodiment/README.md)
+
+- **From Framework to Instrument: Executable Structural Intelligence — Boundary Maps, Failure States, and Repair Routing** — DOI: 10.6084/m9.figshare.32262120  
+  Zenodo DOI: 10.5281/zenodo.20155334  
+  Paper page: [papers/from-framework-to-instrument](./papers/from-framework-to-instrument/README.md)
+
+- **Predictive Structural Intelligence: Breach Hazard, Buffer Exhaustion, and the Time-Structure of Answerability** — DOI: 10.5281/zenodo.20158555  
+  Paper page: [papers/predictive-structural-intelligence](./papers/predictive-structural-intelligence/README.md)
+
+- **The Predictive SI Runtime: Dashboard Variables, Output States, and the Falsification Ledger** — DOI: 10.5281/zenodo.20208073  
+  Paper page: [papers/predictive-si-runtime](./papers/predictive-si-runtime/README.md)
+
+- **Predictive Structural Intelligence in Practice: Calibration Cases Across AI, Institutions, Care, and Infrastructure** — DOI: 10.6084/m9.figshare.32301429  
+  Zenodo DOI: 10.5281/zenodo.20208780  
+  Paper page: [papers/predictive-structural-intelligence-in-practice](./papers/predictive-structural-intelligence-in-practice/README.md)
+
+- **Transition Discipline in Structural Intelligence: Custody, Witness, Revocation, and Claim Ceilings** — DOI: 10.5281/zenodo.20208545  
+  Paper page: [papers/transition-discipline-in-structural-intelligence](./papers/transition-discipline-in-structural-intelligence/README.md)
