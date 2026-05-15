@@ -1637,3 +1637,713 @@ Alternative explanatory structures that stabilize different burdens around the s
 **Aliases:** rival closure regimes; explanatory burden maps; competing stabilizations
 **Opposites / failure mode:** single settled closure; burden-free interpretation; naive realism of one regime
 **See also:** Ontological Inflation; Epistemic Deflation; Structural Closure Under Constraint
+
+# Glossary Update — May 2026 Instrument / Predictive / Transition Sequence
+
+## SI-Theater
+The use of Structural Intelligence language to produce the appearance of depth, diagnosis, authority, or answerability without enough observation, falsifier, burden path, trace, or revision.  
+**Aliases:** structural theater; fake depth; SI-as-style; performative SI  
+**Opposites / failure mode:** disciplined SI; executable reading; refusal-capable analysis  
+**See also:** Coherence-Theater; Refusal Power; Negative Taxonomy; Reader Capture; Trace Laundering
+
+## Negative Taxonomy
+A failure-map for how SI itself can go wrong: false contact, cosmetic revision, witness theater, burden displacement, pseudo-binding, trace laundering, containment as avoidance, calibration without consequence, and authority inflation.  
+**Aliases:** failure taxonomy; SI failure map; red-team taxonomy  
+**Opposites / failure mode:** vocabulary inflation without discrimination  
+**See also:** SI-Theater; False Contact; Witness Theater; Red-Team Discipline
+
+## False Contact
+A reading that claims reality-contact has occurred when the structure has not actually met cost, contradiction, consequence, or revision.  
+**Aliases:** simulated contact; contact theater; fake constraint  
+**Opposites / failure mode:** real contact; constraint-bearing evidence; consequence contact  
+**See also:** Contact; SI-Theater; Falsifier; Trace
+
+## Cosmetic Revision
+A surface update that changes language, tone, procedure, or presentation while leaving the governing structure unchanged.  
+**Aliases:** surface repair; patch theater; update without revision  
+**Opposites / failure mode:** binding revision; structural repair; changed cost allocation  
+**See also:** Repair; Binding Revision; Trace Laundering; Compliance Coherence
+
+## Witness Theater
+The appearance of being witnessed, heard, overseen, or accompanied without consequence-bearing presence able to interrupt, remember, authorize, or revise.  
+**Aliases:** simulated witness; oversight-as-performance; alibi witness  
+**Opposites / failure mode:** real witness; consequence-bearing oversight; embodied or accountable presence  
+**See also:** Witness; Procedural Oversight; Human as Alibi; Synthetic Witness
+
+## Burden Displacement
+A failure mode where the language of burden or responsibility is used while the actual cost is shifted onto another person, worker, user, ratepayer, body, institution, or future system.  
+**Aliases:** displaced burden; cost-shifting; hidden burden path  
+**Opposites / failure mode:** burden-path visibility; cost internalization; owned maintenance  
+**See also:** Burden Export; Hidden Holder; Exported Maintenance; Structural Debt
+
+## Pseudo-Binding
+A claim, ritual, policy, or commitment that appears binding but does not actually change future behavior, authority, cost, or revision conditions.  
+**Aliases:** fake binding; symbolic commitment; commitment theater  
+**Opposites / failure mode:** binding mechanism; enforceable revision; irreversible correction  
+**See also:** Binding; Binding Mechanism; Cosmetic Revision; Trace
+
+## Trace Laundering
+A failure mode where records, logs, documentation, dashboards, or audit trails preserve institutional coherence while smoothing away the original friction, disagreement, error, or cost.  
+**Aliases:** cleaned trace; documentation laundering; record-washing  
+**Opposites / failure mode:** trace that preserves friction; audit trail with correction power  
+**See also:** Trace; Falsification Ledger; EU AI Act Docking; Oversight Theater
+
+## Containment as Avoidance
+The misuse of containment language to suspend contact, challenge, or revision indefinitely without naming what would allow re-entry into contact.  
+**Aliases:** protective avoidance; containment theater; stabilization-as-delay  
+**Opposites / failure mode:** containment-first with re-entry condition; safe return to contact  
+**See also:** Containment-First; Refusal State; Repair Routing; Loss Condition
+
+## Calibration Without Consequence
+A process that appears to compare, test, or calibrate readings but does not change future behavior, output status, method, or authority when errors are found.  
+**Aliases:** symbolic calibration; empty calibration; calibration theater  
+**Opposites / failure mode:** calibration that changes runtime; falsification-led calibration  
+**See also:** Calibration Set; Falsification Registry; Falsification Ledger; Self-Falsification Rule
+
+## Authority Inflation
+The inflation of a suggestive structural reading into a diagnosis, moral verdict, governance claim, metaphysical claim, or practical command beyond the evidence or jurisdiction.  
+**Aliases:** over-authorized reading; diagnosis creep; verdict inflation  
+**Opposites / failure mode:** claim ceiling; jurisdiction discipline; provisional marking  
+**See also:** Claim Ceiling; Jurisdiction; Not Justified; Ontology Inflation
+
+## False Positive
+A case where SI overreads structure, hidden burden, avoidance, collapse, or repair beyond what the evidence supports.  
+**Aliases:** overread; interpretive inflation; excessive structural claim  
+**Opposites / failure mode:** downgrade; provisional read; blocked read  
+**See also:** Overread Risk; Downgrade Rule; Claim Status; Falsifier
+
+## False Negative
+A case where SI misses structure, burden export, weak answerability, hidden holder depletion, or synthetic repair because the surface appears functional.  
+**Aliases:** underread; missed structure; hidden-holder underread  
+**Opposites / failure mode:** burden-path audit; hidden-holder analysis; predictive warning  
+**See also:** Hidden Holder; Burden Export; Synthetic Trace; Calibration Grid
+
+## Misuse Surface
+Any vulnerable point where SI language can be used to dominate, shame, force disclosure, demand compliance, moralize asymmetry, or inflate diagnosis.  
+**Aliases:** abuse surface; domination channel; method vulnerability  
+**Opposites / failure mode:** abuse-resistant reading; boundary discipline; claim ceilings  
+**See also:** Red-Team Discipline; Abuse-Resistant Reading; Reader Capture
+
+## Red-Team Discipline
+The practice of actively testing SI readings for overreach, misuse, false positives, false negatives, reader capture, weak evidence, and failure to revise after error.  
+**Aliases:** adversarial method check; negative discipline; failure testing  
+**Opposites / failure mode:** protected framework; self-sealing method; authority costume  
+**See also:** Negative Taxonomy; Falsification Registry; Self-Falsification Rule
+
+## Abuse-Resistant Reading
+An SI reading designed so it cannot easily be used to increase the reader’s power while decreasing the subject’s contact with their own reality.  
+**Aliases:** bounded reading; anti-domination reading; protected interpretation  
+**Opposites / failure mode:** domination disguised as discernment; repair as covert control  
+**See also:** Misuse Surface; Red-Team Discipline; Claim Ceiling; Non-Claim
+
+## Reader Capture
+A condition where the evaluator adopts the target’s frame, vocabulary, prestige, urgency, affect, dashboard, policy language, or AI fluency as the baseline of judgment.  
+**Aliases:** evaluator capture; auditor capture; frame capture  
+**Opposites / failure mode:** external-reader discipline; trace-lock; independent burden path  
+**See also:** Auditor Drift; Reader-Capture Gate; External Reader Protocol
+
+## Auditor Drift
+The gradual movement of an evaluator from independent contact-testing into the internal logic of the system being evaluated.  
+**Aliases:** evaluator drift; audit capture; method drift  
+**Opposites / failure mode:** external standpoint; reader-capture check; falsifier discipline  
+**See also:** Reader Capture; Reader-Capture Gate; External Reader Protocol
+
+## Reader-Capture Gate
+A runtime checkpoint asking whether the reader has adopted the target’s own frame as baseline before finalizing the SI verdict.  
+**Aliases:** capture check; evaluator independence gate; frame-audit gate  
+**Opposites / failure mode:** captured read; internal-frame audit  
+**See also:** Reader Capture; Minimal Runtime Sheet; Output State
+
+## External Reader Protocol
+A public-use protocol that lets people who did not build SI apply it with claim status, evidence, downgrade rules, reader-capture safeguards, calibration, falsification, and public translation.  
+**Aliases:** public SI protocol; non-native reader protocol; public dependability layer  
+**Opposites / failure mode:** native-only method; vibe language; authority costume  
+**See also:** Minimal Runtime Sheet; Claim-Status Ladder; Downgrade Rules; Public Translation Layer
+
+## Native Reader
+A reader who already carries tacit knowledge of SI’s limits, distinctions, analogies, and downgrade conditions.  
+**Aliases:** framework-native reader; internal reader; tacit expert  
+**Opposites / failure mode:** external reader; public user; non-native reader  
+**See also:** External Reader Protocol; Public-Use Problem; Reader Capture
+
+## Public-Use Problem
+The problem that a framework can be philosophically strong but publicly weak if non-native readers cannot tell observation from inference, strong claims from provisional ones, or evidence from performance.  
+**Aliases:** transfer problem; public dependability problem; method-portability problem  
+**Opposites / failure mode:** external-reader discipline; runtime sheet; claim-status marking  
+**See also:** External Reader Protocol; Claim-Status Ladder; Public Translation Layer
+
+## Minimal Runtime Sheet
+The smallest public SI instrument that preserves discipline by requiring domain, object of read, observation, inference, evidence support, missing information, falsifier, cost bearer, revision trigger, binding mechanism, witness/trace, reader-capture check, and output state.  
+**Aliases:** SI runtime sheet; public SI sheet; minimal instrument  
+**Opposites / failure mode:** impressionistic depth; unsupported verdict; unmarked interpretation  
+**See also:** Executable SI; Trace-Lock Rule; Output State; Claim Status
+
+## Trace-Lock Rule
+The rule that observation should be written before inference and not quietly rewritten to make the final interpretation smoother.  
+**Aliases:** observation lock; evidence freeze; trace-preservation rule  
+**Opposites / failure mode:** retrofitted observation; narrative smoothing; trace laundering  
+**See also:** Observation; Inference; Minimal Runtime Sheet; Trace Laundering
+
+## Claim-Status Ladder
+A ladder for marking whether an SI claim is observed, inferred, transferred, provisional, blocked, not justified, or containment-first.  
+**Aliases:** claim ladder; evidence-force ladder; status ladder  
+**Opposites / failure mode:** unmarked authority; flat confidence; fake completion  
+**See also:** Claim Status; Output State; Downgrade Rule
+
+## Observed
+A claim status for what is directly present in the material and minimally interpretive.  
+**Aliases:** direct observation; visible evidence; primary material  
+**Opposites / failure mode:** inferred; projected; overread  
+**See also:** Observation; Trace-Lock Rule; Claim-Status Ladder
+
+## Inferred
+A claim status for what is supported by a pattern but not directly visible as such.  
+**Aliases:** supported inference; structural inference; pattern-based reading  
+**Opposites / failure mode:** observed; speculative; not justified  
+**See also:** Observation; Claim-Status Ladder; Falsifier
+
+## Transferred
+A claim status for a disciplined analogy imported from another validated SI domain while preserving boundary and difference.  
+**Aliases:** transfer claim; disciplined analogy; bounded mapping  
+**Opposites / failure mode:** category drift; over-completion; analogy-as-identity  
+**See also:** Category Drift; Robotics Boundary; Over-Completion Trap
+
+## Provisional
+A claim status for a plausible read that is structurally under-supported and waiting on more contact.  
+**Aliases:** under-supported but plausible; tentative read; waiting on contact  
+**Opposites / failure mode:** verified; not justified; overconfident closure  
+**See also:** Output State; Downgrade Rule; Falsifier
+
+## Blocked
+A claim status for cases where evidence, boundary, activation, contamination, or reader capture prevents responsible interpretation.  
+**Aliases:** blocked read; no safe completion; suspended reading  
+**Opposites / failure mode:** verified; partial; provisional  
+**See also:** Refusal Power; Containment-First; No Reading Justified
+
+## Not Justified
+A claim status for a stronger claim than the material can carry.  
+**Aliases:** unsupported claim; evidence overrun; unjustified read  
+**Opposites / failure mode:** observed; verified; evidence-supported  
+**See also:** Claim Ceiling; Authority Inflation; Downgrade Rule
+
+## Output State
+The authorized final status of an SI read: Verified, Partial, Provisional, Blocked, Containment-First, or No Reading Justified.  
+**Aliases:** verdict state; runtime status; claim output  
+**Opposites / failure mode:** free-floating verdict; unbounded interpretation  
+**See also:** Minimal Runtime Sheet; Claim-Status Ladder; Predictive Output State
+
+## Verified
+An output state where the main structural claim is supported, the burden path is visible enough, and a falsifier is stated.  
+**Aliases:** verified read; supported output; accountable claim  
+**Opposites / failure mode:** provisional; blocked; not justified  
+**See also:** Output State; Falsifier; Burden-Path Visibility
+
+## Partial
+An output state where some structure is justified but the full read is not.  
+**Aliases:** partial read; bounded confirmation; limited support  
+**Opposites / failure mode:** verified; over-completed; blocked  
+**See also:** Output State; Downgrade Rule; Overread Risk
+
+## Containment-First
+An output state where more contact, interpretation, or pressure should not be increased until safety, witness, regulation, or stabilization improves.  
+**Aliases:** stabilization-first; safety-before-contact; containment route  
+**Opposites / failure mode:** forced contact; premature interpretation; containment as avoidance  
+**See also:** Repair Routing; Containment as Avoidance; Blocked
+
+## No Reading Justified
+An output state where the situation does not currently support an SI read beyond minimal description.  
+**Aliases:** no SI read; description only; no verdict  
+**Opposites / failure mode:** forced interpretation; fake depth; authority inflation  
+**See also:** Refusal Power; Blocked; Claim Ceiling
+
+## Refusal Power
+The capacity of the SI instrument to stop, downgrade, block, or refuse completion when evidence, safety, jurisdiction, or burden-path clarity is insufficient.  
+**Aliases:** disciplined refusal; refusal state; method restraint  
+**Opposites / failure mode:** cheap closure; framework overreach; answer compulsion  
+**See also:** Executable SI; Blocked; No Reading Justified; SI-Theater
+
+## Executable Structural Intelligence
+The stricter operating layer of SI that declares jurisdiction, separates observation from inference, exposes falsifiers, marks claim status, introduces failure states, and routes repair before deeper interpretation resumes.  
+**Aliases:** executable SI; SI instrument layer; runtime SI  
+**Opposites / failure mode:** archive-only theory; vibe language; unsupported structural prose  
+**See also:** Minimal Runtime Sheet; Refusal Power; Repair Routing
+
+## Instrument Layer
+The part of SI that turns philosophical grammar into public, inspectable, repeatable method under mixed evidence, pressure, and domain drift.  
+**Aliases:** operating layer; runtime layer; method layer  
+**Opposites / failure mode:** broad theory without procedure; conceptual expansion without discipline  
+**See also:** Executable SI; Minimal Runtime Sheet; External Reader Protocol
+
+## Jurisdiction
+The declared domain, boundary, and authority of an SI reading: what the method is allowed to read, what it is not allowed to decide, and what claims exceed its reach.  
+**Aliases:** method boundary; domain authority; scope discipline  
+**Opposites / failure mode:** jurisdiction creep; diagnosis without authority; category drift  
+**See also:** Non-Jurisdiction; Claim Ceiling; Authority Inflation
+
+## Non-Jurisdiction
+The explicit declaration that a reading does not have authority to make a certain kind of claim, diagnosis, certification, legal judgment, or metaphysical conclusion.  
+**Aliases:** out-of-scope zone; non-authority boundary; method refusal  
+**Opposites / failure mode:** overreach; authority inflation; category drift  
+**See also:** Jurisdiction; Non-Claim; Claim Ceiling
+
+## Repair Routing
+The decision path that determines whether a case should proceed to deeper interpretation, downgrade, containment-first, blocking, or concrete repair before more analysis.  
+**Aliases:** repair path; correction routing; interpretation gate  
+**Opposites / failure mode:** analysis before safety; insight without repair; pressure without container  
+**See also:** Containment-First; Executable SI; Minimal Runtime Sheet
+
+## Archive Layer
+The deep prose and philosophical corpus of SI: foundations, essays, theory papers, and conceptual development.  
+**Aliases:** archive prose; theory layer; corpus layer  
+**Opposites / failure mode:** runtime execution; public explanation  
+**See also:** Runtime Layer; Public Explanation Layer; Repository Integration
+
+## Runtime Layer
+The executable SI layer where claims are status-marked, evidence-bound, falsifier-exposed, and routed through output states.  
+**Aliases:** instrument runtime; execution layer; applied protocol  
+**Opposites / failure mode:** archive-only reflection; public slogan  
+**See also:** Archive Layer; Public Explanation Layer; Minimal Runtime Sheet
+
+## Public Explanation Layer
+The translation layer that explains SI verdicts without turning them into hidden authority or sealed private terminology.  
+**Aliases:** public translation; public-facing SI; readable verdict layer  
+**Opposites / failure mode:** jargon seal; authority costume; inaccessible method  
+**See also:** External Reader Protocol; Public Translation Rule; Output State
+
+## Predictive Structural Intelligence
+The SI layer that estimates breach hazard over a declared horizon by tracking whether contradiction is being metabolized into binding repair fast enough to prevent harder forced contact.  
+**Aliases:** Predictive SI; breach-hazard SI; time-structured SI  
+**Opposites / failure mode:** deterministic prophecy; collapse theater; no predictive reading justified  
+**See also:** Breach Hazard; Declared Horizon; Predictive Runtime Sheet
+
+## Breach Hazard
+The rising likelihood that a structure will cross from managed strain into forced contact within a declared time horizon.  
+**Aliases:** breach risk; forced-contact hazard; structural failure risk  
+**Opposites / failure mode:** deterministic collapse date; vague anxiety; no horizon  
+**See also:** Predictive SI; Buffer Exhaustion; Declared Horizon
+
+## Declared Horizon
+The explicit time window or review condition attached to a predictive SI claim.  
+**Aliases:** time horizon; review window; breach window  
+**Opposites / failure mode:** timeless warning; unfalsifiable forecast; retrospective smoothing  
+**See also:** Active Falsification Timer; Falsification Ledger; Predictive Output State
+
+## Predictive Runtime Sheet
+A predictive SI instrument that records domain, object, time horizon, observations, inferences, current state, anchor variables, burden path, hidden holder, synthetic-trace risk, falsifier, revision trigger, binding mechanism, witness/trace, predicted trajectory, output state, and ledger obligation.  
+**Aliases:** breach-hazard sheet; predictive SI sheet; forecast runtime  
+**Opposites / failure mode:** confident prediction without trace; unbounded foresight  
+**See also:** Dashboard Variables; Falsification Ledger; Active Falsification Timer
+
+## Dashboard Variables
+Rate-sensitive variables used to track drift, contact decay, recovery lag, repair velocity, binding strength, maintenance inflation, hidden-holder dependence, burden export, maneuver saturation, hysteresis, synthetic trace, reader capture, and falsification timing.  
+**Aliases:** predictive variables; runtime indicators; hazard variables  
+**Opposites / failure mode:** slogan indicators; vibe forecast; non-operational prediction  
+**See also:** Anchor Variables; Predictive Runtime Sheet; Breach Hazard
+
+## Anchor Variables
+The specific variables that drive a given predictive read and make the forecast inspectable.  
+**Aliases:** driving variables; forecast anchors; runtime anchors  
+**Opposites / failure mode:** hidden basis; intuition-only prediction; theater forecast  
+**See also:** Dashboard Variables; Calibration Grid; Ledger Obligation
+
+## Contact Half-Life
+The rate at which contact decays when contradiction, evidence, or friction is not metabolized into revision.  
+**Aliases:** contact decay rate; tether decay; reality-contact half-life  
+**Opposites / failure mode:** durable contact; timely revision; live correction  
+**See also:** Drift Velocity; Contradiction Recovery Lag; Predictive SI
+
+## Contradiction Recovery Lag
+The delay between contradiction appearing and the system converting it into binding correction.  
+**Aliases:** recovery lag; correction delay; contradiction lag  
+**Opposites / failure mode:** fast repair; timely correction; low-lag answerability  
+**See also:** Repair Velocity; Breach Hazard; Buffer Exhaustion
+
+## Repair Velocity
+The speed and adequacy with which a system turns contradiction into binding structural repair.  
+**Aliases:** correction speed; repair rate; revision velocity  
+**Opposites / failure mode:** symbolic repair; delayed repair; cosmetic revision  
+**See also:** Contradiction Recovery Lag; Binding Strength; Predictive SI
+
+## Binding Strength
+The degree to which correction becomes future structure rather than comment, mood, report, or temporary patch.  
+**Aliases:** correction binding; repair force; structural uptake  
+**Opposites / failure mode:** pseudo-binding; cosmetic revision; no-cost update  
+**See also:** Binding Mechanism; Repair Velocity; Revision Trigger
+
+## Hidden Holder
+The person, team, body, utility, worker, ratepayer, community, manual process, or background system quietly absorbing strain so the visible structure can continue to appear coherent.  
+**Aliases:** hidden bearer; invisible stabilizer; concealed load-carrier  
+**Opposites / failure mode:** visible burden bearer; declared cost bearer; shared answerability  
+**See also:** Hidden-Holder Dependence; Hidden-Holder Depletion; Burden Export
+
+## Hidden-Holder Dependence
+A condition where apparent stability depends on hidden holders absorbing strain not acknowledged in the official story.  
+**Aliases:** hidden support dependence; concealed carrying; invisible stabilization  
+**Opposites / failure mode:** verified repair capacity; declared burden path; shared answerability  
+**See also:** Hidden Holder; Buffer Dependence; Predictive SI
+
+## Hidden-Holder Depletion
+The weakening or exhaustion of the hidden holders that have been keeping a system smooth.  
+**Aliases:** hidden support exhaustion; concealed carrier depletion; background-holder exhaustion  
+**Opposites / failure mode:** renewed capacity; visible support; repaired burden path  
+**See also:** Hidden Holder; Buffer Exhaustion; Breach Hazard
+
+## Buffer Exhaustion
+The loss of reserve capacity that had allowed contradiction, mismatch, workload, or exported burden to remain manageable.  
+**Aliases:** reserve depletion; margin exhaustion; buffer collapse  
+**Opposites / failure mode:** resilient margin; renewed buffer; repair capacity  
+**See also:** Breach Hazard; Hidden-Holder Depletion; Maneuver Saturation
+
+## Buffer Dependence
+A condition where the system appears repair-capable only because hidden holders, manual workarounds, reserves, or synthetic records are absorbing strain.  
+**Aliases:** hidden-buffer dependence; reserve-financed stability; artificial continuity  
+**Opposites / failure mode:** independent repair capacity; verified repair; binding correction  
+**See also:** Hidden-Holder Dependence; Synthetic Buffer; Predictive Verification
+
+## Burden Export Velocity
+How quickly the cost of mismatch moves from the visible center of growth into adjacent holders.  
+**Aliases:** cost-shift rate; export rate; maintenance transfer velocity  
+**Opposites / failure mode:** cost internalization; slowed export; visible burden path  
+**See also:** Burden Export; Ratepayer Liability Sink; Data-Center Grid Case
+
+## Maneuver Saturation
+The point where operators, planners, humans, or institutions have too little remaining flexibility to absorb additional contradiction without harder failure.  
+**Aliases:** maneuver exhaustion; flexibility saturation; adaptive margin loss  
+**Opposites / failure mode:** maneuver room; adaptive capacity; recovery margin  
+**See also:** Buffer Exhaustion; Breach Hazard; Hidden-Holder Depletion
+
+## Synthetic Trace
+A record, dashboard, certificate, AI-generated summary, or compliance artifact that appears to show contact but may not preserve independent friction, cost, or correction.  
+**Aliases:** artificial trace; generated trace; trace substitute  
+**Opposites / failure mode:** independent trace; friction-preserving record; verifiable contact  
+**See also:** Trace Laundering; Synthetic Trace Risk; Falsification Ledger
+
+## Synthetic Trace Risk
+The risk that generated, annualized, dashboarded, or polished records stand in for reality-contact while the real-time burden path remains under-seen.  
+**Aliases:** trace-substitution risk; dashboard trace risk; artificial evidence risk  
+**Opposites / failure mode:** independent verification; hourly/local trace; friction-preserving audit  
+**See also:** Synthetic Trace; Synthetic Buffer; AI Data Centers and the Grid
+
+## Synthetic Buffer
+A representational or procedural buffer that preserves the growth story while masking unresolved mismatch.  
+**Aliases:** artificial buffer; narrative buffer; dashboard buffer  
+**Opposites / failure mode:** real repair capacity; independent verification; contact-bearing trace  
+**See also:** Synthetic Trace; Synthetic Repair; Buffer Dependence
+
+## Synthetic Repair
+A repair signal that looks like correction but is carried by dashboards, narratives, future promises, annual matching, or documentation rather than binding structural change.  
+**Aliases:** repair theater; symbolic repair; representational repair  
+**Opposites / failure mode:** binding repair; verified repair; independent recovery evidence  
+**See also:** Cosmetic Revision; Synthetic Buffer; Repair Velocity
+
+## Predictive Output State
+The status assigned to a predictive SI claim: Verified, Partial, Provisional, Blocked, Containment-First, or No Predictive Reading Justified.  
+**Aliases:** forecast status; breach-hazard output; predictive verdict state  
+**Opposites / failure mode:** unmarked prediction; theatrical certainty  
+**See also:** Output State; Declared Horizon; Falsification Ledger
+
+## No Predictive Reading Justified
+A predictive output state where calibrated local data, longitudinal record, falsification history, or burden-path clarity is too weak to support breach-hazard judgment.  
+**Aliases:** no forecast justified; no breach read; prediction blocked  
+**Opposites / failure mode:** overprediction; collapse theater; speculative certainty  
+**See also:** Predictive Output State; Downgrade Rule; Breach Hazard
+
+## Falsification Ledger
+A versioned record of predictive claims, time horizons, anchor variables, falsifiers, outcomes, error types, and runtime changes required after failed or weakened forecasts.  
+**Aliases:** forecast ledger; SI error ledger; prediction audit trail  
+**Opposites / failure mode:** silent revision; reputational smoothing; non-cumulative prediction  
+**See also:** Active Falsification Timer; Ledger Obligation; Self-Falsification Rule
+
+## Active Falsification Timer
+A required review date or review condition attached to every predictive claim so the forecast cannot be retroactively smoothed if the horizon passes.  
+**Aliases:** review timer; forecast timer; falsification clock  
+**Opposites / failure mode:** timeless prediction; retrospective reinterpretation; unfalsifiable warning  
+**See also:** Declared Horizon; Falsification Ledger; Ledger Obligation
+
+## Ledger Obligation
+The obligation to record what happened after a predictive claim, including whether the claim held, weakened, failed, or required runtime revision.  
+**Aliases:** forecast accountability; future trace obligation; prediction follow-up duty  
+**Opposites / failure mode:** abandoned forecast; image-preserving silence; non-cumulative method  
+**See also:** Falsification Ledger; Active Falsification Timer; Self-Falsification Rule
+
+## Self-Falsification Rule
+The rule that Predictive SI is only as strong as its capacity to record failed forecasts and change its runtime because of them.  
+**Aliases:** self-correction rule; method falsification; runtime accountability rule  
+**Opposites / failure mode:** protected framework; symbolic ledger; non-revising method  
+**See also:** Falsification Ledger; Red-Team Discipline; Calibration Without Consequence
+
+## Predictive Verification
+A predictive claim counts as stronger only when independent repair capacity is visible and hidden holders or synthetic records are not merely absorbing strain.  
+**Aliases:** verified forecast condition; repair-capacity verification; independent recovery check  
+**Opposites / failure mode:** buffer-dependent stability; synthetic repair; hidden-holder masking  
+**See also:** Buffer Dependence; Hidden-Holder Dependence; Repair Velocity
+
+## Calibration Grid
+The common case-reading structure used in Predictive SI practice: observed structure, initial state, anchor variables, hidden holder, predicted trajectory, output state, falsifier, repair condition, and overread risk.  
+**Aliases:** case grid; predictive case grid; calibration frame  
+**Opposites / failure mode:** anecdotal proof; selective case reading; post-hoc interpretation  
+**See also:** Case Calibration; Overread Risk; Prospective Validation
+
+## Case Calibration
+Using concrete cases to test whether the predictive runtime improves state classification, early-warning judgment, downgrade discipline, and falsifier clarity.  
+**Aliases:** calibration case method; runtime case testing; applied calibration  
+**Opposites / failure mode:** statistical validation claim; anecdotal confirmation; case theater  
+**See also:** Calibration Grid; Falsification Ledger; Prospective Validation
+
+## Overread Risk
+The risk that an SI or Predictive SI reading claims more structure, breach hazard, or certainty than the evidence can carry.  
+**Aliases:** interpretive overreach risk; false-positive risk; strong-claim risk  
+**Opposites / failure mode:** downgrade discipline; claim ceiling; provisional status  
+**See also:** False Positive; Claim Ceiling; Calibration Grid
+
+## Prospective Validation
+Testing Predictive SI by logging future cases before outcomes are known, with declared horizons, anchor variables, falsifiers, and ledger obligations.  
+**Aliases:** forward validation; before-outcome testing; prospective case logging  
+**Opposites / failure mode:** hindsight validation; post-hoc fit; retrospective smoothing  
+**See also:** Falsification Ledger; Active Falsification Timer; Case Calibration
+
+## Fluency-Masked
+A predictive state where expert adaptation, operational competence, or surface smoothness keeps strain from becoming visible.  
+**Aliases:** smoothness-masked; competence-masked; hidden-strain state  
+**Opposites / failure mode:** visible breach; exposed burden path; brittle signal  
+**See also:** Data-Center Grid Case; Hidden Holder; Predictive State Classification
+
+## Debt-Financed
+A predictive state where apparent continuity is being purchased by shifting the maintenance bill into future rates, future capacity, hidden holders, local systems, or deferred repair.  
+**Aliases:** debt-supported stability; deferred-cost continuity; maintenance-financed coherence  
+**Opposites / failure mode:** repaired continuity; cost-internalized stability; verified repair  
+**See also:** Structural Debt; Burden Export Velocity; Hidden Holder
+
+## Theater-Stabilized
+A predictive state where dashboards, public commitments, compliance narratives, future promises, or sustainability claims preserve coherence without independent recovery evidence.  
+**Aliases:** narrative-stabilized; dashboard-stabilized; compliance-stabilized  
+**Opposites / failure mode:** verified repair; independent trace; contact-bearing evidence  
+**See also:** Synthetic Trace Risk; Oversight Theater; Trace Laundering
+
+## Flickering
+A predictive state where recurring forced-contact events appear intermittently, suggesting that the system is not fully broken but is losing stable recovery.  
+**Aliases:** intermittent breach; early-warning flicker; unstable recovery signal  
+**Opposites / failure mode:** stable answerability; repaired continuity; verified recovery  
+**See also:** Breach Hazard; Buffer Exhaustion; Critical Slowing
+
+## Data-Center Grid Case
+A Predictive SI case where AI data-center growth is read through burden export velocity, hidden-holder depletion, and synthetic trace risk across electricity grids, utilities, ratepayers, water systems, local communities, and reliability margins.  
+**Aliases:** AI grid case; compute burden case; cloud burden-path case  
+**Opposites / failure mode:** AI-is-weightless story; energy-only story; deterministic collapse story  
+**See also:** Burden Export Velocity; Hidden-Holder Depletion; Synthetic Trace Risk
+
+## Ratepayer Liability Sink
+A burden-path condition where ordinary utility customers absorb infrastructure costs, stranded-cost risk, or reliability burden created by large private loads.  
+**Aliases:** ratepayer burden sink; customer cost sink; public cost absorption  
+**Opposites / failure mode:** binding cost accountability; large-load cost internalization  
+**See also:** Burden Export Velocity; Hidden Holder; Data-Center Grid Case
+
+## Large-Load Tariff Signal
+A public policy signal that burden-path visibility has moved from private planning into public conflict over who pays for data-center or other high-demand infrastructure.  
+**Aliases:** tariff dispute signal; large-load cost signal; cost-allocation signal  
+**Opposites / failure mode:** invisible cost allocation; unpriced infrastructure burden  
+**See also:** Burden Export Velocity; Ratepayer Liability Sink; Predictive Indicator
+
+## Hourly / Local Trace
+Granular verification that matches claims to local and time-specific burden rather than annualized or abstract representation.  
+**Aliases:** granular trace; local-time trace; 24/7 verification trace  
+**Opposites / failure mode:** annual matching; averaged trace; synthetic trace  
+**See also:** Synthetic Trace Risk; Data-Center Grid Case; Independent Verification
+
+## Regulatory Docking Layer
+A Structural Intelligence interface for testing whether formal AI governance requirements preserve contact, witness, trace, burden-path visibility, and binding revision under live operational pressure.  
+**Aliases:** AI Act docking layer; governance docking; regulatory SI interface  
+**Opposites / failure mode:** legal form without answerable control; compliance theater  
+**See also:** EU AI Act Docking; Minimal Runtime Sheet; Oversight Theater
+
+## EU AI Act Docking
+The application of SI runtime discipline to high-risk AI compliance, especially risk management, logging, documentation, human oversight, robustness, and conformity assessment.  
+**Aliases:** AI Act SI mapping; high-risk AI docking; compliance runtime mapping  
+**Opposites / failure mode:** formal compliance as final proof; benchmark-only safety  
+**See also:** Regulatory Docking Layer; Oversight Theater; Compliance Coherence
+
+## Compliance Coherence
+The appearance of regulatory or institutional sufficiency produced by documentation, benchmarks, policy language, logs, and conformity narratives.  
+**Aliases:** formal compliance coherence; paperwork coherence; governance coherence  
+**Opposites / failure mode:** answerable control; live correction; burden-path visibility  
+**See also:** Oversight Theater; Trace Laundering; EU AI Act Docking
+
+## Oversight Theater
+A failure mode where human oversight exists visibly or procedurally but lacks interrupt power, contextual awareness, authority, time, or consequence-bearing capacity.  
+**Aliases:** visible oversight without control; procedural oversight theater; human-interface alibi  
+**Opposites / failure mode:** answerable control; real interrupt power; consequence-bearing oversight  
+**See also:** Human as Alibi; Procedural Oversight; EU AI Act Docking
+
+## Answerable Control
+A control architecture where external reality can still alter system behavior through trace, witness, interrupt power, burden-path visibility, and binding revision.  
+**Aliases:** corrigible control; consequence-bound control; live answerability  
+**Opposites / failure mode:** unanswerable control; oversight theater; compliance coherence  
+**See also:** Robotics Boundary; EU AI Act Docking; Shared Answerability
+
+## Real Interrupt Power
+The practical ability of a human or governance role to stop, alter, contest, or reverse a system in time for correction to matter.  
+**Aliases:** meaningful override; live intervention power; operational interrupt authority  
+**Opposites / failure mode:** symbolic override; human alibi; procedural oversight  
+**See also:** Oversight Theater; Human-in-the-Loop; Answerable Control
+
+## Burden-Path Audit
+A runtime check that asks where the maintenance bill of mismatch is actually metabolized, rather than only listing formal risks or visible responsibilities.  
+**Aliases:** burden audit; maintenance-path audit; cost-path audit  
+**Opposites / failure mode:** risk list without holder; cost laundering; formal accountability  
+**See also:** Hidden Holder; Burden Export; EU AI Act Docking; Robotics Boundary
+
+## Robotics Boundary
+The boundary where SI can inform embodied systems and infrastructure as an evaluative grammar without becoming a theory of materials, circuits, robotics architecture, or hardware design.  
+**Aliases:** engineering boundary; embodiment boundary; robotics transfer boundary  
+**Opposites / failure mode:** category drift; SI as robotics theory; over-completion  
+**See also:** Disciplined Transfer; Over-Completion Trap; Answerable Control
+
+## Disciplined Transfer
+The careful movement of SI concepts into a neighboring domain by stating what transfers, what does not, and what would show the analogy has gone too far.  
+**Aliases:** bounded transfer; controlled analogy; transfer discipline  
+**Opposites / failure mode:** category drift; over-completion; analogy-as-identity  
+**See also:** Transferred; Robotics Boundary; Claim Ceiling
+
+## Over-Completion Trap
+The tendency of a reader or AI system to turn adjacency into identity, making a tentative bridge look like a mature implementation path.  
+**Aliases:** completion overreach; pattern-completion trap; premature roadmap  
+**Opposites / failure mode:** disciplined transfer; claim ceiling; boundary discipline  
+**See also:** Category Drift; Robotics Boundary; Transferred
+
+## Category Drift
+The process by which an SI term or framework becomes absorbed into a neighboring field until the analogy hardens into identity and the original distinctions are lost.  
+**Aliases:** domain drift; transfer inflation; analogy hardening  
+**Opposites / failure mode:** jurisdiction discipline; claim ceiling; disciplined transfer  
+**See also:** Over-Completion Trap; Robotics Boundary; Non-Jurisdiction
+
+## Demo-Stability
+A system’s ability to perform well in demonstration, benchmark, or controlled presentation without proving field-stability under real burden.  
+**Aliases:** demo robustness; controlled-setting stability; presentation stability  
+**Opposites / failure mode:** field-stability; load-bearing robustness; deployed answerability  
+**See also:** Cheap Coherence; Robotics Boundary; Field-Stability
+
+## Field-Stability
+A system’s ability to remain answerable and corrigible under real deployment conditions, hidden burden, time, maintenance, and unexpected contradiction.  
+**Aliases:** deployed stability; real-world stability; operational answerability  
+**Opposites / failure mode:** demo-stability; benchmark coherence; brittle performance  
+**See also:** Demo-Stability; Answerable Control; Robotics Boundary
+
+## Sensor Is Not Witness
+A robotics-boundary distinction: sensing contact with the environment is not the same as consequence-bearing witness able to metabolize context, stakes, and correction.  
+**Aliases:** sensor/witness distinction; contact without witness; measurement is not witness  
+**Opposites / failure mode:** witness theater; embodiment inflation; category drift  
+**See also:** Witness; Robotics Boundary; Somatic Witness
+
+## Update Is Not Revision
+A robotics and AI-governance distinction: parameter change, software update, or procedural adjustment is not necessarily structural revision unless contradiction binds future behavior.  
+**Aliases:** update/revision distinction; patch is not repair; change without binding  
+**Opposites / failure mode:** binding revision; structural repair; future correction  
+**See also:** Cosmetic Revision; Binding Strength; Repair Velocity
+
+## Smooth Control Loop
+A control process that closes loops efficiently but may still be unanswerable if it cannot preserve contact, witness, burden path, or correction under reality-pressure.  
+**Aliases:** efficient control; closed-loop smoothness; performance loop  
+**Opposites / failure mode:** answerable control; corrigible loop; open-to-correction loop  
+**See also:** Answerable Control; Robotics Boundary; Field-Stability
+
+## Transition Discipline
+A lightweight SI upgrade that checks whether a claim, output, recommendation, metric, memory, role, or trace may cross into action, authority, continuity, or institutional consequence.  
+**Aliases:** governed transition discipline; passage discipline; transition runtime  
+**Opposites / failure mode:** unauthorized transition; quiet promotion; authority migration  
+**See also:** Transition Admissibility; Custody Owner; Revocation Path
+
+## Unauthorized Transition
+A crossing from one surface to a stronger layer of consequence without declared custody, witness, authority ceiling, trace, revocation path, burden bearer, and loss condition.  
+**Aliases:** inadmissible passage; quiet promotion; ungoverned crossing  
+**Opposites / failure mode:** transition admissibility; governed passage; declared transition  
+**See also:** Transition Discipline; Authority Ceiling; Burden Bearer
+
+## Transition Admissibility
+The rule that a transition into action, authority, continuity, or institutional consequence is not answerable unless its custody, witness, authority ceiling, trace, revocation path, burden bearer, and loss condition are declared.  
+**Aliases:** admissible transition rule; governed passage rule; transition gate  
+**Opposites / failure mode:** unauthorized transition; silent promotion; unbounded crossing  
+**See also:** Transition Discipline; Claim Ceiling; Revocation Path
+
+## Governed Passage
+A transition that is explicitly bounded, witnessed, reversible or revocable where possible, and tied to a declared burden bearer and loss condition.  
+**Aliases:** governed transition; bounded crossing; admissible passage  
+**Opposites / failure mode:** quiet authority migration; ungoverned transition  
+**See also:** Transition Admissibility; Custody Owner; Witness; Trace
+
+## From Surface
+The layer a transition starts from, such as text, model output, log, metric, memory, role, dashboard, or user report.  
+**Aliases:** source surface; origin layer; starting surface  
+**Opposites / failure mode:** undeclared source; hidden origin  
+**See also:** To Surface; Transition Discipline; Trace
+
+## To Surface
+The layer a transition moves into, such as action, authority, decision, continuity, institutional record, diagnosis, or public claim.  
+**Aliases:** destination surface; consequence layer; receiving surface  
+**Opposites / failure mode:** undeclared consequence; silent destination  
+**See also:** From Surface; Transition Discipline; Authority Ceiling
+
+## Custody Owner
+The person, role, process, or institution that owns the transition and its consequences.  
+**Aliases:** transition owner; custody holder; accountable owner  
+**Opposites / failure mode:** ownerless crossing; responsibility diffusion; liability laundering  
+**See also:** Transition Discipline; Burden Bearer; Revocation Path
+
+## Authority Ceiling
+The maximum force a transition is allowed to carry.  
+**Aliases:** claim ceiling; force ceiling; authority limit  
+**Opposites / failure mode:** authority inflation; quiet promotion; diagnosis creep  
+**See also:** Claim Ceiling; Transition Admissibility; Jurisdiction
+
+## Claim Ceiling
+The upper limit of what a claim may responsibly assert based on its evidence, domain, authority, and transition status.  
+**Aliases:** evidence ceiling; assertion ceiling; authority boundary  
+**Opposites / failure mode:** authority inflation; overclaim; diagnosis without authority  
+**See also:** Authority Ceiling; Non-Claim; Loss Condition
+
+## Revocation Path
+The declared way a transition can be cooled, withdrawn, reversed, refused, or downgraded.  
+**Aliases:** withdrawal route; reversal path; refusal path  
+**Opposites / failure mode:** irreversible quiet promotion; no-exit authority; locked transition  
+**See also:** Transition Discipline; Custody Owner; Authority Ceiling
+
+## Burden Bearer
+Who or what carries the cost if the transition, claim, output, record, recommendation, or decision is wrong.  
+**Aliases:** cost bearer; consequence holder; error-cost holder  
+**Opposites / failure mode:** exported burden; hidden holder; liability sink  
+**See also:** Hidden Holder; Burden-Path Audit; Transition Discipline
+
+## Loss Condition
+The evidence, future event, or observed pattern that would weaken, unseat, or downgrade a reading.  
+**Aliases:** weakening condition; unseating condition; claim-loss test  
+**Opposites / failure mode:** protected claim; unfalsifiable interpretation; no-loss verdict  
+**See also:** Falsifier; Non-Claim; Transition Discipline
+
+## Non-Claim
+A statement of what the analysis is not saying, used to prevent overreach, hidden diagnosis, legal certification, or authority inflation.  
+**Aliases:** scope exclusion; non-assertion; boundary statement  
+**Opposites / failure mode:** implication creep; overclaim; sealed authority  
+**See also:** Loss Condition; Non-Jurisdiction; Claim Ceiling
+
+## Orientation Before Action
+A transition rule that slows mutation, decision, or authority transfer until the system has enough orientation to act answerably.  
+**Aliases:** orient-first rule; no immediate mutation; stabilization before action  
+**Opposites / failure mode:** reflex transition; premature action; action before custody  
+**See also:** Transition Discipline; Revocation Path; Containment-First
+
+## Quiet Promotion
+A failure where a suggestion becomes a command, a log becomes proof, a metric becomes reality, a memory becomes identity, or a visible role becomes meaningful oversight without declared transition discipline.  
+**Aliases:** silent promotion; hidden authority migration; consequence creep  
+**Opposites / failure mode:** declared transition; transition admissibility; governed passage  
+**See also:** Unauthorized Transition; Authority Ceiling; Transition Discipline
+
+## Public Translation Rule
+An SI verdict should not travel without its output state, evidence, falsifier, horizon where relevant, and downgrade conditions.  
+**Aliases:** verdict travel rule; public-use translation; bounded verdict rule  
+**Opposites / failure mode:** free-floating authority; detached verdict; decontextualized claim  
+**See also:** Public Explanation Layer; External Reader Protocol; Output State
+
+## Repository Integration
+The practice of making archive, runtime, public, examples, and ledger layers mechanically visible in the SI repository so verdicts, instruments, examples, and falsifications do not collapse into one prose layer.  
+**Aliases:** repo structure discipline; public corpus integration; instrument repository layer  
+**Opposites / failure mode:** buried runtime; hidden ledger; archive/runtime confusion  
+**See also:** Archive Layer; Runtime Layer; Falsification Ledger
