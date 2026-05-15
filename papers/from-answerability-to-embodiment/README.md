@@ -13,7 +13,9 @@ This paper develops Structural Intelligence at the boundary between philosophy, 
 Structural Intelligence; robotics; embodied AI; answerable control; infrastructure; burden-path audit; corrigibility; clinical software; logistics; public administration; maintenance bill
 
 ### Links
-- DOI: https://doi.org/10.5281/zenodo.20155286
+- DOI: https://doi.org/10.6084/m9.figshare.32261982
+- Figshare record: https://figshare.com/articles/preprint/_b_From_Answerability_to_Embodiment_Structural_Intelligence_at_the_Robotics_Boundary_b_/32261982
+- Zenodo DOI: https://doi.org/10.5281/zenodo.20155286
 - PhilPapers record: https://philpapers.org/rec/JOVFAT
 - PhilArchive download history: https://philarchive.org/versions/JOVFAT
 - PhilArchive record: https://philarchive.org/rec/JOVFAT
