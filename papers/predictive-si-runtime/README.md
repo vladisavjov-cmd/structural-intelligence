@@ -12,8 +12,11 @@ This paper develops the runtime layer for Predictive Structural Intelligence. It
 ### Keywords
 Structural Intelligence; predictive SI; breach hazard; runtime sheet; falsification ledger; output states; downgrade rules; hidden-holder dependence; repair velocity; burden-path audit; synthetic trace; reader capture; buffer exhaustion; critical slowing down; graceful extensibility
 
+# The Predictive SI Runtime
+
 ### Links
 - DOI: https://doi.org/10.5281/zenodo.20208073
+- Zenodo record: https://zenodo.org/records/20208073
 - PhilPapers record: https://philpapers.org/rec/JOVTPS
 - PhilArchive download history: https://philarchive.org/versions/JOVTPS
 - PhilArchive record: https://philarchive.org/rec/JOVTPS
