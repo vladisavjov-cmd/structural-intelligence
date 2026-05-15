@@ -12,8 +12,13 @@ This paper develops the case-calibration layer of Predictive Structural Intellig
 ### Keywords
 Structural Intelligence; predictive SI; case calibration; breach hazard; hidden holders; clinical decision support; AI governance; public administration; synthetic witness; burden export; corporate drift; falsification ledger
 
+# Predictive Structural Intelligence in Practice
+
 ### Links
-- DOI: https://doi.org/10.5281/zenodo.20208780
+- DOI: https://doi.org/10.6084/m9.figshare.32301429
+- Figshare record: https://figshare.com/articles/preprint/Predictive_Structural_Intelligence_in_Practice_Calibration_Cases_Across_AI_Institutions_Care_and_Infrastructure/32301429
+- Zenodo DOI: https://doi.org/10.5281/zenodo.20208780
+- Zenodo record: https://zenodo.org/records/20208780
 - PhilPapers record: not yet confirmed
 - PhilArchive download history: not yet confirmed
 - PhilArchive record: not yet confirmed
