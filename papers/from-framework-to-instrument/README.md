@@ -12,8 +12,12 @@ This paper argues that Structural Intelligence now needs a stronger instrument l
 ### Keywords
 Structural Intelligence; executable discipline; answerability; runtime sheet; claim-status ladder; falsifier; refusal power; repair routing; boundary maps; witness; burden-path audit
 
+# From Framework to Instrument
+
 ### Links
-- DOI: https://doi.org/10.5281/zenodo.20155334
+- DOI: https://doi.org/10.6084/m9.figshare.32262120
+- Figshare record: https://figshare.com/articles/preprint/_b_From_Framework_to_Instrument_Executable_Structural_Intelligence_Boundary_Maps_Failure_States_and_Repair_Routing_b_/32262120
+- Zenodo DOI: https://doi.org/10.5281/zenodo.20155334
 - PhilPapers record: https://philpapers.org/rec/JOVFFT
 - PhilArchive download history: https://philarchive.org/versions/JOVFFT
 - PhilArchive record: https://philarchive.org/rec/JOVFFT
