@@ -1111,6 +1111,102 @@
 **In SI:** Revision Under Pressure; Answerability; Contact; Scientific Restraint  
 **Best starting paper:** [When Reality Outruns Theory](../papers/when-reality-outruns-theory/README.md)
 
+---
+
+## May 2026 instrument / predictive / governance sequence
+
+## People search: “how do I stop SI from becoming fake depth”
+**In SI:** SI-Theater; Observation; Inference; Falsifier; Refusal Power  
+**Best starting paper:** [Against SI-Theater: Observation, Inference, and Revision](../papers/against-si-theater-observation-inference-and-revision/README.md)
+
+## People search: “how can SI avoid overreading people or systems”
+**In SI:** SI-Theater; False Positive; Downgrade Rule; Claim Status; Falsifier  
+**Best starting paper:** [Against SI-Theater: Observation, Inference, and Revision](../papers/against-si-theater-observation-inference-and-revision/README.md)
+
+## People search: “what are the failure modes of Structural Intelligence”
+**In SI:** SI-Theater; Negative Taxonomy; False Contact; Witness Theater; Trace Laundering  
+**Best starting paper:** [Against SI-Theater: Failure Modes, False Positives, and Misuse](../papers/against-si-theater-failure-modes-false-positives-and-misuse/README.md)
+
+## People search: “how can SI be misused”
+**In SI:** SI-Theater; Misuse Surface; Authority Inflation; Reader Capture; Abuse-Resistant Reading  
+**Best starting paper:** [Against SI-Theater: Failure Modes, False Positives, and Misuse](../papers/against-si-theater-failure-modes-false-positives-and-misuse/README.md)
+
+## People search: “I need SI as a method, not just a philosophy”
+**In SI:** Executable SI; Minimal Runtime Sheet; Claim Status; Refusal Power; Repair Routing  
+**Best starting paper:** [From Framework to Instrument](../papers/from-framework-to-instrument/README.md)
+
+## People search: “how do I make an SI reading inspectable”
+**In SI:** Minimal Runtime Sheet; Observation; Inference; Falsifier; Output State  
+**Best starting paper:** [From Framework to Instrument](../papers/from-framework-to-instrument/README.md)
+
+## People search: “how should non-experts use SI without turning it into vibe language”
+**In SI:** External Reader Protocol; Claim-Status Ladder; Downgrade Rule; Reader Capture; Public Translation  
+**Best starting paper:** [External Reader Protocol](../papers/external-reader-protocol/README.md)
+
+## People search: “how do I know when to downgrade an SI claim”
+**In SI:** Downgrade Rule; Claim Status; Claim Ceiling; Not Justified; Refusal Power  
+**Best starting paper:** [External Reader Protocol](../papers/external-reader-protocol/README.md)
+
+## People search: “how can SI make predictions without becoming prophecy”
+**In SI:** Predictive SI; Breach Hazard; Declared Horizon; Falsification Ledger; Downgrade Rule  
+**Best starting paper:** [Predictive Structural Intelligence](../papers/predictive-structural-intelligence/README.md)
+
+## People search: “when does a system cross from strain into breach”
+**In SI:** Breach Hazard; Buffer Exhaustion; Hidden Holder; Repair Velocity; Structural Debt  
+**Best starting paper:** [Predictive Structural Intelligence](../papers/predictive-structural-intelligence/README.md)
+
+## People search: “how do I run a predictive SI reading”
+**In SI:** Predictive Runtime Sheet; Dashboard Variables; Output State; Falsification Ledger; Active Review  
+**Best starting paper:** [The Predictive SI Runtime](../papers/predictive-si-runtime/README.md)
+
+## People search: “how do I track whether a prediction was wrong”
+**In SI:** Falsification Ledger; Declared Horizon; Ledger Obligation; Self-Falsification Rule  
+**Best starting paper:** [The Predictive SI Runtime](../papers/predictive-si-runtime/README.md)
+
+## People search: “how does predictive SI work across real cases”
+**In SI:** Case Calibration; Calibration Grid; Hidden Holder; Output State; Overread Risk  
+**Best starting paper:** [Predictive Structural Intelligence in Practice](../papers/predictive-structural-intelligence-in-practice/README.md)
+
+## People search: “how do I test predictive SI without pretending it is statistically validated”
+**In SI:** Case Calibration; Prospective Validation; Falsification Ledger; Provisional Status  
+**Best starting paper:** [Predictive Structural Intelligence in Practice](../papers/predictive-structural-intelligence-in-practice/README.md)
+
+## People search: “AI data centers are growing but who actually carries the cost”
+**In SI:** Data-Center Grid Case; Hidden Holder; Burden Export; Ratepayer Liability Sink; Synthetic Trace  
+**Best starting paper:** [AI Data Centers and the Grid](../papers/ai-data-centers-and-the-grid/README.md)
+
+## People search: “AI infrastructure looks sustainable but I don’t trust the accounting”
+**In SI:** Synthetic Trace; Synthetic Repair; Hourly / Local Trace; Burden Export; Hidden Holder  
+**Best starting paper:** [AI Data Centers and the Grid](../papers/ai-data-centers-and-the-grid/README.md)
+
+## People search: “AI governance looks compliant but still feels unanswerable”
+**In SI:** EU AI Act Docking; Compliance Coherence; Oversight Theater; Answerable Control  
+**Best starting paper:** [Docking Structural Intelligence into the EU AI Act](../papers/docking-structural-intelligence-into-the-eu-ai-act/README.md)
+
+## People search: “what is oversight theater in high-risk AI”
+**In SI:** Oversight Theater; Human as Alibi; Real Interrupt Power; Trace Laundering; Compliance Coherence  
+**Best starting paper:** [Docking Structural Intelligence into the EU AI Act](../papers/docking-structural-intelligence-into-the-eu-ai-act/README.md)
+
+## People search: “how does SI apply to robotics without pretending to be robotics”
+**In SI:** Robotics Boundary; Disciplined Transfer; Answerable Control; Field-Stability; Demo-Stability  
+**Best starting paper:** [From Answerability to Embodiment](../papers/from-answerability-to-embodiment/README.md)
+
+## People search: “a robot or automated system works in demos but will it hold in the field”
+**In SI:** Demo-Stability; Field-Stability; Answerable Control; Burden-Path Audit; Robotics Boundary  
+**Best starting paper:** [From Answerability to Embodiment](../papers/from-answerability-to-embodiment/README.md)
+
+## People search: “when does an AI output become action or authority”
+**In SI:** Transition Discipline; Authority Ceiling; Custody Owner; Revocation Path; Burden Bearer  
+**Best starting paper:** [Transition Discipline in Structural Intelligence](../papers/transition-discipline-in-structural-intelligence/README.md)
+
+## People search: “how do I stop a recommendation, memory, metric, or summary from quietly becoming reality”
+**In SI:** Transition Discipline; Quiet Promotion; Transition Admissibility; Claim Ceiling; Loss Condition  
+**Best starting paper:** [Transition Discipline in Structural Intelligence](../papers/transition-discipline-in-structural-intelligence/README.md)
+
+## People search: “who owns the consequence when a generated output crosses into action”
+**In SI:** Custody Owner; Burden Bearer; Revocation Path; Authority Ceiling; Transition Discipline  
+**Best starting paper:** [Transition Discipline in Structural Intelligence](../papers/transition-discipline-in-structural-intelligence/README.md)
+
 ## Notes
 - This map is for discoverability. Canonical definitions live in: `glossary/GLOSSARY.md`.
 - If you add new terms, add a plain-language query here with its SI mapping and best starting paper.
