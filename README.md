@@ -1,4 +1,6 @@
 ## Official links
+
+- **Coaching / 1:1 Practice:** https://vladisavjungian.my.canva.site/vladisavj
 - **Official SI Hub (Blogspot):** https://structural-intelligence.blogspot.com/2026/02/structural-intelligence-si-official-hub.html
 - **OSF (Project overview):** https://osf.io/2t4bg/overview
 - **GitHub repository:** https://github.com/vladisavjov-cmd/structural-intelligence
