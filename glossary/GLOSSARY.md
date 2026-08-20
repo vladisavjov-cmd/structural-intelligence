@@ -2347,3 +2347,261 @@ The practice of making archive, runtime, public, examples, and ledger layers mec
 **Aliases:** repo structure discipline; public corpus integration; instrument repository layer  
 **Opposites / failure mode:** buried runtime; hidden ledger; archive/runtime confusion  
 **See also:** Archive Layer; Runtime Layer; Falsification Ledger
+
+## Correction-Capacity
+The capacity to evaluate a correction claim in proportion to its warrant and carry justified revision into durable confidence, interpretation, behavior, repair, or evidential practice. High correction-capacity does not mean agreeing more; it means responding more accurately to the strength of the correction.
+**Aliases:** correctability; warrant-sensitive revisability; correction competence; calibrated revisability  
+**Opposites / failure mode:** defensive closure; gullibility; compliance; revision theater; indiscriminate openness  
+**See also:** Warrant; Warrant-Response Calibration; Binding; Fixed Worth; Revision Theater
+
+## Warrant
+The degree to which a proposed correction has earned revisional force. Warrant depends on the quality of evidence, fairness of the process, and proportionality between evidence and requested change.
+**Aliases:** justification strength; correction legitimacy; revisional warrant  
+**Opposites / failure mode:** unsupported correction; coercive pressure; status-as-proof; arbitrary revision  
+**See also:** Evidential Warrant; Procedural Warrant; Proportional Warrant; Correction Claim; Correction-Capacity
+
+## Evidential Warrant
+The degree to which a correction claim is supported by relevant, independent, converging, and sufficiently strong evidence.
+**Aliases:** evidence strength; evidential support; grounded warrant  
+**Opposites / failure mode:** weak evidence; cherry-picking; unsupported certainty; source laundering  
+**See also:** Warrant; Contact; Falsifier; Correction Claim
+
+## Procedural Warrant
+The degree to which a correction claim is formed and evaluated under fair, contestable conditions with meaningful access to evidence, counterargument, and protected disagreement.
+**Aliases:** procedural legitimacy; contestable warrant; fair-evaluation condition  
+**Opposites / failure mode:** coercive correction; authority capture; inaccessible evidence; punishment for disagreement  
+**See also:** Warrant; Answerability; Protected Revision Space; Affected-Party Standing
+
+## Proportional Warrant
+The requirement that the size of a proposed revision match the strength and scope of the available evidence.
+**Aliases:** proportional correction; revision proportionality; evidence-to-change fit  
+**Opposites / failure mode:** overcorrection; undercorrection; totalization; evidence inflation  
+**See also:** Warrant; Overcorrection; Partial Correction; Warrant-Response Calibration
+
+## Correction Claim
+An interpretation of what should change after a relevant discrepancy has been identified: a belief, confidence level, behavior, boundary, role, theory, policy, pathway, or burden allocation.
+**Aliases:** proposed revision; corrective claim; revision claim  
+**Opposites / failure mode:** pressure mistaken for proof; undefined correction; coercive demand  
+**See also:** Contact; Warrant; Correction-Capacity; Discrepancy
+
+## Warrant-Response Calibration
+The degree to which the direction and magnitude of a response track the independently assessed strength of a correction claim.
+**Aliases:** correction calibration; evidence-response fit; warrant tracking  
+**Opposites / failure mode:** indiscriminate agreement; indiscriminate resistance; overcorrection; undercorrection  
+**See also:** Correction-Capacity; Warrant; Calibrated Correction; Compliance / Gullibility; Defensive Closure
+
+## Identity-Belief Fusion
+The degree to which a belief, role, theory, achievement, or self-representation carries a disproportionate share of personal worth or continuity, making correction feel like threat to the whole person.
+**Aliases:** identity-form fusion; belief-self fusion; worth-belief fusion  
+**Opposites / failure mode:** person-belief differentiation; local-form proportion; revisable identity  
+**See also:** Fixed Worth; Person-Belief Differentiation; Structured Irrationality; Correction-Capacity
+
+## Person-Belief Differentiation
+The capacity to hold a belief, role, identity, or theory as personally important without treating it as exhaustive of the person.
+**Aliases:** self-belief differentiation; person-form distinction; identity de-fusion  
+**Opposites / failure mode:** identity-belief fusion; form-totalization; global self-erasure under correction  
+**See also:** Fixed Worth; Identity-Belief Fusion; De-fusion; Correction-Capacity
+
+## Calibrated Correction
+A response in which a well-warranted correction produces a proportionate and durable revision.
+**Aliases:** warranted uptake; proportionate correction; calibrated revision  
+**Opposites / failure mode:** defensive closure; compliance; overcorrection; revision theater  
+**See also:** Warrant; Warrant-Response Calibration; Binding; Correction-Capacity
+
+## Reasoned Non-Uptake
+The justified refusal, limitation, or rejection of a correction claim because its warrant is weak, distorted, coercive, irrelevant, or disproportionate.
+**Aliases:** reasoned resistance; epistemic vigilance; warranted non-uptake  
+**Opposites / failure mode:** defensive closure; automatic compliance; reflex rejection  
+**See also:** Warrant; Correction-Capacity; Suspended Judgment; Epistemic Vigilance
+
+## Compliance / Gullibility
+Uptake of a weakly warranted correction claim because of pressure, authority, approval, fear, or insufficient discrimination rather than adequate evidence.
+**Aliases:** unwarranted uptake; submissive revision; pressure-based agreement  
+**Opposites / failure mode:** calibrated correction; reasoned resistance; warrant discrimination  
+**See also:** Warrant-Response Calibration; Variable Worth; Reward-pressure; Correction-Capacity
+
+## Suspended Judgment
+An answerable state in which warrant remains genuinely uncertain and commitment is delayed while evidence, context, or independent review is gathered.
+**Aliases:** active uncertainty; provisional non-closure; epistemic pause  
+**Opposites / failure mode:** forced closure; premature certainty; avoidance without checking path  
+**See also:** Warrant; Non-Continuation State; Falsifier; Answerability
+
+## Defensive Closure
+Persistent protection of a belief, identity, theory, or system against a well-warranted correction claim despite sufficient opportunity to evaluate it.
+**Aliases:** protected non-revision; correction refusal; identity-protective closure  
+**Opposites / failure mode:** calibrated correction; answerability; reasoned non-uptake  
+**See also:** Structured Irrationality; Identity-Belief Fusion; No-Falsification Zone; Correction-Capacity
+
+## Revision Theater
+The appearance of correction without durable change in confidence, behavior, evidence standards, burden allocation, routing, repair, or recurrence.
+**Aliases:** performative revision; correction theater; surface correction; acknowledgment without binding  
+**Opposites / failure mode:** binding revision; changed carrying; durable correction  
+**See also:** Binding; Correction-Capacity; Coherence-Theater; Changed Carrying
+
+## Correction Pacing
+The rate, intensity, and delivery conditions under which corrective information reaches a person or system. Pacing affects whether warranted correction can be integrated without confusing overload with truth or resistance with defensiveness.
+**Aliases:** correction rate; revision pacing; contact pacing; titrated correction  
+**Opposites / failure mode:** overload; humiliation-as-correction; indefinite avoidance; forced contact beyond capacity  
+**See also:** Correction Metabolism; Somatic Capacity; Containment; Protected Revision Space
+
+## Correction Metabolism
+The process by which corrective information is received, evaluated, proportioned, integrated, and carried into a later state rather than merely noticed or acknowledged.
+**Aliases:** correction integration; revision metabolism; corrective processing  
+**Opposites / failure mode:** unprocessed contact; defensive discharge; compartmentalization; revision theater  
+**See also:** Correction-Capacity; Correction Pacing; Binding; Changed Carrying
+
+## Partial Correction
+A revision that binds at one local level while a deeper organizing pattern, burden path, or governing assumption remains substantially unchanged.
+**Aliases:** local correction; partial uptake; surface-level binding  
+**Opposites / failure mode:** complete reorganization; no correction; total overcorrection  
+**See also:** Binding; Revision Theater; Reorganization; Overcorrection
+
+## Overcorrection
+Revision that exceeds what the available warrant supports and creates a new distortion or rigidity in reaction to the old one.
+**Aliases:** excessive revision; correction overshoot; reactive reversal  
+**Opposites / failure mode:** proportional correction; calibrated revision  
+**See also:** Proportional Warrant; Correction-Capacity; Partial Correction
+
+## Changed Carrying
+Observable evidence that correction has altered how a person, relationship, institution, theory, or system carries burden, responsibility, evidence, or future pressure.
+**Aliases:** changed burden-bearing; downstream revision; lived correction  
+**Opposites / failure mode:** verbal correction only; unchanged burden path; revision theater  
+**See also:** Binding; Burden; Correction-Capacity; Repair
+
+## Corrective Continuity
+Continuity in which externally grounded error leaves a durable trace that changes later behavior across relevant contexts and remains open to further revision.
+**Aliases:** trace-bearing continuity; correction-bearing continuity; persistent corrigibility  
+**Opposites / failure mode:** performative continuity; memory without correction; reset-after-error  
+**See also:** Remembered Continuity; Performative Continuity; Correction Trace; Re-Revisability
+
+## Remembered Continuity
+Continuity produced by retained facts, preferences, prior interactions, or history without requiring that past error has changed the system's later policy or behavior.
+**Aliases:** memory continuity; persistent-memory continuity; recalled continuity  
+**Opposites / failure mode:** stateless interaction; corrective continuity falsely inferred from memory  
+**See also:** Corrective Continuity; Performative Continuity; Persistent Memory
+
+## Performative Continuity
+The appearance of a continuing self or agent created through stable style, persona, self-reference, or narrative consistency without requiring durable correction or grounded learning.
+**Aliases:** persona continuity; narrative continuity; stylistic continuity  
+**Opposites / failure mode:** corrective continuity; trace-bearing revision  
+**See also:** Corrective Continuity; Remembered Continuity; Personality Trap; Presence-effect
+
+## Re-Revisability
+The property by which a previously revised belief, policy, model, or system remains open to later correction rather than turning the new position into a protected form.
+**Aliases:** continued revisability; corrigibility after correction; open-ended revision  
+**Opposites / failure mode:** corrected dogmatism; new no-falsification zone; frozen update  
+**See also:** Corrective Continuity; Binding; Answerability; Warrant
+
+## Answerability Architecture
+A distributed AI interaction and governance architecture in which evidence, uncertainty, source conflict, risk, burden, human judgment, and correction can alter output, routing, escalation, refusal, or future behavior.
+**Aliases:** corrigibility architecture; correction architecture; answerable AI architecture  
+**Opposites / failure mode:** fluent completion without gates; alignment theater; prompted caution without binding  
+**See also:** Contact Gate; Correction Trace; Architectural Corrigibility; Non-Continuation State; Shared Answerability
+
+## Contact Gate
+A required check that prevents fluent continuation from becoming guidance until a relevant corrective condition has been evaluated and allowed to affect the output.
+**Aliases:** correction gate; reality gate; answerability gate  
+**Opposites / failure mode:** decorative check; ignored warning; frictionless continuation  
+**See also:** Answerability Architecture; Claim-Status Discipline; Warrant; Correction Trace
+
+## Claim-Status Discipline
+The practice of explicitly distinguishing fact, inference, hypothesis, interpretation, advice, emotional reflection, speculation, and high-stakes guidance before fluent language makes them appear equally grounded.
+**Aliases:** claim typing; epistemic status marking; assertion discipline  
+**Opposites / failure mode:** status collapse; fluent certainty; validation mistaken for verification  
+**See also:** Contact Gate; Warrant; Answerability Architecture; Falsifier
+
+## Correction Trace
+An inspectable record showing what changed after correction, why it changed, what prior claim lost support, and where the correction applies.
+**Aliases:** correction log; revision trace; auditable update; error trace  
+**Opposites / failure mode:** silent rewrite; clean reset; apology without inspectable change  
+**See also:** Corrective Continuity; Witness/Trace; Answerability Architecture; Binding
+
+## Non-Continuation State
+A legitimate system state in which continuation is interrupted because available evidence, certainty, authority, or safety conditions are insufficient.
+**Aliases:** pause state; unresolved state; verify state; refusal state; escalation state  
+**Opposites / failure mode:** completion compulsion; answer-at-all-costs behavior; fluent over-completion  
+**See also:** Answerability Architecture; Contact Gate; Suspended Judgment; Structural Friction
+
+## Structural Friction
+Deliberate slowing, checking, refusal, source exposure, uncertainty marking, or escalation introduced where frictionless completion would otherwise outrun contact.
+**Aliases:** epistemic friction; answerability friction; corrective friction  
+**Opposites / failure mode:** frictionless persuasion; automatic completion; smoothness over truth  
+**See also:** Frictional Design; Contact Gate; Answerability Architecture; Non-Continuation State
+
+## Prompted Corrigibility
+Correction-like behavior produced primarily by user prompts or system instructions without assurance that correction is connected to tools, trace, workflow, or future state.
+**Aliases:** instruction-level corrigibility; prompted correction; local corrigibility  
+**Opposites / failure mode:** architectural corrigibility; durable correction; trace-bearing revision  
+**See also:** Architectural Corrigibility; Answerability Architecture; Correction Trace
+
+## Architectural Corrigibility
+Corrigibility distributed across model behavior, tools, verification, interface, memory, workflow, evaluation, escalation, and accountable human authority so that correction can change consequential pathways.
+**Aliases:** system-level corrigibility; deployed corrigibility; infrastructure-bound correction  
+**Opposites / failure mode:** prompted corrigibility only; safety theater; apology without pathway change  
+**See also:** Answerability Architecture; Contact Gate; Shared Answerability; Correction Trace
+
+## Mastery Error
+The mistake of treating the human capacity to witness, name, measure, model, or intervene as evidence of sovereignty over the reality being observed.
+**Aliases:** error of mastery; observer-as-ruler error; control inflation  
+**Opposites / failure mode:** answerable participation; power under correction; witness without domination  
+**See also:** False Sovereignty; Answerable Witness; Answerable Participation; Field
+
+## False Sovereignty
+The belief or structural posture that because a person or institution can observe, classify, measure, control, or alter a field, it therefore stands outside the consequences and corrective limits of that field.
+**Aliases:** mastery sovereignty; control illusion; observer supremacy  
+**Opposites / failure mode:** answerable participation; field membership; bounded power  
+**See also:** Mastery Error; Sovereignty; Field; Answerability
+
+## Answerable Witness
+Witnessing that does not stop at observation or recognition but allows what is witnessed to revise interpretation, choice, responsibility, repair, and future action.
+**Aliases:** corrective witness; revisable witness; consequence-bearing witness  
+**Opposites / failure mode:** witness theater; detached observation; mastery; recognition without revision  
+**See also:** Witness; Answerable Participation; Mastery Error; Binding
+
+## Answerable Participation
+Participation in a field that retains agency and power while remaining corrigible by evidence, consequence, otherness, and the burdens produced by one's own actions.
+**Aliases:** corrigible participation; bounded agency; power under answerability  
+**Opposites / failure mode:** mastery; false sovereignty; passive submission; consequence-free control  
+**See also:** Answerable Witness; Mastery Error; Answerability; Repair
+
+## Selection–Exclusion–Return
+The recurring structural sequence in which an organizing form selects what it can carry, excludes or underrepresents other material, and later encounters the excluded remainder as consequence, contradiction, anomaly, or correction.
+**Aliases:** selection-return loop; exclusion-return mechanism; corrective return sequence  
+**Opposites / failure mode:** total representation fantasy; consequence denial; remainder erasure  
+**See also:** Field; Form; Corrective Remainder; Contact; Mastery Error
+
+## Return of the Field
+The reappearance of realities excluded, simplified, controlled, or underrepresented by a local form, returning through consequence, resistance, bodily limit, ecological cost, psychic shadow, relational otherness, institutional failure, or technological side-effect.
+**Aliases:** field return; corrective return; return of excluded reality  
+**Opposites / failure mode:** mastery fantasy; field denial; control without consequence  
+**See also:** Selection–Exclusion–Return; Mastery Error; Contact; Corrective Remainder
+
+## Mastery Safeguard
+A self-correction rule requiring any framework, intervention, or exercise of power to remain open to evidence that it is controlling, overinterpreting, or reducing the reality it claims to understand.
+**Aliases:** anti-mastery rule; control safeguard; answerability safeguard  
+**Opposites / failure mode:** interpretive domination; unfalsifiable framework; theory-as-control  
+**See also:** Mastery Error; Answerable Witness; Falsifier; Anti-SI-Theater
+
+## Warrant Discrimination
+The ability to distinguish strong correction claims from weak, distorted, or coercive ones rather than responding to all correction pressure in the same way.
+**Aliases:** warrant sensitivity; correction discrimination; evidence-strength discrimination  
+**Opposites / failure mode:** indiscriminate agreement; indiscriminate resistance; authority dependence  
+**See also:** Warrant; Correction-Capacity; Warrant-Response Calibration
+
+## Magnitude Calibration
+The degree to which the size of a revision matches the strength and scope of the evidence that warrants it.
+**Aliases:** revision sizing; correction proportionality; update calibration  
+**Opposites / failure mode:** overcorrection; undercorrection; total reversal from local evidence  
+**See also:** Proportional Warrant; Correction-Capacity; Warrant-Response Calibration
+
+## Burden Correction
+A dimension of correction-capacity concerned with whether revision reduces, reassigns, or internalizes downstream cost that had previously been displaced.
+**Aliases:** burden-path correction; cost re-internalization; corrected carrying  
+**Opposites / failure mode:** burden export; unchanged externalities; symbolic repair  
+**See also:** Burden; Changed Carrying; Correction-Capacity; Exported Maintenance
+
+## Continued Revisability
+The capacity of a revised position to remain reachable by later evidence instead of turning successful correction into a new protected certainty.
+**Aliases:** re-revisability; post-correction openness; durable corrigibility  
+**Opposites / failure mode:** corrected dogmatism; frozen revision; new protected form  
+**See also:** Re-Revisability; Binding; Answerability; Corrective Continuity
