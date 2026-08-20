@@ -436,6 +436,57 @@ A philosophical framework for describing how human reality is organized into for
 - **Architecture Grid** *(observed layer; primitive terms; derived dynamics; diagnostic states; failure modes; repair modes; routing rule; falsifier)*
 - **Architectural Falsifier** *(condition that would weaken or overturn the proposed SI grammar)*
 
+- ### Added from the Aug 2026 correction / warrant / witness / corrigibility papers
+
+- **Correction-Capacity** *(correctability; warrant-sensitive revisability; calibrated revisability)*
+- **Warrant** *(justification strength; correction legitimacy; revisional warrant)*
+- **Evidential Warrant** *(evidence strength; evidential support; grounded warrant)*
+- **Procedural Warrant** *(procedural legitimacy; contestable warrant; fair-evaluation condition)*
+- **Proportional Warrant** *(proportional correction; revision proportionality; evidence-to-change fit)*
+- **Correction Claim** *(proposed revision; corrective claim; revision claim)*
+- **Warrant-Response Calibration** *(correction calibration; evidence-response fit; warrant tracking)*
+- **Warrant Discrimination** *(warrant sensitivity; correction discrimination; evidence-strength discrimination)*
+- **Magnitude Calibration** *(revision sizing; correction proportionality; update calibration)*
+
+- **Identity-Belief Fusion** *(belief-self fusion; worth-belief fusion; identity-form fusion)*
+- **Person-Belief Differentiation** *(self-belief differentiation; person-form distinction; identity de-fusion)*
+- **Calibrated Correction** *(warranted uptake; proportionate correction; calibrated revision)*
+- **Reasoned Non-Uptake** *(reasoned resistance; epistemic vigilance; warranted non-uptake)*
+- **Compliance / Gullibility** *(unwarranted uptake; submissive revision; pressure-based agreement)*
+- **Suspended Judgment** *(active uncertainty; provisional non-closure; epistemic pause)*
+- **Defensive Closure** *(protected non-revision; correction refusal; identity-protective closure)*
+- **Revision Theater** *(performative revision; correction theater; acknowledgment without binding)*
+
+- **Correction Pacing** *(correction rate; revision pacing; contact pacing; titrated correction)*
+- **Correction Metabolism** *(correction integration; revision metabolism; corrective processing)*
+- **Partial Correction** *(local correction; partial uptake; surface-level binding)*
+- **Overcorrection** *(excessive revision; correction overshoot; reactive reversal)*
+- **Changed Carrying** *(changed burden-bearing; downstream revision; lived correction)*
+- **Burden Correction** *(burden-path correction; cost re-internalization; corrected carrying)*
+
+- **Corrective Continuity** *(trace-bearing continuity; correction-bearing continuity; persistent corrigibility)*
+- **Remembered Continuity** *(memory continuity; persistent-memory continuity; recalled continuity)*
+- **Performative Continuity** *(persona continuity; narrative continuity; stylistic continuity)*
+- **Re-Revisability** *(continued revisability; corrigibility after correction; open-ended revision)*
+- **Continued Revisability** *(post-correction openness; durable corrigibility; re-revisability)*
+
+- **Answerability Architecture** *(corrigibility architecture; correction architecture; answerable AI architecture)*
+- **Contact Gate** *(correction gate; reality gate; answerability gate)*
+- **Claim-Status Discipline** *(claim typing; epistemic status marking; assertion discipline)*
+- **Correction Trace** *(correction log; revision trace; auditable update; error trace)*
+- **Non-Continuation State** *(pause state; unresolved state; verify state; refusal state; escalation state)*
+- **Structural Friction** *(epistemic friction; answerability friction; corrective friction)*
+- **Prompted Corrigibility** *(instruction-level corrigibility; prompted correction; local corrigibility)*
+- **Architectural Corrigibility** *(system-level corrigibility; deployed corrigibility; infrastructure-bound correction)*
+
+- **Mastery Error** *(error of mastery; observer-as-ruler error; control inflation)*
+- **False Sovereignty** *(mastery sovereignty; control illusion; observer supremacy)*
+- **Answerable Witness** *(corrective witness; revisable witness; consequence-bearing witness)*
+- **Answerable Participation** *(corrigible participation; bounded agency; power under answerability)*
+- **Selection–Exclusion–Return** *(selection-return loop; exclusion-return mechanism; corrective return sequence)*
+- **Return of the Field** *(field return; corrective return; return of excluded reality)*
+- **Mastery Safeguard** *(anti-mastery rule; control safeguard; answerability safeguard)*
+
 ## Papers
 See the index: **[papers/README.md](./papers/README.md)**
 
@@ -804,3 +855,15 @@ This repository hosts landing pages, abstracts, keywords, and version notes. Can
   - **The Grammar of Structural Intelligence: Core Primitives, Derived Dynamics, and Layer Routing** — DOI: 10.5281/zenodo.20209839  
   Figshare DOI: 10.6084/m9.figshare.32301684  
   Paper page: [papers/the-grammar-of-structural-intelligence](./papers/the-grammar-of-structural-intelligence/README.md)
+
+- **Consciousness Under Correction: Structural Intelligence, Warrant, Fixed Worth, and the Architecture of Answerable Intelligence** — DOI: 10.5281/zenodo.22031147  
+  Paper page: [papers/consciousness-under-correction](./papers/consciousness-under-correction/README.md)
+
+- **Correctable Consciousness: A Theoretical Model of Rationality Under Self-Relevant Correction** — DOI: pending  
+  Paper page: [papers/correctable-consciousness](./papers/correctable-consciousness/README.md)
+
+- **Answerability Architecture for Corrigible AI Interaction: Corrigible Continuation Without a Self** — DOI: pending  
+  Paper page: [papers/answerability-architecture](./papers/answerability-architecture/README.md)
+
+- **The Corrective Continuity Hypothesis: Perceived AI Consciousness, Persistent Memory, and Trace-Bearing Revision** — DOI: pending  
+  Paper page: [papers/corrective-continuity-hypothesis](./papers/corrective-continuity-hypothesis/README.md)
