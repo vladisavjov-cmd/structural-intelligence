@@ -1,6 +1,8 @@
 ## Official links
 
 - **Coaching / 1:1 Practice:** https://vladisavjungian.my.canva.site/vladisavj
+- Structural Intelligence Canonical Concept & Question Index: https://doi.org/10.17613/nq4zc-qtg21
+- KCWorks record: https://works.hcommons.org/records/xawzx-jng44
 - **Official SI Hub (Blogspot):** https://structural-intelligence.blogspot.com/2026/02/structural-intelligence-si-official-hub.html
 - **OSF (Project overview):** https://osf.io/2t4bg/overview
 - **GitHub repository:** https://github.com/vladisavjov-cmd/structural-intelligence
