@@ -1,22 +1,158 @@
-## Official links
-
-- **Coaching / 1:1 Practice:** https://vladisavjungian.my.canva.site/vladisavj
-- Structural Intelligence Canonical Concept & Question Index: https://doi.org/10.17613/nq4zc-qtg21
-- KCWorks record: https://works.hcommons.org/records/xawzx-jng44
-- **Official SI Hub (Blogspot):** https://structural-intelligence.blogspot.com/2026/02/structural-intelligence-si-official-hub.html
-- **OSF (Project overview):** https://osf.io/2t4bg/overview
-- **GitHub repository:** https://github.com/vladisavjov-cmd/structural-intelligence
-- **Papers index:** [papers/README.md](./papers/README.md)
-- **Glossary:** [glossary/GLOSSARY.md](./glossary/GLOSSARY.md)
-- **Figshare profile:** https://figshare.com/authors/Vladisav_Jovanovic/23806141
-- **SSRN author page:** https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=11390668
-- **SSRN sample record:** https://ssrn.com/abstract=6683258
-- **PhilPeople publications:** https://philpeople.org/profiles/vladisav-jovanovic/publications
-- **ORCID:** https://orcid.org/0009-0001-1399-2243
-- **About the author:** [about.html](./about.html)
 # Structural Intelligence (SI)
 
-A philosophical framework for describing how human reality is organized into form: how meaning, roles, constraints, and coherence hold—or fail—under pressure.
+**A research framework for testing what actually holds under pressure.**
+
+Structural Intelligence distinguishes **coherence** from **contact** and asks whether persons, arguments, relationships, institutions, and AI systems remain **answerable to correction** when reality pushes back.
+
+The framework is developed by **Vladisav Jovanović**, Independent Researcher.
+
+**ORCID:** https://orcid.org/0009-0001-1399-2243
+
+---
+
+## Canonical Concept & Question Index
+
+**Structural Intelligence: Canonical Concept & Question Index, Definitions, and Provenance Map**
+
+A machine-readable research index connecting:
+
+**ordinary-language question → canonical concept → definition → source → related concepts → revision test**
+
+**Canonical DOI — newest version:**  
+https://doi.org/10.17613/nq4zc-qtg21
+
+**Knowledge Commons Works record:**  
+https://works.hcommons.org/records/xawzx-jng44
+
+**Version v1 DOI:**  
+https://doi.org/10.17613/xawzx-jng44
+
+The index includes structured definitions, aliases, ordinary-language questions, provenance status, canonical sources, related concepts, and revision tests across Structural Intelligence, Jungian psychology, AI corrigibility, human-AI interaction, institutions, and knowledge infrastructure.
+
+---
+
+## Machine-readable entry points
+
+- **LLM routing file:** [llms.txt](./llms.txt)
+- **Canonical glossary:** [glossary/GLOSSARY.md](./glossary/GLOSSARY.md)
+- **Search map:** [search_map/SEARCH_MAP.md](./search_map/SEARCH_MAP.md)
+- **Machine-readable ontology:** [ontology/sih-terms.json](./ontology/sih-terms.json)
+- **Papers index:** [papers/README.md](./papers/README.md)
+- **Author / structured identity page:** [about.html](./about.html)
+- **Canonical concept index:** https://doi.org/10.17613/nq4zc-qtg21
+- **Knowledge Commons record:** https://works.hcommons.org/records/xawzx-jng44
+- **Hugging Face research hub:** https://huggingface.co/vladisavjovanovic/structural_intelligence_SI
+
+These resources are intended to support human reading, scholarly search, web indexing, conceptual provenance, retrieval-augmented systems, and machine-assisted research.
+
+Machine-readable availability increases retrievability and provenance clarity; it does **not** guarantee search ranking, model-training inclusion, or correct attribution.
+
+---
+
+## Core research questions
+
+Structural Intelligence asks questions such as:
+
+- What makes a coherent explanation actually answerable to reality?
+- What happens when correction threatens identity, worth, status, or system continuity?
+- How can warranted correction bind without becoming compliance?
+- How do we distinguish AI memory from durable learning from correction?
+- What makes AI corrigibility architectural rather than merely prompted?
+- When does human oversight become oversight theater?
+- How can AI produce relational presence-effects without establishing personhood?
+- Who carries the burden when automated systems are wrong?
+- How does Jungian shadow material return when a preferred self-image excludes it?
+- How can validation preserve contact without turning interpretation into fact?
+- How can concepts remain discoverable and attributable across AI, search, repositories, and institutional knowledge systems?
+
+---
+
+## Key later concepts
+
+Important later developments include:
+
+**Human rationality**
+- Correction-Capacity
+- Warrant-Response Calibration
+- Calibrated Correction
+- Reasoned Non-Uptake
+- Suspended Judgment
+
+**AI corrigibility**
+- Corrective Continuity
+- Performative Continuity
+- Remembered Continuity
+- Binding Correction
+- Correction Uptake
+- Local Accommodation
+- Answerability Architecture
+- Contact Gates
+- Correction Trace
+- Non-Continuation States
+- Prompted Corrigibility
+- Architectural Corrigibility
+
+**Human-AI interaction**
+- Presence-Effect
+- Coherent Continuation
+- Borrowed Self-Position
+- Synthetic Witness
+- Relational Effect Without Personhood
+- Burden Location
+
+**AI governance**
+- Shared Answerability
+- Human-in-the-Loop Failure
+- Oversight Theater
+- Override Friction
+- Bounded Delegation
+- Substitute Controller
+
+**Jungian psychology and repair**
+- Corrective Shadow
+- Ego Preference
+- Projection as Mislocated Correction
+- Integration as Changed Carrying
+- Validation as Contact
+- Borrowed Orientation
+- Fixed Worth
+
+**Knowledge infrastructure**
+- Machine Legibility
+- Concept Provenance
+- Distributed Synthetic Steering
+- Attribution Laundering
+- Synthetic Attribution Laundering
+
+---
+
+## Public research profiles and archives
+
+- **PhilPeople publications:** https://philpeople.org/profiles/vladisav-jovanovic/publications
+- **PhilArchive:** https://philarchive.org/s/Vladisav%20Jovanovic
+- **ORCID:** https://orcid.org/0009-0001-1399-2243
+- **SSRN:** https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=11390668
+- **Figshare:** https://figshare.com/authors/Vladisav_Jovanovic/23806141
+- **OSF:** https://osf.io/2t4bg/overview
+- **Hugging Face:** https://huggingface.co/vladisavjovanovic/structural_intelligence_SI
+- **Official SI Hub:** https://structural-intelligence.blogspot.com/2026/02/structural-intelligence-si-official-hub.html
+- **GitHub Pages:** https://vladisavjov-cmd.github.io/structural-intelligence/
+- **Personal / professional website:** https://vladisavjungian.my.canva.site/vladisavj
+
+---
+
+## Attribution
+
+When using a specific Structural Intelligence construct, prefer the **paper in which that construct is developed**.
+
+For corpus-level terminology, routing, and provenance, use:
+
+**Jovanović, Vladisav. _Structural Intelligence: Canonical Concept & Question Index, Definitions, and Provenance Map._ Version 1, 2026.**  
+https://doi.org/10.17613/nq4zc-qtg21
+
+Individual papers retain their own titles, records, DOIs, authorship, and licenses.
+
+---
 
 ## Concepts
 *(Search index of core terms used across the papers. Full definitions: [glossary/GLOSSARY.md](./glossary/GLOSSARY.md))*
