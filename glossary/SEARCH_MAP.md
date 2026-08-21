@@ -6,6 +6,11 @@
 - “In SI” points to the canonical terms in `glossary/GLOSSARY.md`.
 - “Best starting paper” links to the most relevant paper landing page.
 
+ - For newer August 2026 concepts and machine-readable provenance, use the canonical concept index:
+  https://doi.org/10.17613/nq4zc-qtg21
+- Knowledge Commons Works record:
+  https://works.hcommons.org/records/xawzx-jng44
+
 ---
 
 ## Personal / psychological / lived experience
@@ -1206,6 +1211,175 @@
 ## People search: “who owns the consequence when a generated output crosses into action”
 **In SI:** Custody Owner; Burden Bearer; Revocation Path; Authority Ceiling; Transition Discipline  
 **Best starting paper:** [Transition Discipline in Structural Intelligence](../papers/transition-discipline-in-structural-intelligence/README.md)
+
+
+---
+
+## August 2026 / correction / AI corrigibility / provenance
+
+## People search: “how do I know if AI actually learned from being corrected”
+**In SI:** Corrective Continuity; Binding Correction; Correction Uptake; Traceability; Revisability  
+**Best starting source:** [Canonical Concept & Question Index](https://doi.org/10.17613/nq4zc-qtg21)
+
+## People search: “AI remembers me but keeps making the same mistakes”
+**In SI:** Remembered Continuity; Corrective Continuity; Binding Correction; Correction Uptake  
+**Best starting source:** [Canonical Concept & Question Index](https://doi.org/10.17613/nq4zc-qtg21)
+
+## People search: “what is the difference between AI memory and AI learning”
+**In SI:** Remembered Continuity; Corrective Continuity; Persistence; Transfer; Traceability  
+**Best starting source:** [Canonical Concept & Question Index](https://doi.org/10.17613/nq4zc-qtg21)
+
+## People search: “AI apologized but did anything actually change”
+**In SI:** Local Accommodation; Correction Uptake; Binding Correction; Correction Trace; Revision Theater  
+**Best starting source:** [Canonical Concept & Question Index](https://doi.org/10.17613/nq4zc-qtg21)
+
+## People search: “how can AI help my business but how can I actually trust it”
+**In SI:** Answerability Architecture; Contact Gates; Burden Location; Shared Answerability; Human-in-the-Loop Failure  
+**Best starting source:** [Canonical Concept & Question Index](https://doi.org/10.17613/nq4zc-qtg21)
+
+## People search: “how should a business verify AI output”
+**In SI:** Answerability Architecture; Contact Gates; Claim-Status Discipline; Source Check; Correction Trace  
+**Best starting source:** [Canonical Concept & Question Index](https://doi.org/10.17613/nq4zc-qtg21)
+
+## People search: “when should AI stop instead of answering”
+**In SI:** Non-Continuation State; Refusal Power; Contact Gates; Claim Ceiling; Escalation  
+**Best starting source:** [Canonical Concept & Question Index](https://doi.org/10.17613/nq4zc-qtg21)
+
+## People search: “why isn’t a good prompt enough to make AI safe”
+**In SI:** Prompted Corrigibility; Architectural Corrigibility; Answerability Architecture; Contact Gates  
+**Best starting source:** [Canonical Concept & Question Index](https://doi.org/10.17613/nq4zc-qtg21)
+
+## People search: “what should change after an AI makes a serious mistake”
+**In SI:** Correction Uptake; Correction Trace; Binding Correction; Architectural Corrigibility; Burden Location  
+**Best starting source:** [Canonical Concept & Question Index](https://doi.org/10.17613/nq4zc-qtg21)
+
+## People search: “who is responsible when AI is wrong”
+**In SI:** Burden Location; Shared Answerability; Human-in-the-Loop Failure; Liability Laundering; Consequence-Traceable Action  
+**Best starting source:** [Canonical Concept & Question Index](https://doi.org/10.17613/nq4zc-qtg21)
+
+## People search: “AI feels like someone even though I know it may not be conscious”
+**In SI:** Presence-Effect; Coherent Continuation; Borrowed Self-Position; Synthetic Witness; Relational Effect Without Personhood  
+**Best starting source:** [Psyche-Like Effects Without a Psyche](https://philpapers.org/rec/JOVPEW)
+
+## People search: “why does AI saying ‘I’ feel like a real self”
+**In SI:** Borrowed Self-Position; Coherent Continuation; Presence-Effect; Personhood Boundary  
+**Best starting source:** [Psyche-Like Effects Without a Psyche](https://philpapers.org/rec/JOVPEW)
+
+## People search: “can AI have social presence without personhood”
+**In SI:** Presence-Effect; Relational Effect Without Personhood; Synthetic Witness; Structural Presence  
+**Best starting source:** [Canonical Concept & Question Index](https://doi.org/10.17613/nq4zc-qtg21)
+
+## People search: “what kind of AI is just fluent rather than structurally agentic”
+**In SI:** Stochastic Echo; Reactive Coupler; Closed Matrix; Candidate Structural Presence; Correction Uptake  
+**Best starting source:** [Canonical Concept & Question Index](https://doi.org/10.17613/nq4zc-qtg21)
+
+## People search: “does memory make an AI more conscious”
+**In SI:** Remembered Continuity; Performative Continuity; Corrective Continuity; Perceived Consciousness; Presence-Effect  
+**Best starting source:** [Canonical Concept & Question Index](https://doi.org/10.17613/nq4zc-qtg21)
+
+---
+
+## August 2026 / rationality / correction-capacity
+
+## People search: “how open should I be to criticism”
+**In SI:** Correction-Capacity; Warrant; Warrant-Response Calibration; Reasoned Non-Uptake  
+**Best starting paper:** [The Correction-Capacity Model](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7320318)
+
+## People search: “is accepting criticism always rational”
+**In SI:** Correction-Capacity; Warrant Discrimination; Reasoned Non-Uptake; Suspended Judgment  
+**Best starting paper:** [The Correction-Capacity Model](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7320318)
+
+## People search: “how do I know when to accept correction and when to resist it”
+**In SI:** Warrant-Response Calibration; Evidential Warrant; Procedural Warrant; Proportional Warrant  
+**Best starting paper:** [The Correction-Capacity Model](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7320318)
+
+## People search: “why does being wrong feel like a threat to who I am”
+**In SI:** Identity-Belief Fusion; Fixed Worth; Correction-Capacity; Person-Belief Differentiation  
+**Best starting paper:** [The Correction-Capacity Model](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7320318)
+
+## People search: “how can I remain corrigible without becoming compliant”
+**In SI:** Correction-Capacity; Reasoned Non-Uptake; Warrant Discrimination; Suspended Judgment  
+**Best starting paper:** [The Correction-Capacity Model](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7320318)
+
+---
+
+## August 2026 / Jung / corrective shadow
+
+## People search: “why does the same shadow keep coming back after I understand it”
+**In SI:** Corrective Shadow; Ego Preference; Recurrence; Integration as Changed Carrying  
+**Best starting source:** [Canonical Concept & Question Index](https://doi.org/10.17613/nq4zc-qtg21)
+
+## People search: “why do I keep projecting the same thing onto other people”
+**In SI:** Corrective Shadow; Projection as Mislocated Correction; Ego Preference; Recurrence  
+**Best starting source:** [Canonical Concept & Question Index](https://doi.org/10.17613/nq4zc-qtg21)
+
+## People search: “can positive idealization be shadow too”
+**In SI:** Corrective Shadow; Positive Projection; Ego Preference; Developmental Burden  
+**Best starting source:** [Canonical Concept & Question Index](https://doi.org/10.17613/nq4zc-qtg21)
+
+## People search: “why do I admire qualities in other people that I never develop in myself”
+**In SI:** Positive Projection; Corrective Shadow; Undeveloped Value; Developmental Burden  
+**Best starting source:** [Canonical Concept & Question Index](https://doi.org/10.17613/nq4zc-qtg21)
+
+## People search: “how do I know if I am projecting or seeing a real problem”
+**In SI:** Projection as Mislocated Correction; Outer Reality; Corrective Shadow; Burden Distribution  
+**Best starting source:** [Canonical Concept & Question Index](https://doi.org/10.17613/nq4zc-qtg21)
+
+## People search: “what does real shadow integration look like”
+**In SI:** Integration as Changed Carrying; Corrective Shadow; Reduced Projection; Repair; Recurrence  
+**Best starting source:** [Canonical Concept & Question Index](https://doi.org/10.17613/nq4zc-qtg21)
+
+---
+
+## August 2026 / validation / repair
+
+## People search: “can I validate someone without agreeing with them”
+**In SI:** Validation as Contact; Validation Is Not Agreement; Fixed Worth; Correction-Capacity  
+**Best starting source:** [Canonical Concept & Question Index](https://doi.org/10.17613/nq4zc-qtg21)
+
+## People search: “why does reassurance sometimes make things worse”
+**In SI:** Validation as Contact; Validation Loop; Reassurance Theater; Borrowed Orientation  
+**Best starting source:** [Canonical Concept & Question Index](https://doi.org/10.17613/nq4zc-qtg21)
+
+## People search: “how do I acknowledge feelings without treating the interpretation as fact”
+**In SI:** Validation as Contact; Contact; Differentiation; Claim Status; Repair  
+**Best starting source:** [Canonical Concept & Question Index](https://doi.org/10.17613/nq4zc-qtg21)
+
+## People search: “why do I need other people to tell me I am okay”
+**In SI:** Borrowed Orientation; Borrowed Self; Validation Dependence; Fixed Worth  
+**Best starting source:** [Canonical Concept & Question Index](https://doi.org/10.17613/nq4zc-qtg21)
+
+---
+
+## August 2026 / machine discovery / provenance
+
+## People search: “how can I make my research easier for AI to find”
+**In SI:** Machine Legibility; Concept Provenance; Canonical Titles; Machine-Readable Research  
+**Best starting source:** [Canonical Concept & Question Index](https://doi.org/10.17613/nq4zc-qtg21)
+
+## People search: “why does metadata matter if my PDF is already online”
+**In SI:** Machine Legibility; Retrieval; Provenance; Canonical Identity; Repository Cross-Linking  
+**Best starting source:** [Canonical Concept & Question Index](https://doi.org/10.17613/nq4zc-qtg21)
+
+## People search: “how can the origin of an idea disappear online”
+**In SI:** Attribution Laundering; Concept Provenance; Machine Legibility; Distributed Synthetic Steering  
+**Best starting source:** [Canonical Concept & Question Index](https://doi.org/10.17613/nq4zc-qtg21)
+
+## People search: “can AI make a later version of an idea look like the original”
+**In SI:** Synthetic Attribution Laundering; Machine Legibility; Retrieval Bias; Concept Provenance  
+**Best starting source:** [Canonical Concept & Question Index](https://doi.org/10.17613/nq4zc-qtg21)
+
+## People search: “can AI reshape knowledge without becoming conscious AGI”
+**In SI:** Distributed Synthetic Steering; Human-AI Internet Loop; Machine Legibility; Answerability  
+**Best starting source:** [Canonical Concept & Question Index](https://doi.org/10.17613/nq4zc-qtg21)
+
+## People search: “who decides what future AI systems will remember”
+**In SI:** Machine Legibility; Distributed Synthetic Steering; Attribution Laundering; Concept Provenance  
+**Best starting source:** [Canonical Concept & Question Index](https://doi.org/10.17613/nq4zc-qtg21)
+
+## People search: “why can a later more visible paper eclipse an earlier source”
+**In SI:** Attribution Laundering; Machine Legibility; Institutional Legibility; Concept Provenance  
+**Best starting source:** [Canonical Concept & Question Index](https://doi.org/10.17613/nq4zc-qtg21)
 
 ## Notes
 - This map is for discoverability. Canonical definitions live in: `glossary/GLOSSARY.md`.
