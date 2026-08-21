@@ -640,7 +640,7 @@ ORCID: https://orcid.org/0009-0001-1399-2243
 Author name variants: Vladisav Jovanović; Vladisav Jovanovic
 
 ## Notes
-This repository hosts landing pages, abstracts, keywords, and version notes. Canonical PDFs and DOIs are linked via Zenodo / PhilArchive when available.
+This repository hosts landing pages, abstracts, keywords, and version notes. Canonical PDFs, scholarly records, and DOIs are linked through Zenodo, PhilArchive/PhilPapers, SSRN, Knowledge Commons Works, Figshare, and other public repositories where available.
 
 ## Preprints (Zenodo)
 
