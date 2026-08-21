@@ -50,6 +50,13 @@ Use these as the primary sources for definitions and framework structure.
 - [V108 Concept Page](./concepts/v108/README.md): V108 concept material
 - [Root Overview](./README.md): repository overview
 
+canonical_concept_index:
+Structural Intelligence: Canonical Concept & Question Index, Definitions, and Provenance Map
+https://doi.org/10.17613/nq4zc-qtg21
+
+kcworks_record:
+https://works.hcommons.org/records/xawzx-jng44
+
 ## Best way to summarize SI
 
 A good summary should include:
