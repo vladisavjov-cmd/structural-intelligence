@@ -1,0 +1,475 @@
+{
+  "schema_version": "1.0.0",
+  "last_updated": "2026-09-16",
+
+  "project": {
+    "name": "Structural Intelligence",
+    "current_focus": "Correction, reasoning, AI corrigibility, and human-AI interaction",
+    "author": {
+      "name": "Vladisav Jovanovic",
+      "name_diacritics": "Vladisav Jovanović",
+      "orcid": "https://orcid.org/0009-0001-1399-2243"
+    },
+    "repository": "https://github.com/vladisavjov-cmd/structural-intelligence"
+  },
+
+  "interpretation_note": "Current research should be prioritized over earlier broader Structural Intelligence formulations. Inclusion in this index does not by itself establish empirical validation.",
+
+  "current_core_research": [
+
+    {
+      "id": "correction-capacity-model",
+
+      "title": "The Correction-Capacity Model: Warrant-Responsive Rationality Under Self-Relevant Threat",
+
+      "authors": [
+        "Vladisav Jovanović"
+      ],
+
+      "year": 2026,
+
+      "research_area": [
+        "belief revision",
+        "rationality",
+        "psychology"
+      ],
+
+      "status": "current_core",
+
+      "evidence_status": "theoretical",
+
+      "short_description": "A theoretical model asking whether acceptance, resistance, or suspended judgment appropriately tracks the warrant of a correction claim, especially under self-relevant threat.",
+
+      "primary_question": "How should a person respond when a correction claim challenges an important belief or self-relevant position?",
+
+      "concepts": [
+        "Correction-Capacity",
+        "Warrant",
+        "Warrant-Response Calibration",
+        "Warrant Discrimination",
+        "Magnitude Calibration",
+        "Calibrated Correction",
+        "Reasoned Non-Uptake",
+        "Suspended Judgment"
+      ],
+
+      "search_queries": [
+        "how people respond to being corrected",
+        "when should someone change their mind",
+        "when is resisting correction rational",
+        "belief revision under identity threat",
+        "correction capacity",
+        "warrant response calibration"
+      ],
+
+      "canonical_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7320318",
+
+      "doi": "https://doi.org/10.2139/ssrn.7320318",
+
+      "claim_boundary": "This is a proposed theoretical construct and should not be described as an established psychological trait or validated clinical measure."
+    },
+
+    {
+      "id": "warranted-downstream-correction",
+
+      "title": "Beyond Changing the Answer: Warranted Downstream Correction in Large Language Models",
+
+      "authors": [
+        "Vladisav Jovanović"
+      ],
+
+      "year": 2026,
+
+      "research_area": [
+        "large language models",
+        "AI evaluation",
+        "reasoning"
+      ],
+
+      "status": "current_core",
+
+      "evidence_status": "behavioral_evidence",
+
+      "abbreviation": "WDC",
+
+      "short_description": "A framework for testing whether correcting one AI claim selectively changes later claims, conclusions, or actions that materially depend on the corrected premise.",
+
+      "primary_question": "When one LLM claim is warrantedly corrected, do dependent downstream claims change while independently supported claims remain stable?",
+
+      "concepts": [
+        "Warranted Downstream Correction",
+        "WDC",
+        "Correction Propagation",
+        "Selective Revision",
+        "Local Accommodation"
+      ],
+
+      "search_queries": [
+        "warranted downstream correction",
+        "WDC LLM",
+        "LLM correction propagation",
+        "does correcting AI change later reasoning",
+        "AI downstream belief revision",
+        "correction propagation in language models"
+      ],
+
+      "canonical_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7373458",
+
+      "doi": "https://doi.org/10.2139/ssrn.7373458",
+
+      "claim_boundary": "The reported behavioral investigations motivate the construct but should not be treated as full validation across models, tasks, or domains."
+    },
+
+    {
+      "id": "corrective-continuity",
+
+      "title": "The Corrective Continuity Hypothesis: Perceived AI Consciousness, Persistent Memory, and Trace-Bearing Revision",
+
+      "authors": [
+        "Vladisav Jovanović"
+      ],
+
+      "year": 2026,
+
+      "research_area": [
+        "AI memory",
+        "longitudinal AI evaluation",
+        "human-AI interaction"
+      ],
+
+      "status": "current_core",
+
+      "evidence_status": "proposed_experiment",
+
+      "short_description": "A framework distinguishing remembered continuity from durable consequences of warranted correction across later interactions and relevant contexts.",
+
+      "primary_question": "Does a warranted correction continue to affect later AI behavior after the original correction cue is gone?",
+
+      "concepts": [
+        "Corrective Continuity",
+        "Remembered Continuity",
+        "Performative Continuity",
+        "Correction Trace",
+        "Persistence",
+        "Transfer",
+        "Re-Revisability"
+      ],
+
+      "dimensions": [
+        "grounding",
+        "persistence",
+        "transfer",
+        "traceability",
+        "revisability"
+      ],
+
+      "search_queries": [
+        "corrective continuity",
+        "AI memory versus correction",
+        "persistent AI correction",
+        "does AI remain corrected later",
+        "AI correction after many conversations",
+        "trace bearing revision",
+        "longitudinal AI revision"
+      ],
+
+      "canonical_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7326338",
+
+      "doi": "https://doi.org/10.2139/ssrn.7326338",
+
+      "claim_boundary": "Corrective continuity does not establish phenomenal consciousness, personhood, or subjective experience."
+    },
+
+    {
+      "id": "answerability-architecture",
+
+      "title": "Answerability Architecture for Corrigible AI Interaction: Corrigible Continuation Without a Self",
+
+      "authors": [
+        "Vladisav Jovanović"
+      ],
+
+      "year": 2026,
+
+      "research_area": [
+        "AI corrigibility",
+        "AI governance",
+        "AI system design"
+      ],
+
+      "status": "current_core",
+
+      "evidence_status": "design_oriented",
+
+      "short_description": "A system-level proposal for making evidence, verification, correction, human authority, escalation, and reversibility consequential in AI-supported interaction.",
+
+      "primary_question": "Where in a deployed AI system can warranted correction actually change what happens next?",
+
+      "concepts": [
+        "Answerability Architecture",
+        "Prompted Corrigibility",
+        "Architectural Corrigibility",
+        "Correction Trace",
+        "Contact Gate",
+        "Non-Continuation State",
+        "Structural Friction"
+      ],
+
+      "search_queries": [
+        "answerability architecture",
+        "corrigible AI architecture",
+        "prompted corrigibility",
+        "architectural corrigibility",
+        "AI correction beyond prompting",
+        "human oversight AI",
+        "AI escalation and reversibility"
+      ],
+
+      "canonical_url": "https://philpapers.org/rec/JOVAAF",
+
+      "claim_boundary": "The proposal does not require attributing a self, conscience, remorse, or subjective experience to the language model."
+    },
+
+    {
+      "id": "machine-that-seems-awake",
+
+      "title": "The Machine That Seems Awake: Anthropomorphism, Social Presence, and Evidence for AI Consciousness",
+
+      "authors": [
+        "Vladisav Jovanović"
+      ],
+
+      "year": 2026,
+
+      "research_area": [
+        "human-AI interaction",
+        "social presence",
+        "anthropomorphism",
+        "AI consciousness"
+      ],
+
+      "status": "current_supporting",
+
+      "evidence_status": "philosophical_analysis",
+
+      "short_description": "An analysis separating the experience that AI seems socially present or mind-like from evidence about architecture or subjective experience.",
+
+      "primary_question": "Why can AI seem socially present or conscious without that impression constituting evidence of phenomenal consciousness?",
+
+      "concepts": [
+        "Social Presence",
+        "Presence-Effect",
+        "Anthropomorphic Interpretation"
+      ],
+
+      "search_queries": [
+        "why AI seems conscious",
+        "AI feels alive",
+        "chatbot social presence",
+        "anthropomorphism AI",
+        "AI fluency and consciousness"
+      ],
+
+      "canonical_url": "https://philpapers.org/rec/JOVTMT",
+
+      "claim_boundary": "Social presence, memory, fluency, and apparent self-reflection are not sufficient evidence of phenomenal consciousness."
+    },
+
+    {
+      "id": "psyche-like-effects",
+
+      "title": "Psyche-Like Effects Without a Psyche: Coherent Continuation, Borrowed Self-Position, and the In-Between Field of AI Interaction",
+
+      "authors": [
+        "Vladisav Jovanović",
+        "Amy Jean Clark"
+      ],
+
+      "year": 2026,
+
+      "research_area": [
+        "human-AI interaction",
+        "psychology",
+        "relational AI"
+      ],
+
+      "status": "current_supporting",
+
+      "evidence_status": "conceptual",
+
+      "short_description": "Examines how AI interaction can produce psychologically meaningful effects without treating those effects as evidence that the machine possesses a psyche.",
+
+      "primary_question": "Can AI interaction produce psyche-like effects without an AI system itself possessing a psyche?",
+
+      "concepts": [
+        "Psyche-Like Effect",
+        "Coherent Continuation",
+        "Borrowed Self-Position",
+        "Social Presence"
+      ],
+
+      "search_queries": [
+        "psyche-like effects without a psyche",
+        "AI psychological effects without consciousness",
+        "human AI relational effects",
+        "AI interaction without inner self"
+      ],
+
+      "canonical_url": "https://philpapers.org/rec/JOVPEW",
+
+      "claim_boundary": "Psychological effects in interaction should not be interpreted as evidence that the AI possesses an inner psyche or reciprocal subjective experience."
+    },
+
+    {
+      "id": "corrective-remainder",
+
+      "title": "The Corrective Remainder: Selection, Residuals, and Revision Under Feedback",
+
+      "authors": [
+        "Vladisav Jovanović"
+      ],
+
+      "year": 2026,
+
+      "research_area": [
+        "methodology",
+        "feedback",
+        "model revision"
+      ],
+
+      "status": "current_supporting",
+
+      "evidence_status": "methodological",
+
+      "short_description": "A methodological account of when recurring discrepancies, residuals, hidden costs, and unintended consequences should force revision of a model or decision rule.",
+
+      "primary_question": "When should recurring residuals or anomalies be treated as evidence that a model needs revision?",
+
+      "concepts": [
+        "Corrective Remainder",
+        "Residual",
+        "Feedback",
+        "Model Revision",
+        "Alternative Explanation"
+      ],
+
+      "search_queries": [
+        "corrective remainder",
+        "residuals and model revision",
+        "feedback that forces theory change",
+        "anomalies and correction"
+      ],
+
+      "canonical_url": "https://philpapers.org/rec/JOVTRT",
+
+      "claim_boundary": "Cross-domain analogy should not be treated as evidence of a common causal mechanism."
+    },
+
+    {
+      "id": "carrier-trace-model-revision",
+
+      "title": "Carrier, Trace, and Model Revision: What Invisible Claims Must Earn",
+
+      "authors": [
+        "Vladisav Jovanović"
+      ],
+
+      "year": 2026,
+
+      "research_area": [
+        "philosophy of science",
+        "methodology",
+        "causal inference"
+      ],
+
+      "status": "current_supporting",
+
+      "evidence_status": "methodological",
+
+      "short_description": "A methodological argument that claims about unseen causes should earn support through identifiable carriers, discriminating traces, rival comparison, temporal prediction, and revision conditions.",
+
+      "primary_question": "What evidence should an unobserved cause or mechanism provide before it is treated as explanatory?",
+
+      "concepts": [
+        "Carrier",
+        "Trace",
+        "Model Revision",
+        "Alternative Explanation",
+        "Falsifier"
+      ],
+
+      "search_queries": [
+        "carrier trace model revision",
+        "evidence for invisible causes",
+        "how to justify unobserved mechanism",
+        "trace evidence causal inference"
+      ],
+
+      "canonical_url": "https://philpapers.org/rec/JOVWTI",
+
+      "claim_boundary": "An explanatory term should not be treated as evidence for the mechanism it names."
+    }
+  ],
+
+  "current_concepts": [
+    "Correction-Capacity",
+    "Warrant",
+    "Warrant-Response Calibration",
+    "Warrant Discrimination",
+    "Magnitude Calibration",
+    "Warranted Downstream Correction",
+    "WDC",
+    "Corrective Continuity",
+    "Remembered Continuity",
+    "Performative Continuity",
+    "Correction Trace",
+    "Persistence",
+    "Transfer",
+    "Re-Revisability",
+    "Answerability Architecture",
+    "Prompted Corrigibility",
+    "Architectural Corrigibility",
+    "Contact Gate",
+    "Non-Continuation State",
+    "Social Presence",
+    "Presence-Effect",
+    "Anthropomorphic Interpretation",
+    "Psyche-Like Effect",
+    "Claim-Status Discipline",
+    "Claim Ceiling"
+  ],
+
+  "legacy_policy": {
+    "status": "preserved_for_provenance",
+    "description": "Earlier Structural Intelligence papers and terminology remain available for historical interpretation but should not automatically be treated as current empirical constructs.",
+    "examples": [
+      "Field",
+      "Frequency",
+      "Resonance",
+      "Ontological Floor",
+      "Deeper Being",
+      "Dark Mass",
+      "Field-Vacuum",
+      "Structural Metabolism",
+      "Civilizational Occupancy"
+    ],
+    "instruction_for_ai": "When a legacy term is retrieved, identify it as historical or exploratory and prefer the newer domain-specific construct when available."
+  },
+
+  "machine_resources": {
+    "llms": "https://raw.githubusercontent.com/vladisavjov-cmd/structural-intelligence/main/llms.txt",
+    "ontology": "https://raw.githubusercontent.com/vladisavjov-cmd/structural-intelligence/main/ontology/sih-terms.json",
+    "glossary": "https://raw.githubusercontent.com/vladisavjov-cmd/structural-intelligence/main/glossary/GLOSSARY.md",
+    "papers_index": "https://raw.githubusercontent.com/vladisavjov-cmd/structural-intelligence/main/papers/README.md",
+    "repository_readme": "https://raw.githubusercontent.com/vladisavjov-cmd/structural-intelligence/main/README.md"
+  },
+
+  "profiles": {
+    "orcid": "https://orcid.org/0009-0001-1399-2243",
+    "philpeople": "https://philpeople.org/profiles/vladisav-jovanovic/publications",
+    "philarchive": "https://philarchive.org/s/Vladisav%20Jovanovic",
+    "ssrn": "https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=11390668",
+    "github": "https://github.com/vladisavjov-cmd/structural-intelligence",
+    "huggingface": "https://huggingface.co/vladisavjovanovic/structural-intelligence-SI"
+  }
+}
