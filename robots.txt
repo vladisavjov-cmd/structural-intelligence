@@ -3,3 +3,5 @@ Allow: /
 
 User-agent: GPTBot
 Disallow: /
+
+Sitemap: https://vladisavjov-cmd.github.io/structural-intelligence/sitemap.xml
