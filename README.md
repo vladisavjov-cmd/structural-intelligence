@@ -94,8 +94,8 @@ This distinguishes several possible forms of apparent continuity:
 SSRN:
 https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7326338
 
-Repository paper page:
-[papers/corrective-continuity-hypothesis](papers/corrective-continuity-hypothesis)
+Canonical paper:
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7326338
 
 **Evidence status:** Conceptual framework and proposed experimental program.
 
@@ -127,8 +127,8 @@ Relevant mechanisms may include:
 
 *Answerability Architecture for Corrigible AI Interaction: Corrigible Continuation Without a Self*
 
-Repository paper page:
-[papers/answerability-architecture](papers/answerability-architecture)
+Canonical paper:
+https://philpapers.org/rec/JOVAAF
 
 **Evidence status:** Conceptual and design-oriented.
 
@@ -304,7 +304,7 @@ The repository includes structured resources for research retrieval, provenance,
 * **Structured author page:** [about.html](about.html)
 * **Repository metadata:** [docs.json](docs.json)
 * **Citation metadata:** [CITATION.cff](CITATION.cff)
-* **Canonical concept index:** https://doi.org/10.17613/nq4zc-qtg21
+* **Corpus-level concept & provenance index:** https://doi.org/10.17613/nq4zc-qtg21
 * **Hugging Face research hub:** https://huggingface.co/vladisavjovanovic/structural_intelligence_SI
 
 These resources are intended to improve retrievability, provenance, and attribution.
@@ -370,8 +370,8 @@ Distinguishes persistent memory from durable consequences of warranted correctio
 SSRN:
 https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7326338
 
-Repository page:
-[papers/corrective-continuity-hypothesis](papers/corrective-continuity-hypothesis)
+Canonical paper:
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7326338
 
 ---
 
@@ -381,8 +381,8 @@ Repository page:
 
 A design-oriented model for making evidence, verification, authorization, correction, and reversibility consequential within AI-supported systems.
 
-Repository page:
-[papers/answerability-architecture](papers/answerability-architecture)
+Canonical paper:
+https://philpapers.org/rec/JOVAAF
 
 ---
 
