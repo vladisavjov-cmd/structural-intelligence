@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <url>
+    <loc>https://vladisavjov-cmd.github.io/structural-intelligence/</loc>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://vladisavjov-cmd.github.io/structural-intelligence/about.html</loc>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://vladisavjov-cmd.github.io/structural-intelligence/papers/README.md</loc>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://vladisavjov-cmd.github.io/structural-intelligence/glossary/GLOSSARY.md</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://vladisavjov-cmd.github.io/structural-intelligence/research-index.json</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://vladisavjov-cmd.github.io/structural-intelligence/ontology/sih-terms.json</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://vladisavjov-cmd.github.io/structural-intelligence/llms.txt</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://vladisavjov-cmd.github.io/structural-intelligence/papers/ARCHIVE.md</loc>
+    <priority>0.4</priority>
+  </url>
+
+</urlset>
