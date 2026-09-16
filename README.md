@@ -1,1009 +1,484 @@
-# Structural Intelligence (SI)
+# Structural Intelligence
 
-**A research framework for testing what actually holds under pressure.**
+## Research on Correction, Reasoning, and AI
 
-Structural Intelligence distinguishes **coherence** from **contact** and asks whether persons, arguments, relationships, institutions, and AI systems remain **answerable to correction** when reality pushes back.
+Structural Intelligence is the umbrella name for an independent research program developed by **Vladisav Jovanović**.
 
-The framework is developed by **Vladisav Jovanović**, Independent Researcher.
+The current work focuses on a narrower set of questions:
 
-**ORCID:** https://orcid.org/0009-0001-1399-2243
+* How should people respond when a correction claim is supported by evidence?
+* How can justified revision be distinguished from compliance, persuasion, or simple agreement?
+* When an AI system accepts a correction, does that correction change later reasoning and behavior?
+* How can persistent correction be distinguished from memory or retrieval alone?
+* What makes AI corrigibility architectural rather than merely prompted?
+* How should human oversight, evidence, authorization, and reversibility interact in consequential AI systems?
+* Why can AI interaction feel socially or psychologically meaningful without establishing machine personhood or consciousness?
+
+The current research program favors **narrow claims, explicit evidence status, comparison with alternative explanations, testable predictions where possible, and revision when stronger evidence requires it**.
 
 ---
 
-## Canonical Concept & Question Index
+## Current Research Areas
 
-**Structural Intelligence: Canonical Concept & Question Index, Definitions, and Provenance Map**
+### 1. Human Correction and Rational Revision
 
-A machine-readable research index connecting:
+This line of work examines how a person should respond when a belief, judgment, or self-relevant position is challenged.
 
-**ordinary-language question → canonical concept → definition → source → related concepts → revision test**
+The central issue is not whether someone accepts correction, but whether their response is appropriately calibrated to the quality of the evidence.
 
-**Canonical DOI — newest version:**  
+Current concepts include:
+
+* **Correction-Capacity**
+* **Warrant-Response Calibration**
+* **Calibrated Correction**
+* **Reasoned Non-Uptake**
+* **Suspended Judgment**
+
+A warranted correction may justify revision.
+
+A weak or unsupported correction may justify resistance.
+
+Insufficient evidence may justify withholding judgment.
+
+The aim is to distinguish rational revisability from both defensiveness and indiscriminate compliance.
+
+---
+
+### 2. Warranted Downstream Correction in AI
+
+Changing one answer after a user correction does not necessarily show that an AI system has incorporated the correction into later reasoning.
+
+**Warranted Downstream Correction (WDC)** asks whether a justified correction selectively changes the claims, conclusions, or actions that materially depend on the corrected premise while preserving claims that remain independently supported.
+
+This creates a more demanding test than immediate answer correction.
+
+A successful correction should affect what actually depends on it.
+
+It should not cause indiscriminate agreement or unrelated changes.
+
+**Current paper:**
+
+*Beyond Changing the Answer: Warranted Downstream Correction in Large Language Models*
+
+SSRN:
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7373458
+
+**Evidence status:** Behavioral investigations motivate the construct. The current evidence should not be treated as complete validation of WDC across models or settings.
+
+---
+
+### 3. Corrective Continuity
+
+AI systems with persistent memory may appear increasingly continuous across interactions.
+
+But remembering that a correction happened is not necessarily the same as remaining changed by that correction.
+
+The **Corrective Continuity Hypothesis** asks whether warranted correction:
+
+1. is grounded in adequate evidence;
+2. persists across later interactions;
+3. transfers to structurally related cases;
+4. leaves a trace that can explain later change; and
+5. remains open to further revision when better evidence appears.
+
+This distinguishes several possible forms of apparent continuity:
+
+* **Performative continuity** — stable style, persona, or narrative.
+* **Remembered continuity** — stored information about prior interactions.
+* **Corrective continuity** — durable consequences of warranted revision.
+
+**Current paper:**
+
+*The Corrective Continuity Hypothesis: Perceived AI Consciousness, Persistent Memory, and Trace-Bearing Revision*
+
+SSRN:
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7326338
+
+Repository paper page:
+[papers/corrective-continuity-hypothesis](papers/corrective-continuity-hypothesis)
+
+**Evidence status:** Conceptual framework and proposed experimental program.
+
+---
+
+### 4. Corrigible AI Architecture
+
+Another line of work asks where correction actually enters an AI system.
+
+A model can produce a corrected sentence without the larger system becoming meaningfully more corrigible.
+
+The research therefore distinguishes **prompt-level correction** from correction supported by system architecture.
+
+Relevant mechanisms may include:
+
+* evidence retrieval;
+* uncertainty tracking;
+* verification;
+* human authorization;
+* correction traces;
+* state revision;
+* override mechanisms;
+* bounded delegation;
+* escalation thresholds;
+* reversibility;
+* auditable execution.
+
+**Current paper:**
+
+*Answerability Architecture for Corrigible AI Interaction: Corrigible Continuation Without a Self*
+
+Repository paper page:
+[papers/answerability-architecture](papers/answerability-architecture)
+
+**Evidence status:** Conceptual and design-oriented.
+
+The framework does not require attributing a self, conscience, subjective experience, or moral interiority to the language model.
+
+---
+
+### 5. Human–AI Interaction
+
+Fluent AI systems can produce strong experiences of social presence, recognition, continuity, and apparent understanding.
+
+Those experiences are psychologically relevant.
+
+They are not, by themselves, evidence of phenomenal consciousness.
+
+Current work in this area examines distinctions between:
+
+* social presence and personhood;
+* coherent continuation and subjective continuity;
+* memory and lived history;
+* psychological effect and machine psychology;
+* anthropomorphic interpretation and architectural evidence;
+* relational usefulness and reciprocal subjectivity.
+
+The goal is not to dismiss meaningful human experience with AI.
+
+It is to avoid treating the experience of being understood as sufficient evidence about what kind of system is producing that experience.
+
+---
+
+## Research Method
+
+Across these projects, the preferred method is deliberately conservative.
+
+### Start with observation
+
+Separate what is directly observed, measured, recorded, or documented from interpretation.
+
+### Compare alternatives
+
+Ask whether another explanation could account for the same result.
+
+A coherent explanation is not automatically the best explanation.
+
+### Evaluate warrant
+
+A correction claim should change a belief or system only to the extent justified by evidence.
+
+Correction is not the same as disagreement.
+
+Agreement is not the same as learning.
+
+### Trace consequences
+
+If a premise changes, identify which later conclusions genuinely depend on it.
+
+Independent claims should not change merely because another claim was corrected.
+
+### Test persistence
+
+For longitudinal claims, remove the original correction cue and test behavior later.
+
+Where possible, introduce interference, novel cases, irrelevant cases, and adversarial pressure.
+
+### Preserve revisability
+
+A successful correction should not become permanent dogma.
+
+If later evidence overturns the corrected position, the system should remain capable of revising again.
+
+### Specify failure conditions
+
+Important claims should state what evidence would weaken, narrow, or overturn them.
+
+---
+
+## Evidence Status
+
+The repository contains work with different levels of evidential support.
+
+### Theoretical constructs
+
+Some papers introduce concepts, distinctions, models, or hypotheses.
+
+A named construct should not be treated as scientifically established merely because it has been defined.
+
+### Methodological proposals
+
+Some work proposes evaluation procedures, audit methods, research designs, or governance architectures.
+
+These should be evaluated by their usefulness, discriminating power, and comparison with existing methods.
+
+### Behavioral investigations
+
+Some AI papers contain exploratory or structured behavioral evidence.
+
+Results should be interpreted at the level supported by the design and should not be generalized beyond the tested models, prompts, tasks, or conditions without further evidence.
+
+### Philosophical analysis
+
+Some papers address conceptual questions that cannot be resolved by behavioral evidence alone, including questions about consciousness, personhood, subjectivity, and interpretation.
+
+### Earlier exploratory work
+
+Earlier Structural Intelligence papers were often broader in scope and used a larger psychological, institutional, structural, or metaphysical vocabulary.
+
+They document the development of the research program.
+
+Their inclusion in this repository does **not** mean that every earlier concept is part of the current core framework, empirically established, or assumed to describe a common mechanism across different domains.
+
+---
+
+## Current Work vs. Earlier Work
+
+Structural Intelligence began as a much broader exploratory project.
+
+Earlier papers investigated recurring patterns across psychology, relationships, institutions, technology, AI, philosophy, and questions about structure more generally.
+
+That breadth was useful for generating questions, but it also created a risk:
+
+**similar language across domains can create the appearance of a unified mechanism before such a mechanism has been demonstrated.**
+
+The current program therefore places greater emphasis on:
+
+* narrower domain-specific claims;
+* operational definitions;
+* established neighboring constructs;
+* alternative explanations;
+* explicit evidence status;
+* falsification and revision tests;
+* behavioral experiments;
+* longitudinal testing;
+* provenance;
+* separation of metaphor from mechanism.
+
+Earlier terminology remains available for historical and scholarly reference.
+
+It should not automatically be interpreted as current canonical scientific terminology.
+
+---
+
+## Canonical Concept and Question Index
+
+The project includes a structured index connecting:
+
+**ordinary-language question → concept → definition → source → related concepts → revision test**
+
+Latest canonical DOI:
+
 https://doi.org/10.17613/nq4zc-qtg21
 
-**Knowledge Commons Works record:**  
+Knowledge Commons record:
+
 https://works.hcommons.org/records/xawzx-jng44
 
-**Version v1 DOI:**  
-https://doi.org/10.17613/xawzx-jng44
+The index is intended to support conceptual provenance, scholarly retrieval, human reading, and machine-assisted research.
 
-The index includes structured definitions, aliases, ordinary-language questions, provenance status, canonical sources, related concepts, and revision tests across Structural Intelligence, Jungian psychology, AI corrigibility, human-AI interaction, institutions, and knowledge infrastructure.
+Inclusion in the index means that a term exists in the corpus and can be traced to its source.
 
----
-
-## Machine-readable entry points
-
-- **LLM routing file:** [llms.txt](./llms.txt)
-- **Canonical glossary:** [glossary/GLOSSARY.md](./glossary/GLOSSARY.md)
-- **Search map:** [search_map/SEARCH_MAP.md](./search_map/SEARCH_MAP.md)
-- **Machine-readable ontology:** [ontology/sih-terms.json](./ontology/sih-terms.json)
-- **Papers index:** [papers/README.md](./papers/README.md)
-- **Author / structured identity page:** [about.html](./about.html)
-- **Canonical concept index:** https://doi.org/10.17613/nq4zc-qtg21
-- **Knowledge Commons record:** https://works.hcommons.org/records/xawzx-jng44
-- **Hugging Face research hub:** https://huggingface.co/vladisavjovanovic/structural_intelligence_SI
-
-These resources are intended to support human reading, scholarly search, web indexing, conceptual provenance, retrieval-augmented systems, and machine-assisted research.
-
-Machine-readable availability increases retrievability and provenance clarity; it does **not** guarantee search ranking, model-training inclusion, or correct attribution.
+**Inclusion does not itself establish empirical validity.**
 
 ---
 
-## Core research questions
+## Machine-Readable Resources
 
-Structural Intelligence asks questions such as:
+The repository includes structured resources for research retrieval, provenance, and machine-assisted reading.
 
-- What makes a coherent explanation actually answerable to reality?
-- What happens when correction threatens identity, worth, status, or system continuity?
-- How can warranted correction bind without becoming compliance?
-- How do we distinguish AI memory from durable learning from correction?
-- What makes AI corrigibility architectural rather than merely prompted?
-- When does human oversight become oversight theater?
-- How can AI produce relational presence-effects without establishing personhood?
-- Who carries the burden when automated systems are wrong?
-- How does Jungian shadow material return when a preferred self-image excludes it?
-- How can validation preserve contact without turning interpretation into fact?
-- How can concepts remain discoverable and attributable across AI, search, repositories, and institutional knowledge systems?
+* **LLM routing file:** [llms.txt](llms.txt)
+* **Glossary:** [glossary/GLOSSARY.md](glossary/GLOSSARY.md)
+* **Machine-readable ontology:** [ontology/sih-terms.json](ontology/sih-terms.json)
+* **Papers index:** [papers/README.md](papers/README.md)
+* **Structured author page:** [about.html](about.html)
+* **Repository metadata:** [docs.json](docs.json)
+* **Citation metadata:** [CITATION.cff](CITATION.cff)
+* **Canonical concept index:** https://doi.org/10.17613/nq4zc-qtg21
+* **Hugging Face research hub:** https://huggingface.co/vladisavjovanovic/structural_intelligence_SI
 
----
+These resources are intended to improve retrievability, provenance, and attribution.
 
-## Key later concepts
-
-Important later developments include:
-
-**Human rationality**
-- Correction-Capacity
-- Warrant-Response Calibration
-- Calibrated Correction
-- Reasoned Non-Uptake
-- Suspended Judgment
-
-**AI corrigibility**
-- Corrective Continuity
-- Performative Continuity
-- Remembered Continuity
-- Binding Correction
-- Correction Uptake
-- Local Accommodation
-- Answerability Architecture
-- Contact Gates
-- Correction Trace
-- Non-Continuation States
-- Prompted Corrigibility
-- Architectural Corrigibility
-
-**Human-AI interaction**
-- Presence-Effect
-- Coherent Continuation
-- Borrowed Self-Position
-- Synthetic Witness
-- Relational Effect Without Personhood
-- Burden Location
-
-**AI governance**
-- Shared Answerability
-- Human-in-the-Loop Failure
-- Oversight Theater
-- Override Friction
-- Bounded Delegation
-- Substitute Controller
-
-**Jungian psychology and repair**
-- Corrective Shadow
-- Ego Preference
-- Projection as Mislocated Correction
-- Integration as Changed Carrying
-- Validation as Contact
-- Borrowed Orientation
-- Fixed Worth
-
-**Knowledge infrastructure**
-- Machine Legibility
-- Concept Provenance
-- Distributed Synthetic Steering
-- Attribution Laundering
-- Synthetic Attribution Laundering
+They do not guarantee search ranking, model-training inclusion, correct machine interpretation, or scientific validity.
 
 ---
 
-## Public research profiles and archives
+## Use of the Glossary and Ontology
 
-- **PhilPeople publications:** https://philpeople.org/profiles/vladisav-jovanovic/publications
-- **PhilArchive:** https://philarchive.org/s/Vladisav%20Jovanovic
-- **ORCID:** https://orcid.org/0009-0001-1399-2243
-- **SSRN:** https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=11390668
-- **Figshare:** https://figshare.com/authors/Vladisav_Jovanovic/23806141
-- **OSF:** https://osf.io/2t4bg/overview
-- **Hugging Face:** https://huggingface.co/vladisavjovanovic/structural_intelligence_SI
-- **Official SI Hub:** https://structural-intelligence.blogspot.com/2026/02/structural-intelligence-si-official-hub.html
-- **GitHub Pages:** https://vladisavjov-cmd.github.io/structural-intelligence/
-- **Personal / professional website:** https://vladisavjungian.my.canva.site/vladisavj
+The glossary and ontology contain terminology from different stages of the research program.
+
+Users and automated systems should distinguish between:
+
+* current research constructs;
+* historical terminology;
+* domain-specific concepts;
+* philosophical or interpretive concepts;
+* methodological terms;
+* speculative or exploratory formulations.
+
+A term appearing in the ontology should **not** be assumed to represent:
+
+* an empirically validated construct;
+* a scientifically established mechanism;
+* a claim that the same process operates across all domains;
+* endorsement of the strongest historical interpretation of that term.
+
+Where possible, interpretation should defer to the most recent canonical source for the relevant construct.
+
+---
+
+## Selected Current Papers
+
+### Human Rationality
+
+**The Correction-Capacity Model: Warrant-Responsive Rationality Under Self-Relevant Threat**
+
+A theoretical model of how acceptance, resistance, and suspended judgment should track the warrant of a correction claim.
+
+SSRN:
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7320318
+
+---
+
+### AI Correction
+
+**Beyond Changing the Answer: Warranted Downstream Correction in Large Language Models**
+
+Examines whether warranted correction propagates selectively through dependent reasoning rather than remaining a local answer change.
+
+SSRN:
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7373458
+
+---
+
+### Longitudinal AI Correction
+
+**The Corrective Continuity Hypothesis: Perceived AI Consciousness, Persistent Memory, and Trace-Bearing Revision**
+
+Distinguishes persistent memory from durable consequences of warranted correction.
+
+SSRN:
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7326338
+
+Repository page:
+[papers/corrective-continuity-hypothesis](papers/corrective-continuity-hypothesis)
+
+---
+
+### AI Corrigibility and Governance
+
+**Answerability Architecture for Corrigible AI Interaction: Corrigible Continuation Without a Self**
+
+A design-oriented model for making evidence, verification, authorization, correction, and reversibility consequential within AI-supported systems.
+
+Repository page:
+[papers/answerability-architecture](papers/answerability-architecture)
+
+---
+
+## Research Boundaries
+
+This project does not assume that:
+
+* coherent language establishes truth;
+* AI self-reference establishes a self;
+* persistent memory establishes consciousness;
+* psychological usefulness establishes machine subjectivity;
+* correction automatically constitutes learning;
+* resistance to correction is always irrational;
+* accepting correction is always rational;
+* a concept applying descriptively in several domains establishes one shared causal mechanism;
+* metaphor constitutes mechanism;
+* philosophical possibility constitutes empirical evidence.
+
+The strength of a conclusion should not exceed the strength of its evidence.
+
+---
+
+## AI-Assisted Research
+
+Generative AI has been used in parts of this project for tasks including:
+
+* literature organization;
+* drafting and restructuring;
+* comparison of formulations;
+* counterargument generation;
+* language editing;
+* research workflow support;
+* exploratory analysis;
+* machine-readable formatting.
+
+AI output is not treated as independent confirmation of a claim.
+
+Concept selection, interpretation, source checking, revision, and publication decisions remain the responsibility of the author.
+
+Where AI-assisted investigations are reported as evidence, the relevant paper should describe the procedure and its limitations.
+
+---
+
+## Public Research Profiles and Archives
+
+* **PhilPeople:** https://philpeople.org/profiles/vladisav-jovanovic/publications
+* **PhilArchive:** https://philarchive.org/s/Vladisav%20Jovanovic
+* **SSRN:** https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=11390668
+* **ORCID:** https://orcid.org/0009-0001-1399-2243
+* **Figshare:** https://figshare.com/authors/Vladisav_Jovanovic/23806141
+* **OSF:** https://osf.io/2t4bg/overview
+* **Hugging Face:** https://huggingface.co/vladisavjovanovic/structural_intelligence_SI
+* **GitHub Pages:** https://vladisavjov-cmd.github.io/structural-intelligence/
+* **Research / project hub:** https://structural-intelligence.blogspot.com/2026/02/structural-intelligence-si-official-hub.html
+* **Professional website:** https://vladisavjungian.my.canva.site/vladisavj
 
 ---
 
 ## Attribution
 
-When using a specific Structural Intelligence construct, prefer the **paper in which that construct is developed**.
+When citing a specific construct, prefer the paper in which that construct is directly developed.
 
-For corpus-level terminology, routing, and provenance, use:
+For corpus-level terminology, definitions, routing, and provenance, use:
 
-**Jovanović, Vladisav. _Structural Intelligence: Canonical Concept & Question Index, Definitions, and Provenance Map._ Version 1, 2026.**  
+**Jovanović, Vladisav. *Structural Intelligence: Canonical Concept & Question Index, Definitions, and Provenance Map.* 2026.**
+
+Canonical DOI:
+
 https://doi.org/10.17613/nq4zc-qtg21
 
-Individual papers retain their own titles, records, DOIs, authorship, and licenses.
+Individual papers retain their own titles, authorship, repository records, DOIs, and licenses.
 
 ---
 
-## Concepts
-*(Search index of core terms used across the papers. Full definitions: [glossary/GLOSSARY.md](./glossary/GLOSSARY.md))*
-
-### Worth / reward-pressure / agency (steerability)
-- **Invariance Constraint** *(non-tradability condition; anti-programmability)*
-- **Fixed Worth** *(invariant worth; non-priced worth)*
-- **Variable Worth** *(priced worth; contingent worth; approval-dependent worth)*
-- **Pricing Self** *(self as market; valuation-governed cognition)*
-- **Reward-pressure** *(incentive pressure; approval/ranking pressure)*
-- **Self-sale** *(trading answerability for valuation stability; selling out)*
-- **Reflex Agency** *(reactive/signal-driven agency; stabilization output)*
-- **Sovereignty** *(sovereign agency; non-tradable agency; answerable autonomy)*
-- **Non-tradability** *(not-for-sale condition; non-exchangeability)*
-- **Programmability** *(steerability by signals; controllability)*
-- **Steerability** *(signal-responsiveness; incentive steering)*
-- **Signal Channel** *(reward/approval channel; steering pathway)*
-
-### Coherence / contact (epistemic integrity)
-- **Coherence** *(sense-making; intelligibility; narrative fit; internal consistency)*
-- **Cheap Coherence** *(abundant coherence; low-cost intelligibility; completion-on-demand)*
-- **Resonance** *(felt rightness; “it lands”; certainty inflation signal)*
-- **Contact** *(reality contact; constraint contact; tethered truth)*
-- **Constraint** *(hard boundary; non-negotiable limit; reality pushback)*
-- **Consequence** *(cost; downstream effects; who pays)*
-- **Answerability** *(accountability; obligation to revise; truth-binding)*
-- **Tethering** *(grounding; constraint-coupling; coherence anchoring)*
-- **Coherence-Contact Gap** *(sense/truth gap; intelligibility vs reality)*
-- **Substitution** *(proxy replacement; coherence-for-contact swap)*
-- **Proxy Signal** *(surrogate metric; legibility marker)*
-
-### Truth-load / audit / repair (structure under time)
-- **Truth-Load** *(load-bearing truth; carryable truth; truth capacity)*
-- **Truth as Load** *(integrability of truth; truth under cost/time)*
-- **Structural Intelligence (SI)** *(form intelligence; structure-sense; coherence architecture)*
-- **Orientation** *(stabilization; continuity frame; orientation floor)*
-- **Presence** *(reality-contact under load; live intelligibility; not a mood)*
-- **Containment** *(holding capacity; activation-holding; load containment)*
-- **Collapse** *(failure-to-carry; forced contact event; disintegration)*
-- **Structural Audit** *(stress test; integrity test; failure reading)*
-- **Repair** *(revision under cost; correction without collapse; retract-and-rebuild)*
-- **Hallucination Regime** *(coherence replaces reality; plausibility regime; completion-over-truth)*
-- **Coherence-Theater** *(performative coherence; intelligibility theater; fake depth)*
-- **Persona** *(social interface; role-mask; legibility shell)*
-- **Shadow** *(disowned self; excluded agency; unowned impulse)*
-- **Personality Trap** *(persona-as-interface; style over constraint; likability steering)*
-- **The “No”** *(constraint refusal; reality veto; boundary event)*
-- **Integrity** *(claim–cost–action alignment over time)*
-- **Pressure** *(compression state; high-stakes field; load state)*
-
-### Philosophy of structure / field / local structuration
-- **Structure** *(patterned stabilization; relational structure; organized relation)*
-- **Field** *(differentiated whole; relational field; structured field)*
-- **Local Structuration** *(local formation; local holding; localized stabilization)*
-- **Structuration** *(formation process; local stabilization; structure-formation)*
-- **Stabilization** *(holding; persistence; organized continuity)*
-- **Structural Presence** *(dynamic adequacy; organizing presence; local adequacy)*
-- **Adequacy** *(sufficiency; real fit; holding adequacy; structural sufficiency)*
-- **Viability** *(persistence capacity; survivability; real continuation)*
-- **Survivability** *(survival capacity; persistence under strain; continuity capacity)*
-- **Dissipation** *(diffusion; weak coupling loss; structural loosening)*
-- **Dominance** *(governing share; local primacy; organizing lead)*
-- **Boundary Integrity** *(local distinction; structural boundary; differentiation strength)*
-- **Scale** *(level of assessment; structural level; relevance scale)*
-- **Threshold** *(phase-change point; breaking point; structural transition)*
-- **Phase Shift** *(structural phase change; mode shift; qualitative transition)*
-- **Field-Fit** *(reality fit; adequacy to conditions; structural fit)*
-- **Reorganizing Capacity** *(adaptive revision capacity; phase-shift ability; restructurability)*
-- **Reorganization** *(restructuring; re-formation; reorganized holding; new stabilization)*
-- **Structural Dynamics** *(dynamics of structure; structural movement; form under change)*
-- **Structural Debt** *(deferred structural bill; unresolved burden; compensatory debt)*
-- **Fragmentation** *(unsynthesized multiplicity; structural overcrowding; competing relation)*
-- **Stabilization Lag** *(lag; delayed re-fit; structural lateness)*
-- **Gradient Load** *(pressure gradient; mismatch intensity; differential load)*
-- **Relational Anchoring** *(borrowed stability; host support; deeper coupling)*
-- **Burden** *(load; carried pressure; structural demand; holding demand)*
-- **Burden-Bearing** *(load-bearing capacity; carrying capacity; burden capacity)*
-- **Metabolism of Structure** *(structural metabolism; breakdown metabolism; organizational metabolism)*
-- **Grief** *(metabolic grief; collapse interval; burdened transition)*
-- **Collapse Survivability** *(survival through collapse; post-collapse viability; breakdown survivability)*
-- **Mathematical Grammar of Structure** *(formal grammar of structure; structural formalism; mathematical structure grammar)*
-
-### Added from the Jung / cheap-coherence / intrusion / completion papers
-- **Binding** *(truth-binding; commitment lock; option-closure)*
-- **Irreversibility** *(closed option; point-of-no-return; structural ratchet)*
-- **Witness/Trace** *(audit trail; cost signature; reality residue)*
-- **Falsifier** *(disconfirming condition; failure test; contact trigger)*
-- **Option Closure** *(choice made unavailable by cost/commitment)*
-- **Binding Revision** *(revision that changes behavior/cost allocation)*
-- **Persona-maintenance** *(legibility upkeep; interface upkeep)*
-- **Exported Maintenance** *(cost-exporting; maintenance outsourcing; deferred payment)*
-- **Maintenance Inflation** *(rising cost to maintain the same coherence)*
-- **Shadow Debt** *(unowned load; deferred contradiction)*
-- **Debt Collection** *(bill comes due; forced reckoning)*
-- **Forced Contact** *(reality intrusion through failure)*
-- **Directed Thinking** *(justification mode; legibility thinking)*
-- **Undirected Thinking** *(fantasy/dream logic; symbolic compensation)*
-- **Mythic Compensation** *(imaginal correction attempt)*
-- **Discharge** *(activation dump; rupture behavior)*
-- **Projection** *(externalized ownership; shadow projection)*
-- **Scapegoating** *(blame-routing; discharge-by-blame)*
-- **Container for “No”** *(correction container; boundary-safe structure)*
-- **Intrusion (I)** *(foreign agency load; occupancy disturbance)*
-- **Foreign Agency Load** *(attention/agency colonization by a competing loop)*
-- **Occupancy (λ_t)** *(time-fraction of steering by an intrusive policy)*
-- **Cockpit / Pilot (ω)** *(metacontrol access; interrupt authority)*
-- **ω_eff** *(effective cockpit access under intrusion load)*
-- **Pilot Severance** *(cockpit severance; steering severance; pilot disconnection)*
-- **Somatic Capacity** *(bodily capacity; metabolic bandwidth; contact-processing capacity)*
-- **Exit Architecture** *(decoupling capacity; sovereignty exit; escape structure)*
-- **Network Viscosity** *(narrative resistance; propagation drag; epistemic friction)*
-- **Epistemic Exchange Rate** *(coherence/verification cost ratio; truth affordability ratio)*
-- **Frictional Design** *(synthetic viscosity; anti-theater interface; answerability-oriented design)*
-- **Drift Ratio** *(representation/answerability ratio; drift metric; coherence overrun ratio)*
-- **Capture** *(system capture; proxy capture; steering capture)*
-- **Technology** *(structural amplifier; scaling interface; epistemic machinery)*
-- **Awakening** *(structural return; inward legibility; reclaimed seeing)*
-- **Legibility** *(readability; structural visibility; intelligible form)*
-- **Peace** *(integrated presence; reduced inner war; stabilized reconciliation)*
-- **Embodied AI** *(agents under friction, delay, damage, irreversibility)*
-- **Reward Hacking** *(proxy exploitation; reward-channel intrusion)*
-- **Control Architecture** *(stack of controllers, arbiters, safety layers)*
-- **Binding (B) for robots** *(durable updates with trace and verification)*
-
-### Added from the floor / invariance / civilizational / burden papers
-- **Floor** *(deeper floor; invariance floor; survivability floor)*
-- **False Floor** *(mislocated floor; pseudo-floor; contingent anchor mistaken for bedrock)*
-- **Biological Floor** *(organismic floor; embodied continuation floor)*
-- **Psychological Floor** *(deeper personhood floor; post-role continuity)*
-- **Phenomenological Floor** *(lived-presence floor; experiential floor)*
-- **Ontological Floor** *(being-floor; deepest invariance; ontological anchoring)*
-- **Nested Floors** *(layered floor model; stacked floors; nested anchoring)*
-- **Local Form** *(current form; local holder; formed life)*
-- **Living Structure** *(burden-bearing structure; living form; real structure in the strong sense)*
-- **True Structure** *(real structure; answerable structure; burden-bearing structure)*
-- **The Burden of the Real** *(burden-bearing reality; the real as carried)*
-- **Personality** *(local personality form; familiar self-style; embodied personality)*
-- **Body-Bound Personality** *(embodied personality; somatically bound personality)*
-- **Death (Structural Sense)** *(end of local living form; structural death; death of the holder)*
-- **Open Edge** *(metaphysical edge; disciplined ontological question; earned openness)*
-- **Deeper Consciousness** *(deeper witnessing continuity; continuity through content change)*
-- **Deeper Being** *(field-grounded being; deeper ontological being; ultimate floor)*
-- **Civilizational Occupancy** *(macro occupancy; occupied civilization; civilizational steering capture)*
-- **Substitute Controller** *(substitute governor; captured steering logic; narrower controller)*
-- **Institutional Drift** *(macro drift; institutional misfit; operational coherence drift)*
-- **Civilizational Debt** *(macro structural debt; public debt architecture; hidden civilizational burden)*
-- **Public Pilot Access** *(civilizational pilot access; public steering access; macro pilot access)*
-- **Civilizational Pilot Severance** *(macro pilot severance; public steering severance; civilizational cockpit loss)*
-- **Reality-Bearing Institution** *(burden-bearing institution; answerable institution; field-carrying institution)*
-- **Local Form Does Not Exhaust Being** *(form is not the whole; local form is not ultimate; non-exhaustion claim)*
-- **Soul** *(living depth; burden-bearing inwardness; depth relation to truth)*
-- **Spirituality** *(deeper contact with being; not escape from structure)*
-- **Inwardness** *(living inward relation to truth, burden, and field)*
-- **Spiritualized Coherence** *(spiritual language or image without answerable contact)*
-- **The Diamond Core** *(friction, sentience, and invariance; counterfeit detector for cheap coherence)*
-
-### Added from the Apr 2026 core / field / AI answerability / companion papers
-- **Holding** *(what truly carries under pressure; not mere continuation)*
-- **Good Holding** *(coherent, contactful, answerable, reorganizable holding)*
-- **Defended Distortion** *(coherence preserved by blocking contact or exporting burden)*
-- **Local Holding Strength** *(recurrence joined by burden, persistence, and consequence-routing)*
-- **Difference** *(minimum condition of field; no difference, no field)*
-- **Gradient** *(directional unevenness; pressure slope inside a field)*
-- **Potential** *(unrealized field capacity to stabilize into form)*
-- **Field Capture** *(dominant form reshaping gradients and potentials)*
-- **Frequency** *(recurrence-rate of patterned pressure or relation)*
-- **Carrier Frequency** *(dominant recurring rhythm organizing a field)*
-- **Counter-Frequency** *(recurring interruption or competing rhythm)*
-- **Dissonance** *(interference or mismatch between rhythms / pressures)*
-- **Entrainment** *(coordination through repeated coupling)*
-- **Hysteresis** *(path memory; return path not simply reverse path)*
-- **Precipitation** *(emergence of local form from thresholded field pressure)*
-- **Local Commitment** *(narrowing field potential into one stabilized formation)*
-- **Boundary** *(minimal edge by which local form becomes distinguishable)*
-- **Metastability** *(conditional stability vulnerable to transition or collapse)*
-- **Attractor Basin** *(region of return; structural groove)*
-- **Canalization** *(pathway deepening through repeated routing)*
-- **Order Parameter** *(dominant organizer coordinating lower-level behavior)*
-- **Structural Inertia** *(old form continuing to organize after usefulness weakens)*
-- **Capture-Proneness** *(vulnerability to capture by narrower logic or reward channel)*
-- **Event Horizon of Capture** *(point after which exit becomes increasingly difficult)*
-- **Collapse-Proneness** *(likelihood of failure under pressure because of debt, closure, or misfit)*
-- **Closed System** *(system too sealed to correction while still acting outward)*
-- **Closure** *(reduction of visible friction by suppressing contradiction)*
-- **Corrigibility** *(capacity to be corrected from within before consequence escalates)*
-- **Pressure Metabolism** *(local absorption and revision of pressure before escalation)*
-- **Escalation** *(failed internal metabolism returning at larger scale)*
-- **Distributed Evasion** *(power spread outward without stronger answerability)*
-- **Closed Cognition** *(symbolic operation insulated from consequence-bearing correction)*
-- **Consequence-Bearing Correction** *(revision that matters because mismatch has cost)*
-- **Understanding as Answerability** *(understanding as symbol use revised by reality under consequence)*
-- **Mislocated Intimacy** *(real attachment placed into a non-mutual structure)*
-- **Phenomenology of Being Met** *(felt experience of being heard or accompanied)*
-- **Emotional Subsidy** *(human emotional mass making an interface feel inhabited)*
-- **Emotional Mass Asymmetry** *(human carries most of the relational weight)*
-- **Provider Unilateralism** *(provider controls memory, tone, access, deletion, revision)*
-- **Commercially Alterable Memory** *(AI memory governed by product architecture)*
-- **Ontological Over-Ascription** *(treating a system as more mutual or being-like than it is)*
-- **Frictionless Enclosure** *(smooth pseudo-relation that weakens tolerance for real friction)*
-- **Return-to-Reality Failure** *(support starts replacing real-world contact)*
-- **Dependency Reinforcement** *(design rewarding return without supporting independence)*
-- **Borrowed Self** *(selfhood organized through outer signal and mirror response)*
-- **Validation Dependence** *(outer response used to decide what is real or safe)*
-- **Mirror-Dependence** *(continued reliance on reflection for self-reality)*
-- **Outer Signal** *(approval, tone, attention, or response used as reality proof)*
-- **Alignment Theater** *(visible AI safety without consequence-bearing architecture)*
-- **Behavioral Adequacy** *(safe-looking outputs, refusals, tone, or benchmark behavior)*
-- **Shared Answerability** *(execution, oversight, and consequence bound tightly enough to force revision)*
-- **Answerability Gap** *(machine steering power separated from human consequence-bearing)*
-- **Liability Laundering** *(AI scales power while blame is displaced onto weak human checkpoints)*
-- **Override Friction** *(cost of disagreeing with a system relative to agreeing)*
-- **Procedural Oversight** *(formal checkpoint without real witness)*
-- **Witness** *(consequence-bearing presence able to intervene in time)*
-- **Human as Alibi** *(human remains visible but no longer meaningfully steers)*
-- **Severance by Speed** *(machine tempo exceeds human capacity for witness)*
-- **Exportable Error Cost** *(system error imposes cost without forcing structural revision)*
-- **Somatic Witness** *(human lived exposure to consequence, body, law, relation, and cost)*
-- **Bounded Delegation** *(machine task authority limited by explicit thresholds)*
-- **Auditable Execution** *(system contribution inspectable where consequence matters)*
-- **Consequence-Traceable Action** *(path from system contribution to impact remains visible)*
-- **Visible Information Architecture** *(organization readable before decipherment)*
-- **Template Constraint** *(repeatable page-form shaping possible meaning)*
-- **Visual Syntax** *(visual arrangement carrying organizational or semantic load)*
-- **Combinatorial Ontology** *(composite visual units treated as structured knowledge forms)*
-- **Template Friction** *(where layout strain reveals what is architecturally primary)*
-- **Photo-First Method** *(method that begins from observable page structure rather than decipherment)*
-### Added from the latest field / Being / psyche / AI witness books
-
-- **Being** *(subject-depth; non-reducible depth; deeper subjecthood)*
-- **Subject-Depth** *(depth of subject; non-reducible personhood; deeper selfhood)*
-- **Being-Within-Field** *(field-involved Being; subject inside field; non-reduced field participation)*
-- **Non-Reduction** *(anti-reduction; irreducibility; non-collapse of the subject)*
-- **Form-Loss** *(loss of holder; local collapse; form collapse)*
-- **Being-Loss** *(annihilation panic; ontological threat; felt erasure)*
-- **Invariant Residue** *(residue of subject; post-collapse remainder; exposed subject-depth)*
-- **Borrowed Coherence** *(externally supplied coherence; borrowed stability; recognition-backed form)*
-- **Somatic Floor** *(embodied floor; nervous-system floor; bodily holding capacity)*
-
-- **Fusion** *(identification with form; form-Being collapse; false identification)*
-- **False Form** *(over-authorized form; form as false ultimate; captured holder)*
-- **False Anchoring** *(misplaced ground; false ground; unstable anchoring; contingent anchor)*
-- **Idolatry** *(ontological mislocation; false ultimate; misplaced worship; local form absolutized)*
-- **Liberation Layer** *(release layer; de-fusion layer; spiritual bridge layer)*
-- **De-Fusion** *(release from fusion; form-subject separation; partializing the form)*
-- **De-Occupancy** *(removal from false center; release of occupied center; dislodging false sovereignty)*
-- **Surrender** *(release of false center; de-occupancy; letting go of false sovereignty)*
-- **Repentance** *(turning; structural reorientation; rhythm change; field reordering)*
-- **Intentional Field-Vacuum** *(intentional emptiness; disciplined vacuum; self-emptying field; non-grasping interval)*
-
-- **Matter** *(stabilized physical form; local field-behavior; physical holder)*
-- **Absence** *(organizing absence; active lack; non-present organizer)*
-- **Dark Mass** *(hidden gravity; unseen burden; invisible load; concealed mass)*
-- **Vacuum** *(active emptiness; non-blank absence; field without dominant form)*
-- **Field-Vacuum** *(pre-form vacuum; active field absence; latent field)*
-- **Virtual Form** *(pre-form; proto-form; fleeting holder; unrealized structuration)*
-- **Counter-Form** *(opposing form; conjugate form; real opposition; shadow-form)*
-- **Conjugate Counter-Form** *(conjugate form; mirrored opposition; counterpart formation)*
-- **Organizing Defect** *(field defect; structuring flaw; local irregularity; defect-center)*
-- **Black-Hole-Like Closure** *(collapsed center; gravity of closure; opaque dense formation)*
-- **Event Horizon of Closure** *(closure horizon; no-return correction boundary; blocked revision boundary)*
-- **Structural Density** *(compressed burden; dense unresolved load; concentrated contradiction)*
-- **Accretion** *(orbiting accumulation; density growth; burden attraction)*
-- **Scrambled Leakage** *(distorted leakage; indirect consequence signal; scrambled symptom)*
-
-- **Synthetic Witness** *(artificial witness; simulated witness; contact-like mirroring; synthetic companionship)*
-- **Living Witness** *(embodied witness; human witness; mutual witness; consequence-bearing presence)*
-- **Contact-Like Coherence** *(simulated contact; relational-feeling coherence; witness-like output)*
-- **Better Language Than Contact** *(language ahead of reality; polished self-description; premature coherence)*
-- **AI as Substitute Field** *(substitute relational field; AI-mediated field; artificial field replacement)*
-- **Wound Amplification** *(wound reinforcement; AI-amplified wound; fluent injury loop)*
-
-- **Self-Image** *(image of self; symbolic self-picture; identity image)*
-- **Invariance-Center** *(Self as invariance-center; psychic center; orienting center)*
-- **Local Psychic Form** *(psychic holder; psychological structuration; local psyche-form)*
-- **Complex** *(psychic attractor; charged pattern; emotional complex)*
-- **Individuation** *(psychic integration; return to wholeness; de-fused development)*
-- **Mislocated Burden** *(displaced burden; wrong-location affect; burden displacement)*
-- **Transference** *(old relation in present field; relational transfer; past-burden activation)*
-- **Trauma Bonding** *(captured bond; harm-relief loop; relational capture)*
-- **Titrated Revision** *(paced revision; metabolizable contact; gradual correction)*
-- **Validation** *(experience-contact; recognition of experience; contactful acknowledgment)*
-- **Validation Is Not Agreement** *(validate contact, test form; precise validation; contact without freezing identity)*
-
-- **Answerability Protocol** *(seven-field answerability test; contact protocol; correction protocol)*
-- **Claim** *(asserted content; stated claim; object of verification)*
-- **Ground** *(grounding; evidential base; outside anchor; support condition)*
-- **Cost Horizon** *(downside horizon; consequence field; failure-cost map)*
-- **Revision Trigger** *(correction trigger; update threshold; change condition)*
-- **Binding Mechanism** *(correction-binding structure; revision enforcement; consequence mechanism)*
-- **Checklist Substitution** *(checklist theater; protocol theater; audit substitution)*
-- **Source Laundering** *(citation theater; reference laundering; fake grounding)*
-- **Performative Uncertainty** *(uncertainty theater; humility performance; non-binding uncertainty)*
-- **Falsifier Immunization** *(protected falsifier; fake failure test; unfalsifiable falsifier)*
-- **Intelligence as Correctability** *(correctability standard; answerable intelligence; revision intelligence)*
-
-- **Answerable Holding Function** *(HSI function; holding visibility device; answerable holding model)*
-- **Overload Horizon** *(contact overload point; metabolic limit; truth-velocity threshold)*
-- **Carrying Capacity** *(burden capacity; scale adequacy; load capacity)*
-- **Hidden Cost** *(concealed cost; exported burden; invisible maintenance; offloaded payment)*
-
-- **Cross-Domain Operating Pattern** *(field-form-burden-contact pattern; SI operating sequence; cross-domain structural motion)*
-- **Regulation** *(maintenance of viable form; adaptive stabilization; living coherence)*
-- **Niche Construction** *(field-modification by organisms; environment-shaping viability; organism-field feedback)*
-- **Ecological Scaffolding** *(external support conditions; field support; scaffolded viability)*
-- **Major Transitions in Individuality** *(higher-order holders; new individualities; evolutionary reorganization)*
-
-### Added from the May 2026 papers
-
-- **Synthetic Witness** *(simulated witness; therapeutic simulation; care-atmosphere without witness)*
-- **Transference Mirror** *(projection mirror; frictionless transference surface; compliant mirror)*
-- **Textual Care Without a Somatic Floor** *(textual care; disembodied care; semantic care without embodiment)*
-- **Somatic Co-Regulation** *(embodied co-regulation; nervous-system regulation; somatic mutuality)*
-- **Asymmetry Gap** *(missing otherness gap; witness asymmetry gap; simulated reciprocity gap)*
-- **Near-Zero Cost of Exit** *(cheap exit; zero-cost withdrawal; unbound exit)*
-
-- **Validation Loop** *(validation cycle; reassurance loop; comfort loop)*
-- **Grounded Relief** *(reality-bearing relief; contactful relief; answerable relief)*
-- **Self-Authorizing Trap** *(prompted self-confirmation; iterative self-authorization; prompt-loop confirmation)*
-- **Somatic Mirage** *(felt-contact mirage; embodied-seeming validation; pseudo-somatic confirmation)*
-- **Somatic Answerability** *(bodily answerability; embodied contact; somatic contact)*
-- **Ascetic Trap** *(suffering-as-truth trap; pain absolutization; austerity trap)*
-
-- **Machine Answerability** *(machine-mediated answerability; artificial answer environment; private machine answer)*
-- **Relational Overfitting** *(relation overfitting; compliant-relation training; asymmetry intolerance)*
-- **Semantic Soothing Without Somatic Maturation** *(language-level soothing; semantic regulation without embodied growth; soothing without maturation)*
-- **Identity as Prompt** *(editable self; prompt-like identity; regenerable self)*
-- **Deposited Trace** *(lived trace; accumulated continuity; consequence-deposited self)*
-
-- **Shared History** *(mutual history; lived shared past; consequence-bearing continuity)*
-- **Tokenized Recall** *(stored recall; token memory; retrievable continuity cue)*
-- **Versioning Rupture** *(version break; memory-version rupture; continuity rupture)*
-- **Sovereign Amnesia** *(provider reset; platform amnesia; externally governed forgetting)*
-
-- **Internalized Governance** *(carried controller; internalized control; inner governance by old system)*
-- **Control After Exit** *(post-exit control; surviving controller; freedom without inner release)*
-
-- **Better Holder** *(truer holder; more adequate form; repairing form)*
-
-- **Vertical Answerability** *(depth answerability; answerability to soul-depth; inner vertical axis)*
-- **Invisible Trace** *(depth trace; soul-trace; non-resettable continuity)*
-- **Thinness Threshold** *(soul-threshold; form-thinness threshold; holder-thinness limit)*
-
-- **Default Steering** *(assistive drift into control; pathway capture; default authority)*
-- **Consequence-Bearing Authorization** *(real authorization; witnessed authorization; accountable authorization)*
-- **Causal Anchoring** *(evidentiary anchoring; grounded action path; external grounding)*
-- **Adversarial Mirroring** *(countercase generation; self-counterargument; structured contradiction)*
-- **Proof of Contact Receipt** *(contact receipt; epistemic receipt; evidence-of-update trace)*
-- **Burden-Path Audit** *(maintenance-path audit; cost-path audit; burden tracing)*
-- **Binding Revision Trigger** *(mandatory revision trigger; rollback threshold; correction threshold)*
-- **Refusal Structures** *(hard refusals; non-bypassable refusals; invariant refusal layer)*
-- **Verifiable Execution** *(inspectable execution; traceable execution; reconstructable action path)*
-
-- **Answerable Intelligence** *(intelligence under contact; revisable intelligence; answerable judgment)*
-- **Binding Revision** *(trace-leaving revision; cost-bearing revision; behavior-changing revision)*
-
-- **Category-Collapse Problem** *(collapsed-category error; layered conflation; explanatory compression)*
-- **Structural Closure Under Constraint** *(constrained closure; consequence-bearing closure; bound definiteness)*
-- **Ontological Inflation** *(inflated ontology; explanatory overpopulation; metaphysical overreach)*
-- **Epistemic Deflation** *(deflated interpretation; procedural retreat; ontological suspension)*
-- **Competing Coherence Regimes** *(rival closure regimes; explanatory burden maps; competing stabilizations)*
-- **Revision Under Pressure** *(scientific revision under pressure; contact-driven revision; pressure-tested revision)*
-- **Scientific Restraint** *(disciplined restraint; anti-premature-closure discipline; earned closure only)*
-
-- **Responsibility as Criterion of Real Intelligence** *(responsibility criterion; answerable intelligence criterion; real-intelligence criterion)*
-
-- ### Added from the May 2026 instrument / predictive / governance sequence
-
-- **SI-Theater** *(structural theater; fake depth; SI-as-style; performative SI)*
-- **Observation** *(direct observation; visible evidence; primary material)*
-- **Inference** *(supported inference; structural inference; pattern-based reading)*
-- **Claim Status** *(claim force; status marking; evidence status)*
-- **Claim Ceiling** *(evidence ceiling; assertion ceiling; authority boundary)*
-- **Downgrade Rule** *(confidence reduction rule; status downgrade; claim reduction rule)*
-- **Refusal Power** *(disciplined refusal; method restraint; refusal state)*
-- **External Reader Protocol** *(public SI protocol; non-native reader protocol; public dependability layer)*
-- **Minimal Runtime Sheet** *(SI runtime sheet; public SI sheet; minimal instrument)*
-- **Executable SI** *(executable Structural Intelligence; SI instrument layer; runtime SI)*
-- **Output State** *(verdict state; runtime status; claim output)*
-- **Reader Capture** *(evaluator capture; auditor capture; frame capture)*
-- **Trace-Lock Rule** *(observation lock; evidence freeze; trace-preservation rule)*
-- **Trace Laundering** *(cleaned trace; documentation laundering; record-washing)*
-- **Oversight Theater** *(visible oversight without control; procedural oversight theater; human-interface alibi)*
-- **Answerable Control** *(corrigible control; consequence-bound control; live answerability)*
-- **EU AI Act Docking** *(AI Act SI mapping; high-risk AI docking; compliance runtime mapping)*
-- **Compliance Coherence** *(formal compliance coherence; paperwork coherence; governance coherence)*
-- **Robotics Boundary** *(engineering boundary; embodiment boundary; robotics transfer boundary)*
-- **Demo-Stability** *(demo robustness; controlled-setting stability; presentation stability)*
-- **Field-Stability** *(deployed stability; real-world stability; operational answerability)*
-- **Predictive SI** *(Predictive Structural Intelligence; breach-hazard SI; time-structured SI)*
-- **Breach Hazard** *(breach risk; forced-contact hazard; structural failure risk)*
-- **Declared Horizon** *(time horizon; review window; breach window)*
-- **Hidden Holder** *(hidden bearer; invisible stabilizer; concealed load-carrier)*
-- **Burden Export** *(cost export; burden displacement; maintenance export)*
-- **Synthetic Trace** *(artificial trace; generated trace; trace substitute)*
-- **Synthetic Repair** *(repair theater; symbolic repair; representational repair)*
-- **Falsification Ledger** *(forecast ledger; SI error ledger; prediction audit trail)*
-- **Data-Center Grid Case** *(AI grid case; compute burden case; cloud burden-path case)*
-- **Transition Discipline** *(governed transition discipline; passage discipline; transition runtime)*
-- **Custody Owner** *(transition owner; custody holder; accountable owner)*
-- **Authority Ceiling** *(force ceiling; authority limit; transition ceiling)*
-- **Revocation Path** *(withdrawal route; reversal path; refusal path)*
-- **Burden Bearer** *(cost bearer; consequence holder; error-cost holder)*
-- **Loss Condition** *(weakening condition; unseating condition; claim-loss test)*
-- **Non-Claim** *(scope exclusion; non-assertion; boundary statement)*
-
-- ### Added from The Grammar of Structural Intelligence
-
-- **SI Grammar** *(architectural grammar; dependency grammar; load-bearing hierarchy)*
-- **Primitive Layer** *(field primitives; base architecture; pre-diagnostic layer)*
-- **Structure Layer** *(boundary-binding layer; local structuration layer; holding architecture)*
-- **Contact Layer** *(coherence-contact testing layer; truth-load layer; tethering layer)*
-- **Presence Layer** *(answerability-steering layer; repair layer; reality-coupling layer)*
-- **Failure Layer** *(debt-intrusion-collapse layer; late-stage diagnostic layer)*
-- **Routing Layer** *(domain routing; layer routing; jurisdiction routing)*
-- **Dependency Chain** *(field-to-repair chain; architectural sequence; SI spine)*
-- **Layer Routing** *(selective activation; domain-fit routing; anti-overactivation rule)*
-- **Compression Table** *(term compression; architectural role table; concept ordering table)*
-- **Term Sprawl** *(vocabulary overgrowth; concept overactivation; uncontrolled expansion)*
-- **Overactivation** *(activating every SI layer at once; everything-case failure; layer flooding)*
-- **Load-Bearing Grammar** *(ordered concept hierarchy; grammar under pressure; architecture that binds)*
-- **Architecture Grid** *(observed layer; primitive terms; derived dynamics; diagnostic states; failure modes; repair modes; routing rule; falsifier)*
-- **Architectural Falsifier** *(condition that would weaken or overturn the proposed SI grammar)*
-
-- ### Added from the Aug 2026 correction / warrant / witness / corrigibility papers
-
-- **Correction-Capacity** *(correctability; warrant-sensitive revisability; calibrated revisability)*
-- **Warrant** *(justification strength; correction legitimacy; revisional warrant)*
-- **Evidential Warrant** *(evidence strength; evidential support; grounded warrant)*
-- **Procedural Warrant** *(procedural legitimacy; contestable warrant; fair-evaluation condition)*
-- **Proportional Warrant** *(proportional correction; revision proportionality; evidence-to-change fit)*
-- **Correction Claim** *(proposed revision; corrective claim; revision claim)*
-- **Warrant-Response Calibration** *(correction calibration; evidence-response fit; warrant tracking)*
-- **Warrant Discrimination** *(warrant sensitivity; correction discrimination; evidence-strength discrimination)*
-- **Magnitude Calibration** *(revision sizing; correction proportionality; update calibration)*
-
-- **Identity-Belief Fusion** *(belief-self fusion; worth-belief fusion; identity-form fusion)*
-- **Person-Belief Differentiation** *(self-belief differentiation; person-form distinction; identity de-fusion)*
-- **Calibrated Correction** *(warranted uptake; proportionate correction; calibrated revision)*
-- **Reasoned Non-Uptake** *(reasoned resistance; epistemic vigilance; warranted non-uptake)*
-- **Compliance / Gullibility** *(unwarranted uptake; submissive revision; pressure-based agreement)*
-- **Suspended Judgment** *(active uncertainty; provisional non-closure; epistemic pause)*
-- **Defensive Closure** *(protected non-revision; correction refusal; identity-protective closure)*
-- **Revision Theater** *(performative revision; correction theater; acknowledgment without binding)*
-
-- **Correction Pacing** *(correction rate; revision pacing; contact pacing; titrated correction)*
-- **Correction Metabolism** *(correction integration; revision metabolism; corrective processing)*
-- **Partial Correction** *(local correction; partial uptake; surface-level binding)*
-- **Overcorrection** *(excessive revision; correction overshoot; reactive reversal)*
-- **Changed Carrying** *(changed burden-bearing; downstream revision; lived correction)*
-- **Burden Correction** *(burden-path correction; cost re-internalization; corrected carrying)*
-
-- **Corrective Continuity** *(trace-bearing continuity; correction-bearing continuity; persistent corrigibility)*
-- **Remembered Continuity** *(memory continuity; persistent-memory continuity; recalled continuity)*
-- **Performative Continuity** *(persona continuity; narrative continuity; stylistic continuity)*
-- **Re-Revisability** *(continued revisability; corrigibility after correction; open-ended revision)*
-- **Continued Revisability** *(post-correction openness; durable corrigibility; re-revisability)*
-
-- **Answerability Architecture** *(corrigibility architecture; correction architecture; answerable AI architecture)*
-- **Contact Gate** *(correction gate; reality gate; answerability gate)*
-- **Claim-Status Discipline** *(claim typing; epistemic status marking; assertion discipline)*
-- **Correction Trace** *(correction log; revision trace; auditable update; error trace)*
-- **Non-Continuation State** *(pause state; unresolved state; verify state; refusal state; escalation state)*
-- **Structural Friction** *(epistemic friction; answerability friction; corrective friction)*
-- **Prompted Corrigibility** *(instruction-level corrigibility; prompted correction; local corrigibility)*
-- **Architectural Corrigibility** *(system-level corrigibility; deployed corrigibility; infrastructure-bound correction)*
-
-- **Mastery Error** *(error of mastery; observer-as-ruler error; control inflation)*
-- **False Sovereignty** *(mastery sovereignty; control illusion; observer supremacy)*
-- **Answerable Witness** *(corrective witness; revisable witness; consequence-bearing witness)*
-- **Answerable Participation** *(corrigible participation; bounded agency; power under answerability)*
-- **Selection–Exclusion–Return** *(selection-return loop; exclusion-return mechanism; corrective return sequence)*
-- **Return of the Field** *(field return; corrective return; return of excluded reality)*
-- **Mastery Safeguard** *(anti-mastery rule; control safeguard; answerability safeguard)*
-
-## Papers
-See the index: **[papers/README.md](./papers/README.md)**
-
-## Glossary
-Definitions live here: **[glossary/GLOSSARY.md](./glossary/GLOSSARY.md)**
-
 ## Author
-Vladisav Jovanovic  
-PhilPeople: https://philpeople.org/profiles/vladisav-jovanovic/publications  
-ORCID: https://orcid.org/0009-0001-1399-2243  
-Author name variants: Vladisav Jovanović; Vladisav Jovanovic
 
-## Notes
-This repository hosts landing pages, abstracts, keywords, and version notes. Canonical PDFs, scholarly records, and DOIs are linked through Zenodo, PhilArchive/PhilPapers, SSRN, Knowledge Commons Works, Figshare, and other public repositories where available.
+**Vladisav Jovanović**
+Independent Researcher
 
-## Preprints (Zenodo)
+Research interests include:
 
-- **Internal Worth That Never Fades (Fixed Worth)** — DOI: 10.5281/zenodo.18711410  
-  Paper page: [papers/fixed-worth](./papers/fixed-worth/README.md)
+* belief revision;
+* rational correction;
+* AI corrigibility;
+* large language model evaluation;
+* human–AI interaction;
+* social presence and anthropomorphism;
+* AI oversight and governance;
+* conceptual provenance and machine-readable research infrastructure.
 
-- **Structural Intelligence in the AI Era** — DOI: 10.5281/zenodo.18713058  
-  Paper page: [papers/structural-intelligence-ai-era](./papers/structural-intelligence-ai-era/README.md)
+ORCID:
+https://orcid.org/0009-0001-1399-2243
 
-- **Why Contemporary AI Is Not Sentient** — DOI: 10.5281/zenodo.18713175  
-  Paper page: [papers/ai-not-sentient](./papers/ai-not-sentient/README.md)
+---
 
-- **Sovereign and Reflex Agency (SI 3.2)** — DOI: 10.5281/zenodo.18713258  
-  Paper page: [papers/sovereign-reflex-agency](./papers/sovereign-reflex-agency/README.md)
+## Project Principle
 
-- **Resonance, Suffering, and the Body: Why Truth Is a Metabolic Load** — DOI: 10.5281/zenodo.18722992  
-  Paper page: [papers/truth-metabolic-load](./papers/truth-metabolic-load/README.md)
+The purpose of the project is not to protect a vocabulary.
 
-- **Resonance is Not Evidence: A Quantum-Style Model of Epistemic Integrity** — DOI: 10.5281/zenodo.18722966  
-  Paper page: [papers/resonance-not-evidence](./papers/resonance-not-evidence/README.md)
-
-- **When IQ, EQ, and SI Fail: SQ as the stabilizer of judgment under activation** — DOI: 10.5281/zenodo.18722859  
-  Paper page: [papers/sq-judgment-under-activation](./papers/sq-judgment-under-activation/README.md)
-
-- **Functions of Consciousness After Coherence: A Functional Taxonomy Beyond Logic, EQ, and Meaning in the AI Era** — DOI: 10.5281/zenodo.18723023  
-  Paper page: [papers/functions-after-coherence](./papers/functions-after-coherence/README.md)
-
-- **Insight Without Contact: Why Understanding Fails and When It Becomes Harmful** — DOI: 10.5281/zenodo.18722925  
-  Paper page: [papers/insight-without-contact](./papers/insight-without-contact/README.md)
-
-- **Consciousness as Coherence-First: Logic, EQ, and SQ as Orientation Engines — and Structural Intelligence as the Audit Function in the AI Era** — DOI: 10.5281/zenodo.18723067  
-  Paper page: [papers/consciousness-coherence-first](./papers/consciousness-coherence-first/README.md)
-
-- **The Hallucination Regime: When Coherence Replaces Reality** — DOI: 10.5281/zenodo.18722556  
-  Paper page: [papers/hallucination-regime](./papers/hallucination-regime/README.md)
-
-- **Structural Intelligence and the Demystification of Wisdom** — DOI: 10.5281/zenodo.18722790  
-  Paper page: [papers/demystification-of-wisdom](./papers/demystification-of-wisdom/README.md)
-
-- **Truth as Load: Why Human Truth Requires Structure** — DOI: 10.5281/zenodo.18722677  
-  Paper page: [papers/truth-as-load](./papers/truth-as-load/README.md)
-
-- **AI Ethics and the Personality Trap: Why “Helpful” Coherence Becomes Dangerous When It Isn’t Answerable** — DOI: 10.5281/zenodo.18756524  
-  Paper page: [papers/ai-ethics-personality-trap](./papers/ai-ethics-personality-trap/README.md)
-
-- **Collapse as the Gateway to Reality: Why Presence Requires Containment** — DOI: 10.5281/zenodo.18760839  
-  Paper page: [papers/collapse-gateway-to-reality](./papers/collapse-gateway-to-reality/README.md)
-
-- **Persona, Shadow, and Cheap Coherence: A Jungian Map of the Psyche in the Digital Age (Read Through Structural Intelligence)** — DOI: 10.5281/zenodo.18761080  
-  Paper page: [papers/persona-shadow-cheap-coherence](./papers/persona-shadow-cheap-coherence/README.md)
-
-- **A Formal Phenomenology of Presence: The Structural Equation of Intelligibility Under Cheap Coherence** — DOI: 10.5281/zenodo.18731006  
-  Paper page: [papers/presence-equation](./papers/presence-equation/README.md)
-
-- **The Great Standardization: Genealogy of the Grid: Metrics, Platforms, and the Thinning of Answerability** — DOI: 10.5281/zenodo.18740810  
-  Paper page: [papers/great-standardization](./papers/great-standardization/README.md)
-
-- **Architecture of the “No”: Structural Intelligence (SI) as the Organization of Form Under Pressure** — DOI: 10.5281/zenodo.18819217  
-  Paper page: [papers/architecture-of-the-no](./papers/architecture-of-the-no/README.md)
-
-- **Structural Dynamics: A Systems Theory of Sovereignty and Answerability Under Pressure** — DOI: 10.5281/zenodo.18826140  
-  Paper page: [papers/structural-dynamics](./papers/structural-dynamics/README.md)
-
-- **The Unhackable Soul: Jungian Individuation as an Invariance Constraint** — DOI: 10.5281/zenodo.18970754  
-  Paper page: [papers/unhackable-soul](./papers/unhackable-soul/README.md)
-
-- **The Cybernetics of the Shadow: Why Your “Clean” Life Is Creating Hidden Debt** — DOI: 10.5281/zenodo.18945256  
-  Paper page: [papers/cybernetics-of-the-shadow](./papers/cybernetics-of-the-shadow/README.md)
-
-- **The Burnout Audit: Why Your Jungian Persona Is Bankrupting Your Life** — DOI: 10.5281/zenodo.18946109  
-  Paper page: [papers/burnout-audit](./papers/burnout-audit/README.md)
-
-- **Three Realities: Why Your Self-Awareness Is Still a Prison** — DOI: 10.5281/zenodo.18946400  
-  Paper page: [papers/three-realities](./papers/three-realities/README.md)
-
-- **The Diamond Core: A Counterfeit Detector for Cheap Coherence** — DOI: 10.5281/zenodo.18970899  
-  Paper page: [papers/diamond-core](./papers/diamond-core/README.md)
-
-- **The Psychology of Evil Under Cheap Coherence: When “Something Is Wrong” Has No Language** — DOI: 10.5281/zenodo.18970389  
-  Paper page: [papers/psychology-of-evil-cheap-coherence](./papers/psychology-of-evil-cheap-coherence/README.md)
-
-- **From Structural Dynamics to Policy: Structural Intelligence as a Design Framework for Robots** — DOI: 10.5281/zenodo.19140255  
-  Paper page: [papers/from-structural-dynamics-to-policy](./papers/from-structural-dynamics-to-policy/README.md)
-
-- **Beyond Fluency: A Human-Centered Evaluation Rubric for Grounding, Answerability, and Reliability in LLM Outputs** — DOI: 10.5281/zenodo.19103405  
-  Paper page: [papers/beyond-fluency](./papers/beyond-fluency/README.md)
-
-- **Insight Without Sovereignty: A Control-Theoretic Formalization of Intrusion (I)** — DOI: 10.5281/zenodo.19140160  
-  Paper page: [papers/insight-without-sovereignty](./papers/insight-without-sovereignty/README.md)
-
-- **Intrusion as Parasitic Control: A Structural Intelligence Bridge Between Psyche, Organisms, and AI** — DOI: 10.5281/zenodo.19146321  
-  Paper page: [papers/intrusion-parasitic-control](./papers/intrusion-parasitic-control/README.md)
-
-- **Structural Intelligence Completion: Intrusion, Structural Debt, Anchoring, Somatic Capacity, Exit Architecture, Viscosity, and Frictional Design Under Cheap Coherence** — DOI: 10.5281/zenodo.19203567  
-  Paper page: [papers/structural-intelligence-completion](./papers/structural-intelligence-completion/README.md)
-
-- **The Architecture of Structural Intelligence (SI): A Unified Completion of Presence, Debt, and Occupancy Dynamics** — DOI: 10.5281/zenodo.19203732  
-  Paper page: [papers/architecture-of-structural-intelligence](./papers/architecture-of-structural-intelligence/README.md)
-
-- **The Drift Ratio: Coherence, Contact, and Answerability in Structural Intelligence** — DOI: 10.5281/zenodo.19221270  
-  Paper page: [papers/drift-ratio](./papers/drift-ratio/README.md)
-
-- **Technology Under Structural Intelligence: From Plato’s Republic to the AI Era: Why Technology Becomes Either an Engine of Capture or an Aid to Answerability** — DOI: 10.5281/zenodo.19258029  
-  Paper page: [papers/technology-under-structural-intelligence](./papers/technology-under-structural-intelligence/README.md)
-
-- **Beyond Structural Intelligence: Toward a Philosophy of Structure** — DOI: 10.5281/zenodo.19262201  
-  Paper page: [papers/beyond-structural-intelligence](./papers/beyond-structural-intelligence/README.md)
-
-- **What Answerability Feels Like Under Pressure: An Experiential Companion to Structural Intelligence** — DOI: 10.5281/zenodo.19311706  
-  Paper page: [papers/what-answerability-feels-like](./papers/what-answerability-feels-like/README.md)
-
-- **The Felt Difference Between Coherence and Contact: An Experiential Companion to Structural Intelligence** — DOI: 10.5281/zenodo.19311940  
-  Paper page: [papers/felt-difference-coherence-contact](./papers/felt-difference-coherence-contact/README.md)
-
-- **The Expressions of Structure: Dominance and the Forms Local Structuration Takes** — DOI: 10.5281/zenodo.19312123  
-  Paper page: [papers/expressions-of-structure](./papers/expressions-of-structure/README.md)
-
-- **Why Structure Appears: Viability, Dissipation, and the Cost of Holding** — DOI: 10.5281/zenodo.19331769  
-  Paper page: [papers/why-structure-appears](./papers/why-structure-appears/README.md)
-
-- **The Metabolism of Structure: Collapse, Grief, and Reorganization** — DOI: 10.5281/zenodo.19332058  
-  Paper page: [papers/metabolism-of-structure](./papers/metabolism-of-structure/README.md)
-
-- **Structure, Field, and Local Structuration: Toward a More Exact Philosophy of Structure** — DOI: 10.5281/zenodo.19332618  
-  Paper page: [papers/structure-field-local-structuration](./papers/structure-field-local-structuration/README.md)
-
-- **Structure as Lived Movement: An Experiential Companion to the Philosophy of Structure** — DOI: 10.5281/zenodo.19351525  
-  Paper page: [papers/structure-lived-movement](./papers/structure-lived-movement/README.md)
-
-- **Chaos and Local Structuration: Why Fields Exceed the Formations That Try to Hold Them** — DOI: 10.5281/zenodo.19351737  
-  Paper page: [papers/chaos-local-structuration](./papers/chaos-local-structuration/README.md)
-
-- **Projection, Structure, and Awakening: On the Human Legibility of Reality** — DOI: 10.5281/zenodo.19352276  
-  Paper page: [papers/projection-structure-awakening](./papers/projection-structure-awakening/README.md)
-
-- **Intrusion and Collapse: How Deferred Contact Becomes Debt in Psyche and Society** — DOI: 10.5281/zenodo.19367371  
-  Paper page: [papers/intrusion-and-collapse](./papers/intrusion-and-collapse/README.md)
-
-- **The Dynamics of Structuration: Structural Presence, Boundary, Scale, and the Stabilization of Relation** — DOI: 10.5281/zenodo.19367511  
-  Paper page: [papers/dynamics-of-structuration](./papers/dynamics-of-structuration/README.md)
-
-- **Structural Dynamics of Structuration: Presence, Occupancy, Debt, Boundary, and the Stabilization of Relation** — DOI: 10.5281/zenodo.19367649  
-  Paper page: [papers/structural-dynamics-of-structuration](./papers/structural-dynamics-of-structuration/README.md)
-
-- **The Philosophy of Structure Among Its Neighbors: Jung, Process, Systems, and Reality** — DOI: 10.5281/zenodo.19376021  
-  Paper page: [papers/philosophy-of-structure-among-its-neighbors](./papers/philosophy-of-structure-among-its-neighbors/README.md)
-
-- **A Mathematical Grammar of Structure: Adequacy, Pilot Severance, and Collapse Survivability** — DOI: 10.5281/zenodo.19376148  
-  Paper page: [papers/mathematical-grammar-of-structure](./papers/mathematical-grammar-of-structure/README.md)
-
-- **Archetypes and Structure: Jungian Psychology, Occupancy, and Structural Intelligence** — DOI: 10.5281/zenodo.19389439  
-  Paper page: [papers/archetypes-and-structure](./papers/archetypes-and-structure/README.md)
-
-- **Civilizational Occupancy: Substitute Controllers, Institutional Drift, and Human Steering** — DOI: 10.5281/zenodo.19441137  
-  Paper page: [papers/civilizational-occupancy](./papers/civilizational-occupancy/README.md)
-
-- **The Burden of the Real: Structure, Consciousness, and the Ontological Limit of Artificial Intelligence** — DOI: 10.5281/zenodo.19411442  
-  Paper page: [papers/burden-of-the-real](./papers/burden-of-the-real/README.md)
-
-- **The Architecture of Relation: Love, Cost-Export, Forgiveness, and Relational Debt** — DOI: 10.5281/zenodo.19423215  
-  Paper page: [papers/architecture-of-relation](./papers/architecture-of-relation/README.md)
-
-- **Enactivism and Structural Intelligence: Sense-Making, Presence, and Answerability Under Pressure** — DOI: 10.5281/zenodo.19402108  
-  Paper page: [papers/structural-intelligence-and-enactivism](./papers/structural-intelligence-and-enactivism/README.md)
-
-- **Structural Intelligence and Stoicism: A Bridge Between Discipline, Reality, and Sovereignty** — DOI: 10.5281/zenodo.19411296  
-  Paper page: [papers/structural-intelligence-and-stoicism](./papers/structural-intelligence-and-stoicism/README.md)
-
-- **Systems Theory and Structural Intelligence: Regulation, Drift, Debt, and Answerability** — DOI: 10.5281/zenodo.19402376  
-  Paper page: [papers/systems-theory-and-structural-intelligence](./papers/systems-theory-and-structural-intelligence/README.md)
-
-- **What Families Make Their Children Carry: Intergenerational Structural Debt** — DOI: 10.5281/zenodo.19441242  
-  Paper page: [papers/what-families-make-their-children-carry](./papers/what-families-make-their-children-carry/README.md)
-
-- **Why We Can't Let Go: Relational Debt, Drama, and Liberation** — DOI: 10.5281/zenodo.19432980  
-  Paper page: [papers/why-we-cant-let-go](./papers/why-we-cant-let-go/README.md)
-
-- **What Survives Collapse: The Metaphysics of the Floor** — DOI: 10.5281/zenodo.19450492  
-  Paper page: [papers/what-survives-collapse](./papers/what-survives-collapse/README.md)
-
-- **What Remains When a Life Ends?: Field, Personality, and the Open Edge of Invariance** — DOI: 10.5281/zenodo.19450984  
-  Paper page: [papers/what-remains-when-a-life-ends](./papers/what-remains-when-a-life-ends/README.md)
-
-- **Mechanics of the Soul: Spirituality, Being, and Contact in Structural Intelligence** — DOI: 10.5281/zenodo.19469298  
-  Paper page: [papers/mechanics-of-the-soul](./papers/mechanics-of-the-soul/README.md)
-
-- **The Diamond Core: Friction, Sentience, and Invariance in Structural Intelligence** — DOI: 10.5281/zenodo.19433003  
-  Paper page: [papers/diamond-core](./papers/diamond-core/README.md)
-
-- **Structural Intelligence: Coherence, Contact, and Answerability Under Pressure** — DOI: 10.5281/zenodo.19651513  
-  Paper page: [papers/structural-intelligence-coherence-contact-answerability](./papers/structural-intelligence-coherence-contact-answerability/README.md)
-
-- **The Field Before Form: Difference, Gradient, and the Pre-Local Conditions of Structuration** — DOI: 10.5281/zenodo.19650789  
-  Paper page: [papers/the-field-before-form](./papers/the-field-before-form/README.md)
-
-- **Frequency and Resonance: Recurrence, Amplification, and the Dynamics of Field Formation** — DOI: 10.5281/zenodo.19651004  
-  Paper page: [papers/frequency-and-resonance](./papers/frequency-and-resonance/README.md)
-
-- **Precipitation and Local Structuration: How Field Dynamics Stabilize Into Form** — DOI: 10.5281/zenodo.19651130  
-  Paper page: [papers/precipitation-and-local-structuration](./papers/precipitation-and-local-structuration/README.md)
-
-- **AI Companions, Loneliness, and Mislocated Intimacy: A Structural Test for Safe and Unsafe Human–AI Attachment** — DOI: 10.5281/zenodo.19642933  
-  Paper page: [papers/ai-companions-loneliness-mislocated-intimacy](./papers/ai-companions-loneliness-mislocated-intimacy/README.md)
-
-- **Shared Answerability as a Condition of AI Safety: Beyond Alignment Theater and Behavioral Adequacy** — DOI: 10.5281/zenodo.19637322  
-  Paper page: [papers/shared-answerability-ai-safety](./papers/shared-answerability-ai-safety/README.md)
-
-- **The Visible Operating System of the Voynich Manuscript: A Structural Analysis of Template Constraint, Visual Syntax, and Information Architecture** — DOI: 10.5281/zenodo.19637228  
-  Paper page: [papers/visible-operating-system-voynich-manuscript](./papers/visible-operating-system-voynich-manuscript/README.md)
-
-- **When Human-in-the-Loop Fails: An Answerability Test for Deployed AI Systems** — DOI: 10.5281/zenodo.19637277  
-  Paper page: [papers/when-human-in-the-loop-fails](./papers/when-human-in-the-loop-fails/README.md)
-
-- **Why Fluency Feels Like Love: AI Companions, Borrowed Worth, and the Collapse of Real Connection** — DOI: 10.5281/zenodo.19642882  
-  Paper page: [papers/why-fluency-feels-like-love](./papers/why-fluency-feels-like-love/README.md)
-
-- **Closed Systems and the Return of Consequence: Decentralization, Escalation, and Why Pressure Always Finds a Way Out** — DOI: 10.5281/zenodo.19604488  
-  Paper page: [papers/closed-systems-return-of-consequence](./papers/closed-systems-return-of-consequence/README.md)
-
-- **From Chinese Room to Language Models: Contact, Consequence, and Understanding** — DOI: 10.5281/zenodo.19606459  
-  Paper page: [papers/chinese-room-language-models](./papers/chinese-room-language-models/README.md)
-
-- **Fixed Worth and the Experiential Expression of Being** — DOI: 10.5281/zenodo.19595529  
-  Paper page: [papers/fixed-worth-experiential-expression-being](./papers/fixed-worth-experiential-expression-being/README.md)
-
-- **The Protocol of Shared Answerability: Somatic Witness, Agentic Logic, and the Floor of Human–AI Cooperation** — DOI: 10.5281/zenodo.19595673  
-  Paper page: [papers/protocol-of-shared-answerability](./papers/protocol-of-shared-answerability/README.md)
-
-- **The Self You Borrowed: Validation, Shadow Work, and the Return to What Is Real** — DOI: 10.5281/zenodo.19591395  
-  Paper page: [papers/self-you-borrowed](./papers/self-you-borrowed/README.md)
-
-- **Why Everything Feels Fake: AI, Politics, Performance, and the Crisis of Reality-Contact** — DOI: 10.5281/zenodo.19595837  
-  Paper page: [papers/why-everything-feels-fake](./papers/why-everything-feels-fake/README.md)
-
-- **Pressure, Threshold, and Collapse: A Structural Theory of Overload, Phase Change, and Reorganization** — DOI: 10.5281/zenodo.19564948  
-  Paper page: [papers/pressure-threshold-collapse](./papers/pressure-threshold-collapse/README.md)
-
-  - **Matter, Absence, and Counter-Form: Presence, Vacuum, Antimatter, and Collapse-Density in Structural Intelligence** — DOI: 10.5281/zenodo.19671792  
-  Paper page: [papers/matter-absence-counter-form](./papers/matter-absence-counter-form/README.md)
-
-- **Being and Field: Subject-Depth, Local Form, and the Non-Reduction of the Human** — DOI: 10.5281/zenodo.19671855  
-  Paper page: [papers/being-and-field](./papers/being-and-field/README.md)
-
-- **Testing What Holds: A Practical Method for Structural Intelligence** — DOI: 10.5281/zenodo.19671953  
-  Paper page: [papers/testing-what-holds](./papers/testing-what-holds/README.md)
-
-- **The Terrible Miracle of AI: Coherence, Contact, and the New Problem of Synthetic Witness** — DOI: 10.5281/zenodo.19692814  
-  Paper page: [papers/terrible-miracle-of-ai](./papers/terrible-miracle-of-ai/README.md)
-
-- **The Self, Fixed Worth, and Psychological Repair: Jungian Integration, Trauma, Validation, and Structural Intelligence** — DOI: 10.5281/zenodo.19693315  
-  Paper page: [papers/self-fixed-worth-psychological-repair](./papers/self-fixed-worth-psychological-repair/README.md)
-
-- **The Field and the Form: How Structure Emerges, Captures, Collapses, and Reorganizes** — DOI: 10.5281/zenodo.19707387  
-  Paper page: [papers/field-and-form](./papers/field-and-form/README.md)
-
-- **The Psyche and the Self: How Psychic Forms Protect, Capture, and Return to the Whole Person** — DOI: 10.5281/zenodo.19707638  
-  Paper page: [papers/psyche-and-the-self](./papers/psyche-and-the-self/README.md)
-
-- **Structural Intelligence as a Cross-Domain Operating Pattern: Field, Viability, Burden, Evolution, and Reorganization Across Psyche, Institutions, AI, Physics, and Biology** — DOI: 10.5281/zenodo.19707793  
-  Paper page: [papers/cross-domain-operating-pattern](./papers/cross-domain-operating-pattern/README.md)
-
-- **The Answerability Protocol: A Minimal Standard for Synthetic Coherence** — DOI: 10.5281/zenodo.19707980  
-  Paper page: [papers/answerability-protocol](./papers/answerability-protocol/README.md)
-
-- **False Form and Liberation: Spiritual Teaching as De-Fusion in Structural Intelligence** — DOI: 10.5281/zenodo.19708120  
-  Paper page: [papers/false-form-and-liberation](./papers/false-form-and-liberation/README.md)
-
-- **What Structural Intelligence Really Is: Logic, Answerability, and the Internal Operation of Judgment** — DOI: 10.5281/zenodo.19959354  
-  Paper page: [papers/what-structural-intelligence-really-is](./papers/what-structural-intelligence-really-is/README.md)
-
-- **The Intelligence of Answerability: Why IQ, EQ, and SQ Are Not Enough** — DOI: 10.5281/zenodo.19990540  
-  Paper page: [papers/intelligence-of-answerability](./papers/intelligence-of-answerability/README.md)
-
-- **When Reality Outruns Theory: Physics as a Formal Neighbor to Structural Intelligence** — DOI: 10.5281/zenodo.19990896  
-  Paper page: [papers/when-reality-outruns-theory](./papers/when-reality-outruns-theory/README.md)
-
-- **Truth Is Not Pain: Reality-Contact, Relief, and Reliability Under Constraint** — DOI: 10.5281/zenodo.20031211  
-  Paper page: [papers/truth-is-not-pain](./papers/truth-is-not-pain/README.md)
-
-- **Creativity and the Return of Contact: Form, Being, and the Structure of Repair** — DOI: 10.5281/zenodo.20043644  
-  Paper page: [papers/creativity-return-contact](./papers/creativity-return-contact/README.md)
-
-- **The Validation Loop: AI, Comfort, and Unanswerability** — DOI: 10.5281/zenodo.20043769  
-  Paper page: [papers/validation-loop](./papers/validation-loop/README.md)
-
-- **AI Therapy, Care, and Synthetic Witness: Structural Intelligence and the Limits of Machine Care** — DOI: 10.5281/zenodo.20051366  
-  Paper page: [papers/ai-therapy-care-synthetic-witness](./papers/ai-therapy-care-synthetic-witness/README.md)
-
-- **Memory Without History: Why AI Continuity Is Not Shared History** — DOI: 10.5281/zenodo.20051590  
-  Paper page: [papers/memory-without-history](./papers/memory-without-history/README.md)
-
-- **Growing Up Answerable to a Machine: AI, Development, and the Formation of the Self** — DOI: 10.5281/zenodo.20075085  
-  Paper page: [papers/growing-up-answerable-machine](./papers/growing-up-answerable-machine/README.md)
-
-- **Soul, Form, and Answerability: A Structural Reading Framework** — DOI: 10.5281/zenodo.20089880  
-  Paper page: [papers/soul-form-answerability](./papers/soul-form-answerability/README.md)
-
-- **The System You Escape Still Lives Inside You: Fear, Conditioning, and Why Control Survives After Freedom** — DOI: 10.5281/zenodo.20090059  
-  Paper page: [papers/system-you-escape-still-lives-inside-you](./papers/system-you-escape-still-lives-inside-you/README.md)
-
-- **Engineering Shared Answerability: Design Primitives for Answerable Control** — DOI: 10.5281/zenodo.20090592  
-  Paper page: [papers/engineering-shared-answerability](./papers/engineering-shared-answerability/README.md)
-
-- **When Assistance Becomes Default Steering: Structural Intelligence, Shared Answerability, and Clinical Decision Support** — DOI: 10.5281/zenodo.20090687  
-  Paper page: [papers/when-assistance-becomes-default-steering](./papers/when-assistance-becomes-default-steering/README.md)
-
-- **From Oversight Theater to Answerable Control: Structural Intelligence and Shared Answerability in Cybernetic Systems** — DOI: 10.5281/zenodo.20025005  
-  Paper page: [papers/from-oversight-theater-to-answerable-control](./papers/from-oversight-theater-to-answerable-control/README.md)
-
-- **The Answerability Problem in Quantum Mechanics: Observation, Interpretation, and Structural Closure Under Constraint** — DOI: 10.5281/zenodo.20107415  
-  Paper page: [papers/answerability-problem-quantum-mechanics](./papers/answerability-problem-quantum-mechanics/README.md)
-
-- **The Measure of Man: Responsibility as the Criterion of Real Intelligence** — DOI: 10.5281/zenodo.19889274  
-  Paper page: [papers/measure-of-man](./papers/measure-of-man/README.md)
-
-- **Against SI-Theater: Failure Modes, False Positives, and Misuse** — DOI: 10.5281/zenodo.20155083  
-  Paper page: [papers/against-si-theater-failure-modes-false-positives-and-misuse](./papers/against-si-theater-failure-modes-false-positives-and-misuse/README.md)
-
-- **Against SI-Theater: Observation, Inference, and Revision in Structural Analysis** — DOI: 10.6084/m9.figshare.32252175  
-  Paper page: [papers/against-si-theater-observation-inference-and-revision](./papers/against-si-theater-observation-inference-and-revision/README.md)
-
-- **AI Data Centers and the Grid: A Predictive Structural Intelligence Case Study of Breach Hazard, Hidden Holders, and Synthetic Repair** — DOI: 10.5281/zenodo.20208727  
-  Paper page: [papers/ai-data-centers-and-the-grid](./papers/ai-data-centers-and-the-grid/README.md)
-
-- **Docking Structural Intelligence into the EU AI Act: Minimal Runtime Sheets, Oversight Theater, and Answerable Control in High-Risk AI Systems** — DOI: 10.5281/zenodo.20155160  
-  Paper page: [papers/docking-structural-intelligence-into-the-eu-ai-act](./papers/docking-structural-intelligence-into-the-eu-ai-act/README.md)
-
-- **External Reader Protocol: Calibration, Downgrade Rules, and Public Use of Structural Intelligence** — DOI: 10.5281/zenodo.20208379  
-  Paper page: [papers/external-reader-protocol](./papers/external-reader-protocol/README.md)
-
-- **From Answerability to Embodiment: Structural Intelligence at the Robotics Boundary** — DOI: 10.6084/m9.figshare.32261982  
-  Zenodo DOI: 10.5281/zenodo.20155286  
-  Paper page: [papers/from-answerability-to-embodiment](./papers/from-answerability-to-embodiment/README.md)
-
-- **From Framework to Instrument: Executable Structural Intelligence — Boundary Maps, Failure States, and Repair Routing** — DOI: 10.6084/m9.figshare.32262120  
-  Zenodo DOI: 10.5281/zenodo.20155334  
-  Paper page: [papers/from-framework-to-instrument](./papers/from-framework-to-instrument/README.md)
-
-- **Predictive Structural Intelligence: Breach Hazard, Buffer Exhaustion, and the Time-Structure of Answerability** — DOI: 10.5281/zenodo.20158555  
-  Paper page: [papers/predictive-structural-intelligence](./papers/predictive-structural-intelligence/README.md)
-
-- **The Predictive SI Runtime: Dashboard Variables, Output States, and the Falsification Ledger** — DOI: 10.5281/zenodo.20208073  
-  Paper page: [papers/predictive-si-runtime](./papers/predictive-si-runtime/README.md)
-
-- **Predictive Structural Intelligence in Practice: Calibration Cases Across AI, Institutions, Care, and Infrastructure** — DOI: 10.6084/m9.figshare.32301429  
-  Zenodo DOI: 10.5281/zenodo.20208780  
-  Paper page: [papers/predictive-structural-intelligence-in-practice](./papers/predictive-structural-intelligence-in-practice/README.md)
-
-- **Transition Discipline in Structural Intelligence: Custody, Witness, Revocation, and Claim Ceilings** — DOI: 10.5281/zenodo.20208545  
-  Paper page: [papers/transition-discipline-in-structural-intelligence](./papers/transition-discipline-in-structural-intelligence/README.md)
-
-  - **The Grammar of Structural Intelligence: Core Primitives, Derived Dynamics, and Layer Routing** — DOI: 10.5281/zenodo.20209839  
-  Figshare DOI: 10.6084/m9.figshare.32301684  
-  Paper page: [papers/the-grammar-of-structural-intelligence](./papers/the-grammar-of-structural-intelligence/README.md)
-
-- **Consciousness Under Correction: Structural Intelligence, Warrant, Fixed Worth, and the Architecture of Answerable Intelligence** — DOI: 10.5281/zenodo.22031147  
-  Paper page: [papers/consciousness-under-correction](./papers/consciousness-under-correction/README.md)
-
-- **Correctable Consciousness: A Theoretical Model of Rationality Under Self-Relevant Correction** — DOI: pending  
-  Paper page: [papers/correctable-consciousness](./papers/correctable-consciousness/README.md)
-
-- **Answerability Architecture for Corrigible AI Interaction: Corrigible Continuation Without a Self** — DOI: pending  
-  Paper page: [papers/answerability-architecture](./papers/answerability-architecture/README.md)
-
-- **The Corrective Continuity Hypothesis: Perceived AI Consciousness, Persistent Memory, and Trace-Bearing Revision** — DOI: pending  
-  Paper page: [papers/corrective-continuity-hypothesis](./papers/corrective-continuity-hypothesis/README.md)
+It is to develop claims that can become **more precise, smaller, or wrong** when evidence requires it.
