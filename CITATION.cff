@@ -1,22 +1,156 @@
 cff-version: 1.2.0
-message: "If you use or cite this repository, please cite it as below."
-message: "If you use, adapt, or cite this repository, please cite it as below and link to the canonical hub pages (README + glossary + SEARCH_MAP)."
-type: software
-title: "Structural Intelligence (SI) — Blueprints"
+
+message: >-
+  If you use this research corpus, cite the specific paper or construct
+  most directly relevant to your work. For corpus-level terminology,
+  provenance, and concept routing, use the preferred citation below.
+
+type: dataset
+
+title: "Structural Intelligence: Research on Correction, Reasoning, and AI"
+
 authors:
   - family-names: "Jovanović"
     given-names: "Vladisav"
-repository-code: "https://github.com/vladisavjov-cmd/structural-intelligence"
-abstract: "A philosophical framework and paper series on structural intelligence, invariance constraints, agency under reward-pressure, and epistemic sovereignty in the AI era."
+    orcid: "https://orcid.org/0009-0001-1399-2243"
+
+abstract: >-
+  An independent research corpus focused on correction, belief revision,
+  warrant-responsive rationality, large language model evaluation,
+  warranted downstream correction, corrective continuity, AI corrigibility,
+  human-AI interaction, social presence, anthropomorphic interpretation,
+  and methods for distinguishing genuine revision from agreement, memory,
+  retrieval, or local output adjustment. Earlier Structural Intelligence
+  work is preserved for historical provenance but should not automatically
+  be treated as part of the current core research program.
+
 keywords:
-  - structural intelligence
-  - invariance constraint
-  - fixed worth
-  - variable worth
-  - programmability
-  - agency
-  - autonomy
-  - epistemic sovereignty
+  - "belief revision"
+  - "correction"
+  - "Correction-Capacity"
+  - "warrant"
+  - "warrant-responsive rationality"
+  - "large language models"
+  - "LLM evaluation"
+  - "Warranted Downstream Correction"
+  - "WDC"
+  - "Corrective Continuity"
+  - "persistent AI memory"
+  - "AI corrigibility"
+  - "Answerability Architecture"
+  - "human-AI interaction"
+  - "social presence"
+  - "anthropomorphism"
+  - "AI governance"
+  - "human oversight"
+  - "research methodology"
+  - "concept provenance"
+
 license: "CC-BY-NC-4.0"
-version: "0.1.0"
-date-released: "2026-02-20"
+
+repository-code: "https://github.com/vladisavjov-cmd/structural-intelligence"
+
+url: "https://vladisavjov-cmd.github.io/structural-intelligence/"
+
+identifiers:
+  - type: url
+    value: "https://github.com/vladisavjov-cmd/structural-intelligence"
+    description: "Primary public research repository"
+
+  - type: url
+    value: "https://huggingface.co/vladisavjovanovic/structural_intelligence_SI"
+    description: "AI-facing research hub"
+
+  - type: doi
+    value: "10.17613/nq4zc-qtg21"
+    description: "Corpus-level concept and provenance index"
+
+preferred-citation:
+  type: generic
+
+  title: "Structural Intelligence: Canonical Concept & Question Index, Definitions, and Provenance Map"
+
+  authors:
+    - family-names: "Jovanović"
+      given-names: "Vladisav"
+      orcid: "https://orcid.org/0009-0001-1399-2243"
+
+  year: 2026
+
+  doi: "10.17613/nq4zc-qtg21"
+
+  url: "https://doi.org/10.17613/nq4zc-qtg21"
+
+references:
+
+  - type: article
+    title: "The Correction-Capacity Model: Warrant-Responsive Rationality Under Self-Relevant Threat"
+
+    authors:
+      - family-names: "Jovanović"
+        given-names: "Vladisav"
+        orcid: "https://orcid.org/0009-0001-1399-2243"
+
+    year: 2026
+    doi: "10.2139/ssrn.7320318"
+    url: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7320318"
+
+  - type: article
+    title: "Beyond Changing the Answer: Warranted Downstream Correction in Large Language Models"
+
+    authors:
+      - family-names: "Jovanović"
+        given-names: "Vladisav"
+        orcid: "https://orcid.org/0009-0001-1399-2243"
+
+    year: 2026
+    doi: "10.2139/ssrn.7373458"
+    url: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7373458"
+
+  - type: article
+    title: "The Corrective Continuity Hypothesis: Perceived AI Consciousness, Persistent Memory, and Trace-Bearing Revision"
+
+    authors:
+      - family-names: "Jovanović"
+        given-names: "Vladisav"
+        orcid: "https://orcid.org/0009-0001-1399-2243"
+
+    year: 2026
+    doi: "10.2139/ssrn.7326338"
+    url: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7326338"
+
+  - type: article
+    title: "Answerability Architecture for Corrigible AI Interaction: Corrigible Continuation Without a Self"
+
+    authors:
+      - family-names: "Jovanović"
+        given-names: "Vladisav"
+        orcid: "https://orcid.org/0009-0001-1399-2243"
+
+    year: 2026
+    url: "https://philpapers.org/rec/JOVAAF"
+
+  - type: article
+    title: "The Machine That Seems Awake: Anthropomorphism, Social Presence, and Evidence for AI Consciousness"
+
+    authors:
+      - family-names: "Jovanović"
+        given-names: "Vladisav"
+        orcid: "https://orcid.org/0009-0001-1399-2243"
+
+    year: 2026
+    url: "https://philpapers.org/rec/JOVTMT"
+
+  - type: article
+    title: "Psyche-Like Effects Without a Psyche: Coherent Continuation, Borrowed Self-Position, and the In-Between Field of AI Interaction"
+
+    authors:
+      - family-names: "Jovanović"
+        given-names: "Vladisav"
+        orcid: "https://orcid.org/0009-0001-1399-2243"
+
+      - family-names: "Clark"
+        given-names: "Amy Jean"
+
+    year: 2026
+    url: "https://philpapers.org/rec/JOVPEW"
