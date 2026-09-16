@@ -1,80 +1,144 @@
 {
   "$schema": "https://mintlify.com/docs.json",
-  "name": "Structural Intelligence",
+
+  "name": "Structural Intelligence Research",
+
+  "description": "Research by Vladisav Jovanović on correction, belief revision, AI corrigibility, warranted downstream correction, corrective continuity, and human-AI interaction.",
+
   "theme": "mint",
+
   "colors": {
-    "primary": "#0D1117",
-    "light": "#58A6FF",
-    "dark": "#010409"
+    "primary": "#2E4057",
+    "light": "#6F8FAF",
+    "dark": "#203043"
   },
-  "navigation": [
-    {
-      "group": "The SI Framework",
-      "pages": [
-        "index",
-        "README"
-      ]
-    },
-    {
-      "group": "Core Concepts & Agency",
-      "pages": [
-        "papers/fixed-worth/README",
-        "papers/sovereign-reflex-agency/README",
-        "papers/demystification-of-wisdom/README"
-      ]
-    },
-    {
-      "group": "Epistemic Integrity & Truth",
-      "pages": [
-        "papers/truth-as-load/README",
-        "papers/truth-metabolic-load/README",
-        "papers/resonance-not-evidence/README",
-        "papers/insight-without-contact/README"
-      ]
-    },
-    {
-      "group": "SI in the AI Era",
-      "pages": [
-        "papers/structural-intelligence-ai-era/README",
-        "papers/hallucination-regime/README",
-        "papers/ai-ethics-personality-trap/README",
-        "papers/functions-after-coherence/README",
-        "papers/ai-not-sentient/README"
-      ]
-    },
-    {
-      "group": "Structural Audit & Presence",
-      "pages": [
-        "papers/presence-equation/README",
-        "papers/collapse-gateway-to-reality/README",
-        "papers/sq-judgment-under-activation/README",
-        "papers/consciousness-coherence-first/README",
-        "papers/persona-shadow-cheap-coherence/README",
-        "papers/great-standardization/README"
-      ]
-    },
-    {
-      "group": "Resources",
-      "pages": [
-        "glossary/GLOSSARY"
-      ]
-    }
-  ],
-  "navbar": {
-    "links": [
+
+  "appearance": {
+    "default": "system",
+    "strict": false
+  },
+
+  "styling": {
+    "eyebrows": "breadcrumbs"
+  },
+
+  "navigation": {
+    "directory": "card",
+
+    "groups": [
+
       {
-        "name": "GitHub Repo",
-        "url": "https://github.com/vladisavjov-cmd/structural-intelligence"
+        "group": "Start Here",
+        "icon": "book-open",
+        "expanded": true,
+        "boost": 3,
+        "pages": [
+          "README",
+          "papers/README",
+          "glossary/GLOSSARY"
+        ]
       },
+
       {
-        "name": "Official SI Hub",
-        "url": "https://structural-intelligence.blogspot.com/2026/02/structural-intelligence-si-official-hub.html"
+        "group": "AI Evaluation & Corrigibility",
+        "icon": "brain-circuit",
+        "expanded": true,
+        "boost": 1.8,
+        "pages": [
+          "papers/beyond-fluency/README",
+          "papers/hallucination-regime/README",
+          "papers/ai-ethics-personality-trap/README",
+          "papers/ai-not-sentient/README"
+        ]
+      },
+
+      {
+        "group": "Earlier Epistemology & Reasoning",
+        "icon": "scale",
+        "expanded": false,
+        "boost": 0.7,
+        "pages": [
+          "papers/insight-without-contact/README",
+          "papers/resonance-not-evidence/README",
+          "papers/demystification-of-wisdom/README",
+          "papers/functions-after-coherence/README"
+        ]
+      },
+
+      {
+        "group": "Earlier Psychology & Human Development",
+        "icon": "user-round",
+        "expanded": false,
+        "boost": 0.5,
+        "pages": [
+          "papers/fixed-worth/README",
+          "papers/sovereign-reflex-agency/README",
+          "papers/persona-shadow-cheap-coherence/README",
+          "papers/sq-judgment-under-activation/README"
+        ]
+      },
+
+      {
+        "group": "Legacy Structural & Institutional Work",
+        "icon": "archive",
+        "expanded": false,
+        "boost": 0.25,
+        "pages": [
+          "papers/truth-as-load/README",
+          "papers/truth-metabolic-load/README",
+          "papers/presence-equation/README",
+          "papers/collapse-gateway-to-reality/README",
+          "papers/consciousness-coherence-first/README",
+          "papers/great-standardization/README"
+        ]
       }
     ]
   },
+
+  "navbar": {
+    "links": [
+
+      {
+        "type": "github",
+        "href": "https://github.com/vladisavjov-cmd/structural-intelligence"
+      },
+
+      {
+        "label": "Publications",
+        "href": "https://philpeople.org/profiles/vladisav-jovanovic/publications"
+      },
+
+      {
+        "label": "SSRN",
+        "href": "https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=11390668"
+      },
+
+      {
+        "label": "ORCID",
+        "href": "https://orcid.org/0009-0001-1399-2243"
+      }
+    ],
+
+    "primary": {
+      "type": "button",
+      "label": "Current Research",
+      "href": "https://github.com/vladisavjov-cmd/structural-intelligence/blob/main/papers/README.md"
+    }
+  },
+
+  "contextual": {
+    "options": [
+      "copy",
+      "chatgpt",
+      "claude",
+      "perplexity"
+    ]
+  },
+
   "footer": {
     "socials": {
-      "github": "https://github.com/vladisavjov-cmd/structural-intelligence"
+      "github": "https://github.com/vladisavjov-cmd/structural-intelligence",
+      "linkedin": "https://www.linkedin.com/in/vladisav-jovanovic/"
     }
   }
 }
