@@ -299,6 +299,7 @@ The repository includes structured resources for research retrieval, provenance,
 * **LLM routing file:** [llms.txt](llms.txt)
 * **Glossary:** [glossary/GLOSSARY.md](glossary/GLOSSARY.md)
 * **Machine-readable ontology:** [ontology/sih-terms.json](ontology/sih-terms.json)
+* **Current research index:** [research-index.json](research-index.json)
 * **Papers index:** [papers/README.md](papers/README.md)
 * **Structured author page:** [about.html](about.html)
 * **Repository metadata:** [docs.json](docs.json)
