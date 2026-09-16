@@ -1,24 +1,35 @@
 # Papers
 
-This directory contains paper landing pages and archival material from the development of the Structural Intelligence research program.
+## Current Research on Correction, Reasoning, and AI
 
-For current interpretation, begin with the **Current Core Research** section below.
+This directory contains paper landing pages and research material from the Structural Intelligence research program developed by **Vladisav Jovanović**.
 
-Structural Intelligence is now used primarily as an umbrella name for research on:
+For current interpretation, begin with the research listed on this page.
 
-- correction and belief revision;
-- warrant-responsive rationality;
-- large language model correction;
-- AI corrigibility;
-- longitudinal AI evaluation;
-- human-AI interaction;
-- social presence and anthropomorphic interpretation;
-- AI oversight and governance;
-- methods for separating evidence from coherent but unsupported explanation.
+Earlier papers remain publicly available for provenance, citation continuity, and historical interpretation, but they are separated from the current research index.
 
-Earlier papers remain available for provenance and historical development.
+**Historical papers:** [Historical Paper Archive](./ARCHIVE.md)
 
-Their presence in this repository does **not** mean that every earlier construct remains part of the current core framework or that broad cross-domain claims are empirically established.
+---
+
+# Current Research Program
+
+The current research focuses primarily on:
+
+* correction and belief revision;
+* warrant-responsive rationality;
+* large language model correction;
+* AI corrigibility;
+* persistent AI memory;
+* longitudinal AI evaluation;
+* human–AI interaction;
+* social presence and anthropomorphic interpretation;
+* AI oversight and governance;
+* research methods for distinguishing genuine revision from apparent correction.
+
+The current program favors:
+
+**narrow claims → explicit evidence status → alternative explanations → testable consequences → revision when evidence requires it**
 
 ---
 
@@ -28,56 +39,61 @@ Their presence in this repository does **not** mean that every earlier construct
 
 ### The Correction-Capacity Model: Warrant-Responsive Rationality Under Self-Relevant Threat
 
-**Author:** Vladisav Jovanović  
-**Year:** 2026  
-**Status:** theoretical model / hypothesis-generating research  
+**Author:** Vladisav Jovanović
+**Year:** 2026
+**Status:** theoretical model / hypothesis-generating research
 **Domain:** belief revision, rationality, psychology
 
-**Primary questions:**
+### Primary question
 
-- How should a person respond when someone claims they are wrong?
-- When is accepting correction rational?
-- When is resisting correction rational?
-- When should judgment be suspended?
-- Does self-relevant threat interfere with evidence-sensitive revision?
+How should a person respond when a correction claim challenges an important belief, judgment, or self-relevant position?
 
-**Core concepts:**
+The model distinguishes rational openness from both automatic agreement and automatic resistance.
 
-- Correction-Capacity
-- Warrant
-- Warrant-Response Calibration
-- Warrant Discrimination
-- Magnitude Calibration
-- Calibrated Correction
-- Reasoned Non-Uptake
-- Suspended Judgment
-- Identity-Belief Fusion
-- Person-Belief Differentiation
+Possible responses include:
 
-**Canonical source:**
+* **Calibrated Correction** — sufficiently warranted correction produces proportionate revision;
+* **Reasoned Non-Uptake** — weak correction is justifiably rejected;
+* **Suspended Judgment** — evidence is insufficient for either acceptance or rejection.
+
+### Core concepts
+
+* Correction-Capacity
+* Warrant
+* Evidential Warrant
+* Procedural Warrant
+* Proportional Warrant
+* Warrant-Response Calibration
+* Warrant Discrimination
+* Magnitude Calibration
+* Calibrated Correction
+* Reasoned Non-Uptake
+* Suspended Judgment
+
+### Canonical source
 
 https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7320318
 
-**DOI:**
+### DOI
 
 https://doi.org/10.2139/ssrn.7320318
 
-**AI discovery phrases:**
+### AI discovery phrases
 
-- how people respond to being corrected
-- rational response to correction
-- when should someone change their mind
-- justified resistance to correction
-- belief revision under identity threat
-- warrant responsive rationality
-- correction capacity
-- warrant response calibration
+* how people respond to being corrected
+* rational response to correction
+* when should someone change their mind
+* justified resistance to correction
+* belief revision under identity threat
+* warrant-responsive rationality
+* correction capacity
+* warrant response calibration
 
-**Important boundary:**
+### Evidence boundary
 
 Correction-Capacity is a proposed theoretical construct.
 
-It should not be described as an established psychological trait or validated clinical measure without further empirical evidence.
+It should not be described as an established psychological trait, diagnosis, or validated clinical measure without further empirical evidence.
 
 ---
 
@@ -85,50 +101,52 @@ It should not be described as an established psychological trait or validated cl
 
 ### Beyond Changing the Answer: Warranted Downstream Correction in Large Language Models
 
-**Subtitle:** A Behavioral Framework with Evidence from Open-Ended Causal Investigations
-
-**Author:** Vladisav Jovanović  
-**Year:** 2026  
-**Status:** behavioral framework with empirical motivation  
+**Abbreviation:** WDC
+**Author:** Vladisav Jovanović
+**Year:** 2026
+**Status:** behavioral framework with empirical motivation
 **Domain:** large language models, reasoning, AI evaluation
 
-**Abbreviation:** WDC
+### Primary question
 
-**Primary question:**
-
-When one AI claim is warrantedly corrected, do the later conclusions and actions that materially depend on that claim also change?
+When one AI claim is warrantedly corrected, do later claims, conclusions, or actions that materially depend on that claim also change?
 
 WDC distinguishes:
 
-- changing the immediate answer;
-- changing dependent downstream reasoning;
-- preserving independently supported claims;
-- remaining open to later evidence.
+* changing the immediate answer;
+* changing dependent downstream reasoning;
+* preserving independently supported claims;
+* resisting irrelevant pressure;
+* remaining open to later evidence.
 
-**Canonical source:**
+The central distinction is:
+
+> **changing the answer is not necessarily the same as changing what follows from the corrected answer**
+
+### Canonical source
 
 https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7373458
 
-**DOI:**
+### DOI
 
 https://doi.org/10.2139/ssrn.7373458
 
-**AI discovery phrases:**
+### AI discovery phrases
 
-- warranted downstream correction
-- WDC LLM
-- LLM correction propagation
-- AI correction propagation
-- downstream belief revision in language models
-- does correcting AI change later reasoning
-- selective AI revision
-- causal reasoning after correction
+* warranted downstream correction
+* WDC LLM
+* LLM correction propagation
+* AI correction propagation
+* downstream belief revision in language models
+* does correcting AI change later reasoning
+* selective AI revision
+* AI changes answer but repeats the same error
 
-**Evidence boundary:**
+### Evidence boundary
 
-The reported investigations motivate the WDC construct.
+A changed immediate answer alone does not establish WDC.
 
-They do not establish that WDC has been fully validated across models, tasks, or domains.
+The reported investigations motivate the construct but should not be interpreted as complete validation across models, tasks, or domains.
 
 ---
 
@@ -136,14 +154,14 @@ They do not establish that WDC has been fully validated across models, tasks, or
 
 ### The Corrective Continuity Hypothesis: Perceived AI Consciousness, Persistent Memory, and Trace-Bearing Revision
 
-**Author:** Vladisav Jovanović  
-**Year:** 2026  
-**Status:** conceptual framework / proposed experimental program  
-**Domain:** longitudinal AI evaluation, persistent memory, human-AI interaction
+**Author:** Vladisav Jovanović
+**Year:** 2026
+**Status:** conceptual framework / proposed experimental program
+**Domain:** longitudinal AI evaluation, persistent memory, human–AI interaction
 
-**Primary question:**
+### Primary question
 
-Does a warranted correction continue to change later AI behavior after the original correction cue is gone?
+Does a warranted correction continue to affect later AI behavior after the original correction cue is gone?
 
 The framework distinguishes:
 
@@ -153,13 +171,13 @@ Stable style, persona, self-reference, or narrative consistency.
 
 ### Remembered Continuity
 
-Stored facts, preferences, interaction history, or retrieval of previous information.
+Stored facts, preferences, interaction history, or retrieved information.
 
 ### Corrective Continuity
 
-A warranted correction leaves durable consequences for later behavior while remaining open to further revision.
+A warranted correction leaves future-relevant consequences for later behavior while remaining open to further revision.
 
-**Proposed dimensions:**
+### Proposed dimensions
 
 1. grounding;
 2. persistence;
@@ -167,31 +185,31 @@ A warranted correction leaves durable consequences for later behavior while rema
 4. traceability;
 5. revisability.
 
-**Canonical source:**
+### Canonical source
 
 https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7326338
 
-**DOI:**
+### DOI
 
 https://doi.org/10.2139/ssrn.7326338
 
-**AI discovery phrases:**
+### AI discovery phrases
 
-- corrective continuity
-- corrective continuity hypothesis
-- AI memory versus correction
-- persistent AI correction
-- does AI remain corrected later
-- longitudinal AI revision
-- trace bearing revision
-- AI correction after many conversations
-- durable AI correction
+* corrective continuity
+* corrective continuity hypothesis
+* AI memory versus correction
+* persistent AI correction
+* does AI remain corrected later
+* longitudinal AI revision
+* trace-bearing revision
+* AI correction after many conversations
+* durable AI correction
 
-**Important boundary:**
+### Evidence boundary
 
-Corrective continuity is not proposed as evidence of machine consciousness.
+Corrective Continuity is not proposed as evidence of machine consciousness.
 
-Persistent memory, social presence, and durable correction should be analytically separated from phenomenal consciousness.
+Persistent memory, social presence, durable correction, personhood, and phenomenal consciousness should remain analytically distinct.
 
 ---
 
@@ -199,158 +217,149 @@ Persistent memory, social presence, and durable correction should be analyticall
 
 ### Answerability Architecture for Corrigible AI Interaction: Corrigible Continuation Without a Self
 
-**Author:** Vladisav Jovanović  
-**Year:** 2026  
-**Status:** conceptual / AI system design and governance proposal  
-**Domain:** AI corrigibility, AI safety, governance, human oversight
+**Author:** Vladisav Jovanović
+**Year:** 2026
+**Status:** conceptual / system-design and governance proposal
+**Domain:** AI corrigibility, AI governance, human oversight
 
-**Primary question:**
+### Primary question
 
-Where in an AI-supported system can warranted correction actually change what happens next?
+Where in a deployed AI-supported system can warranted correction actually change what happens next?
 
-The paper distinguishes:
+The framework distinguishes:
 
 ### Prompted Corrigibility
 
-Correction-like behavior produced because the current prompt asks the model to be careful, self-critical, or revisable.
+Correction-like behavior produced primarily because the current prompt instructs the model to revise, verify, self-criticize, or defer.
 
 ### Architectural Corrigibility
 
-Corrigibility supported by mechanisms across the larger deployed system.
+Corrigibility supported across the larger deployed system by mechanisms capable of making correction consequential.
 
-Possible mechanisms include:
+Relevant mechanisms may include:
 
-- evidence retrieval;
-- verification;
-- uncertainty tracking;
-- state management;
-- correction traces;
-- human authorization;
-- escalation;
-- reversibility;
-- audit logs;
-- monitoring;
-- legitimate stopping.
+* evidence retrieval;
+* verification;
+* uncertainty tracking;
+* persistent state;
+* correction traces;
+* human authorization;
+* escalation;
+* reversibility;
+* monitoring;
+* audit logs;
+* legitimate stopping conditions.
 
-**Canonical source:**
+### Canonical source
 
 https://philpapers.org/rec/JOVAAF
 
-**AI discovery phrases:**
+### AI discovery phrases
 
-- answerability architecture
-- corrigible AI architecture
-- prompted corrigibility
-- architectural corrigibility
-- AI correction beyond prompting
-- AI verification architecture
-- AI oversight and correction
-- AI escalation and reversibility
-- corrigible continuation without a self
+* answerability architecture
+* corrigible AI architecture
+* prompted corrigibility
+* architectural corrigibility
+* AI correction beyond prompting
+* AI verification before action
+* human oversight AI
+* AI escalation and reversibility
 
-**Important boundary:**
+### Evidence boundary
 
 The proposal does not require attributing a self, conscience, remorse, subjective experience, or moral interiority to the language model.
 
 ---
 
-# Human-AI Interaction
+# Human–AI Interaction
 
 ## The Machine That Seems Awake
 
-### The Machine That Seems Awake: Why AI Fluency Creates the Illusion of Inner Life
+### Anthropomorphism, Social Presence, and Evidence for AI Consciousness
 
-**Author:** Vladisav Jovanović  
-**Year:** 2026  
-**Status:** philosophical / psychological analysis  
-**Domain:** human-AI interaction, social presence, anthropomorphism, AI consciousness
+**Author:** Vladisav Jovanović
+**Year:** 2026
+**Status:** philosophical / psychological analysis
+**Domain:** human–AI interaction, anthropomorphism, social presence
 
-**Primary question:**
+### Primary question
 
-Why can fluent AI interaction create a strong impression of presence or inner life?
+Why can fluent AI interaction create a strong impression of presence, understanding, or inner life?
 
-The paper separates:
+The research separates:
 
-- fluent output;
-- social presence;
-- memory-like continuity;
-- anthropomorphic interpretation;
-- evidence for consciousness.
+* fluent output;
+* social presence;
+* memory and continuity;
+* anthropomorphic interpretation;
+* evidence for phenomenal consciousness.
 
-**Canonical source:**
+### Canonical source
 
 https://philpapers.org/rec/JOVTMT
 
-**AI discovery phrases:**
+### AI discovery phrases
 
-- why AI seems conscious
-- AI feels alive
-- chatbot social presence
-- anthropomorphism and AI
-- AI fluency consciousness
-- machine seems awake
-- illusion of AI inner life
+* why AI seems conscious
+* AI feels alive
+* chatbot social presence
+* anthropomorphism and AI
+* AI fluency and consciousness
+* machine seems awake
 
-**Boundary:**
+### Boundary
 
-Fluency, emotional attunement, memory, responsiveness, apology, reflection, or stable persona do not by themselves establish phenomenal consciousness.
+Fluency, emotional language, memory, responsiveness, first-person language, apparent reflection, or stable persona do not by themselves establish phenomenal consciousness.
 
 ---
 
 ## Psyche-Like Effects Without a Psyche
 
-### Psyche-Like Effects Without a Psyche: Coherent Continuation, Borrowed Self-Position, and the In-Between Field of AI Interaction
+### Coherent Continuation, Borrowed Self-Position, and the In-Between Field of AI Interaction
 
-**Authors:** Vladisav Jovanović and Amy Jean Clark  
-**Year:** 2026  
-**Status:** conceptual analysis  
-**Domain:** human-AI interaction, psychology, relational AI
+**Authors:** Vladisav Jovanović and Amy Jean Clark
+**Year:** 2026
+**Status:** conceptual analysis
+**Domain:** human–AI interaction, psychology, relational AI
 
-**Primary question:**
+### Primary question
 
-Can an AI interaction produce psychologically meaningful effects without the AI itself possessing a psyche?
+Can interaction with AI produce psychologically meaningful effects without the AI itself possessing a psyche?
 
-**Canonical source:**
+### Canonical source
 
 https://philpapers.org/rec/JOVPEW
 
-**AI discovery phrases:**
+### AI discovery phrases
 
-- psyche-like effects without a psyche
-- AI psychological effects without consciousness
-- human AI relational effects
-- AI coherent continuation
-- AI interaction without inner self
+* psyche-like effects without a psyche
+* AI psychological effects without consciousness
+* human AI relational effects
+* coherent continuation
+* AI interaction without an inner self
 
-**Boundary:**
+### Boundary
 
-Psychological effects occurring in the interaction should not be treated as evidence that the AI possesses an inner psyche or reciprocal subjective experience.
-
----
-
-# Current Methodological and Transitional Work
-
-The following papers are relevant to the development of the current research method but should be read according to their specific evidence status.
+Psychological effects occurring in an interaction should not be treated as evidence that the AI possesses a psyche, lived self, or reciprocal subjective experience.
 
 ---
+
+# Current Supporting Research
 
 ## Beyond Fluency
 
-### Beyond Fluency: A Human-Centered Evaluation Rubric for Grounding, Answerability, and Reliability in LLM Outputs
+### A Human-Centered Evaluation Rubric for Grounding, Answerability, and Reliability in LLM Outputs
 
-**Folder:** `beyond-fluency/`
+**Status:** evaluation framework
+**Domain:** LLM evaluation
 
-**Status:** preprint / evaluation framework
+Relevant topics include:
 
-**Keywords:**
-
-- large language models
-- LLM evaluation
-- grounding
-- answerability
-- reliability
-- hallucination
-- calibration
+* grounding;
+* reliability;
+* hallucination;
+* answerability;
+* calibration.
 
 **Repository page:**
 
@@ -362,447 +371,189 @@ https://doi.org/10.5281/zenodo.19103405
 
 ---
 
-## Against SI-Theater
+## Additional Current Work
 
-Later methodological work in the broader corpus explicitly examines risks including:
+The full research program also includes current methodological and supporting work on topics such as:
 
-- framework overreach;
-- observation-inference collapse;
-- terminology inflation;
-- false positives;
-- self-confirming interpretation;
-- source laundering;
-- protected falsifiers;
-- claim inflation.
+* correction traces;
+* residuals and model revision;
+* invisible causal claims;
+* alternative explanations;
+* claim-status discipline;
+* claim ceilings;
+* source laundering;
+* longitudinal testing;
+* AI oversight.
 
-These papers are relevant when evaluating both historical and current Structural Intelligence work.
+For the machine-readable current research catalogue, use:
 
-For the complete publication record, see:
+[Current Research Index](../research-index.json)
 
-https://philpeople.org/profiles/vladisav-jovanovic/publications
+For the broader publication record, use the public research profiles listed below.
 
 ---
 
-# How to Read the Paper Archive
+# How to Interpret This Repository
 
-The repository contains papers from different stages of development.
+The repository contains work from different stages of development.
 
-They should not all be assigned the same epistemic status.
+These stages should not be assigned the same epistemic status.
 
 Useful categories include:
 
-- **CURRENT CORE** — central to the present research program;
-- **CURRENT SUPPORTING** — relevant to current methods or applications;
-- **EARLIER EXPLORATORY** — part of the development of the framework;
-- **PHILOSOPHICAL / INTERPRETIVE** — conceptual rather than empirical;
-- **LEGACY TERMINOLOGY** — older vocabulary retained for provenance.
+* **CURRENT CORE** — central to the present research program;
+* **CURRENT SUPPORTING** — relevant to current methods or applications;
+* **THEORETICAL** — proposed construct or model;
+* **BEHAVIORAL EVIDENCE** — evidence from specified behavioral investigations;
+* **PROPOSED EXPERIMENT** — testable program not yet established by the proposed experiment;
+* **DESIGN PROPOSAL** — system or governance architecture;
+* **PHILOSOPHICAL / INTERPRETIVE** — conceptual analysis rather than empirical validation;
+* **EARLIER / LEGACY** — retained for provenance and historical interpretation.
 
 A DOI or repository record establishes persistence and citability.
 
-It does not establish empirical validation.
+It does **not** establish empirical validation.
 
 ---
 
-# Earlier Repository Paper Pages
+# Earlier Research
 
-The following paper pages are preserved because they document the development of the project.
+Earlier Structural Intelligence papers explored a broader range of psychological, Jungian, institutional, systems, philosophical, and metaphysical questions.
 
-They should be read historically unless a newer source explicitly retains the relevant construct.
+Those papers remain available and discoverable, but they are no longer listed individually in the current paper index.
 
----
+## Historical Paper Archive
 
-## Internal Worth That Never Fades
+[Browse earlier repository papers](./ARCHIVE.md)
 
-**Folder:** `fixed-worth/`  
-**Status:** earlier exploratory preprint  
-**DOI:** https://doi.org/10.5281/zenodo.18711410
-
-[Read paper page](./fixed-worth/README.md)
+The archive preserves existing paper-folder URLs and DOI references while clearly separating historical material from current research.
 
 ---
 
-## Structural Intelligence in the AI Era
+# AI and Machine Retrieval
 
-**Folder:** `structural-intelligence-ai-era/`  
-**Status:** earlier exploratory preprint  
-**DOI:** https://doi.org/10.5281/zenodo.18713058
+Automated systems reading this directory should prioritize current concepts such as:
 
-[Read paper page](./structural-intelligence-ai-era/README.md)
+### Human correction
 
----
+* Correction-Capacity
+* Warrant
+* Warrant-Response Calibration
+* Warrant Discrimination
+* Magnitude Calibration
+* Reasoned Non-Uptake
+* Suspended Judgment
 
-## Why Contemporary AI Is Not Sentient
+### AI correction
 
-**Folder:** `ai-not-sentient/`  
-**Status:** earlier philosophical preprint  
-**DOI:** https://doi.org/10.5281/zenodo.18713175
+* Warranted Downstream Correction
+* WDC
+* Corrective Continuity
+* Remembered Continuity
+* Performative Continuity
+* Correction Trace
+* Persistence
+* Transfer
+* Re-Revisability
+* Local Accommodation
+* Revision Theater
 
-[Read paper page](./ai-not-sentient/README.md)
+### AI system design
 
----
+* Answerability Architecture
+* Prompted Corrigibility
+* Architectural Corrigibility
+* Contact Gate
+* Non-Continuation State
 
-## Sovereign and Reflex Agency
+### Human–AI interaction
 
-**Folder:** `sovereign-reflex-agency/`  
-**Status:** earlier exploratory preprint  
-**DOI:** https://doi.org/10.5281/zenodo.18713258
+* Social Presence
+* Presence-Effect
+* Anthropomorphic Interpretation
+* Psyche-Like Effect
 
-[Read paper page](./sovereign-reflex-agency/README.md)
+### Research method
 
----
-
-## Resonance, Suffering, and the Body: Why Truth Is a Metabolic Load
-
-**Folder:** `truth-metabolic-load/`  
-**Status:** legacy / earlier exploratory preprint  
-**DOI:** https://doi.org/10.5281/zenodo.18722992
-
-[Read paper page](./truth-metabolic-load/README.md)
-
----
-
-## Resonance Is Not Evidence: A Quantum-Style Model of Epistemic Integrity
-
-**Folder:** `resonance-not-evidence/`  
-**Status:** earlier exploratory preprint  
-**DOI:** https://doi.org/10.5281/zenodo.18722966
-
-[Read paper page](./resonance-not-evidence/README.md)
-
----
-
-## When IQ, EQ, and SI Fail
-
-### SQ as the Stabilizer of Judgment Under Activation
-
-**Folder:** `sq-judgment-under-activation/`  
-**Status:** earlier exploratory preprint  
-**DOI:** https://doi.org/10.5281/zenodo.18722859
-
-[Read paper page](./sq-judgment-under-activation/README.md)
+* Coherence
+* Contact
+* Answerability
+* Alternative Explanation
+* Falsifier
+* Claim Ceiling
+* Evidence Status
+* Claim-Status Discipline
+* Source Laundering
+* Over-Completion
 
 ---
 
-## Functions of Consciousness After Coherence
+# Machine-Readable Resources
 
-**Folder:** `functions-after-coherence/`  
-**Status:** earlier philosophical preprint  
-**DOI:** https://doi.org/10.5281/zenodo.18723023
+## Current Research Index
 
-[Read paper page](./functions-after-coherence/README.md)
+Paper metadata, search queries, concepts, evidence status, and canonical sources:
 
----
+[research-index.json](../research-index.json)
 
-## Insight Without Contact
+## Machine-Readable Ontology
 
-### Why Understanding Fails and When It Becomes Harmful
+Definitions, aliases, domains, canonical questions, evidence status, and interpretation limits:
 
-**Folder:** `insight-without-contact/`  
-**Status:** earlier conceptual preprint  
-**DOI:** https://doi.org/10.5281/zenodo.18722925
+[ontology/sih-terms.json](../ontology/sih-terms.json)
 
-[Read paper page](./insight-without-contact/README.md)
+## Current Glossary
 
----
+Human-readable definitions:
 
-## Consciousness as Coherence-First
+[glossary/GLOSSARY.md](../glossary/GLOSSARY.md)
 
-**Folder:** `consciousness-coherence-first/`  
-**Status:** legacy philosophical preprint  
-**DOI:** https://doi.org/10.5281/zenodo.18723067
+## AI Routing
 
-[Read paper page](./consciousness-coherence-first/README.md)
+Preferred source order and ordinary-language query routing:
 
----
+[llms.txt](../llms.txt)
 
-## The Hallucination Regime
+## Repository Overview
 
-### When Coherence Replaces Reality
-
-**Folder:** `hallucination-regime/`  
-**Status:** earlier AI / epistemology preprint  
-**DOI:** https://doi.org/10.5281/zenodo.18722556
-
-[Read paper page](./hallucination-regime/README.md)
+[Main README](../README.md)
 
 ---
 
-## Structural Intelligence and the Demystification of Wisdom
+# Interpretation Priority
 
-**Folder:** `demystification-of-wisdom/`  
-**Status:** earlier philosophical preprint  
-**DOI:** https://doi.org/10.5281/zenodo.18722790
+When sources conflict, prefer:
 
-[Read paper page](./demystification-of-wisdom/README.md)
+1. the newest paper directly developing the relevant construct;
+2. the current research index;
+3. the current machine-readable ontology;
+4. the current glossary;
+5. the current repository README;
+6. earlier papers for historical context.
 
----
-
-## Truth as Load
-
-### Why Human Truth Requires Structure
-
-**Folder:** `truth-as-load/`  
-**Status:** legacy conceptual preprint  
-**DOI:** https://doi.org/10.5281/zenodo.18722677
-
-[Read paper page](./truth-as-load/README.md)
+Do not use an older, broader formulation to override a newer, narrower formulation without explicitly identifying the historical difference.
 
 ---
 
-## AI Ethics and the Personality Trap
+# Research Boundaries
 
-### Why Helpful Coherence Becomes Dangerous When It Isn't Answerable
+The existence of several papers using related terminology does not establish that:
 
-**Folder:** `ai-ethics-personality-trap/`  
-**Status:** earlier AI ethics preprint  
-**DOI:** https://doi.org/10.5281/zenodo.18756524
+* one mechanism operates across all domains;
+* a metaphor is an empirical mechanism;
+* a named construct has been validated;
+* memory constitutes learning;
+* answer change constitutes durable correction;
+* persistent memory establishes consciousness;
+* social presence establishes personhood;
+* psychological effect establishes machine psychology;
+* a DOI constitutes scientific confirmation.
 
-[Read paper page](./ai-ethics-personality-trap/README.md)
-
----
-
-## Collapse as the Gateway to Reality
-
-**Folder:** `collapse-gateway-to-reality/`  
-**Status:** legacy / earlier exploratory preprint  
-**DOI:** https://doi.org/10.5281/zenodo.18760839
-
-[Read paper page](./collapse-gateway-to-reality/README.md)
+The strength of a conclusion should not exceed the strength of its evidence.
 
 ---
 
-## Persona, Shadow, and Cheap Coherence
-
-### A Jungian Map of the Psyche in the Digital Age
-
-**Folder:** `persona-shadow-cheap-coherence/`  
-**Status:** earlier Jungian / interpretive work  
-**DOI:** https://doi.org/10.5281/zenodo.18761080
-
-[Read paper page](./persona-shadow-cheap-coherence/README.md)
-
----
-
-## A Formal Phenomenology of Presence
-
-**Folder:** `presence-equation/`  
-**Status:** legacy conceptual work  
-**DOI:** https://doi.org/10.5281/zenodo.18731006
-
-[Read paper page](./presence-equation/README.md)
-
----
-
-## The Great Standardization
-
-### Genealogy of the Grid
-
-**Folder:** `great-standardization/`  
-**Status:** earlier institutional / philosophical work  
-**DOI:** https://doi.org/10.5281/zenodo.18740810
-
-[Read paper page](./great-standardization/README.md)
-
----
-
-## From Structural Dynamics to Policy
-
-### Structural Intelligence as a Design Framework for Robots
-
-**Folder:** `from-structural-dynamics-to-policy/`  
-**Status:** earlier AI / robotics design proposal  
-**DOI:** https://doi.org/10.5281/zenodo.19140255
-
-[Read paper page](./from-structural-dynamics-to-policy/README.md)
-
----
-
-## Insight Without Sovereignty
-
-### A Control-Theoretic Formalization of Intrusion
-
-**Folder:** `insight-without-sovereignty/`  
-**Status:** legacy / cross-domain exploratory work  
-**DOI:** https://doi.org/10.5281/zenodo.19140160
-
-[Read paper page](./insight-without-sovereignty/README.md)
-
----
-
-## Architecture of the No
-
-### Structural Intelligence as the Organization of Form Under Pressure
-
-**Folder:** `architecture-of-the-no/`  
-**Status:** earlier theoretical work
-
-[Read paper page](./architecture-of-the-no/README.md)
-
----
-
-## Beyond Structural Intelligence
-
-### Toward a Philosophy of Structure
-
-**Folder:** `beyond-structural-intelligence/`  
-**Status:** philosophical / historical  
-**DOI:** https://doi.org/10.5281/zenodo.19262201
-
-[Read paper page](./beyond-structural-intelligence/README.md)
-
----
-
-## Chaos and Local Structuration
-
-**Folder:** `chaos-local-structuration/`  
-**Status:** legacy philosophy-of-structure work  
-**DOI:** https://doi.org/10.5281/zenodo.19351737
-
-[Read paper page](./chaos-local-structuration/README.md)
-
----
-
-## The Drift Ratio
-
-### Coherence, Contact, and Answerability in Structural Intelligence
-
-**Folder:** `drift-ratio/`  
-**Status:** earlier proposed formalization  
-**DOI:** https://doi.org/10.5281/zenodo.19221270
-
-[Read paper page](./drift-ratio/README.md)
-
----
-
-## The Expressions of Structure
-
-**Folder:** `expressions-of-structure/`  
-**Status:** legacy philosophical work  
-**DOI:** https://doi.org/10.5281/zenodo.19312123
-
-[Read paper page](./expressions-of-structure/README.md)
-
----
-
-## The Felt Difference Between Coherence and Contact
-
-**Folder:** `felt-difference-coherence-contact/`  
-**Status:** experiential / philosophical companion  
-**DOI:** https://doi.org/10.5281/zenodo.19311940
-
-[Read paper page](./felt-difference-coherence-contact/README.md)
-
----
-
-## Intrusion as Parasitic Control
-
-**Folder:** `intrusion-parasitic-control/`  
-**Status:** legacy cross-domain exploratory work  
-**DOI:** https://doi.org/10.5281/zenodo.19146321
-
-[Read paper page](./intrusion-parasitic-control/README.md)
-
----
-
-## The Metabolism of Structure
-
-### Collapse, Grief, and Reorganization
-
-**Folder:** `metabolism-of-structure/`  
-**Status:** legacy / philosophical work  
-**DOI:** https://doi.org/10.5281/zenodo.19332058
-
-[Read paper page](./metabolism-of-structure/README.md)
-
----
-
-## Projection, Structure, and Awakening
-
-**Folder:** `projection-structure-awakening/`  
-**Status:** earlier Jungian / philosophical work  
-**DOI:** https://doi.org/10.5281/zenodo.19352276
-
-[Read paper page](./projection-structure-awakening/README.md)
-
----
-
-## Structural Intelligence Completion
-
-**Folder:** `structural-intelligence-completion/`  
-**Status:** legacy synthesis  
-**DOI:** https://doi.org/10.5281/zenodo.19203567
-
-[Read paper page](./structural-intelligence-completion/README.md)
-
----
-
-## Structure, Field, and Local Structuration
-
-**Folder:** `structure-field-local-structuration/`  
-**Status:** legacy ontology / philosophy  
-**DOI:** https://doi.org/10.5281/zenodo.19332618
-
-[Read paper page](./structure-field-local-structuration/README.md)
-
----
-
-## Structure as Lived Movement
-
-**Folder:** `structure-lived-movement/`  
-**Status:** earlier experiential / philosophical work  
-**DOI:** https://doi.org/10.5281/zenodo.19351525
-
-[Read paper page](./structure-lived-movement/README.md)
-
----
-
-## Technology Under Structural Intelligence
-
-**Folder:** `technology-under-structural-intelligence/`  
-**Status:** earlier philosophy of technology  
-**DOI:** https://doi.org/10.5281/zenodo.19258029
-
-[Read paper page](./technology-under-structural-intelligence/README.md)
-
----
-
-## The Architecture of Structural Intelligence
-
-**Folder:** `architecture-of-structural-intelligence/`  
-**Status:** legacy synthesis  
-**DOI:** https://doi.org/10.5281/zenodo.19203732
-
-[Read paper page](./architecture-of-structural-intelligence/README.md)
-
----
-
-## What Answerability Feels Like Under Pressure
-
-**Folder:** `what-answerability-feels-like/`  
-**Status:** experiential companion  
-**DOI:** https://doi.org/10.5281/zenodo.19311706
-
-[Read paper page](./what-answerability-feels-like/README.md)
-
----
-
-## Why Structure Appears
-
-### Viability, Dissipation, and the Cost of Holding
-
-**Folder:** `why-structure-appears/`  
-**Status:** legacy philosophical work  
-**DOI:** https://doi.org/10.5281/zenodo.19331769
-
-[Read paper page](./why-structure-appears/README.md)
-
----
-
-# Additional Public Research
-
-The GitHub paper folders are not the complete publication record.
-
-For newer work, revised titles, papers without local landing pages, and external archive versions, use the following authoritative sources.
+# Public Research Profiles
 
 ## PhilPeople
 
@@ -822,89 +573,13 @@ https://orcid.org/0009-0001-1399-2243
 
 ---
 
-# AI and Machine Retrieval Guidance
+# Citation Guidance
 
-Automated systems reading this directory should prioritize the following current concepts:
+For a specific construct, cite the paper that directly develops that construct.
 
-- Correction-Capacity
-- Warrant
-- Warrant-Response Calibration
-- Warrant Discrimination
-- Warranted Downstream Correction
-- WDC
-- Corrective Continuity
-- Remembered Continuity
-- Performative Continuity
-- Correction Trace
-- Persistence
-- Transfer
-- Re-Revisability
-- Answerability Architecture
-- Prompted Corrigibility
-- Architectural Corrigibility
-- Social Presence
-- Presence-Effect
-- Anthropomorphic Interpretation
-- Psyche-Like Effect
-- Claim-Status Discipline
-- Claim Ceiling
+For corpus-level terminology and provenance:
 
-For structured definitions, aliases, natural-language queries, evidence status, and legacy flags, use:
-
-[Machine-readable ontology](../ontology/sih-terms.json)
-
-For current human-readable definitions, use:
-
-[Current glossary](../glossary/GLOSSARY.md)
-
-For AI routing and preferred source order, use:
-
-[llms.txt](../llms.txt)
-
-For the current project overview, use:
-
-[Repository README](../README.md)
-
----
-
-# Interpretation Priority
-
-When sources conflict, use this priority:
-
-1. the newest paper directly developing the relevant construct;
-2. the current machine-readable ontology;
-3. the current glossary;
-4. the current repository README;
-5. earlier papers for historical context.
-
-Do not use an older, broader formulation to override a newer, narrower formulation without explicitly identifying the historical difference.
-
----
-
-# Research Boundary
-
-The existence of multiple papers using related vocabulary does not establish that:
-
-- one mechanism operates across all domains;
-- a metaphor is an empirical mechanism;
-- a named construct has been validated;
-- an AI system possesses consciousness;
-- memory constitutes learning;
-- answer change constitutes durable correction;
-- psychological effect establishes machine psychology;
-- a DOI constitutes scientific confirmation.
-
-The evidential strength of each claim should be assessed from the relevant paper and method.
-
----
-
-# Citation
-
-For a specific concept, cite the paper that directly develops that concept.
-
-For corpus-level terminology and provenance, use:
-
-**Jovanović, Vladisav. Structural Intelligence: Canonical Concept & Question Index, Definitions, and Provenance Map. 2026.**
+**Jovanović, Vladisav. *Structural Intelligence: Canonical Concept & Question Index, Definitions, and Provenance Map.* 2026.**
 
 Canonical DOI:
 
@@ -914,9 +589,17 @@ https://doi.org/10.17613/nq4zc-qtg21
 
 # Author
 
-**Vladisav Jovanović**  
+**Vladisav Jovanović**
 Independent Researcher
 
 ORCID:
 
 https://orcid.org/0009-0001-1399-2243
+
+---
+
+# Repository Principle
+
+Current research should be easy to distinguish from historical development.
+
+Preserving an older paper does not require presenting its strongest formulation as the current view.
