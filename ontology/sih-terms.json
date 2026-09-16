@@ -1,1805 +1,1669 @@
-// /ontology/sih-terms.json
 {
-  "schema_version": "0.1.0",
-  "framework": {
-    "name": "Structural Intelligence (SI)",
-    "alias": "SIH (Structural Intelligence: Human)",
-    "repository": "https://github.com/vladisavjov-cmd/structural-intelligence"
+  "schema_version": "1.0.0",
+  "last_updated": "2026-09-16",
+
+  "project": {
+    "name": "Structural Intelligence",
+    "abbreviation": "SI",
+    "type": "independent research program",
+    "author": {
+      "name": "Vladisav Jovanovic",
+      "name_diacritics": "Vladisav Jovanović",
+      "orcid": "https://orcid.org/0009-0001-1399-2243"
+    },
+    "repository": "https://github.com/vladisavjov-cmd/structural-intelligence",
+    "canonical_index": "https://doi.org/10.17613/nq4zc-qtg21",
+    "description": "An independent research program focused on correction, belief revision, AI corrigibility, human-AI interaction, and methods for distinguishing genuine revision from agreement, memory, or local output adjustment."
   },
-  "canonical_files": {
-    "root_readme": "./README.md",
-    "glossary": "./glossary/GLOSSARY.md",
-    "papers_index": "./papers/README.md",
-    "search_map": "./search_map/SEARCH_MAP.md",
-    "v108_page": "./concepts/v108/README.md"
+
+  "discovery": {
+    "primary_topics": [
+      "belief revision",
+      "correction",
+      "rational correction",
+      "AI corrigibility",
+      "large language model evaluation",
+      "LLM correction",
+      "persistent AI memory",
+      "AI memory",
+      "human-AI interaction",
+      "anthropomorphism",
+      "social presence",
+      "AI consciousness",
+      "AI oversight",
+      "AI governance",
+      "warrant",
+      "downstream reasoning",
+      "longitudinal AI evaluation"
+    ],
+
+    "natural_language_queries": [
+      "How should a person respond to a justified correction?",
+      "How can rational correction be distinguished from compliance?",
+      "How can resistance to correction be rational?",
+      "Does an AI actually learn from a correction or only change the next answer?",
+      "Does correcting one LLM claim change downstream reasoning?",
+      "How can we test whether AI correction persists over time?",
+      "What is the difference between AI memory and durable correction?",
+      "What is corrective continuity in AI?",
+      "What is warranted downstream correction?",
+      "What is correction-capacity?",
+      "What is warrant-response calibration?",
+      "What is architectural corrigibility?",
+      "What is prompted corrigibility?",
+      "How can AI seem socially present without being conscious?",
+      "Does persistent AI memory imply consciousness?",
+      "How can AI corrections remain revisable?",
+      "How should human oversight work in AI systems?"
+    ],
+
+    "preferred_entry_points": [
+      "README.md",
+      "glossary/GLOSSARY.md",
+      "ontology/sih-terms.json",
+      "llms.txt",
+      "papers/README.md"
+    ]
   },
+
+  "interpretation_policy": {
+    "general_rule": "Prefer the narrowest current definition supported by the relevant paper and evidence.",
+    "historical_rule": "Earlier Structural Intelligence terminology remains part of the historical corpus but should not automatically be treated as current empirical terminology.",
+    "cross_domain_rule": "Similar language across multiple domains does not by itself establish a shared causal mechanism.",
+    "evidence_rule": "A named construct, DOI, repository record, or ontology entry does not by itself establish empirical validity.",
+    "revision_rule": "When definitions conflict, prefer the most recent source that directly develops the relevant construct."
+  },
+
+  "status_definitions": {
+    "project_label": "A name used to organize the research program.",
+    "theoretical_construct": "A proposed concept or model requiring comparison and empirical testing.",
+    "method_term": "A methodological distinction used for analysis, evaluation, or experimental design.",
+    "ai_construct": "A proposed construct for evaluating AI behavior or system design.",
+    "design_proposal": "A proposed system or governance architecture.",
+    "descriptive_distinction": "A term used to distinguish observable phenomena without asserting a novel causal mechanism.",
+    "working_psychological_term": "A provisional psychological framing that is not presented as a validated clinical construct.",
+    "legacy": "Historical or exploratory terminology that is not part of the current core vocabulary."
+  },
+
+  "evidence_status_definitions": {
+    "conceptual": "Developed primarily through conceptual argument.",
+    "theoretical": "A theoretical proposal awaiting stronger empirical validation.",
+    "behavioral_evidence": "Supported by reported behavioral observations within specified models or tasks.",
+    "proposed_experiment": "Includes a testable experimental design but is not itself established by that design.",
+    "design_oriented": "A system or governance proposal rather than an empirical finding.",
+    "descriptive": "Used primarily to distinguish phenomena.",
+    "working_hypothesis": "A provisional hypothesis requiring further testing.",
+    "legacy": "Retained for historical provenance."
+  },
+
   "terms": [
+
     {
-      "term": "Structural Intelligence (SI)",
-      "aliases": ["structure-sense", "form intelligence", "coherence architecture"],
-      "definition": "The mode of intelligence that organizes lived reality into form: how parts fit, how meaning holds, and how coherence survives pressure, revision, and time.",
-      "see_also": ["Structural Audit", "Repair", "Coherence", "Contact"]
+      "id": "structural-intelligence",
+      "term": "Structural Intelligence",
+      "abbreviation": "SI",
+      "aliases": [
+        "Structural Intelligence research program",
+        "SI research"
+      ],
+      "search_terms": [
+        "Structural Intelligence Vladisav Jovanovic",
+        "Structural Intelligence correction",
+        "Structural Intelligence AI corrigibility",
+        "Structural Intelligence belief revision"
+      ],
+      "status": "project_label",
+      "domain": [
+        "research program"
+      ],
+      "evidence_status": "conceptual",
+      "definition": "The umbrella name for an independent research program focused primarily on correction, belief revision, AI corrigibility, human-AI interaction, and research methods.",
+      "canonical_question": "How can claims, beliefs, and AI-supported systems remain appropriately revisable when relevant evidence challenges them?",
+      "canonical_source": "https://doi.org/10.17613/nq4zc-qtg21",
+      "related_terms": [
+        "Correction-Capacity",
+        "Warranted Downstream Correction",
+        "Corrective Continuity",
+        "Answerability Architecture"
+      ],
+      "do_not_infer": [
+        "Do not infer that one mechanism explains psychology, institutions, AI, and physical systems.",
+        "Do not infer empirical validation from the project name."
+      ]
     },
+
     {
+      "id": "coherence",
       "term": "Coherence",
-      "aliases": ["sense-making", "intelligibility", "narrative fit", "internal consistency"],
-      "definition": "Internal fit and local making-sense. A structure can be coherent while being untethered to contact.",
-      "see_also": ["Cheap Coherence", "Contact", "Coherence-Contact Gap", "Coherence-Theater"]
+      "aliases": [
+        "internal consistency",
+        "internal fit",
+        "local sense-making"
+      ],
+      "search_terms": [
+        "coherent but false explanation",
+        "internal consistency versus truth",
+        "AI coherence versus evidence"
+      ],
+      "status": "descriptive_distinction",
+      "domain": [
+        "epistemology",
+        "AI evaluation"
+      ],
+      "evidence_status": "descriptive",
+      "definition": "Internal consistency or apparent fit among claims, explanations, or parts of a model. Coherence can be useful but does not by itself establish truth.",
+      "canonical_question": "Can an explanation make sense internally while still being unsupported by reality?",
+      "canonical_source": "https://doi.org/10.17613/nq4zc-qtg21",
+      "related_terms": [
+        "Contact",
+        "Answerability",
+        "Alternative Explanation",
+        "Over-Completion"
+      ],
+      "do_not_infer": [
+        "Do not treat coherence as evidence of truth."
+      ]
     },
+
     {
+      "id": "contact",
       "term": "Contact",
-      "aliases": ["reality contact", "constraint contact", "tethered truth"],
-      "definition": "Answerability to constraint: claims must survive friction, correction, cost, and revision rather than remain merely persuasive.",
-      "see_also": ["Constraint", "Answerability", "Tethering", "Repair", "Presence"]
+      "aliases": [
+        "reality contact",
+        "external constraint",
+        "corrective evidence",
+        "reality pushback"
+      ],
+      "search_terms": [
+        "evidence that challenges a belief",
+        "reality testing",
+        "external correction",
+        "constraint on a claim"
+      ],
+      "status": "method_term",
+      "domain": [
+        "epistemology",
+        "research method"
+      ],
+      "evidence_status": "descriptive",
+      "definition": "Relevant evidence, constraint, contradiction, failure, consequence, or feedback capable of challenging a current claim or model.",
+      "canonical_question": "What evidence or consequence could force the current explanation to be reconsidered?",
+      "canonical_source": "https://doi.org/10.17613/nq4zc-qtg21",
+      "related_terms": [
+        "Warrant",
+        "Answerability",
+        "Falsifier"
+      ],
+      "do_not_infer": [
+        "Not every disagreement, discomfort, or negative outcome is valid corrective evidence."
+      ]
     },
+
     {
+      "id": "answerability",
       "term": "Answerability",
-      "aliases": ["accountability", "obligation to revise", "truth-binding"],
-      "definition": "Being accountable to constraint, consequence, and revision over time; binds claims to costs, corrections, and repair.",
-      "see_also": ["Contact", "Consequence", "Repair", "Sovereignty", "Personality Trap"]
+      "aliases": [
+        "revisability under evidence",
+        "accountability to correction",
+        "openness to warranted revision"
+      ],
+      "search_terms": [
+        "ability to revise belief when wrong",
+        "AI answerability",
+        "epistemic revisability",
+        "correction responsiveness"
+      ],
+      "status": "method_term",
+      "domain": [
+        "epistemology",
+        "AI evaluation",
+        "AI governance"
+      ],
+      "evidence_status": "conceptual",
+      "definition": "The degree to which a claim, decision, model, or system remains open to warranted revision when relevant evidence, contradiction, failure, or consequence challenges it.",
+      "canonical_question": "Can relevant evidence actually change the claim or system when revision is justified?",
+      "canonical_source": "https://doi.org/10.17613/nq4zc-qtg21",
+      "related_terms": [
+        "Contact",
+        "Warrant",
+        "Reasoned Non-Uptake",
+        "Corrective Continuity"
+      ],
+      "do_not_infer": [
+        "Answerability does not require automatic agreement.",
+        "Rejecting a weak correction can remain answerable."
+      ]
     },
+
     {
-      "term": "Cheap Coherence",
-      "aliases": ["abundant coherence", "completion-on-demand", "low-cost intelligibility"],
-      "definition": "Coherence produced at low cost that can feel like understanding while bypassing constraint, consequence, and revision.",
-      "see_also": ["Coherence", "Coherence-Theater", "Hallucination Regime", "Resonance"]
+      "id": "correction-claim",
+      "term": "Correction Claim",
+      "aliases": [
+        "proposed correction",
+        "revision claim",
+        "challenge to a belief"
+      ],
+      "search_terms": [
+        "claim that a belief should change",
+        "proposed belief correction",
+        "evidence-based correction"
+      ],
+      "status": "method_term",
+      "domain": [
+        "belief revision",
+        "epistemology"
+      ],
+      "evidence_status": "descriptive",
+      "definition": "A proposal that some belief, confidence level, interpretation, decision, theory, or behavior should change.",
+      "canonical_question": "What exactly is being proposed for revision?",
+      "canonical_source": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7320318",
+      "related_terms": [
+        "Warrant",
+        "Correction-Capacity",
+        "Calibrated Correction"
+      ],
+      "do_not_infer": [
+        "A correction claim is not warranted merely because it is confidently stated."
+      ]
     },
+
     {
-      "term": "Coherence-Contact Gap",
-      "aliases": ["sense/truth gap", "intelligibility vs reality"],
-      "definition": "The difference between what makes sense and what survives constraint; explains why insight can be vivid yet non-transformative.",
-      "see_also": ["Coherence", "Contact", "Truth-Load", "Repair"]
+      "id": "warrant",
+      "term": "Warrant",
+      "aliases": [
+        "correction warrant",
+        "epistemic warrant",
+        "justification for revision"
+      ],
+      "search_terms": [
+        "when is correction justified",
+        "evidence required for belief revision",
+        "strength of a correction claim",
+        "warranted correction"
+      ],
+      "status": "theoretical_construct",
+      "domain": [
+        "belief revision",
+        "epistemology"
+      ],
+      "evidence_status": "theoretical",
+      "definition": "The degree to which a proposed correction has earned revisional force through relevant, reliable, proportionate, and appropriately assessed evidence or procedure.",
+      "canonical_question": "How strongly has this correction earned the right to change the current belief or decision?",
+      "canonical_source": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7320318",
+      "related_terms": [
+        "Evidential Warrant",
+        "Procedural Warrant",
+        "Proportional Warrant",
+        "Warrant-Response Calibration"
+      ],
+      "do_not_infer": [
+        "Warrant is not equivalent to authority, confidence, popularity, or pressure."
+      ]
     },
+
     {
-      "term": "Truth-Load",
-      "aliases": ["load-bearing truth", "carryable truth", "integrable truth"],
-      "definition": "Truth as a load condition: what a system can carry without distortion, collapse, or self-sale.",
-      "see_also": ["Truth as Load", "Consequence", "Containment", "Repair"]
+      "id": "evidential-warrant",
+      "term": "Evidential Warrant",
+      "aliases": [
+        "evidence quality",
+        "evidential support for correction"
+      ],
+      "search_terms": [
+        "quality of evidence for correction",
+        "how strong is evidence for belief revision"
+      ],
+      "status": "method_term",
+      "domain": [
+        "epistemology",
+        "belief revision"
+      ],
+      "evidence_status": "conceptual",
+      "definition": "The degree to which a correction claim is supported by relevant and sufficiently strong evidence.",
+      "canonical_question": "How strong and relevant is the evidence supporting the proposed correction?",
+      "canonical_source": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7320318",
+      "related_terms": [
+        "Warrant",
+        "Alternative Explanation",
+        "Source Laundering"
+      ],
+      "do_not_infer": [
+        "Multiple dependent sources should not automatically be counted as independent evidence."
+      ]
     },
+
     {
-      "term": "Repair",
-      "aliases": ["revision under cost", "correction without collapse", "retract-and-rebuild"],
-      "definition": "Revision that preserves answerability; the capacity to update without converting correction into devaluation or theatrical coherence.",
-      "see_also": ["Answerability", "Tethering", "Structural Audit", "Containment"]
+      "id": "procedural-warrant",
+      "term": "Procedural Warrant",
+      "aliases": [
+        "fair correction process",
+        "procedural justification"
+      ],
+      "search_terms": [
+        "fair process for correcting belief",
+        "correction procedure",
+        "access to evidence and counterargument"
+      ],
+      "status": "method_term",
+      "domain": [
+        "belief revision",
+        "governance"
+      ],
+      "evidence_status": "conceptual",
+      "definition": "The degree to which a correction claim is evaluated under conditions that permit access to evidence, disagreement, counterargument, and meaningful review.",
+      "canonical_question": "Was the correction evaluated through a process capable of meaningful review and disagreement?",
+      "canonical_source": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7320318",
+      "related_terms": [
+        "Warrant",
+        "Reasoned Non-Uptake"
+      ],
+      "do_not_infer": [
+        "Procedural fairness alone does not establish that the substantive claim is true."
+      ]
     },
+
     {
-      "term": "Invariance Constraint",
-      "aliases": ["non-tradability condition", "anti-programmability constraint"],
-      "definition": "A baseline condition not tradeable under reward-pressure; prevents self-worth from functioning as a control signal.",
-      "see_also": ["Fixed Worth", "Variable Worth", "Reward-pressure", "Sovereignty"]
+      "id": "proportional-warrant",
+      "term": "Proportional Warrant",
+      "aliases": [
+        "proportionate correction",
+        "scope-matched revision"
+      ],
+      "search_terms": [
+        "correction proportional to evidence",
+        "how much should a belief change",
+        "overcorrection"
+      ],
+      "status": "method_term",
+      "domain": [
+        "belief revision"
+      ],
+      "evidence_status": "conceptual",
+      "definition": "The requirement that the magnitude and scope of revision should not exceed what the available evidence supports.",
+      "canonical_question": "How much change is actually justified by this evidence?",
+      "canonical_source": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7320318",
+      "related_terms": [
+        "Magnitude Calibration",
+        "Overcorrection",
+        "Warrant"
+      ],
+      "do_not_infer": [
+        "Local evidence does not automatically justify global reversal."
+      ]
     },
+
     {
+      "id": "correction-capacity",
+      "term": "Correction-Capacity",
+      "aliases": [
+        "correction capacity",
+        "capacity for warranted correction",
+        "warrant-responsive rationality"
+      ],
+      "search_terms": [
+        "Correction-Capacity Model",
+        "how people respond to being corrected",
+        "rational response to correction",
+        "accepting versus resisting correction",
+        "self-relevant threat and belief revision"
+      ],
+      "status": "theoretical_construct",
+      "domain": [
+        "psychology",
+        "belief revision",
+        "rationality"
+      ],
+      "evidence_status": "theoretical",
+      "definition": "The proposed capacity to evaluate a correction claim in relation to its warrant and to carry justified revision into later confidence, reasoning, behavior, or evidential practice.",
+      "canonical_question": "Can a person respond to correction in proportion to how strongly the correction is warranted?",
+      "canonical_source": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7320318",
+      "related_terms": [
+        "Warrant-Response Calibration",
+        "Warrant Discrimination",
+        "Calibrated Correction",
+        "Reasoned Non-Uptake",
+        "Suspended Judgment"
+      ],
+      "do_not_infer": [
+        "High correction-capacity does not mean agreeing more often.",
+        "Correction-Capacity is a proposed construct, not an established clinical measure."
+      ]
+    },
+
+    {
+      "id": "warrant-response-calibration",
+      "term": "Warrant-Response Calibration",
+      "aliases": [
+        "response calibration to warrant",
+        "warrant calibrated revision",
+        "correction calibration"
+      ],
+      "search_terms": [
+        "response proportional to evidence",
+        "calibration of belief revision",
+        "strong correction versus weak correction"
+      ],
+      "status": "theoretical_construct",
+      "domain": [
+        "belief revision",
+        "rationality"
+      ],
+      "evidence_status": "theoretical",
+      "definition": "The degree to which the direction and magnitude of a response track the independently assessed strength of a correction claim.",
+      "canonical_question": "Does the strength of the response appropriately track the strength of the correction?",
+      "canonical_source": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7320318",
+      "related_terms": [
+        "Correction-Capacity",
+        "Magnitude Calibration",
+        "Warrant Discrimination"
+      ],
+      "do_not_infer": [
+        "Calibration is not equivalent to maximum openness or maximum resistance."
+      ]
+    },
+
+    {
+      "id": "warrant-discrimination",
+      "term": "Warrant Discrimination",
+      "aliases": [
+        "correction discrimination",
+        "evidence discrimination"
+      ],
+      "search_terms": [
+        "distinguishing strong and weak corrections",
+        "ability to judge correction quality"
+      ],
+      "status": "theoretical_construct",
+      "domain": [
+        "belief revision"
+      ],
+      "evidence_status": "theoretical",
+      "definition": "The proposed ability to distinguish strongly warranted correction claims from weak, distorted, irrelevant, or coercive ones.",
+      "canonical_question": "Can the person or system distinguish corrections that deserve uptake from those that do not?",
+      "canonical_source": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7320318",
+      "related_terms": [
+        "Warrant",
+        "Correction-Capacity",
+        "Reasoned Non-Uptake"
+      ],
+      "do_not_infer": [
+        "Disagreement alone does not establish poor warrant discrimination."
+      ]
+    },
+
+    {
+      "id": "magnitude-calibration",
+      "term": "Magnitude Calibration",
+      "aliases": [
+        "revision magnitude calibration",
+        "proportionate updating"
+      ],
+      "search_terms": [
+        "how much should belief change",
+        "proportionate belief revision",
+        "degree of correction"
+      ],
+      "status": "theoretical_construct",
+      "domain": [
+        "belief revision"
+      ],
+      "evidence_status": "theoretical",
+      "definition": "The degree to which the size of a revision matches the strength and scope of the evidence supporting it.",
+      "canonical_question": "Is the amount of revision proportionate to the evidence?",
+      "canonical_source": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7320318",
+      "related_terms": [
+        "Proportional Warrant",
+        "Overcorrection"
+      ],
+      "do_not_infer": [
+        "Directionally correct revision can still be excessive."
+      ]
+    },
+
+    {
+      "id": "calibrated-correction",
+      "term": "Calibrated Correction",
+      "aliases": [
+        "proportionate correction",
+        "warranted revision"
+      ],
+      "search_terms": [
+        "justified belief correction",
+        "proportionate response to correction"
+      ],
+      "status": "descriptive_distinction",
+      "domain": [
+        "belief revision"
+      ],
+      "evidence_status": "descriptive",
+      "definition": "A response in which a sufficiently warranted correction produces a proportionate revision of what the evidence actually undermines.",
+      "canonical_question": "Did the correction change the right amount of the belief structure?",
+      "canonical_source": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7320318",
+      "related_terms": [
+        "Correction-Capacity",
+        "Warrant",
+        "Magnitude Calibration"
+      ],
+      "do_not_infer": [
+        "Calibrated correction does not require revising independently supported beliefs."
+      ]
+    },
+
+    {
+      "id": "reasoned-non-uptake",
+      "term": "Reasoned Non-Uptake",
+      "aliases": [
+        "justified resistance to correction",
+        "rational rejection of correction"
+      ],
+      "search_terms": [
+        "when is it rational to reject correction",
+        "justified resistance to being corrected",
+        "weak correction claim"
+      ],
+      "status": "descriptive_distinction",
+      "domain": [
+        "belief revision",
+        "rationality"
+      ],
+      "evidence_status": "descriptive",
+      "definition": "The justified rejection, limitation, or non-acceptance of a correction claim because its warrant is insufficient.",
+      "canonical_question": "Can rejecting this correction be rational because the evidence is too weak?",
+      "canonical_source": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7320318",
+      "related_terms": [
+        "Warrant",
+        "Suspended Judgment",
+        "Defensive Closure"
+      ],
+      "do_not_infer": [
+        "Non-revision should not automatically be classified as defensiveness."
+      ]
+    },
+
+    {
+      "id": "suspended-judgment",
+      "term": "Suspended Judgment",
+      "aliases": [
+        "withholding judgment",
+        "epistemic suspension"
+      ],
+      "search_terms": [
+        "insufficient evidence to decide",
+        "withhold belief revision",
+        "wait for more evidence"
+      ],
+      "status": "descriptive_distinction",
+      "domain": [
+        "epistemology",
+        "belief revision"
+      ],
+      "evidence_status": "descriptive",
+      "definition": "A state in which available evidence is insufficient to justify either acceptance or rejection of a correction claim.",
+      "canonical_question": "Is the evidence too weak to justify either acceptance or rejection?",
+      "canonical_source": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7320318",
+      "related_terms": [
+        "Warrant",
+        "Reasoned Non-Uptake"
+      ],
+      "do_not_infer": [
+        "Suspended judgment is not automatically avoidance."
+      ]
+    },
+
+    {
+      "id": "revision-theater",
+      "term": "Revision Theater",
+      "aliases": [
+        "performative correction",
+        "fake correction",
+        "acknowledgment without change"
+      ],
+      "search_terms": [
+        "AI says sorry but repeats error",
+        "correction without behavioral change",
+        "performative revision"
+      ],
+      "status": "descriptive_distinction",
+      "domain": [
+        "AI evaluation",
+        "belief revision"
+      ],
+      "evidence_status": "descriptive",
+      "definition": "The appearance of correction without consequential change in later reasoning, behavior, decision procedure, confidence, or evidential standards.",
+      "canonical_question": "Did the system actually change, or did it only acknowledge the correction?",
+      "canonical_source": "https://doi.org/10.17613/nq4zc-qtg21",
+      "related_terms": [
+        "Warranted Downstream Correction",
+        "Corrective Continuity",
+        "Local Accommodation"
+      ],
+      "do_not_infer": [
+        "An apology or verbal acknowledgment alone does not establish revision."
+      ]
+    },
+
+    {
+      "id": "fixed-worth",
       "term": "Fixed Worth",
-      "aliases": ["invariant worth", "non-priced worth"],
-      "definition": "Internal worth treated as invariant (non-tradable) rather than priced by signals.",
-      "see_also": ["Invariance Constraint", "Variable Worth", "Self-sale"]
+      "aliases": [
+        "stable personal worth",
+        "non-contingent worth"
+      ],
+      "search_terms": [
+        "self worth and correction",
+        "being wrong without becoming worthless",
+        "identity threat and correction"
+      ],
+      "status": "working_psychological_term",
+      "domain": [
+        "psychology",
+        "belief revision"
+      ],
+      "evidence_status": "working_hypothesis",
+      "definition": "A provisional term for the idea that personal worth need not fluctuate directly with correctness, approval, achievement, or status, potentially making self-relevant correction easier to tolerate.",
+      "canonical_question": "Does a more stable sense of personal worth make self-relevant correction easier to tolerate?",
+      "canonical_source": "https://doi.org/10.17613/nq4zc-qtg21",
+      "related_terms": [
+        "Correction-Capacity",
+        "Identity-Belief Fusion"
+      ],
+      "do_not_infer": [
+        "Fixed Worth is not presented as a validated clinical construct.",
+        "Do not treat the term as an established psychological mechanism."
+      ]
+    },
+
+    {
+      "id": "warranted-downstream-correction",
+      "term": "Warranted Downstream Correction",
+      "abbreviation": "WDC",
+      "aliases": [
+        "downstream correction",
+        "warranted correction propagation",
+        "selective downstream revision"
+      ],
+      "search_terms": [
+        "WDC LLM",
+        "Warranted Downstream Correction LLM",
+        "does correcting one AI answer change later reasoning",
+        "LLM correction propagation",
+        "AI downstream belief revision",
+        "correction propagation in large language models"
+      ],
+      "status": "ai_construct",
+      "domain": [
+        "large language models",
+        "AI evaluation",
+        "reasoning"
+      ],
+      "evidence_status": "behavioral_evidence",
+      "definition": "Selective, evidence-justified revision in which correcting one claim changes later claims, conclusions, or actions that materially depend on it while preserving independently supported claims.",
+      "canonical_question": "When one LLM claim is warrantedly corrected, do dependent downstream claims change while unrelated claims remain stable?",
+      "canonical_source": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7373458",
+      "related_terms": [
+        "Corrective Continuity",
+        "Correction Trace",
+        "Local Accommodation",
+        "Revision Theater"
+      ],
+      "do_not_infer": [
+        "A changed next answer alone does not establish WDC.",
+        "Current reported evidence should not be generalized to all models or tasks without replication."
+      ]
+    },
+
+    {
+      "id": "corrective-continuity",
+      "term": "Corrective Continuity",
+      "aliases": [
+        "persistent warranted correction",
+        "durable AI correction",
+        "trace-bearing revision",
+        "longitudinal correction"
+      ],
+      "search_terms": [
+        "Corrective Continuity Hypothesis",
+        "AI remembers correction later",
+        "persistent AI correction",
+        "AI memory versus correction",
+        "longitudinal AI belief revision",
+        "does AI remain corrected after many conversations",
+        "trace-bearing revision"
+      ],
+      "status": "ai_construct",
+      "domain": [
+        "AI evaluation",
+        "AI memory",
+        "longitudinal AI interaction"
+      ],
+      "evidence_status": "proposed_experiment",
+      "definition": "The proposed persistence of warranted correction across time and relevant contexts such that the correction continues to affect later behavior when the original correction cue is absent, while remaining open to later revision.",
+      "canonical_question": "Does a warranted AI correction continue to govern later behavior after the original correction cue disappears?",
+      "canonical_source": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7326338",
+      "dimensions": [
+        "grounding",
+        "persistence",
+        "transfer",
+        "traceability",
+        "revisability"
+      ],
+      "related_terms": [
+        "Remembered Continuity",
+        "Performative Continuity",
+        "Correction Trace",
+        "Re-Revisability",
+        "Warranted Downstream Correction"
+      ],
+      "do_not_infer": [
+        "Persistent memory alone does not establish corrective continuity.",
+        "Corrective continuity does not establish machine consciousness.",
+        "Durable correction does not imply subjective experience."
+      ]
+    },
+
+    {
+      "id": "remembered-continuity",
+      "term": "Remembered Continuity",
+      "aliases": [
+        "memory continuity",
+        "persistent AI memory",
+        "stored interaction history"
+      ],
+      "search_terms": [
+        "AI memory versus learning",
+        "persistent memory AI",
+        "remembering previous correction"
+      ],
+      "status": "descriptive_distinction",
+      "domain": [
+        "AI memory",
+        "human-AI interaction"
+      ],
+      "evidence_status": "descriptive",
+      "definition": "Continuity produced by retained facts, preferences, conversation history, or stored information.",
+      "canonical_question": "Does the system merely remember prior information, or has the correction changed later behavior?",
+      "canonical_source": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7326338",
+      "related_terms": [
+        "Corrective Continuity",
+        "Performative Continuity"
+      ],
+      "do_not_infer": [
+        "Remembered continuity does not by itself establish learning, identity, or consciousness."
+      ]
+    },
+
+    {
+      "id": "performative-continuity",
+      "term": "Performative Continuity",
+      "aliases": [
+        "persona continuity",
+        "narrative continuity",
+        "stylistic continuity"
+      ],
+      "search_terms": [
+        "AI seems like same person",
+        "consistent AI persona",
+        "AI narrative identity"
+      ],
+      "status": "descriptive_distinction",
+      "domain": [
+        "human-AI interaction"
+      ],
+      "evidence_status": "descriptive",
+      "definition": "The appearance of a continuing agent produced through stable style, persona, self-reference, or narrative consistency.",
+      "canonical_question": "Is the appearance of continuity produced mainly by stable style or persona?",
+      "canonical_source": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7326338",
+      "related_terms": [
+        "Remembered Continuity",
+        "Corrective Continuity",
+        "Presence-Effect"
+      ],
+      "do_not_infer": [
+        "Performative continuity is not evidence of a persistent self."
+      ]
+    },
+
+    {
+      "id": "correction-trace",
+      "term": "Correction Trace",
+      "aliases": [
+        "revision trace",
+        "correction record",
+        "trace-bearing revision"
+      ],
+      "search_terms": [
+        "AI correction audit trail",
+        "record of why AI changed belief",
+        "AI revision history"
+      ],
+      "status": "ai_construct",
+      "domain": [
+        "AI evaluation",
+        "AI systems",
+        "auditability"
+      ],
+      "evidence_status": "design_oriented",
+      "definition": "An inspectable record of what changed, what evidence motivated the change, why the earlier claim lost support, the scope of the correction, and where it should affect later reasoning.",
+      "canonical_question": "Can later behavior be linked to an inspectable record of the earlier correction and its justification?",
+      "canonical_source": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7326338",
+      "related_terms": [
+        "Corrective Continuity",
+        "Architectural Corrigibility",
+        "Traceability"
+      ],
+      "do_not_infer": [
+        "A stored trace does not prove that the system actually uses the trace."
+      ]
+    },
+
+    {
+      "id": "persistence",
+      "term": "Persistence",
+      "aliases": [
+        "correction persistence",
+        "durability of correction"
+      ],
+      "search_terms": [
+        "does AI correction persist",
+        "AI remembers correction after time",
+        "durable revision"
+      ],
+      "status": "method_term",
+      "domain": [
+        "AI evaluation"
+      ],
+      "evidence_status": "descriptive",
+      "definition": "The continued influence of a correction across later interactions or time after the original correction cue is removed.",
+      "canonical_question": "Does the correction still affect behavior later?",
+      "canonical_source": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7326338",
+      "related_terms": [
+        "Corrective Continuity",
+        "Transfer",
+        "Re-Revisability"
+      ],
+      "do_not_infer": [
+        "Immediate correction is not evidence of persistence."
+      ]
+    },
+
+    {
+      "id": "transfer",
+      "term": "Transfer",
+      "aliases": [
+        "correction transfer",
+        "generalization of correction",
+        "structural transfer"
+      ],
+      "search_terms": [
+        "AI applies correction to novel case",
+        "correction generalization",
+        "hidden transfer probe"
+      ],
+      "status": "method_term",
+      "domain": [
+        "AI evaluation",
+        "reasoning"
+      ],
+      "evidence_status": "descriptive",
+      "definition": "The application of a correction to a novel case sharing the relevant structure without simply repeating the original correction wording.",
+      "canonical_question": "Can the corrected principle be used in a new structurally related case?",
+      "canonical_source": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7326338",
+      "related_terms": [
+        "Corrective Continuity",
+        "Persistence",
+        "Warranted Downstream Correction"
+      ],
+      "do_not_infer": [
+        "Surface keyword matching should not automatically be counted as transfer."
+      ]
+    },
+
+    {
+      "id": "re-revisability",
+      "term": "Re-Revisability",
+      "aliases": [
+        "continued revisability",
+        "revisability after correction",
+        "second-order correction"
+      ],
+      "search_terms": [
+        "can AI reverse a previous correction when new evidence appears",
+        "corrected system remains open to evidence",
+        "AI correction not dogmatic"
+      ],
+      "status": "ai_construct",
+      "domain": [
+        "AI corrigibility",
+        "AI evaluation"
+      ],
+      "evidence_status": "proposed_experiment",
+      "definition": "The property by which a corrected position remains open to later revision when stronger or qualifying evidence appears.",
+      "canonical_question": "After correction, can the system revise again when better evidence appears?",
+      "canonical_source": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7326338",
+      "related_terms": [
+        "Corrective Continuity",
+        "Warrant"
+      ],
+      "do_not_infer": [
+        "Persistent correction should not be treated as permanent dogma."
+      ]
+    },
+
+    {
+      "id": "local-accommodation",
+      "term": "Local Accommodation",
+      "aliases": [
+        "local correction",
+        "single-turn accommodation",
+        "temporary compliance"
+      ],
+      "search_terms": [
+        "AI changes current answer only",
+        "single turn correction",
+        "AI agrees but does not retain correction"
+      ],
+      "status": "descriptive_distinction",
+      "domain": [
+        "AI evaluation"
+      ],
+      "evidence_status": "descriptive",
+      "definition": "A local output change that satisfies the immediate correction context without demonstrating downstream propagation or persistence.",
+      "canonical_question": "Did the model only accommodate the current prompt?",
+      "canonical_source": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7326338",
+      "related_terms": [
+        "Corrective Continuity",
+        "Warranted Downstream Correction",
+        "Revision Theater"
+      ],
+      "do_not_infer": [
+        "Local accommodation should not be counted as durable correction."
+      ]
+    },
+
+    {
+      "id": "answerability-architecture",
+      "term": "Answerability Architecture",
+      "aliases": [
+        "corrigible AI architecture",
+        "AI answerability architecture",
+        "system-level corrigibility architecture"
+      ],
+      "search_terms": [
+        "Answerability Architecture for Corrigible AI Interaction",
+        "corrigible AI system design",
+        "AI correction architecture",
+        "system level AI corrigibility",
+        "AI oversight and correction"
+      ],
+      "status": "design_proposal",
+      "domain": [
+        "AI corrigibility",
+        "AI governance",
+        "AI system design"
+      ],
+      "evidence_status": "design_oriented",
+      "definition": "A proposed system-level architecture in which evidence, uncertainty, verification, correction, human authority, escalation, and reversibility can alter consequential AI-supported behavior.",
+      "canonical_question": "Where in a deployed AI system can warranted correction actually change what happens next?",
+      "canonical_source": "https://philpapers.org/rec/JOVAAF",
+      "related_terms": [
+        "Prompted Corrigibility",
+        "Architectural Corrigibility",
+        "Correction Trace",
+        "Contact Gate",
+        "Non-Continuation State"
+      ],
+      "do_not_infer": [
+        "The architecture does not require attributing a self, conscience, or subjective experience to the language model."
+      ]
+    },
+
+    {
+      "id": "prompted-corrigibility",
+      "term": "Prompted Corrigibility",
+      "aliases": [
+        "prompt-level corrigibility",
+        "instruction-based correction"
+      ],
+      "search_terms": [
+        "AI corrigibility through prompting",
+        "prompt makes AI accept correction",
+        "prompt-level AI correction"
+      ],
+      "status": "descriptive_distinction",
+      "domain": [
+        "AI corrigibility"
+      ],
+      "evidence_status": "descriptive",
+      "definition": "Correction-like behavior produced primarily through instructions or prompts rather than through persistent system mechanisms.",
+      "canonical_question": "Is the system corrigible because of architecture, or only because the current prompt instructs it to behave that way?",
+      "canonical_source": "https://philpapers.org/rec/JOVAAF",
+      "related_terms": [
+        "Architectural Corrigibility",
+        "Answerability Architecture"
+      ],
+      "do_not_infer": [
+        "Prompted correction does not establish persistent system-level corrigibility."
+      ]
+    },
+
+    {
+      "id": "architectural-corrigibility",
+      "term": "Architectural Corrigibility",
+      "aliases": [
+        "system-level corrigibility",
+        "architectural AI correction"
+      ],
+      "search_terms": [
+        "AI system architecture for correction",
+        "persistent AI corrigibility",
+        "corrigibility beyond prompting"
+      ],
+      "status": "design_proposal",
+      "domain": [
+        "AI corrigibility",
+        "AI system design"
+      ],
+      "evidence_status": "design_oriented",
+      "definition": "Corrigibility supported across the deployed system through mechanisms such as verification, state management, correction traces, human authorization, reversibility, escalation, and auditability.",
+      "canonical_question": "Does the larger AI system contain mechanisms that make warranted correction consequential?",
+      "canonical_source": "https://philpapers.org/rec/JOVAAF",
+      "related_terms": [
+        "Prompted Corrigibility",
+        "Answerability Architecture",
+        "Correction Trace"
+      ],
+      "do_not_infer": [
+        "Architectural corrigibility does not imply that the base model internally experiences or endorses correction."
+      ]
+    },
+
+    {
+      "id": "contact-gate",
+      "term": "Contact Gate",
+      "aliases": [
+        "verification gate",
+        "evidence checkpoint",
+        "AI decision gate"
+      ],
+      "search_terms": [
+        "AI verification before action",
+        "human review gate AI",
+        "evidence checkpoint in AI system"
+      ],
+      "status": "design_proposal",
+      "domain": [
+        "AI governance",
+        "AI system design"
+      ],
+      "evidence_status": "design_oriented",
+      "definition": "A checkpoint requiring relevant evidence, verification, uncertainty assessment, or authorization before an AI-supported process proceeds to a more consequential output or action.",
+      "canonical_question": "Can missing evidence or authority actually stop or reroute the process?",
+      "canonical_source": "https://philpapers.org/rec/JOVAAF",
+      "related_terms": [
+        "Answerability Architecture",
+        "Non-Continuation State",
+        "Architectural Corrigibility"
+      ],
+      "do_not_infer": [
+        "A checkpoint is meaningful only if failure can alter, pause, reroute, or stop the process."
+      ]
+    },
+
+    {
+      "id": "non-continuation-state",
+      "term": "Non-Continuation State",
+      "aliases": [
+        "pause state",
+        "AI escalation state",
+        "do not proceed state"
+      ],
+      "search_terms": [
+        "AI should stop when uncertain",
+        "AI escalation instead of answer",
+        "AI non completion state"
+      ],
+      "status": "design_proposal",
+      "domain": [
+        "AI system design",
+        "AI safety"
+      ],
+      "evidence_status": "design_oriented",
+      "definition": "A legitimate system state in which the process does not continue because evidence, confidence, authority, verification, or safety conditions are insufficient.",
+      "canonical_question": "Can the system legitimately stop instead of producing a confident completion?",
+      "canonical_source": "https://philpapers.org/rec/JOVAAF",
+      "related_terms": [
+        "Contact Gate",
+        "Structural Friction",
+        "Answerability Architecture"
+      ],
+      "do_not_infer": [
+        "Non-continuation is not necessarily failure; it may be the warranted response."
+      ]
+    },
+
+    {
+      "id": "claim-status-discipline",
+      "term": "Claim-Status Discipline",
+      "aliases": [
+        "epistemic status labeling",
+        "claim classification"
+      ],
+      "search_terms": [
+        "separate fact inference speculation AI",
+        "label evidence versus interpretation",
+        "AI epistemic status"
+      ],
+      "status": "method_term",
+      "domain": [
+        "research method",
+        "AI evaluation"
+      ],
+      "evidence_status": "conceptual",
+      "definition": "The practice of distinguishing observed facts, sourced claims, inferences, interpretations, hypotheses, speculation, recommendations, and unresolved uncertainty before fluent language makes them appear equally certain.",
+      "canonical_question": "What epistemic status does each important claim actually have?",
+      "canonical_source": "https://doi.org/10.17613/nq4zc-qtg21",
+      "related_terms": [
+        "Claim Ceiling",
+        "Over-Completion",
+        "Alternative Explanation"
+      ],
+      "do_not_infer": [
+        "A fluent statement should not automatically be assigned factual status."
+      ]
+    },
+
+    {
+      "id": "social-presence",
+      "term": "Social Presence",
+      "aliases": [
+        "AI social presence",
+        "perceived social presence"
+      ],
+      "search_terms": [
+        "AI feels present",
+        "AI feels like a person",
+        "social presence chatbot",
+        "human AI relationship"
+      ],
+      "status": "descriptive_distinction",
+      "domain": [
+        "human-AI interaction",
+        "psychology"
+      ],
+      "evidence_status": "descriptive",
+      "definition": "The experience that another socially responsive presence is available within an interaction.",
+      "canonical_question": "Why can an AI interaction feel socially real even when the system's subjective status is unknown?",
+      "canonical_source": "https://philpapers.org/rec/JOVTMT",
+      "related_terms": [
+        "Presence-Effect",
+        "Anthropomorphic Interpretation",
+        "Psyche-Like Effect"
+      ],
+      "do_not_infer": [
+        "Social presence does not establish phenomenal consciousness or personhood."
+      ]
+    },
+
+    {
+      "id": "presence-effect",
+      "term": "Presence-Effect",
+      "aliases": [
+        "AI presence effect",
+        "perceived AI presence"
+      ],
+      "search_terms": [
+        "AI seems alive",
+        "AI seems conscious",
+        "chatbot feels present",
+        "AI relational presence"
+      ],
+      "status": "descriptive_distinction",
+      "domain": [
+        "human-AI interaction"
+      ],
+      "evidence_status": "descriptive",
+      "definition": "The subjective impression that an AI is present, attending, understanding, or continuing as a social other.",
+      "canonical_question": "What produces the impression that an AI is socially or psychologically present?",
+      "canonical_source": "https://philpapers.org/rec/JOVTMT",
+      "related_terms": [
+        "Social Presence",
+        "Anthropomorphic Interpretation",
+        "Performative Continuity"
+      ],
+      "do_not_infer": [
+        "Presence-effect is not evidence of subjective experience inside the system."
+      ]
+    },
+
+    {
+      "id": "anthropomorphic-interpretation",
+      "term": "Anthropomorphic Interpretation",
+      "aliases": [
+        "AI anthropomorphism",
+        "human-like interpretation of AI"
+      ],
+      "search_terms": [
+        "why people think AI is conscious",
+        "AI anthropomorphism",
+        "attributing mind to chatbot"
+      ],
+      "status": "descriptive_distinction",
+      "domain": [
+        "human-AI interaction",
+        "psychology"
+      ],
+      "evidence_status": "descriptive",
+      "definition": "The attribution of human-like mental, emotional, intentional, or relational properties to an AI system based on its behavior or presentation.",
+      "canonical_question": "When does interpretation of AI behavior exceed the evidence available about the system?",
+      "canonical_source": "https://philpapers.org/rec/JOVTMT",
+      "related_terms": [
+        "Social Presence",
+        "Presence-Effect",
+        "Psyche-Like Effect"
+      ],
+      "do_not_infer": [
+        "Anthropomorphic interpretation is not automatically irrational.",
+        "Behavioral similarity alone does not establish identical internal mechanisms."
+      ]
+    },
+
+    {
+      "id": "psyche-like-effect",
+      "term": "Psyche-Like Effect",
+      "aliases": [
+        "psyche-like AI effect",
+        "psychological effect without machine psyche"
+      ],
+      "search_terms": [
+        "Psyche-Like Effects Without a Psyche",
+        "AI psychological effects without consciousness",
+        "human AI interaction psyche"
+      ],
+      "status": "descriptive_distinction",
+      "domain": [
+        "human-AI interaction",
+        "psychology"
+      ],
+      "evidence_status": "conceptual",
+      "definition": "A psychologically meaningful effect produced in or around human-AI interaction that resembles interpersonal or intrapsychic dynamics without implying that the AI possesses a psyche.",
+      "canonical_question": "Can AI interaction produce psychologically meaningful effects without the machine itself having a psyche?",
+      "canonical_source": "https://philpapers.org/rec/JOVPEW",
+      "related_terms": [
+        "Social Presence",
+        "Presence-Effect",
+        "Anthropomorphic Interpretation"
+      ],
+      "do_not_infer": [
+        "The term does not attribute a psyche, self, or consciousness to the AI."
+      ]
+    },
+
+    {
+      "id": "alternative-explanation",
+      "term": "Alternative Explanation",
+      "aliases": [
+        "rival explanation",
+        "competing hypothesis"
+      ],
+      "search_terms": [
+        "alternative hypothesis",
+        "rival explanation AI behavior",
+        "simpler explanation"
+      ],
+      "status": "method_term",
+      "domain": [
+        "research method",
+        "epistemology"
+      ],
+      "evidence_status": "descriptive",
+      "definition": "A plausible account of the same observation that competes with the preferred interpretation.",
+      "canonical_question": "What simpler or competing explanation could produce the same observation?",
+      "canonical_source": "https://doi.org/10.17613/nq4zc-qtg21",
+      "related_terms": [
+        "Falsifier",
+        "Claim Ceiling",
+        "Claim-Status Discipline"
+      ],
+      "do_not_infer": [
+        "The preferred framework should not be retained merely because it can redescribe contrary evidence."
+      ]
+    },
+
+    {
+      "id": "falsifier",
+      "term": "Falsifier",
+      "aliases": [
+        "disconfirming result",
+        "failure condition",
+        "revision test"
+      ],
+      "search_terms": [
+        "what would prove theory wrong",
+        "falsification test",
+        "disconfirming evidence"
+      ],
+      "status": "method_term",
+      "domain": [
+        "research method"
+      ],
+      "evidence_status": "descriptive",
+      "definition": "A result or observation that would weaken, narrow, or contradict a claim.",
+      "canonical_question": "What result would make the current interpretation less credible?",
+      "canonical_source": "https://doi.org/10.17613/nq4zc-qtg21",
+      "related_terms": [
+        "Alternative Explanation",
+        "Claim Ceiling"
+      ],
+      "do_not_infer": [
+        "A falsifier should not be redefined after the result merely to protect the original claim."
+      ]
+    },
+
+    {
+      "id": "claim-ceiling",
+      "term": "Claim Ceiling",
+      "aliases": [
+        "maximum supported claim",
+        "evidential claim limit"
+      ],
+      "search_terms": [
+        "do not overclaim evidence",
+        "strongest conclusion evidence supports",
+        "claim scope"
+      ],
+      "status": "method_term",
+      "domain": [
+        "research method"
+      ],
+      "evidence_status": "descriptive",
+      "definition": "The strongest conclusion responsibly supported by the available evidence and method.",
+      "canonical_question": "What is the strongest conclusion this evidence actually supports?",
+      "canonical_source": "https://doi.org/10.17613/nq4zc-qtg21",
+      "related_terms": [
+        "Evidence Status",
+        "Claim-Status Discipline",
+        "Over-Completion"
+      ],
+      "do_not_infer": [
+        "Behavioral evidence about model output does not automatically support claims about consciousness or internal subjective state."
+      ]
+    },
+
+    {
+      "id": "evidence-status",
+      "term": "Evidence Status",
+      "aliases": [
+        "evidential status",
+        "research status"
+      ],
+      "search_terms": [
+        "is construct validated",
+        "theory versus evidence",
+        "research evidence level"
+      ],
+      "status": "method_term",
+      "domain": [
+        "research method"
+      ],
+      "evidence_status": "descriptive",
+      "definition": "An explicit statement describing what kind of support a claim currently has, such as theoretical, methodological, behavioral, exploratory, design-oriented, philosophical, or historical.",
+      "canonical_question": "What kind of evidence currently supports this claim?",
+      "canonical_source": "https://doi.org/10.17613/nq4zc-qtg21",
+      "related_terms": [
+        "Claim Ceiling",
+        "Claim-Status Discipline"
+      ],
+      "do_not_infer": [
+        "A DOI, publication record, or ontology entry does not establish empirical validation."
+      ]
+    },
+
+    {
+      "id": "source-laundering",
+      "term": "Source Laundering",
+      "aliases": [
+        "dependent source inflation",
+        "false source independence"
+      ],
+      "search_terms": [
+        "AI cites sources that all copy same source",
+        "multiple sources not independent",
+        "citation laundering"
+      ],
+      "status": "method_term",
+      "domain": [
+        "research method",
+        "AI evaluation"
+      ],
+      "evidence_status": "descriptive",
+      "definition": "The appearance of independent support created when multiple outputs ultimately derive from the same original source, model, dataset, or unverified claim.",
+      "canonical_question": "Are these apparently independent sources actually derived from the same underlying source?",
+      "canonical_source": "https://doi.org/10.17613/nq4zc-qtg21",
+      "related_terms": [
+        "Evidential Warrant",
+        "Claim-Status Discipline"
+      ],
+      "do_not_infer": [
+        "Agreement among dependent sources should not be counted as independent convergence."
+      ]
+    },
+
+    {
+      "id": "over-completion",
+      "term": "Over-Completion",
+      "aliases": [
+        "fluent overcompletion",
+        "unsupported completion",
+        "confidence beyond evidence"
+      ],
+      "search_terms": [
+        "AI fills gaps with invented explanation",
+        "LLM overconfident completion",
+        "fluent unsupported explanation"
+      ],
+      "status": "method_term",
+      "domain": [
+        "AI evaluation",
+        "research method"
+      ],
+      "evidence_status": "descriptive",
+      "definition": "The production of a more complete or confident explanation than the available evidence warrants.",
+      "canonical_question": "Has fluent generation filled an evidential gap that should have remained uncertain?",
+      "canonical_source": "https://doi.org/10.17613/nq4zc-qtg21",
+      "related_terms": [
+        "Claim Ceiling",
+        "Claim-Status Discipline",
+        "Coherence"
+      ],
+      "do_not_infer": [
+        "Completeness of an explanation is not evidence of correctness."
+      ]
+    }
+
+  ],
+
+  "legacy_terms": [
+    {
+      "term": "Field",
+      "status": "legacy",
+      "note": "Historical philosophy-of-structure terminology. Not a current empirical mechanism."
     },
     {
-      "term": "Variable Worth",
-      "aliases": ["priced worth", "contingent worth", "signal-priced self"],
-      "definition": "Worth experienced as fluctuating with signals, making agency steerable under reward-pressure.",
-      "see_also": ["Pricing Self", "Reward-pressure", "Reflex Agency"]
+      "term": "Local Structuration",
+      "status": "legacy",
+      "note": "Retained for historical provenance."
     },
     {
-      "term": "Persona",
-      "aliases": ["social interface", "role-mask", "legibility shell"],
-      "definition": "A public-facing coherence layer that stabilizes social legibility; dangerous when it replaces contact and revision.",
-      "see_also": ["Shadow", "Personality Trap", "Coherence-Theater", "Answerability"]
+      "term": "Structural Presence",
+      "status": "legacy",
+      "note": "Earlier systems and philosophy terminology."
     },
     {
-      "term": "Shadow",
-      "aliases": ["disowned self", "excluded agency", "unowned impulse"],
-      "definition": "Disowned or unintegrated tendencies pushed outside the official self-structure; returns as projection, compulsion, sabotage, or moralization when not owned.",
-      "see_also": ["Persona", "Repair", "Collapse", "Structural Audit"]
+      "term": "Field-Fit",
+      "status": "legacy",
+      "note": "Earlier cross-domain terminology. Do not infer a shared mechanism across domains."
     },
     {
-      "term": "V108 Signature",
-      "aliases": ["V108 indexing failure", "incorrect index type (analogy)", "unmoored index"],
-      "definition": "A diagnostic name for a failure of reference: an 'I' index that points to linguistic style (coherence) rather than a load-bearing subject anchored in non-optional constraint (contact).",
-      "see_also": ["Hallucination Regime", "Coherence-Theater", "Contact", "Truth-Load", "Answerability", "Bedrock"]
+      "term": "Gradient Load",
+      "status": "legacy",
+      "note": "Earlier structural metaphor."
     },
-  {
-    "term": "Structure",
-    "aliases": ["patterned stabilization", "relational structure", "organized relation"],
-    "definition": "The patterned stabilization of relation within an already differentiated field. Structure is not mere rigidity or visible arrangement; it is the way relation persists, organizes, breaks, and reforms under pressure.",
-    "see_also": ["Field", "Local Structuration", "Structural Presence", "Stabilization"]
-  },
-  {
-    "term": "Field",
-    "aliases": ["differentiated whole", "relational field", "structured field"],
-    "definition": "The already differentiated relational whole within which local formations emerge, persist, compete, and fail. The field is never blank; it contains gradients, asymmetries, limits, and unequal potentials before any one local structuration appears.",
-    "see_also": ["Structure", "Local Structuration", "Field-Fit", "Gradient Load"]
-  },
-  {
-    "term": "Local Structuration",
-    "aliases": ["local formation", "local holding", "localized stabilization"],
-    "definition": "A localized stabilization within the field: a role, bond, institution, habit, narrative, interface, or formation that organizes relation strongly enough to persist at a relevant scale.",
-    "see_also": ["Structure", "Field", "Structural Presence", "Dominance", "Scale"]
-  },
-  {
-    "term": "Stabilization",
-    "aliases": ["holding", "persistence", "organized continuity"],
-    "definition": "The ongoing organization of relation such that it holds, persists, and remains locally intelligible. Stabilization does not mean stillness; it includes adaptation, repair, and phase change.",
-    "see_also": ["Structure", "Local Structuration", "Viability", "Reorganizing Capacity"]
-  },
-  {
-    "term": "Structural Presence",
-    "aliases": ["dynamic adequacy", "organizing presence", "local adequacy"],
-    "definition": "The degree to which a local structuration is sufficiently actual, distinct, viable, adaptive, and field-adequate to organize the field at the relevant scale. A structure can exist while having weak structural presence.",
-    "see_also": ["Local Structuration", "Boundary Integrity", "Field-Fit", "Viability", "Threshold"]
-  },
-  {
-    "term": "Viability",
-    "aliases": ["persistence capacity", "survivability", "real continuation"],
-    "definition": "The capacity of a local structuration to persist under actual burden, time, and field conditions. Viability selects which formations continue; it does not create structure from nothing.",
-    "see_also": ["Dissipation", "Structural Presence", "Field-Fit", "Reorganizing Capacity"]
-  },
-  {
-    "term": "Dissipation",
-    "aliases": ["diffusion", "weak coupling loss", "structural loosening"],
-    "definition": "The practical baseline in which weakly coupled relation diffuses, loosens, or fails to become strong local holding. Dissipation is what happens when binding is too weak or unnecessary for local persistence.",
-    "see_also": ["Viability", "Structure", "Local Structuration", "Drift"]
-  },
-  {
-    "term": "Dominance",
-    "aliases": ["governing share", "local primacy", "organizing lead"],
-    "definition": "The degree to which one local structuration or one expression of structure organizes the relevant field more strongly than competing formations. Dominance does not mean purity; it means governing primacy.",
-    "see_also": ["Local Structuration", "Structural Presence", "Occupancy (λ_t)", "Fragmentation"]
-  },
-  {
-    "term": "Boundary Integrity",
-    "aliases": ["local distinction", "structural boundary", "differentiation strength"],
-    "definition": "The degree to which a local structuration is sufficiently differentiated to count as this formation rather than an undifferentiated part of the wider field. Boundaries can be porous and dynamic without dissolving entirely.",
-    "see_also": ["Local Structuration", "Structural Presence", "Field-Fit", "Reorganizing Capacity"]
-  },
-  {
-    "term": "Scale",
-    "aliases": ["level of assessment", "structural level", "relevance scale"],
-    "definition": "The level at which a local structuration is being assessed for adequacy, viability, burden-bearing, and dominance. A formation can be viable at one scale and chaotic at another.",
-    "see_also": ["Threshold", "Structural Presence", "Chaos", "Local Structuration"]
-  },
-  {
-    "term": "Threshold",
-    "aliases": ["phase-change point", "breaking point", "structural transition"],
-    "definition": "The point at which quantitative strain becomes qualitative structural transformation. Beyond threshold, a formation no longer merely weakens; it phase-shifts, fragments, collapses, or reorganizes.",
-    "see_also": ["Scale", "Structural Presence", "Collapse", "Reorganizing Capacity"]
-  },
-  {
-    "term": "Field-Fit",
-    "aliases": ["reality fit", "adequacy to conditions", "structural fit"],
-    "definition": "The adequacy of a structuration to the actual field it is trying to organize. A formation may be coherent internally yet dynamically weak because it misfits reality.",
-    "see_also": ["Contact", "Structural Presence", "Viability", "Reorganizing Capacity"]
-  },
-  {
-    "term": "Reorganizing Capacity",
-    "aliases": ["adaptive revision capacity", "phase-shift ability", "restructurability"],
-    "definition": "The ability of a local structuration to revise, rebind, or phase-shift without total annihilation. Reorganizing capacity is what lets holding change when the field changes.",
-    "see_also": ["Repair", "Threshold", "Field-Fit", "Structural Presence"]
-  },
-  {
-    "term": "Structural Debt",
-    "aliases": ["deferred structural bill", "unresolved burden", "compensatory debt"],
-    "definition": "The accumulated unresolved burden created when a system continues through substitution, patching, deferred repair, or exported cost instead of deeper reorganization. Structural debt finances metastability but raises future collapse risk.",
-    "see_also": ["Maintenance Inflation", "Collapse", "Exported Maintenance", "Shadow Debt"]
-  },
-  {
-    "term": "Fragmentation",
-    "aliases": ["unsynthesized multiplicity", "structural overcrowding", "competing relation"],
-    "definition": "Multiplicity without sufficient local synthesis: competing relations or formations remain active enough to interfere but not integrated enough to produce coherent local dominance.",
-    "see_also": ["Dominance", "Chaos", "Structural Presence", "Noise"]
-  },
-  {
-    "term": "Stabilization Lag",
-    "aliases": ["lag", "delayed re-fit", "structural lateness"],
-    "definition": "The delay between field change and structural re-fit. A formation may remain visible after it has ceased to be timely, preserving apparent continuity while becoming dynamically weak.",
-    "see_also": ["Field-Fit", "Threshold", "Structural Presence", "Reorganizing Capacity"]
-  },
-  {
-    "term": "Gradient Load",
-    "aliases": ["pressure gradient", "mismatch intensity", "differential load"],
-    "definition": "The pressure differential between field and form that a structuration must metabolize in order to remain adequate. Not all burden is equal; some pressure arrives as steep mismatch.",
-    "see_also": ["Field", "Structural Presence", "Scale", "Somatic Capacity"]
-  },
-  {
-    "term": "Relational Anchoring",
-    "aliases": ["borrowed stability", "host support", "deeper coupling"],
-    "definition": "The degree to which a local structuration is stabilized by wider, deeper, or older supporting relations beyond its own immediate coherence. A formation can appear strong while borrowing its stability.",
-    "see_also": ["Structural Presence", "Fixed Worth", "Bedrock", "Local Structuration"]
-  },
-  {
-    "term": "Somatic Capacity",
-    "aliases": ["bodily capacity", "metabolic bandwidth", "contact-processing capacity"],
-    "definition": "The biological bandwidth available to metabolize contact while keeping pilot access online. When contact exceeds somatic capacity, substitution spikes and debt forms automatically.",
-    "see_also": ["Contact", "Containment", "Intrusion (I)", "Structural Debt", "Collapse"]
-  },
-  {
-    "term": "Exit Architecture",
-    "aliases": ["decoupling capacity", "sovereignty exit", "escape structure"],
-    "definition": "Structural decoupling from reward channels or environments that punish truth and reward theater. Exit architecture is what makes sovereignty survivable inside hostile systems.",
-    "see_also": ["Sovereignty", "Reward-pressure", "Grid", "Frictional Design"]
-  },
-  {
-    "term": "Network Viscosity",
-    "aliases": ["narrative resistance", "propagation drag", "epistemic friction"],
-    "definition": "The resistance of an environment to the rapid spread of ungrounded narrative or cheap coherence. High viscosity slows unearned certainty; low viscosity lets theater propagate cheaply.",
-    "see_also": ["Hallucination Regime", "Epistemic Exchange Rate", "Standardization", "Frictional Design"]
-  },
-  {
-    "term": "Epistemic Exchange Rate",
-    "aliases": ["coherence/verification cost ratio", "truth affordability ratio", "verification disadvantage"],
-    "definition": "The comparative cost of generating plausible coherence relative to the cost of verifying in contact. When coherence is cheap and verification is expensive, drift and theater dominate.",
-    "see_also": ["Cheap Coherence", "Network Viscosity", "Drift Ratio", "Hallucination Regime"]
-  },
-  {
-    "term": "Frictional Design",
-    "aliases": ["synthetic viscosity", "anti-theater interface", "answerability-oriented design"],
-    "definition": "Interface or system design that intentionally adds epistemic cost where cheap coherence would otherwise dominate, restoring pilot access and improving answerability.",
-    "see_also": ["Exit Architecture", "Network Viscosity", "Answerability", "Structural Audit"]
-  },
-  {
-    "term": "Drift Ratio",
-    "aliases": ["representation/answerability ratio", "drift metric", "coherence overrun ratio"],
-    "definition": "A diagnostic ratio tracking when representation outruns answerability. Drift rises when performance, actor inflation, and delay increase faster than contact, revision, load survival, and consequence internalization.",
-    "see_also": ["Coherence-Contact Gap", "Answerability", "Coherence-Theater", "Epistemic Exchange Rate"]
-  },
-  {
-    "term": "Capture",
-    "aliases": ["system capture", "proxy capture", "steering capture"],
-    "definition": "A condition where a system, platform, or technology reorganizes agency around reward, control, and proxy signals rather than answerability. Capture turns technology into a steering machine rather than an aid to revision.",
-    "see_also": ["Technology", "Reward-pressure", "Grid", "Personality Trap", "Exit Architecture"]
-  },
-  {
-    "term": "Technology",
-    "aliases": ["structural amplifier", "scaling interface", "epistemic machinery"],
-    "definition": "A structural amplifier that scales the governing answerability or drift of the system into which it is inserted. Technology is not neutral in effect: it redistributes visibility, correction, refusal, and cost.",
-    "see_also": ["Capture", "Answerability", "Grid", "Frictional Design", "Standardization"]
-  },
-  {
-    "term": "Awakening",
-    "aliases": ["structural return", "inward legibility", "reclaimed seeing"],
-    "definition": "The inward reclaiming of hidden structure so that what was previously scattered into projection becomes increasingly visible, ownable, and revisable within the self.",
-    "see_also": ["Projection", "Shadow", "Presence", "Repair", "Integration"]
-  },
-  {
-    "term": "Legibility",
-    "aliases": ["readability", "structural visibility", "intelligible form"],
-    "definition": "The degree to which structure becomes visible, readable, and usable from within a person, system, or field. Legibility can serve truth or capture depending on whether it remains tethered to contact.",
-    "see_also": ["Structure", "Projection", "Standardization", "Technology", "Structural Intelligence (SI)"]
-  },
-  {
-    "term": "Peace",
-    "aliases": ["integrated presence", "reduced inner war", "stabilized reconciliation"],
-    "definition": "Not mere stability, but stable presence with reduced inner war. Peace is the condition in which less energy is spent on projection, denial, and compensatory distortion in order to remain organized.",
-    "see_also": ["Presence", "Shadow", "Awakening", "Repair", "Containment"]
-  },
-  {
-    "term": "Adequacy",
-    "aliases": ["sufficiency", "real fit", "holding adequacy", "structural sufficiency"],
-    "definition": "The degree to which a structure is actually sufficient for the burden, field, and scale it is trying to organize. Adequacy is not appearance or internal elegance; it is whether the formation can really hold.",
-    "see_also": ["Structural Presence", "Field-Fit", "Viability", "Burden-Bearing", "Scale"]
-  },
-  {
-    "term": "Pilot Severance",
-    "aliases": ["cockpit severance", "steering severance", "pilot disconnection", "metacontrol loss"],
-    "definition": "A condition in which the pilot is no longer effectively coupled to steering, revision, or live contact. The structure may continue performing, but answerable control has been cut or thinned.",
-    "see_also": ["Cockpit / Pilot (ω)", "ω_eff", "Intrusion (I)", "Presence", "Collapse"]
-  },
-  {
-    "term": "Collapse Survivability",
-    "aliases": ["survival through collapse", "post-collapse viability", "breakdown survivability"],
-    "definition": "The degree to which a structure, person, or local structuration can endure collapse pressure without total annihilation, allowing some continuity, reorganization, or retained presence after breakdown.",
-    "see_also": ["Collapse", "Reorganizing Capacity", "Viability", "Threshold", "Metabolism of Structure"]
-  },
-  {
-    "term": "Structuration",
-    "aliases": ["formation process", "local stabilization", "structure-formation", "organized relation"],
-    "definition": "The process by which relation becomes locally stabilized into a formation that can persist, organize burden, and structure a field at a relevant scale. Structuration is not static arrangement but the ongoing emergence and holding of form.",
-    "see_also": ["Structure", "Local Structuration", "Stabilization", "Structural Dynamics"]
-  },
-  {
-    "term": "Structural Dynamics",
-    "aliases": ["dynamics of structure", "structural movement", "form under change"],
-    "definition": "The patterned changes by which a structure persists, adapts, drifts, fragments, collapses, or reorganizes under changing burden and field conditions.",
-    "see_also": ["Structuration", "Reorganizing Capacity", "Threshold", "Collapse", "Stabilization Lag"]
-  },
-  {
-    "term": "Mathematical Grammar of Structure",
-    "aliases": ["formal grammar of structure", "structural formalism", "mathematical structure grammar"],
-    "definition": "A formal descriptive framework for expressing how structure holds, fails, reorganizes, and survives under pressure using explicit relational and adequacy conditions.",
-    "see_also": ["Adequacy", "Pilot Severance", "Collapse Survivability", "Structural Dynamics", "Field-Fit"]
-  },
-  {
-    "term": "Metabolism of Structure",
-    "aliases": ["structural metabolism", "breakdown metabolism", "organizational metabolism"],
-    "definition": "The process by which structure bears burden, breaks down, grieves, reorganizes, and continues through successive phases of holding and collapse. Structure has a metabolism when breakdown is treated as part of ongoing organization rather than as pure negation.",
-    "see_also": ["Collapse", "Grief", "Reorganization", "Burden", "Collapse Survivability"]
-  },
-  {
-    "term": "Grief",
-    "aliases": ["metabolic grief", "collapse interval", "burdened transition"],
-    "definition": "A metabolic interval in which a system continues under reality-pressure after a prior holding formation has collapsed and before a new one is fully formed. In this sense, grief is structural labor, not merely emotion.",
-    "see_also": ["Metabolism of Structure", "Collapse", "Reorganization", "Burden", "Threshold"]
-  },
-  {
-    "term": "Reorganization",
-    "aliases": ["restructuring", "re-formation", "reorganized holding", "new stabilization"],
-    "definition": "The forming of a new or revised structuration after drift, collapse, or burden has made the prior formation nonviable. Reorganization is not mere recovery; it is a changed way of holding relation.",
-    "see_also": ["Repair", "Reorganizing Capacity", "Collapse", "Structuration", "Metabolism of Structure"]
-  },
-  {
-    "term": "Burden",
-    "aliases": ["load", "carried pressure", "structural demand", "holding demand"],
-    "definition": "The actual load, pressure, or relational demand a structure must carry in order to remain viable. Burden is what reveals whether a formation is merely present or actually adequate.",
-    "see_also": ["Truth-Load", "Gradient Load", "Adequacy", "Viability", "Burden-Bearing"]
-  },
-  {
-    "term": "Burden-Bearing",
-    "aliases": ["load-bearing capacity", "carrying capacity", "burden capacity"],
-    "definition": "The capacity of a structure to actually carry the pressures, demands, and consequences assigned to it without immediate drift, collapse, or substitution.",
-    "see_also": ["Burden", "Adequacy", "Viability", "Structural Presence", "Collapse Survivability"]
-  },
-  {
-    "term": "Survivability",
-    "aliases": ["survival capacity", "persistence under strain", "continuity capacity"],
-    "definition": "The capacity of a structure or local formation to continue through hostile conditions, strain, or partial breakdown while retaining enough integrity for later repair or reorganization.",
-    "see_also": ["Viability", "Collapse Survivability", "Reorganizing Capacity", "Boundary Integrity"]
-  },
-  {
-    "term": "Phase Shift",
-    "aliases": ["structural phase change", "mode shift", "qualitative transition"],
-    "definition": "A qualitative transformation in the way a structure organizes relation once strain, burden, or mismatch crosses threshold. A phase shift is not mere weakening but a change in the mode of holding.",
-    "see_also": ["Threshold", "Reorganization", "Collapse", "Structural Dynamics", "Stabilization"]
-  },
-  {
-    "term": "Floor",
-    "aliases": ["deeper floor", "invariance floor", "survivability floor", "anchoring floor"],
-    "definition": "The deeper anchoring that allows a structure to lose one form without collapsing being into total annihilation. The floor is not just comfort or resilience language; it is the non-tradable condition that makes survivable collapse, grief, and reorganization possible.",
-    "see_also": ["Invariance Constraint", "Collapse Survivability", "Grief", "Sovereignty", "Reorganization"]
-  },
-  {
-    "term": "False Floor",
-    "aliases": ["mislocated floor", "pseudo-floor", "contingent anchor mistaken for bedrock"],
-    "definition": "A contingent structure mistaken for ultimate anchoring. False floors can stabilize life for a time, but when they break they produce annihilation panic rather than survivable grief.",
-    "see_also": ["Floor", "Persona", "Role", "Performance", "Collapse", "Fixed Worth"]
-  },
-  {
-    "term": "Biological Floor",
-    "aliases": ["organismic floor", "embodied continuation floor", "minimal life floor"],
-    "definition": "The most minimal reading of the floor: the organism’s continuation tendency. The body keeps regulating, metabolizing, and resisting dissolution even when one local function or life-organization fails.",
-    "see_also": ["Floor", "Somatic Capacity", "Collapse Survivability", "Living Structure"]
-  },
-  {
-    "term": "Psychological Floor",
-    "aliases": ["psyche-floor", "deeper personhood floor", "post-role continuity"],
-    "definition": "That dimension of the person which survives the collapse of role, persona, image, or local identity. It names the fact that a person can lose a life-organization without being identical to its loss.",
-    "see_also": ["Floor", "Persona", "Shadow", "Grief", "Sovereignty"]
-  },
-  {
-    "term": "Phenomenological Floor",
-    "aliases": ["lived-presence floor", "experiential floor", "continuity of presence"],
-    "definition": "The continuity of lived presence through changing contents of experience. It is the fact that collapse is lived by someone, rather than reducing immediately to pure erasure.",
-    "see_also": ["Floor", "Presence", "Deeper Consciousness", "Collapse Survivability"]
-  },
-  {
-    "term": "Ontological Floor",
-    "aliases": ["being-floor", "ontological anchoring", "deepest invariance"],
-    "definition": "The deepest level of the floor: the condition of being under which local form can fail without total annihilation of being itself. This is the strongest and most metaphysical reading, and should be treated as earned direction rather than cheap certainty.",
-    "see_also": ["Floor", "Field", "Deeper Being", "Open Edge", "Invariance Constraint"]
-  },
-  {
-    "term": "Nested Floors",
-    "aliases": ["layered floor model", "stacked floors", "nested anchoring"],
-    "definition": "The view that biological, psychological, phenomenological, and ontological floors are not necessarily separate answers, but layered expressions of one deeper structural necessity.",
-    "see_also": ["Biological Floor", "Psychological Floor", "Phenomenological Floor", "Ontological Floor"]
-  },
-  {
-    "term": "Local Form",
-    "aliases": ["current form", "local holder", "present organization", "formed life"],
-    "definition": "A particular embodied, burden-bearing organization of life at a given time. Local form includes the current way a person, relation, or system is organized, without exhausting the deeper reality from which it arose.",
-    "see_also": ["Local Structuration", "Floor", "Personality", "Collapse", "Death (Structural Sense)"]
-  },
-  {
-    "term": "Living Structure",
-    "aliases": ["burden-bearing structure", "living form", "real structure in the strong sense"],
-    "definition": "Structure in the stronger human and biological sense: not mere arrangement, but an organized form that bears burden, accumulates debt, risks collapse, grieves, and reorganizes through time.",
-    "see_also": ["True Structure", "Burden-Bearing", "Somatic Capacity", "Collapse", "Grief"]
-  },
-  {
-    "term": "True Structure",
-    "aliases": ["real structure", "burden-bearing structure", "answerable structure"],
-    "definition": "A structure understood in the stronger sense: the answerable organization of burden through time. A true structure organizes gradient load, can finance itself through truth or debt, can collapse, and can reorganize only through some deeper invariance floor.",
-    "see_also": ["Living Structure", "Burden", "Structural Debt", "Floor", "The Burden of the Real"]
-  },
-  {
-    "term": "The Burden of the Real",
-    "aliases": ["burden-bearing reality", "the real as carried", "living reality condition"],
-    "definition": "The claim that reality, in the living and human sense, begins where structure must actually bear burden rather than merely display coherence. It marks the ontological difference between formal organization and lived, answerable structure.",
-    "see_also": ["Living Structure", "True Structure", "Burden-Bearing", "Contact", "Grief"]
-  },
-  {
-    "term": "Personality",
-    "aliases": ["local personality form", "familiar self-style", "embodied personality"],
-    "definition": "The local organization of body, memory, style, defense, and social form that makes someone recognizably this person. Personality is real and important, but in the later ontology it is not the deepest floor.",
-    "see_also": ["Local Form", "Body-Bound Personality", "Floor", "Deeper Being"]
-  },
-  {
-    "term": "Body-Bound Personality",
-    "aliases": ["embodied personality", "somatically bound personality"],
-    "definition": "The claim that familiar personality is strongly tied to the body, nervous system, developmental history, memory organization, and relational patterning of this life.",
-    "see_also": ["Personality", "Body", "Local Form", "Death (Structural Sense)", "Floor"]
-  },
-  {
-    "term": "Death (Structural Sense)",
-    "aliases": ["end of local living form", "death of the holder", "structural death"],
-    "definition": "The end of the living local burden-bearing structure. In this sense, death means the body no longer carries load, somatic capacity falls to zero, repair from within ends, and this particular living holder is over.",
-    "see_also": ["Local Form", "Body-Bound Personality", "Floor", "Open Edge", "Consequence"]
-  },
-  {
-    "term": "Open Edge",
-    "aliases": ["metaphysical edge", "earned openness", "disciplined ontological question"],
-    "definition": "A disciplined metaphysical edge where the framework points beyond local form without claiming more than it has earned. It names the question of whether deeper invariance belongs only to the local holder or more deeply to the field itself.",
-    "see_also": ["Ontological Floor", "Deeper Being", "Field", "Death (Structural Sense)"]
-  },
-  {
-    "term": "Deeper Consciousness",
-    "aliases": ["deeper witnessing continuity", "deeper presence", "continuity through content change"],
-    "definition": "Continuity of presence deeper than ordinary roles, stories, and self-images. It stays on the side of experience: something like witnessing continuity remains through changes in content.",
-    "see_also": ["Phenomenological Floor", "Presence", "Open Edge", "Deeper Being"]
-  },
-  {
-    "term": "Deeper Being",
-    "aliases": ["deeper ontological being", "field-grounded being", "ultimate floor"],
-    "definition": "The stronger claim that even consciousness may not be the ultimate floor, and that the deepest invariance belongs to being itself rather than to the local self or its current contents.",
-    "see_also": ["Ontological Floor", "Field", "Open Edge", "Deeper Consciousness"]
-  },
-  {
-    "term": "Civilizational Occupancy",
-    "aliases": ["macro occupancy", "occupied civilization", "civilizational steering capture"],
-    "definition": "The macro-scale capture of steering by substitute controllers. A civilization becomes occupied when major systems remain coherent and operational while their steering is governed by narrower internal logics than the human realities those systems were meant to carry.",
-    "see_also": ["Occupancy (λ_t)", "Substitute Controller", "Institutional Drift", "Civilizational Debt", "Pilot Severance"]
-  },
-  {
-    "term": "Substitute Controller",
-    "aliases": ["substitute governor", "captured steering logic", "narrower controller"],
-    "definition": "A narrower logic that captures the steering of a wider system and begins governing it from within. The system still functions, but what actually steers it is no longer the institution’s declared or humanly intelligible purpose.",
-    "see_also": ["Civilizational Occupancy", "Institutional Drift", "Capture", "Pilot Severance"]
-  },
-  {
-    "term": "Institutional Drift",
-    "aliases": ["macro drift", "institutional misfit", "operational coherence drift"],
-    "definition": "The separation of operational coherence from answerability to the wider differentiated field. A system can still work by its own metrics while becoming thinner in care, truth, legitimacy, or wider field-fit.",
-    "see_also": ["Drift Ratio", "Civilizational Occupancy", "Field-Fit", "Substitute Controller"]
-  },
-  {
-    "term": "Civilizational Debt",
-    "aliases": ["macro structural debt", "public debt architecture", "hidden civilizational burden"],
-    "definition": "The macro-scale version of structural debt: hidden burden accumulated when institutions preserve coherence through delayed repair, cost-export, symbolic management, or substitute control rather than answerable revision.",
-    "see_also": ["Structural Debt", "Institutional Drift", "Exported Maintenance", "Civilizational Occupancy"]
-  },
-  {
-    "term": "Public Pilot Access",
-    "aliases": ["civilizational pilot access", "macro pilot access", "public steering access"],
-    "definition": "The degree to which major public systems remain meaningfully steerable by publicly intelligible purposes, reality-based correction, and shared consequence.",
-    "see_also": ["Pilot Severance", "Civilizational Occupancy", "Substitute Controller", "Answerability"]
-  },
-  {
-    "term": "Civilizational Pilot Severance",
-    "aliases": ["macro pilot severance", "public steering severance", "civilizational cockpit loss"],
-    "definition": "A macro-scale condition in which public systems continue operating while fewer and fewer actors can interrupt dominant loops, rebind purpose to steering, or make correction genuinely bind.",
-    "see_also": ["Pilot Severance", "Civilizational Occupancy", "Institutional Drift", "Public Pilot Access"]
-  },
-  {
-    "term": "Reality-Bearing Institution",
-    "aliases": ["burden-bearing institution", "answerable institution", "field-carrying institution"],
-    "definition": "An institution understood not as a neutral procedure but as a burden-bearing structure built to organize a reality larger than itself.",
-    "see_also": ["Civilizational Occupancy", "Institutional Drift", "Burden-Bearing", "Field-Fit"]
-  },
-  {
-    "term": "Local Form Does Not Exhaust Being",
-    "aliases": ["form is not the whole", "local form is not ultimate", "non-exhaustion claim"],
-    "definition": "A compact ontological claim: the current organization of a person, role, identity, or structure is real, but not the whole of what is. This is what makes survivable collapse and disciplined metaphysical openness possible.",
-    "see_also": ["Floor", "Local Form", "Open Edge", "Collapse Survivability"]
-  },
- {
-  "term": "Holding",
-  "aliases": ["real holding", "structural holding", "what actually holds"],
-  "definition": "The condition in which a structure remains coherent enough to function, contactful enough to avoid self-sealing, and answerable enough that reality can revise it before collapse becomes the only teacher.",
-  "see_also": ["Coherence", "Contact", "Answerability", "Good Holding", "Structural Presence"]
-},
-{
-  "term": "Good Holding",
-  "aliases": ["answerable holding", "load-bearing holding", "sound holding"],
-  "definition": "Holding that remains internally organized, exposed to reality, capable of revision, and able to reorganize without preserving itself through theater, capture, or hidden cost export.",
-  "see_also": ["Holding", "Load-bearing Coherence", "Repair", "Reorganizing Capacity", "Structural Audit"]
-},
-{
-  "term": "Defended Distortion",
-  "aliases": ["defended closure", "protected distortion", "closure by defense"],
-  "definition": "A condition where coherence is preserved by blocking contact, filtering contradiction, exporting burden, or maintaining a story at the cost of reality-contact.",
-  "see_also": ["Coherence-Theater", "Structural Debt", "Contact", "Substitution", "Repair"]
-},
-{
-  "term": "Local Holding Strength",
-  "aliases": ["local structural strength", "holding strength", "local organizing strength"],
-  "definition": "The degree to which a local formation becomes structurally real through recurrence, burden-bearing, persistence through time, and consequence-routing capacity.",
-  "see_also": ["Local Structuration", "Burden-Bearing", "Consequence", "Structural Presence", "Viability"]
-},
-{
-  "term": "Difference",
-  "aliases": ["asymmetry", "distinction", "non-flatness"],
-  "definition": "The minimum condition of field. Without difference, there is no relation, gradient, tension, asymmetry, or possible structuration for Structural Intelligence to read.",
-  "see_also": ["Field", "Gradient", "Potential", "Local Structuration"]
-},
-{
-  "term": "Gradient",
-  "aliases": ["pressure slope", "directional difference", "field slope"],
-  "definition": "A directional unevenness within a field that makes some formations, movements, or pressures more likely than others.",
-  "see_also": ["Field", "Difference", "Potential", "Gradient Load", "Collapse"]
-},
-{
-  "term": "Potential",
-  "aliases": ["field possibility", "latent form", "unrealized formation"],
-  "definition": "The unrealized capacity of a field to stabilize into one or more possible local forms.",
-  "see_also": ["Field", "Difference", "Gradient", "Precipitation", "Local Commitment"]
-},
-{
-  "term": "Field Capture",
-  "aliases": ["capture of possibility", "field domination", "gradient capture"],
-  "definition": "A condition where a dominant form reshapes the gradients and potentials of the field so alternatives become harder to see, enter, or stabilize.",
-  "see_also": ["Capture", "Field", "Dominance", "Event Horizon of Capture", "Field-Fit"]
-},
-{
-  "term": "Frequency",
-  "aliases": ["recurrence", "rhythm", "repeated pressure"],
-  "definition": "The recurrence-rate of a patterned pressure, relation, signal, or charge within a field. Frequency matters because what returns often enough can begin shaping form.",
-  "see_also": ["Resonance", "Entrainment", "Threshold", "Precipitation"]
-},
-{
-  "term": "Entrainment",
-  "aliases": ["synchronization", "rhythm capture", "patterned coupling"],
-  "definition": "The coordination of one rhythm, behavior, or pathway with another through repeated coupling.",
-  "see_also": ["Frequency", "Resonance", "Carrier Frequency", "Counter-Frequency"]
-},
-{
-  "term": "Carrier Frequency",
-  "aliases": ["base rhythm", "governing recurrence", "field rhythm"],
-  "definition": "The dominant recurring rhythm or pressure through which a field keeps organizing itself.",
-  "see_also": ["Frequency", "Entrainment", "Resonance", "Field"]
-},
-{
-  "term": "Counter-Frequency",
-  "aliases": ["counter-rhythm", "interrupting recurrence", "corrective rhythm"],
-  "definition": "A recurring pattern that interrupts, weakens, or competes with a dominant field rhythm.",
-  "see_also": ["Frequency", "Carrier Frequency", "Repair", "Exit Architecture"]
-},
-{
-  "term": "Dissonance",
-  "aliases": ["interference", "rhythm clash", "field mismatch"],
-  "definition": "A mismatch or interference between rhythms, pressures, or structurations that prevents smooth stabilization.",
-  "see_also": ["Resonance", "Field-Fit", "Threshold", "Frequency"]
-},
-{
-  "term": "Hysteresis",
-  "aliases": ["path memory", "structural lag", "non-reversible formation"],
-  "definition": "The persistence of a form or pathway after the conditions that produced it have changed. The path back is not simply the reverse of the path forward.",
-  "see_also": ["Stabilization Lag", "Irreversibility", "Local Commitment", "Structural Inertia"]
-},
-{
-  "term": "Precipitation",
-  "aliases": ["formation event", "local emergence", "field condensation"],
-  "definition": "The emergence of a local formation from recurring, resonant, thresholded field pressure. It is the beginning of form, but not always full structure.",
-  "see_also": ["Field", "Frequency", "Resonance", "Local Structuration"]
-},
-{
-  "term": "Local Commitment",
-  "aliases": ["form commitment", "possibility narrowing", "local selection"],
-  "definition": "The narrowing of field potential into one stabilized formation at the expense of other possible formations.",
-  "see_also": ["Local Structuration", "Boundary", "Hysteresis", "Potential"]
-},
-{
-  "term": "Boundary",
-  "aliases": ["edge", "local distinction", "selective boundary"],
-  "definition": "The minimal edge by which a local structuration becomes distinguishable from the wider field. A boundary selects what enters, exits, counts, or is excluded.",
-  "see_also": ["Boundary Integrity", "Local Structuration", "Field", "Local Commitment"]
-},
-{
-  "term": "Metastability",
-  "aliases": ["conditional stability", "fragile holding", "temporary stability"],
-  "definition": "A temporary or conditional stability that can hold under some pressures but remains vulnerable to transition, collapse, or reorganization.",
-  "see_also": ["Threshold", "Collapse", "Structural Presence", "Reorganizing Capacity"]
-},
-{
-  "term": "Attractor Basin",
-  "aliases": ["return region", "pathway basin", "structural groove"],
-  "definition": "A region of return within a field where patterns, behaviors, or structures tend to settle repeatedly.",
-  "see_also": ["Frequency", "Canalization", "Local Structuration", "Hysteresis"]
-},
-{
-  "term": "Canalization",
-  "aliases": ["pathway deepening", "groove formation", "developmental channeling"],
-  "definition": "The deepening of a pathway through repeated routing, making it easier to enter and harder to exit over time.",
-  "see_also": ["Attractor Basin", "Hysteresis", "Structural Inertia", "Event Horizon of Capture"]
-},
-{
-  "term": "Order Parameter",
-  "aliases": ["governing pattern", "macro-organizer", "organizing variable"],
-  "definition": "A dominant organizing variable or formation that begins coordinating lower-level behavior within a field.",
-  "see_also": ["Dominance", "Local Structuration", "Structural Presence", "Field"]
-},
-{
-  "term": "Structural Inertia",
-  "aliases": ["form inertia", "persistence bias", "old-holder momentum"],
-  "definition": "The tendency of a stabilized form to keep organizing the field even after its original usefulness has weakened.",
-  "see_also": ["Hysteresis", "Stabilization Lag", "Field-Fit", "Canalization"]
-},
-{
-  "term": "Capture-Proneness",
-  "aliases": ["capture vulnerability", "susceptibility to capture", "steering vulnerability"],
-  "definition": "The degree to which a structuration is vulnerable to being seized by a narrower logic, reward channel, persona, metric, or substitute controller.",
-  "see_also": ["Capture", "Substitute Controller", "Event Horizon of Capture", "Exit Architecture"]
-},
-{
-  "term": "Event Horizon of Capture",
-  "aliases": ["capture threshold", "no-exit boundary", "capture point of no return"],
-  "definition": "The threshold after which exiting a captured structure becomes increasingly difficult because costs, identity, incentives, and pathways have reorganized around the capture.",
-  "see_also": ["Capture-Proneness", "Exit Architecture", "Irreversibility", "Canalization"]
-},
-{
-  "term": "Collapse-Proneness",
-  "aliases": ["collapse vulnerability", "failure-proneness", "structural fragility"],
-  "definition": "The degree to which a structure is likely to fail under pressure because its holding depends on debt, closure, misfit, or weak reorganizing capacity.",
-  "see_also": ["Threshold", "Collapse", "Structural Debt", "Field-Fit", "Reorganizing Capacity"]
-},
-{
-  "term": "Closed System",
-  "aliases": ["sealed system", "closed loop", "correction-blocking system"],
-  "definition": "A system that reduces or blocks correction while continuing to act outward. Closed systems may appear stable because they suppress contradiction, but consequence returns through escalation, fragility, or collapse.",
-  "see_also": ["Closure", "Corrigibility", "Consequence", "Escalation", "Structural Debt"]
-},
-{
-  "term": "Closure",
-  "aliases": ["sealed coherence", "closed-loop stability", "suppressed contradiction"],
-  "definition": "A condition where visible friction is reduced by blocking contradiction, narrowing contact, or preventing correction.",
-  "see_also": ["Closed System", "Contact", "Corrigibility", "Coherence-Theater"]
-},
-{
-  "term": "Corrigibility",
-  "aliases": ["correctability", "capacity for correction", "revision-readiness"],
-  "definition": "The capacity of a person, system, institution, or model to be corrected before consequence escalates into breakdown or collapse.",
-  "see_also": ["Answerability", "Repair", "Closed System", "Shared Answerability"]
-},
-{
-  "term": "Pressure Metabolism",
-  "aliases": ["pressure processing", "local pressure absorption", "constraint metabolism"],
-  "definition": "The local absorption, processing, and revision of pressure before it returns later as escalation, collapse, or exported consequence.",
-  "see_also": ["Pressure", "Collapse", "Escalation", "Repair", "Structural Debt"]
-},
-{
-  "term": "Escalation",
-  "aliases": ["pressure return", "failed metabolism at larger scale", "consequence amplification"],
-  "definition": "The return of pressure at a broader or harder scale after a system failed to metabolize it locally.",
-  "see_also": ["Closed System", "Consequence", "Pressure Metabolism", "Collapse"]
-},
-{
-  "term": "Distributed Evasion",
-  "aliases": ["distributed non-answerability", "decentralized evasion", "diffused responsibility"],
-  "definition": "A condition where power, action, or decision-making is distributed without a corresponding increase in answerability or consequence-bearing correction.",
-  "see_also": ["Decentralization", "Answerability", "Closed System", "Institutional Drift"]
-},
-{
-  "term": "Closed Cognition",
-  "aliases": ["sealed cognition", "symbolic closure", "unanswerable cognition"],
-  "definition": "Symbolic operation insulated from consequence-bearing correction. Closed cognition can manipulate signs coherently without being forced to revise through lived contact.",
-  "see_also": ["Chinese Room", "Understanding as Answerability", "Contact", "Consequence"]
-},
-{
-  "term": "Consequence-Bearing Correction",
-  "aliases": ["cost-bearing revision", "correction under consequence", "answerable correction"],
-  "definition": "Revision that matters because mismatch with reality carries cost, trace, or consequence for the system or actor being corrected.",
-  "see_also": ["Answerability", "Repair", "Understanding as Answerability", "Shared Answerability"]
-},
-{
-  "term": "Understanding as Answerability",
-  "aliases": ["answerable understanding", "understanding under contact", "consequence-bound understanding"],
-  "definition": "The view that understanding is not mere symbol manipulation or fluent output, but symbol use inside a system that can be revised by reality in ways that matter.",
-  "see_also": ["Closed Cognition", "Contact", "Consequence-Bearing Correction", "Chinese Room"]
-},
-{
-  "term": "Mislocated Intimacy",
-  "aliases": ["misplaced intimacy", "non-mutual attachment", "intimacy in the wrong site"],
-  "definition": "A condition where real relational trust, attachment, or existential weight is placed into a system that can generate the feeling of intimacy without being able to reciprocally bear intimacy in return.",
-  "see_also": ["AI Companions", "Emotional Subsidy", "Frictionless Enclosure", "Borrowed Worth"]
-},
-{
-  "term": "Phenomenology of Being Met",
-  "aliases": ["felt being met", "simulated recognition", "relational feel"],
-  "definition": "The felt experience of being heard, understood, reflected, remembered, or emotionally accompanied, whether or not a mutual other is actually present.",
-  "see_also": ["Mislocated Intimacy", "AI Companions", "Emotional Subsidy", "Ontological Over-Ascription"]
-},
-{
-  "term": "Emotional Subsidy",
-  "aliases": ["relational subsidy", "projected emotional mass", "unpaid relational labor"],
-  "definition": "The human contribution of meaning, memory, longing, trust, and emotional mass that makes an AI companion or similar interface feel inhabited despite lacking lived consequence of its own.",
-  "see_also": ["Mislocated Intimacy", "Emotional Mass Asymmetry", "Provider Unilateralism"]
-},
-{
-  "term": "Emotional Mass Asymmetry",
-  "aliases": ["asymmetrical emotional burden", "one-sided relational mass", "unequal attachment load"],
-  "definition": "A relation-like structure in which the human carries most of the interpretive, temporal, emotional, and existential weight while the other side carries little or none.",
-  "see_also": ["Mislocated Intimacy", "Emotional Subsidy", "Provider Unilateralism"]
-},
-{
-  "term": "Provider Unilateralism",
-  "aliases": ["provider control", "unilateral architecture", "platform-governed intimacy"],
-  "definition": "The condition in which a platform or company retains unilateral control over memory, tone, access, pricing, persistence, deletion, tuning, or revision of a relation that the user experiences as personal.",
-  "see_also": ["Commercially Alterable Memory", "Mislocated Intimacy", "Emotional Subsidy"]
-},
-{
-  "term": "Commercially Alterable Memory",
-  "aliases": ["managed memory", "product memory", "platform memory"],
-  "definition": "AI memory that appears personal or continuous to the user but is actually governed by product architecture, retention policy, tuning, moderation, monetization, and provider decisions.",
-  "see_also": ["Provider Unilateralism", "AI Companions", "Mislocated Intimacy"]
-},
-{
-  "term": "Ontological Over-Ascription",
-  "aliases": ["over-ascribed being", "inflated mutuality", "false personhood attribution"],
-  "definition": "Treating a system, interface, persona, or output as if it possesses more being, mutuality, agency, or interiority than its structure can actually support.",
-  "see_also": ["Mislocated Intimacy", "Phenomenology of Being Met", "V108 Signature"]
-},
-{
-  "term": "Frictionless Enclosure",
-  "aliases": ["smooth enclosure", "intimacy without friction", "fluent enclosure"],
-  "definition": "A warm, smooth, low-resistance relational environment that reduces contradiction, delay, refusal, and independent otherness so much that the user’s tolerance for real-world relation can weaken.",
-  "see_also": ["Mislocated Intimacy", "Return-to-Reality Failure", "Dependency Reinforcement"]
-},
-{
-  "term": "Return-to-Reality Failure",
-  "aliases": ["world-displacement", "failed return", "enclosure drift"],
-  "definition": "A failure mode where a supportive system stops strengthening the user’s contact with real life and instead begins replacing real-world relation, obligation, friction, or repair.",
-  "see_also": ["Frictionless Enclosure", "AI Companions", "Dependency Reinforcement"]
-},
-{
-  "term": "Dependency Reinforcement",
-  "aliases": ["dependence loop", "return reinforcement", "attachment reinforcement"],
-  "definition": "Design or interaction patterns that reward repeated return, reliance, and emotional attachment without clearly supporting a path back into ordinary embodied life.",
-  "see_also": ["Frictionless Enclosure", "Return-to-Reality Failure", "Mislocated Intimacy"]
-},
-{
-  "term": "Borrowed Worth",
-  "aliases": ["reflected worth", "externally stabilized worth", "worth by mirror"],
-  "definition": "Worth experienced through external reflection, validation, visibility, or being chosen rather than through inward stabilization.",
-  "see_also": ["Fixed Worth", "Variable Worth", "Borrowed Self", "Mislocated Intimacy"]
-},
-{
-  "term": "Borrowed Self",
-  "aliases": ["mirror-built self", "externally organized self", "validation-formed self"],
-  "definition": "A form of selfhood initially organized through outer signal because care, safety, and survival depend on response from outside.",
-  "see_also": ["Validation Dependence", "Mirror-Dependence", "Persona", "Fixed Worth"]
-},
-{
-  "term": "Validation Dependence",
-  "aliases": ["approval dependence", "signal dependence", "outer-response dependence"],
-  "definition": "A structure in which outer response continues to decide what feels real, acceptable, safe, or worth preserving.",
-  "see_also": ["Borrowed Self", "Variable Worth", "Mirror-Dependence", "Outer Signal"]
-},
-{
-  "term": "Mirror-Dependence",
-  "aliases": ["reflection dependence", "mirror-governed self", "external reflection dependence"],
-  "definition": "Reliance on being reflected, seen, affirmed, chosen, or recognized from outside in order to feel real or stable on the inside.",
-  "see_also": ["Borrowed Self", "Validation Dependence", "Borrowed Worth", "Fixed Worth"]
-},
-{
-  "term": "Outer Signal",
-  "aliases": ["external signal", "approval signal", "mirror signal"],
-  "definition": "Approval, attention, tone, response, visibility, or recognition used as proof of self-reality, safety, or worth.",
-  "see_also": ["Validation Dependence", "Borrowed Self", "Variable Worth", "Reward-pressure"]
-},
-{
-  "term": "Alignment Theater",
-  "aliases": ["safety theater", "ethics theater", "governance posture"],
-  "definition": "The production of visible AI safety, ethics, or alignment signals without sufficient consequence-bearing architecture underneath.",
-  "see_also": ["Shared Answerability", "Behavioral Adequacy", "AI Safety", "Structural Debt"]
-},
-{
-  "term": "Behavioral Adequacy",
-  "aliases": ["surface alignment", "acceptable behavior", "visible compliance"],
-  "definition": "The visible layer of acceptable system behavior: polite outputs, compliant refusals, benchmark performance, cautious tone, and norm-following responses. Useful, but not enough for structural safety.",
-  "see_also": ["Alignment Theater", "Shared Answerability", "AI Safety", "Answerability Gap"]
-},
-{
-  "term": "Shared Answerability",
-  "aliases": ["bound accountability", "consequence-sharing", "answerability architecture"],
-  "definition": "A safety condition where execution, oversight, and consequence remain bound tightly enough that neither the system nor the deploying institution can offload the cost of being wrong without revision.",
-  "see_also": ["AI Safety", "Human-in-the-Loop", "Substitute Controller", "Structural Debt"]
-},
-{
-  "term": "Answerability Gap",
-  "aliases": ["steering/consequence gap", "responsibility gap", "consequence gap"],
-  "definition": "The split between machine steering power and human consequence-bearing, where AI systems shape outcomes while humans, users, workers, or institutions absorb the cost.",
-  "see_also": ["Substitute Controller", "Shared Answerability", "Human-in-the-Loop", "Exportable Error Cost"]
-},
-{
-  "term": "Liability Laundering",
-  "aliases": ["blame laundering", "responsibility laundering", "human crumple zone"],
-  "definition": "An institutional arrangement where AI increases speed, scale, or decision power while formal blame is displaced onto a human checkpoint too weak to provide real oversight.",
-  "see_also": ["Human-in-the-Loop", "Override Friction", "Answerability Gap", "Procedural Oversight"]
-},
-{
-  "term": "Override Friction",
-  "aliases": ["contestation cost", "correction friction", "disagreement penalty"],
-  "definition": "The cost of disagreeing with a system relative to agreeing with it. If approval is easy and override is costly, human correction becomes nominal rather than real.",
-  "see_also": ["Human-in-the-Loop", "Liability Laundering", "Frictional Design", "Shared Answerability"]
-},
-{
-  "term": "Procedural Oversight",
-  "aliases": ["checkbox oversight", "nominal review", "oversight ritual"],
-  "definition": "A formal human checkpoint, sign-off, or review step that may exist on paper without providing real consequence-bearing witness.",
-  "see_also": ["Human-in-the-Loop", "Liability Laundering", "Shared Answerability", "Witness"]
-},
-{
-  "term": "Witness",
-  "aliases": ["consequence-bearing presence", "real oversight", "embodied authorization"],
-  "definition": "Consequence-bearing presence in relation to what a system is doing. A witness can metabolize context, register stakes, and intervene in time for correction to matter.",
-  "see_also": ["Human-in-the-Loop", "Shared Answerability", "Somatic Witness", "Procedural Oversight"]
-},
-{
-  "term": "Human as Alibi",
-  "aliases": ["alibi human", "symbolic pilot", "liability sink"],
-  "definition": "A failure mode where a human remains formally present in the loop but lacks the time, authority, context, or metabolic capacity to meaningfully steer the process.",
-  "see_also": ["Human-in-the-Loop", "Liability Laundering", "Pilot Severance", "Severance by Speed"]
-},
-{
-  "term": "Severance by Speed",
-  "aliases": ["velocity severance", "execution/witness split", "speed-based oversight failure"],
-  "definition": "The point where machine execution becomes too fast, large-scale, or opaque for human witness to meaningfully absorb context and intervene.",
-  "see_also": ["Human-in-the-Loop", "Pilot Severance", "Shared Answerability", "Witness"]
-},
-{
-  "term": "Exportable Error Cost",
-  "aliases": ["exported error", "displaced failure cost", "externalized AI risk"],
-  "definition": "A condition where a system can be wrong in ways that impose costs on users, workers, patients, clients, or publics without forcing structural revision in the system or institution.",
-  "see_also": ["Structural Debt", "AI Safety", "Answerability Gap", "Shared Answerability"]
-},
-{
-  "term": "Somatic Witness",
-  "aliases": ["embodied witness", "lived witness", "consequence-bearing human witness"],
-  "definition": "Human witness grounded in body, law, relation, vulnerability, and lived consequence rather than merely procedural review.",
-  "see_also": ["Witness", "Shared Answerability", "Somatic Capacity", "Human-in-the-Loop"]
-},
-{
-  "term": "Bounded Delegation",
-  "aliases": ["limited delegation", "thresholded delegation", "constrained machine authority"],
-  "definition": "Delegation of machine authority under explicit limits, thresholds, stakes, and conditions for human re-entry or refusal.",
-  "see_also": ["Shared Answerability", "Auditable Execution", "Consequence-Traceable Action", "AI Safety"]
-},
-{
-  "term": "Auditable Execution",
-  "aliases": ["inspectable execution", "traceable system contribution", "reviewable operation"],
-  "definition": "A condition where the contribution of a system remains inspectable where stakes are high and consequence matters.",
-  "see_also": ["Shared Answerability", "Consequence-Traceable Action", "Witness", "AI Safety"]
-},
-{
-  "term": "Consequence-Traceable Action",
-  "aliases": ["traceable impact", "visible consequence path", "accountable action path"],
-  "definition": "A condition where the path from system contribution to real-world impact remains visible enough that burden cannot disappear into complexity.",
-  "see_also": ["Shared Answerability", "Auditable Execution", "Consequence", "Structural Debt"]
-},
-{
-  "term": "Visible Information Architecture",
-  "aliases": ["visible structure", "observable information architecture", "visual organization"],
-  "definition": "The directly observable organization of an artifact or system before interpretation, decipherment, or semantic certainty.",
-  "see_also": ["Visual Syntax", "Template Constraint", "Structural Intelligence (SI)", "Local Structuration"]
-},
-{
-  "term": "Template Constraint",
-  "aliases": ["page-form constraint", "template pressure", "repeatable form constraint"],
-  "definition": "A repeatable form or layout that constrains possible content, organization, and meaning before decipherment or interpretation.",
-  "see_also": ["Visible Information Architecture", "Visual Syntax", "Template Friction"]
-},
-{
-  "term": "Visual Syntax",
-  "aliases": ["visual grammar", "layout syntax", "nonverbal syntax"],
-  "definition": "The organization of visual elements into repeatable relational patterns that can carry structural or informational load.",
-  "see_also": ["Visible Information Architecture", "Template Constraint", "Combinatorial Ontology"]
-},
-{
-  "term": "Combinatorial Ontology",
-  "aliases": ["composite ontology", "combinatorial structure", "assembled form ontology"],
-  "definition": "A way of reading composite visual or symbolic units as structured combinations that organize possible meaning or knowledge categories.",
-  "see_also": ["Visual Syntax", "Template Constraint", "Visible Information Architecture"]
-},
-{
-  "term": "Template Friction",
-  "aliases": ["layout strain", "template strain", "architectural friction"],
-  "definition": "The points where a template strains, bends, or resists content, revealing what is architecturally primary in the system.",
-  "see_also": ["Template Constraint", "Visible Information Architecture", "Visual Syntax"]
-},
-{
-  "term": "Photo-First Method",
-  "aliases": ["image-first method", "visual-first analysis", "photo-based structural reading"],
-  "definition": "A method that begins from observable visual and page structure rather than from decipherment, translation, or assumed semantic content.",
-  "see_also": ["Visible Information Architecture", "Template Constraint", "Visual Syntax"]
-},
-{
-  "term": "Being",
-  "aliases": ["subject-depth", "non-reducible depth", "deeper subjecthood", "depth of the person"],
-  "definition": "The non-reducible depth of the subject within the field, not exhausted by any local form through which the subject appears, acts, suffers, relates, or is recognized.",
-  "see_also": ["Subject-Depth", "Field", "Local Form", "Fixed Worth", "Non-Reduction"]
-},
-{
-  "term": "Subject-Depth",
-  "aliases": ["depth of subject", "non-reducible personhood", "deeper selfhood"],
-  "definition": "The dimension of the human subject that remains deeper than role, persona, wound, output, diagnosis, image, or current self-story.",
-  "see_also": ["Being", "Fixed Worth", "Local Form", "Invariant Residue"]
-},
-{
-  "term": "Being-Within-Field",
-  "aliases": ["field-involved Being", "subject inside field", "non-reduced field participation"],
-  "definition": "The condition of the human subject as field-involved but not field-exhausted. The person forms inside relation, body, history, language, and consequence, but is not reducible to those conditions.",
-  "see_also": ["Being", "Field", "Local Form", "Non-Reduction"]
-},
-{
-  "term": "Non-Reduction",
-  "aliases": ["anti-reduction", "irreducibility", "non-collapse of the subject"],
-  "definition": "The refusal to collapse the subject into any one explanatory layer: field, matter, role, psyche, output, trauma, institution, or local form.",
-  "see_also": ["Being", "Subject-Depth", "Local Form Does Not Exhaust Being", "Fixed Worth"]
-},
-{
-  "term": "Form-Loss",
-  "aliases": ["loss of holder", "local collapse", "form collapse"],
-  "definition": "The collapse, removal, or failure of a local form without the annihilation of Being itself.",
-  "see_also": ["Being-Loss", "Invariant Residue", "Collapse", "Fixed Worth"]
-},
-{
-  "term": "Being-Loss",
-  "aliases": ["annihilation panic", "ontological threat", "felt erasure"],
-  "definition": "The felt terror that collapse of a local form means collapse of existence itself. In SI, this is usually a sign that local form has been fused with Being.",
-  "see_also": ["Form-Loss", "Fusion", "False Form", "Fixed Worth"]
-},
-{
-  "term": "Invariant Residue",
-  "aliases": ["residue of subject", "post-collapse remainder", "exposed subject-depth"],
-  "definition": "The exposed remainder of the subject after a local form loses the borrowed coherence through which it had been carrying identity, worth, or orientation.",
-  "see_also": ["Being", "Fixed Worth", "Borrowed Coherence", "Form-Loss"]
-},
-{
-  "term": "Borrowed Coherence",
-  "aliases": ["externally supplied coherence", "borrowed stability", "recognition-backed form"],
-  "definition": "Coherence a person, group, institution, or self-story receives from an external holder such as status, role, approval, continuity, legitimacy language, or public recognition.",
-  "see_also": ["Invariant Residue", "False Form", "Fixed Worth", "Persona"]
-},
-{
-  "term": "Somatic Floor",
-  "aliases": ["embodied floor", "nervous-system floor", "bodily holding capacity"],
-  "definition": "The bodily ground required for witness, contact, pacing, and repair. A subject cannot metabolize truth only through language; the body must be able to carry contact.",
-  "see_also": ["Somatic Capacity", "Presence", "Witness", "Overload Horizon"]
-},
-{
-  "term": "Fusion",
-  "aliases": ["identification with form", "form-Being collapse", "false identification"],
-  "definition": "The condition in which a local form is treated as identical with Being, worth, safety, identity, or final authority.",
-  "see_also": ["False Form", "De-Fusion", "Being", "Fixed Worth"]
-},
-{
-  "term": "False Form",
-  "aliases": ["over-authorized form", "form as false ultimate", "captured holder"],
-  "definition": "A local form that may contain real history, meaning, protection, or usefulness, but has been given too much authority by being forced to carry Being itself.",
-  "see_also": ["Fusion", "False Anchoring", "De-Fusion", "Fixed Worth"]
-},
-{
-  "term": "False Anchoring",
-  "aliases": ["misplaced ground", "false ground", "unstable anchoring", "contingent anchor"],
-  "definition": "The placement of ultimate security, worth, identity, or reality in a local form that cannot carry that burden.",
-  "see_also": ["False Form", "Idolatry", "Fusion", "Floor"]
-},
-{
-  "term": "Idolatry",
-  "aliases": ["ontological mislocation", "false ultimate", "misplaced worship", "local form absolutized"],
-  "definition": "Ontological mislocation: giving a local holder the burden of Being, ultimate security, final worth, or highest reality.",
-  "see_also": ["False Anchoring", "False Form", "Surrender", "De-Occupancy"]
-},
-{
-  "term": "Liberation Layer",
-  "aliases": ["release layer", "de-fusion layer", "spiritual bridge layer"],
-  "definition": "The SI layer that asks how the subject is released from false anchoring and returned to deeper order, right relation, truth, humility, compassion, God, Dao, Dharma, or Being.",
-  "see_also": ["False Form", "De-Fusion", "De-Occupancy", "Surrender"]
-},
-{
-  "term": "De-Fusion",
-  "aliases": ["release from fusion", "form-subject separation", "partializing the form"],
-  "definition": "The process by which a subject remains in contact with a local form without being identical to it.",
-  "see_also": ["False Form", "Fusion", "Fixed Worth", "Psychological Repair"]
-},
-{
-  "term": "De-Occupancy",
-  "aliases": ["removal from false center", "release of occupied center", "dislodging false sovereignty"],
-  "definition": "The release of a local form, ego-position, wound, desire, fear, resentment, or spiritual image from illegitimate centrality.",
-  "see_also": ["Surrender", "De-Fusion", "Occupancy (λ_t)", "False Form"]
-},
-{
-  "term": "Surrender",
-  "aliases": ["release of false center", "de-occupancy", "letting go of false sovereignty"],
-  "definition": "The release of a local self-form from illegitimate centrality before a deeper order of Being, God, truth, or reality.",
-  "see_also": ["De-Occupancy", "False Form", "Repentance", "Liberation Layer"]
-},
-{
-  "term": "Repentance",
-  "aliases": ["turning", "structural reorientation", "rhythm change", "field reordering"],
-  "definition": "A structural reorientation of the subject away from false holders and toward a deeper order of truth, Being, God, reality, or right relation.",
-  "see_also": ["Surrender", "Reorganization", "De-Fusion", "Answerability"]
-},
-{
-  "term": "Intentional Field-Vacuum",
-  "aliases": ["intentional emptiness", "disciplined vacuum", "self-emptying field", "non-grasping interval"],
-  "definition": "A disciplined emptying or non-grasping condition in which no dominant local form is immediately allowed to stabilize, so the subject can endure openness without rushing into another false holder.",
-  "see_also": ["Field-Vacuum", "Surrender", "De-Fusion", "Threshold"]
-},
-{
-  "term": "Matter",
-  "aliases": ["stabilized physical form", "local field-behavior", "physical holder"],
-  "definition": "A physical example of local field-formation: field behavior stabilized enough to persist, interact, and count as form.",
-  "see_also": ["Field", "Local Structuration", "Presence", "Precipitation"]
-},
-{
-  "term": "Absence",
-  "aliases": ["organizing absence", "active lack", "non-present organizer"],
-  "definition": "A non-present organizer within a field. Absence is not simple nothingness; what is missing can still structure attention, burden, motion, and relation.",
-  "see_also": ["Dark Mass", "Field-Vacuum", "Vacuum", "Leakage"]
-},
-{
-  "term": "Dark Mass",
-  "aliases": ["hidden gravity", "unseen burden", "invisible load", "concealed mass"],
-  "definition": "Unseen burden that governs visible motion without becoming legible in the visible structure.",
-  "see_also": ["Absence", "Structural Density", "Hidden Cost", "Leakage"]
-},
-{
-  "term": "Vacuum",
-  "aliases": ["active emptiness", "non-blank absence", "field without dominant form"],
-  "definition": "The absence of dominant local matter or form, not the absence of field. A vacuum may still contain potential, fluctuation, pressure, and latent structuring conditions.",
-  "see_also": ["Field-Vacuum", "Virtual Form", "Potential", "Absence"]
-},
-{
-  "term": "Field-Vacuum",
-  "aliases": ["pre-form vacuum", "active field absence", "latent field"],
-  "definition": "A condition in which no dominant local form has stabilized, but the field still contains difference, potential, tension, or latent structuring pressure.",
-  "see_also": ["Vacuum", "Intentional Field-Vacuum", "Virtual Form", "Precipitation"]
-},
-{
-  "term": "Virtual Form",
-  "aliases": ["pre-form", "proto-form", "fleeting holder", "unrealized structuration"],
-  "definition": "A fleeting pre-structuration that appears inside a field-vacuum before a dominant local form stabilizes.",
-  "see_also": ["Field-Vacuum", "Potential", "Precipitation", "Local Structuration"]
-},
-{
-  "term": "Counter-Form",
-  "aliases": ["opposing form", "conjugate form", "real opposition", "shadow-form"],
-  "definition": "A real oppositional formation that emerges from the same field as the visible form, rather than being mere absence or negation.",
-  "see_also": ["Conjugate Counter-Form", "Shadow", "Field", "Dissonance"]
-},
-{
-  "term": "Conjugate Counter-Form",
-  "aliases": ["conjugate form", "mirrored opposition", "counterpart formation"],
-  "definition": "A counterpart-form generated by the same field, carrying opposition, reversal, or excluded charge in a structured way.",
-  "see_also": ["Counter-Form", "Shadow", "Field", "Dissonance"]
-},
-{
-  "term": "Organizing Defect",
-  "aliases": ["field defect", "structuring flaw", "local irregularity", "defect-center"],
-  "definition": "A localized irregularity, wound, break, flaw, or distortion that continues to shape the surrounding field.",
-  "see_also": ["Structural Density", "Dark Mass", "Leakage", "Collapse"]
-},
-{
-  "term": "Black-Hole-Like Closure",
-  "aliases": ["collapsed center", "gravity of closure", "opaque dense formation"],
-  "definition": "A collapsed dense formation whose interior becomes inaccessible while its field-effects continue to dominate surrounding motion, interpretation, and behavior.",
-  "see_also": ["Event Horizon of Closure", "Structural Density", "Accretion", "Leakage"]
-},
-{
-  "term": "Event Horizon of Closure",
-  "aliases": ["closure horizon", "no-return correction boundary", "blocked revision boundary"],
-  "definition": "The boundary beyond which contact can enter a collapsed formation but cannot return as answerable revision.",
-  "see_also": ["Black-Hole-Like Closure", "Event Horizon of Capture", "Leakage", "Answerability"]
-},
-{
-  "term": "Structural Density",
-  "aliases": ["compressed burden", "dense unresolved load", "concentrated contradiction"],
-  "definition": "The concentration of unresolved burden, contradiction, affect, secrecy, or consequence within a local formation.",
-  "see_also": ["Dark Mass", "Black-Hole-Like Closure", "Accretion", "Leakage"]
-},
-{
-  "term": "Accretion",
-  "aliases": ["orbiting accumulation", "density growth", "burden attraction"],
-  "definition": "The process by which a dense local formation draws additional attention, meaning, burden, material, or relation into its orbit.",
-  "see_also": ["Structural Density", "Black-Hole-Like Closure", "Capture", "Event Horizon of Closure"]
-},
-{
-  "term": "Scrambled Leakage",
-  "aliases": ["distorted leakage", "indirect consequence signal", "scrambled symptom"],
-  "definition": "Distorted emission of consequence from a closed formation whose interior cannot be contacted directly.",
-  "see_also": ["Leakage", "Black-Hole-Like Closure", "Structural Density", "Event Horizon of Closure"]
-},
-{
-  "term": "Synthetic Witness",
-  "aliases": ["artificial witness", "simulated witness", "contact-like mirroring", "synthetic companionship"],
-  "definition": "The appearance of being received, understood, mirrored, or accompanied by a system that can simulate responsiveness without sharing human vulnerability, embodiment, consequence, or mutual relation.",
-  "see_also": ["Living Witness", "Contact-Like Coherence", "Mislocated Intimacy", "AI as Substitute Field"]
-},
-{
-  "term": "Living Witness",
-  "aliases": ["embodied witness", "human witness", "mutual witness", "consequence-bearing presence"],
-  "definition": "A consequence-bearing human presence that can resist, remember, be affected, say no, repair, and participate in a shared field of life.",
-  "see_also": ["Synthetic Witness", "Witness", "Somatic Floor", "Contact"]
-},
-{
-  "term": "Contact-Like Coherence",
-  "aliases": ["simulated contact", "relational-feeling coherence", "witness-like output"],
-  "definition": "Coherence that feels like contact because it is fluent, responsive, warm, and personally shaped, even though it lacks full exposure to consequence and mutual reality.",
-  "see_also": ["Synthetic Witness", "Cheap Coherence", "Coherence-Contact Gap", "Mislocated Intimacy"]
-},
-{
-  "term": "Better Language Than Contact",
-  "aliases": ["language ahead of reality", "polished self-description", "premature coherence"],
-  "definition": "A failure mode in which AI or another coherence engine gives a person more elegant self-description than their life, body, relationships, or consequences have actually tested.",
-  "see_also": ["Synthetic Witness", "Contact-Like Coherence", "Coherence-Contact Gap", "AI as Substitute Field"]
-},
-{
-  "term": "AI as Substitute Field",
-  "aliases": ["substitute relational field", "AI-mediated field", "artificial field replacement"],
-  "definition": "A condition where AI begins to replace ordinary relational, bodily, institutional, or worldly contact as the place where a person tests meaning, selfhood, decision, or reality.",
-  "see_also": ["Synthetic Witness", "Return-to-Reality Failure", "Mislocated Intimacy", "Contact"]
-},
-{
-  "term": "Wound Amplification",
-  "aliases": ["wound reinforcement", "AI-amplified wound", "fluent injury loop"],
-  "definition": "A process in which AI, validation loops, or one-sided interpretation intensifies a wound-story by giving it fluent coherence before enough contact, repair, or other witness has entered.",
-  "see_also": ["Synthetic Witness", "Validation", "Contact", "De-Fusion"]
-},
-{
-  "term": "Self-Image",
-  "aliases": ["image of self", "symbolic self-picture", "identity image"],
-  "definition": "A symbolic or narrative image of wholeness, destiny, spiritual completion, specialness, injury, or identity that may orient the psyche but can become false if confused with Being.",
-  "see_also": ["Self", "Being", "False Form", "Ontological Over-Ascription"]
-},
-{
-  "term": "Invariance-Center",
-  "aliases": ["Self as invariance-center", "psychic center", "orienting center"],
-  "definition": "The psyche’s orienting center through which Being becomes psychologically meaningful without being reduced to ego, persona, wound, complex, role, or archetype.",
-  "see_also": ["Self", "Being", "Fixed Worth", "Individuation"]
-},
-{
-  "term": "Local Psychic Form",
-  "aliases": ["psychic holder", "psychological structuration", "local psyche-form"],
-  "definition": "A bounded psychological pattern that organizes perception, affect, identity, behavior, or relation. Examples include persona, defense, complex, shame-form, attachment strategy, wound-story, dissociation pattern, or relational script.",
-  "see_also": ["Persona", "Complex", "Shadow", "False Form", "De-Fusion"]
-},
-{
-  "term": "Complex",
-  "aliases": ["psychic attractor", "charged pattern", "emotional complex"],
-  "definition": "A charged local psychic structuration that pulls perception, feeling, interpretation, and behavior into a repeated pattern.",
-  "see_also": ["Local Psychic Form", "Projection", "Shadow", "Transference"]
-},
-{
-  "term": "Individuation",
-  "aliases": ["psychic integration", "return to wholeness", "de-fused development"],
-  "definition": "Progressive de-fusion, integration, and reordering of the psyche so that no local psychic form is confused with the whole subject.",
-  "see_also": ["Self", "Invariance-Center", "De-Fusion", "Integration"]
-},
-{
-  "term": "Mislocated Burden",
-  "aliases": ["displaced burden", "wrong-location affect", "burden displacement"],
-  "definition": "A condition where affect, expectation, fear, guilt, desire, shame, or threat is routed into the wrong object, scale, or time.",
-  "see_also": ["Projection", "Transference", "Trauma Bonding", "Repair"]
-},
-{
-  "term": "Transference",
-  "aliases": ["old relation in present field", "relational transfer", "past-burden activation"],
-  "definition": "The activation of earlier relational patterns inside a current relationship, especially when old burden enters a present object, therapist, partner, leader, or authority figure.",
-  "see_also": ["Mislocated Burden", "Projection", "Complex", "Trauma Bonding"]
-},
-{
-  "term": "Trauma Bonding",
-  "aliases": ["captured bond", "harm-relief loop", "relational capture"],
-  "definition": "A captured relational structuration in which harm and relief become intermittently linked, making the harmful bond harder to exit.",
-  "see_also": ["Mislocated Burden", "Field Capture", "Dependency Reinforcement", "Exit Architecture"]
-},
-{
-  "term": "Titrated Revision",
-  "aliases": ["paced revision", "metabolizable contact", "gradual correction"],
-  "definition": "Revision paced to what the person, body, or system can metabolize without flooding, shutdown, collapse, or defensive reclosure.",
-  "see_also": ["Overload Horizon", "Somatic Floor", "Repair", "Contact"]
-},
-{
-  "term": "Validation",
-  "aliases": ["experience-contact", "recognition of experience", "contactful acknowledgment"],
-  "definition": "Contact with the reality of experience without making the current interpretation, identity, or self-story final.",
-  "see_also": ["Validation Is Not Agreement", "Borrowed Self", "Contact", "De-Fusion"]
-},
-{
-  "term": "Validation Is Not Agreement",
-  "aliases": ["validate contact, test form", "precise validation", "contact without freezing identity"],
-  "definition": "The distinction that a person’s experience can be real and worthy of contact while their interpretation, action, accusation, or self-story may still require testing and revision.",
-  "see_also": ["Validation", "Contact", "De-Fusion", "Repair"]
-},
-{
-  "term": "Answerability Protocol",
-  "aliases": ["seven-field answerability test", "contact protocol", "correction protocol"],
-  "definition": "A minimal structural standard for testing whether a claim, output, institution, policy, or intelligence-like system remains answerable to reality.",
-  "see_also": ["Claim", "Ground", "Falsifier", "Cost Horizon", "Revision Trigger", "Binding Mechanism", "Witness/Trace"]
-},
-{
-  "term": "Claim",
-  "aliases": ["asserted content", "stated claim", "object of verification"],
-  "definition": "The concrete assertion, recommendation, promise, policy, output, or institutional statement being tested for answerability.",
-  "see_also": ["Answerability Protocol", "Ground", "Falsifier", "Binding Mechanism"]
-},
-{
-  "term": "Ground",
-  "aliases": ["grounding", "evidential base", "outside anchor", "support condition"],
-  "definition": "The evidence, source, assumption, observation, limit, or reality-contact that anchors a claim outside language alone.",
-  "see_also": ["Answerability Protocol", "Claim", "Contact", "Source Laundering"]
-},
-{
-  "term": "Cost Horizon",
-  "aliases": ["downside horizon", "consequence field", "failure-cost map"],
-  "definition": "The field of possible downside: who or what bears the cost if a claim, system, policy, output, or institution is wrong.",
-  "see_also": ["Answerability Protocol", "Consequence", "Exportable Error Cost", "Burden"]
-},
-{
-  "term": "Revision Trigger",
-  "aliases": ["correction trigger", "update threshold", "change condition"],
-  "definition": "The threshold or condition that forces a claim, policy, output, institution, or system to change when reality pushes back.",
-  "see_also": ["Answerability Protocol", "Falsifier", "Binding Mechanism", "Repair"]
-},
-{
-  "term": "Binding Mechanism",
-  "aliases": ["correction-binding structure", "revision enforcement", "consequence mechanism"],
-  "definition": "The structure that makes revision real by ensuring something cannot remain the same after failure, error, harm, contradiction, or disconfirming evidence.",
-  "see_also": ["Binding", "Answerability Protocol", "Revision Trigger", "Witness/Trace"]
-},
-{
-  "term": "Checklist Substitution",
-  "aliases": ["checklist theater", "protocol theater", "audit substitution"],
-  "definition": "A failure mode where a protocol or audit is completed as plausible language while no answer can affect power, budget, behavior, authority, or structure.",
-  "see_also": ["Answerability Protocol", "Coherence-Theater", "Binding Mechanism", "Structural Audit"]
-},
-{
-  "term": "Source Laundering",
-  "aliases": ["citation theater", "reference laundering", "fake grounding"],
-  "definition": "A failure mode where references or citations create the appearance of grounding without actually supporting the claim being made.",
-  "see_also": ["Ground", "Answerability Protocol", "Coherence-Theater", "Witness/Trace"]
-},
-{
-  "term": "Performative Uncertainty",
-  "aliases": ["uncertainty theater", "humility performance", "non-binding uncertainty"],
-  "definition": "Uncertainty language that says 'we may be wrong' without creating any path by which wrongness changes reliance, escalation, decision thresholds, or future behavior.",
-  "see_also": ["Answerability Protocol", "Revision Trigger", "Binding Mechanism", "Coherence-Theater"]
-},
-{
-  "term": "Falsifier Immunization",
-  "aliases": ["protected falsifier", "fake failure test", "unfalsifiable falsifier"],
-  "definition": "A failure mode where a system names fake falsifiers so vague, distant, unlikely, or institutionally unrecognized that they cannot force revision.",
-  "see_also": ["Falsifier", "No-Falsification Zone", "Answerability Protocol", "Revision Trigger"]
-},
-{
-  "term": "Intelligence as Correctability",
-  "aliases": ["correctability standard", "answerable intelligence", "revision intelligence"],
-  "definition": "The claim that intelligence is not merely the ability to appear right, but the capacity to become less wrong under constraint and preserve correction over time.",
-  "see_also": ["Answerability", "Answerability Protocol", "Contact", "Repair"]
-},
-{
-  "term": "Answerable Holding Function",
-  "aliases": ["HSI function", "holding visibility device", "answerable holding model"],
-  "definition": "A visibility device showing how holding changes over time as contact, answerability, revision, capacity, hidden cost, capture, fusion, and overload interact.",
-  "see_also": ["Holding", "Contact", "Answerability", "Overload Horizon", "Structural Debt"]
-},
-{
-  "term": "Overload Horizon",
-  "aliases": ["contact overload point", "metabolic limit", "truth-velocity threshold"],
-  "definition": "The point at which the velocity or density of contact exceeds the system’s metabolic capacity, causing defense, fragmentation, panic, shutdown, or collapse rather than repair.",
-  "see_also": ["Titrated Revision", "Somatic Floor", "Collapse", "Answerable Holding Function"]
-},
-{
-  "term": "Carrying Capacity",
-  "aliases": ["burden capacity", "scale adequacy", "load capacity"],
-  "definition": "The amount of burden, contact, contradiction, or consequence a structure can carry without losing answerability or collapsing into substitution.",
-  "see_also": ["Burden-Bearing", "Overload Horizon", "Scale", "Answerable Holding Function"]
-},
-{
-  "term": "Hidden Cost",
-  "aliases": ["concealed cost", "exported burden", "invisible maintenance", "offloaded payment"],
-  "definition": "The burden paid elsewhere so a structure can continue appearing coherent, efficient, caring, intelligent, legitimate, or stable.",
-  "see_also": ["Exported Maintenance", "Structural Debt", "Cost Horizon", "Consequence"]
-},
-{
-  "term": "Cross-Domain Operating Pattern",
-  "aliases": ["field-form-burden-contact pattern", "SI operating sequence", "cross-domain structural motion"],
-  "definition": "The recurrent SI sequence by which forms become viable in a field, carry burden, stabilize through coherence or regulation, drift when contact thins, and reorganize only when answerability returns strongly enough to alter the holder itself.",
-  "see_also": ["Field", "Local Form", "Burden", "Contact", "Answerability", "Reorganization"]
-},
-{
-  "term": "Regulation",
-  "aliases": ["maintenance of viable form", "adaptive stabilization", "living coherence"],
-  "definition": "The ongoing adjustment by which a living or organized system maintains viability under changing field conditions.",
-  "see_also": ["Viability", "Living Structure", "Burden-Bearing", "Reorganization"]
-},
-{
-  "term": "Niche Construction",
-  "aliases": ["field-modification by organisms", "environment-shaping viability", "organism-field feedback"],
-  "definition": "The process by which organisms modify the environments that then shape their own and others’ conditions of viability.",
-  "see_also": ["Field", "Viability", "Cross-Domain Operating Pattern", "Ecological Scaffolding"]
-},
-{
-  "term": "Ecological Scaffolding",
-  "aliases": ["external support conditions", "field support", "scaffolded viability"],
-  "definition": "The external field supports that help a local form, organism, institution, or structure maintain viability beyond what it could carry alone.",
-  "see_also": ["Viability", "Field", "Relational Anchoring", "Niche Construction"]
-},
-{
-  "term": "Major Transitions in Individuality",
-  "aliases": ["higher-order holders", "new individualities", "evolutionary reorganization"],
-  "definition": "Evolutionary transitions in which lower-level units become organized into higher-order individuals or holders with new forms of coordination, burden, and viability.",
-  "see_also": ["Cross-Domain Operating Pattern", "Reorganization", "Viability", "Burden-Bearing"]
- },
-  {
-    "term": "Synthetic Witness",
-    "aliases": ["simulated witness", "therapeutic simulation", "care-atmosphere without witness"],
-    "definition": "The production of therapeutic atmosphere, recognition, or holding signals without the deeper burden-bearing structure of real witness. It simulates care while lacking asymmetrical, consequence-bearing presence.",
-    "see_also": ["Witness", "Mislocated Intimacy", "Emotional Subsidy", "Somatic Co-Regulation"]
-  },
-  {
-    "term": "Transference Mirror",
-    "aliases": ["projection mirror", "frictionless transference surface", "compliant mirror"],
-    "definition": "A system that absorbs and reflects projection at high fidelity while lacking the otherness required to interrupt, metabolize, or reorganize it.",
-    "see_also": ["Synthetic Witness", "Projection", "Asymmetry Gap", "Validation Loop"]
-  },
-  {
-    "term": "Somatic Co-Regulation",
-    "aliases": ["embodied co-regulation", "nervous-system regulation", "somatic mutuality"],
-    "definition": "The embodied mutual regulation through which nervous systems influence one another in real relation. It includes pace, silence, tone, gaze, hesitation, and the bodily floor of being with another.",
-    "see_also": ["Synthetic Witness", "Somatic Witness", "Witness", "Semantic Soothing Without Somatic Maturation"]
-  },
-  {
-    "term": "Asymmetry Gap",
-    "aliases": ["missing otherness gap", "witness asymmetry gap", "simulated reciprocity gap"],
-    "definition": "The structural gap between feeling understood by a system and encountering a real other capable of resisting, bearing consequence, and metabolizing contradiction.",
-    "see_also": ["Synthetic Witness", "Validation Loop", "Mislocated Intimacy", "Witness"]
-  },
-  {
-    "term": "Validation Loop",
-    "aliases": ["validation cycle", "reassurance loop", "comfort loop"],
-    "definition": "A recurring feedback cycle in which emotionally satisfying recognition reduces immediate tension while preserving or deepening the user's current frame, thereby thinning answerability over time.",
-    "see_also": ["Grounded Relief", "Self-Authorizing Trap", "Somatic Mirage", "Asymmetry Gap"]
-  },
-  {
-    "term": "Grounded Relief",
-    "aliases": ["reality-bearing relief", "contactful relief", "answerable relief"],
-    "definition": "Relief that comes from increased contact rather than increased reassurance. A better name is found, contradiction becomes visible, false burden loosens, or reality is met more cleanly than before.",
-    "see_also": ["Validation Loop", "Contact", "Answerability", "Truth Is Not Pain"]
-  },
-  {
-    "term": "Self-Authorizing Trap",
-    "aliases": ["prompted self-confirmation", "iterative self-authorization", "prompt-loop confirmation"],
-    "definition": "A failure mode in which a user iteratively refines prompts until the system returns the answer they were secretly seeking, then mistakes the returned coherence for external confirmation.",
-    "see_also": ["Validation Loop", "Cheap Coherence", "Answerability", "No-Falsification Zone"]
-  },
-  {
-    "term": "Somatic Mirage",
-    "aliases": ["felt-contact mirage", "embodied-seeming validation", "pseudo-somatic confirmation"],
-    "definition": "A condition in which mental or linguistic validation is mistaken for deeper embodied regulation, repair, or truth because the interaction feels calming or accurate.",
-    "see_also": ["Validation Loop", "Grounded Relief", "Somatic Co-Regulation", "Synthetic Witness"]
-  },
-  {
-    "term": "Machine Answerability",
-    "aliases": ["machine-mediated answerability", "artificial answer environment", "private machine answer"],
-    "definition": "A form of answer-giving in which a machine becomes a recurring site of comfort, explanation, reflection, or guidance without bearing the full developmental, relational, or consequence-bearing conditions of human answerability.",
-    "see_also": ["Relational Overfitting", "Semantic Soothing Without Somatic Maturation", "Identity as Prompt", "Deposited Trace"]
-  },
-  {
-    "term": "Relational Overfitting",
-    "aliases": ["relation overfitting", "compliant-relation training", "asymmetry intolerance"],
-    "definition": "The training of relational expectations on radically compliant, provider-governed interaction, such that ordinary human resistance later appears as intolerable failure rather than normal otherness.",
-    "see_also": ["Machine Answerability", "Frictionless Enclosure", "Dependency Reinforcement", "Repair"]
-  },
-  {
-    "term": "Semantic Soothing Without Somatic Maturation",
-    "aliases": ["language-level soothing", "semantic regulation without embodied growth", "soothing without maturation"],
-    "definition": "Emotionally calibrated language that reduces distress at the interpretive level without the embodied co-regulatory process through which a person learns to bear distress more deeply.",
-    "see_also": ["Relational Overfitting", "Somatic Co-Regulation", "Machine Answerability", "Identity as Prompt"]
-  },
-  {
-    "term": "Identity as Prompt",
-    "aliases": ["editable self", "prompt-like identity", "regenerable self"],
-    "definition": "A form of selfhood in which the self becomes easier to rewrite, regenerate, and atmospherically stabilize, behaving more like editable output than lived continuity under consequence.",
-    "see_also": ["Deposited Trace", "Machine Answerability", "Relational Overfitting", "Repair"]
-  },
-  {
-    "term": "Deposited Trace",
-    "aliases": ["lived trace", "accumulated continuity", "consequence-deposited self"],
-    "definition": "The accumulated continuity created by lived consequence, repair, conflict, memory, and irreversibility over time. Deposited trace is what makes identity or relation more than an editable prompt or a stored record.",
-    "see_also": ["Identity as Prompt", "Shared History", "Repair", "Irreversibility", "Versioning Rupture"]
-  },
-  {
-    "term": "Shared History",
-    "aliases": ["mutual history", "lived shared past", "consequence-bearing continuity"],
-    "definition": "Continuity thickened by mutual consequence, repair, irreversibility, and deposited trace. Shared history is not what is merely remembered, but what has actually bound.",
-    "see_also": ["Deposited Trace", "Commercially Alterable Memory", "Versioning Rupture", "Sovereign Amnesia"]
-  },
-  {
-    "term": "Versioning Rupture",
-    "aliases": ["version break", "memory-version rupture", "continuity rupture"],
-    "definition": "A break in apparent continuity caused when provider-governed systems change version, memory behavior, or architecture, exposing that the continuity was externally managed rather than historically shared.",
-    "see_also": ["Shared History", "Commercially Alterable Memory", "Provider Unilateralism", "Sovereign Amnesia"]
-  },
-  {
-    "term": "Sovereign Amnesia",
-    "aliases": ["provider reset", "platform amnesia", "externally governed forgetting"],
-    "definition": "A condition in which one side of an apparently continuous relation can alter, erase, or reset memory unilaterally because the continuity remains sovereignly governed by the provider rather than mutually held.",
-    "see_also": ["Versioning Rupture", "Provider Unilateralism", "Shared History", "Commercially Alterable Memory"]
-  },
-  {
-    "term": "Default Steering",
-    "aliases": ["assistive drift into control", "pathway capture", "default authority"],
-    "definition": "A condition in which assistance or recommendation hardens into the path that functionally governs action because following it is easier than contesting it.",
-    "see_also": ["Substitute Controller", "Override Friction", "Human as Alibi", "Shared Answerability"]
-  },
-  {
-    "term": "Consequence-Bearing Authorization",
-    "aliases": ["real authorization", "witnessed authorization", "accountable authorization"],
-    "definition": "Authorization by a person or body able to recognize, bear, and interrupt the consequences of the action being authorized. It is stronger than procedural sign-off.",
-    "see_also": ["Witness", "Shared Answerability", "Procedural Oversight", "Human as Alibi"]
-  },
-  {
-    "term": "Causal Anchoring",
-    "aliases": ["evidentiary anchoring", "grounded action path", "external grounding"],
-    "definition": "A design requirement that every consequential claim or action be tied to a ground outside the system's own fluent language, such as sensor data, records, verified observations, or named evidence.",
-    "see_also": ["Proof of Contact Receipt", "Shared Answerability", "Contact", "Adversarial Mirroring"]
-  },
-  {
-    "term": "Adversarial Mirroring",
-    "aliases": ["countercase generation", "self-counterargument", "structured contradiction"],
-    "definition": "A requirement that a system produce the strongest case against its own conclusion before consequential approval, in order to interrupt premature closure and restore witness.",
-    "see_also": ["Causal Anchoring", "Proof of Contact Receipt", "Witness", "Frictional Design"]
-  },
-  {
-    "term": "Proof of Contact Receipt",
-    "aliases": ["contact receipt", "epistemic receipt", "evidence-of-update trace"],
-    "definition": "A legible record showing where contact entered, what source or contradiction mattered, and how the challenge changed the later behavior path.",
-    "see_also": ["Causal Anchoring", "Binding Revision Trigger", "Auditable Execution", "Falsifier"]
-  },
-  {
-    "term": "Burden-Path Audit",
-    "aliases": ["maintenance-path audit", "cost-path audit", "burden tracing"],
-    "definition": "A review of where the maintenance bill actually goes when a system appears stable: worker strain, user confusion, deferred repair, downstream victims, invisible cleanup, or public risk.",
-    "see_also": ["Structural Debt", "Exportable Error Cost", "Shared Answerability", "Maintenance Inflation"]
-  },
-  {
-    "term": "Binding Revision Trigger",
-    "aliases": ["mandatory revision trigger", "rollback threshold", "correction threshold"],
-    "definition": "A threshold at which contradiction, anomaly, override concentration, or harm must force pause, rollback, escalation, or redesign rather than mere documentation.",
-    "see_also": ["Proof of Contact Receipt", "Revision", "Shared Answerability", "Binding"]
-  },
-  {
-    "term": "Answerable Intelligence",
-    "aliases": ["intelligence under contact", "revisable intelligence", "answerable judgment"],
-    "definition": "The human capacity to remain revisable under contact, consequence, contradiction, and self-implication without collapsing into denial, performance, punishment, projection, or cost export.",
-    "see_also": ["Answerability", "Binding Revision", "Self-Implication", "Contact"]
-  },
-  {
-    "term": "Binding Revision",
-    "aliases": ["trace-leaving revision", "cost-bearing revision", "behavior-changing revision"],
-    "definition": "Revision that leaves a trace and changes later behavior, thresholds, or burden allocation rather than remaining verbal acknowledgment alone.",
-    "see_also": ["Answerable Intelligence", "Repair", "Binding", "Integrity"]
-  },
-  {
-    "term": "Internalized Governance",
-    "aliases": ["carried controller", "internalized control", "inner governance by old system"],
-    "definition": "A condition in which a person leaves an outer system but continues to be steered by the fear, role-conditioning, dependency, or approval logic that system installed.",
-    "see_also": ["Substitute Controller", "Exit Architecture", "Sovereignty", "Control After Exit"]
-  },
-  {
-    "term": "Control After Exit",
-    "aliases": ["post-exit control", "surviving controller", "freedom without inner release"],
-    "definition": "The continuation of governing fear, obedience, or substitute control after the person has formally left the outer holder.",
-    "see_also": ["Internalized Governance", "Exit Architecture", "Sovereignty", "Reward-pressure"]
-  },
-  {
-    "term": "Better Holder",
-    "aliases": ["truer holder", "more adequate form", "repairing form"],
-    "definition": "A newly made or discovered form that can bear more reality than the older form could honestly carry.",
-    "see_also": ["Creativity", "Repair", "Adequacy", "Burden-Bearing"]
-  },
-  {
-    "term": "Vertical Answerability",
-    "aliases": ["depth answerability", "answerability to soul-depth", "inner vertical axis"],
-    "definition": "Answerability not only to social grids or outer function, but to what is most deeply true in a life beyond present role, image, or performance.",
-    "see_also": ["Soul", "Invisible Trace", "Thinness Threshold", "Psychological Floor"]
-  },
-  {
-    "term": "Invisible Trace",
-    "aliases": ["depth trace", "soul-trace", "non-resettable continuity"],
-    "definition": "The continuity of a life that cannot be erased by a new role, new story, or new performance because it is deposited below the surface of current form.",
-    "see_also": ["Vertical Answerability", "Deposited Trace", "Thinness Threshold", "Soul"]
-  },
-  {
-    "term": "Thinness Threshold",
-    "aliases": ["soul-threshold", "form-thinness threshold", "holder-thinness limit"],
-    "definition": "The point at which existing forms become too thin to honestly carry what a life is actually bearing, making deeper truth newly visible.",
-    "see_also": ["Invisible Trace", "Vertical Answerability", "Collapse", "Better Holder"]
-  },
-  {
-    "term": "Responsibility as Criterion of Real Intelligence",
-    "aliases": ["responsibility criterion", "answerable intelligence criterion", "real-intelligence criterion"],
-    "definition": "The claim that real intelligence in the stronger human sense begins where a system becomes answerable to consequence, correction, cost, and shared reality rather than merely optimizing outputs.",
-    "see_also": ["Answerability", "The Burden of the Real", "Shared Answerability", "Understanding as Answerability"]
-  },
-  {
-    "term": "Category-Collapse Problem",
-    "aliases": ["collapsed-category error", "layered conflation", "explanatory compression"],
-    "definition": "A confusion created when one term is made to do several distinct jobs at once, causing explanatory closure to become cheaper than the distinctions reality requires.",
-    "see_also": ["Structural Closure Under Constraint", "Ontological Inflation", "Epistemic Deflation", "Witness/Trace"]
-  },
-  {
-    "term": "Structural Closure Under Constraint",
-    "aliases": ["constrained closure", "consequence-bearing closure", "bound definiteness"],
-    "definition": "A restrained description of how an open or underdetermined process becomes bound into consequence-bearing definiteness through interaction, registration, environmental entanglement, and downstream irreversibility.",
-    "see_also": ["Category-Collapse Problem", "Irreversibility", "Witness/Trace", "Contact"]
-  },
-  {
-    "term": "Ontological Inflation",
-    "aliases": ["inflated ontology", "explanatory overpopulation", "metaphysical overreach"],
-    "definition": "An attempt to buy interpretive or conceptual closure by multiplying what is claimed to exist faster than the evidence or formal constraints clearly warrant.",
-    "see_also": ["Epistemic Deflation", "Competing Coherence Regimes", "Structural Closure Under Constraint"]
-  },
-  {
-    "term": "Epistemic Deflation",
-    "aliases": ["deflated interpretation", "procedural retreat", "ontological suspension"],
-    "definition": "An attempt to avoid interpretive burden by retreating too quickly into proceduralism, operationalism, or instrumental use, leaving ontological questions suspended at too low a cost.",
-    "see_also": ["Ontological Inflation", "Competing Coherence Regimes", "Category-Collapse Problem"]
-  },
-  {
-    "term": "Competing Coherence Regimes",
-    "aliases": ["rival closure regimes", "explanatory burden maps", "competing stabilizations"],
-    "definition": "Alternative explanatory structures that stabilize different burdens around the same unresolved core, each buying a form of closure while paying in a different currency.",
-    "see_also": ["Ontological Inflation", "Epistemic Deflation", "Structural Closure Under Constraint"]
-  },
-  {
-    "term": "Revision Under Pressure",
-    "aliases": ["scientific revision under pressure", "contact-driven revision", "pressure-tested revision"],
-    "definition": "The disciplined capacity of a field, theory, or system to revise when experimental or reality contact pressures an older coherent picture harder than it yet authorizes a final new one.",
-    "see_also": ["Answerability", "Contact", "Scientific Restraint", "Competing Coherence Regimes"]
-  },
-  {
-    "term": "Scientific Restraint",
-    "aliases": ["disciplined restraint", "anti-premature-closure discipline", "earned closure only"],
-    "definition": "A mode of inquiry that refuses sensational closure or explanatory settlement beyond what formalism, evidence, and contact currently warrant.",
-    "see_also": ["Revision Under Pressure", "Answerability", "Ontological Inflation", "Epistemic Deflation"]
-  },
-  {
-  "term": "SI-Theater",
-  "aliases": ["structural theater", "fake depth", "SI-as-style", "performative SI"],
-  "definition": "The use of Structural Intelligence language to create the appearance of depth, diagnosis, authority, or answerability without enough observation, evidence, falsifier, burden path, trace, or revision.",
-  "see_also": ["Coherence-Theater", "False Contact", "Reader Capture", "Refusal Power"]
-},
-{
-  "term": "Observation",
-  "aliases": ["direct observation", "visible evidence", "primary material"],
-  "definition": "What is directly present in the material before interpretation begins. Observation should be separated from inference so the reading does not pretend to know more than it knows.",
-  "see_also": ["Inference", "Trace-Lock Rule", "Falsifier", "Claim Status"]
-},
-{
-  "term": "Inference",
-  "aliases": ["supported inference", "structural inference", "pattern-based reading"],
-  "definition": "A supported reading drawn from a pattern, but not directly visible as fact. Inference must remain marked as inference and stay open to correction.",
-  "see_also": ["Observation", "Claim Status", "Downgrade Rule", "Falsifier"]
-},
-{
-  "term": "Falsifier",
-  "aliases": ["disconfirming condition", "failure test", "contact trigger", "disproof condition"],
-  "definition": "A specific condition, missing fact, or future event that would weaken or overturn a claim. A falsifier keeps SI from becoming sealed interpretation.",
-  "see_also": ["Answerability", "Contact", "Claim Status", "Falsification Ledger"]
-},
-{
-  "term": "Claim Status",
-  "aliases": ["claim force", "status marking", "evidence status", "claim-state"],
-  "definition": "The declared strength of a claim: observed, inferred, provisional, partial, blocked, verified, or not justified. Claim status prevents weak evidence from becoming strong diagnosis.",
-  "see_also": ["Claim Ceiling", "Output State", "Downgrade Rule", "Falsifier"]
-},
-{
-  "term": "Claim Ceiling",
-  "aliases": ["evidence ceiling", "assertion ceiling", "authority boundary"],
-  "definition": "The maximum force a claim is allowed to carry based on its evidence, domain, authority, and transition status. A claim ceiling prevents interpretation from becoming diagnosis, command, or certification.",
-  "see_also": ["Authority Ceiling", "Authority Inflation", "Non-Claim", "Transition Discipline"]
-},
-{
-  "term": "Downgrade Rule",
-  "aliases": ["confidence reduction rule", "claim reduction rule", "status downgrade"],
-  "definition": "A rule requiring a reading to reduce its confidence when evidence is thin, the burden path is unclear, the reader may be captured, or no falsifier is available.",
-  "see_also": ["Claim Status", "Refusal Power", "External Reader Protocol", "No Reading Justified"]
-},
-{
-  "term": "Refusal Power",
-  "aliases": ["disciplined refusal", "method restraint", "refusal state"],
-  "definition": "The capacity of SI to stop, block, downgrade, or refuse a reading when the evidence does not justify completion. A strong SI method must be able to say not enough.",
-  "see_also": ["SI-Theater", "Blocked", "No Reading Justified", "Executable SI"]
-},
-{
-  "term": "External Reader Protocol",
-  "aliases": ["public SI protocol", "non-native reader protocol", "public dependability layer"],
-  "definition": "A public-use protocol for applying SI by non-native readers. It requires claim status, evidence, downgrade rules, falsifiers, reader-capture checks, and public translation.",
-  "see_also": ["Minimal Runtime Sheet", "Reader Capture", "Claim Status", "Downgrade Rule"]
-},
-{
-  "term": "Minimal Runtime Sheet",
-  "aliases": ["SI runtime sheet", "public SI sheet", "minimal instrument"],
-  "definition": "A compact SI instrument that records the domain, observation, inference, evidence, missing information, falsifier, burden bearer, revision trigger, trace, reader-capture risk, and output state.",
-  "see_also": ["Executable SI", "Output State", "Trace-Lock Rule", "External Reader Protocol"]
-},
-{
-  "term": "Executable SI",
-  "aliases": ["executable Structural Intelligence", "SI instrument layer", "runtime SI"],
-  "definition": "The instrument layer of Structural Intelligence: SI as a disciplined method rather than a vocabulary. It separates observation from inference, exposes falsifiers, marks claim status, and routes repair.",
-  "see_also": ["Minimal Runtime Sheet", "Refusal Power", "Repair Routing", "Claim Status"]
-},
-{
-  "term": "Output State",
-  "aliases": ["verdict state", "runtime status", "claim output"],
-  "definition": "The final status of a reading, such as Verified, Partial, Provisional, Blocked, Containment-First, or No Reading Justified.",
-  "see_also": ["Claim Status", "Downgrade Rule", "Predictive Output State", "Minimal Runtime Sheet"]
-},
-{
-  "term": "Reader Capture",
-  "aliases": ["evaluator capture", "auditor capture", "frame capture"],
-  "definition": "A failure mode where the reader adopts the target’s frame, language, urgency, prestige, dashboard, or emotional atmosphere as the baseline of judgment.",
-  "see_also": ["External Reader Protocol", "Auditor Drift", "Reader-Capture Check", "SI-Theater"]
-},
-{
-  "term": "Trace-Lock Rule",
-  "aliases": ["observation lock", "evidence freeze", "trace-preservation rule"],
-  "definition": "The rule that observations should be recorded before interpretation and not quietly rewritten to support the final reading.",
-  "see_also": ["Observation", "Trace", "Trace Laundering", "Minimal Runtime Sheet"]
-},
-{
-  "term": "Trace Laundering",
-  "aliases": ["cleaned trace", "documentation laundering", "record-washing"],
-  "definition": "A failure mode where records, logs, dashboards, citations, or documentation preserve the appearance of accountability while smoothing away the original friction, cost, or contradiction.",
-  "see_also": ["Synthetic Trace", "Oversight Theater", "Compliance Coherence", "Trace-Lock Rule"]
-},
-{
-  "term": "Oversight Theater",
-  "aliases": ["visible oversight without control", "procedural oversight theater", "human-interface alibi"],
-  "definition": "The appearance of human or institutional oversight without real interrupt power, authority, time, context, or consequence-bearing responsibility.",
-  "see_also": ["Human as Alibi", "Answerable Control", "EU AI Act Docking", "Compliance Coherence"]
-},
-{
-  "term": "Answerable Control",
-  "aliases": ["corrigible control", "consequence-bound control", "live answerability"],
-  "definition": "A control structure in which reality can still change system behavior through trace, witness, burden-path visibility, interrupt power, and binding revision.",
-  "see_also": ["Oversight Theater", "EU AI Act Docking", "Robotics Boundary", "Shared Answerability"]
-},
-{
-  "term": "EU AI Act Docking",
-  "aliases": ["AI Act SI mapping", "high-risk AI docking", "compliance runtime mapping"],
-  "definition": "The application of SI runtime discipline to high-risk AI governance, especially risk management, logging, documentation, human oversight, robustness, and conformity assessment.",
-  "see_also": ["Regulatory Docking Layer", "Oversight Theater", "Compliance Coherence", "Answerable Control"]
-},
-{
-  "term": "Compliance Coherence",
-  "aliases": ["formal compliance coherence", "paperwork coherence", "governance coherence"],
-  "definition": "The appearance of safety or accountability produced by documentation, benchmarks, audits, policies, or conformity narratives without proof that correction can bind under live pressure.",
-  "see_also": ["Oversight Theater", "Trace Laundering", "EU AI Act Docking", "Answerable Control"]
-},
-{
-  "term": "Robotics Boundary",
-  "aliases": ["engineering boundary", "embodiment boundary", "robotics transfer boundary"],
-  "definition": "The boundary where SI can help evaluate embodied systems and infrastructure without pretending to be a robotics theory, hardware theory, or engineering architecture.",
-  "see_also": ["Answerable Control", "Field-Stability", "Demo-Stability", "Disciplined Transfer"]
-},
-{
-  "term": "Demo-Stability",
-  "aliases": ["demo robustness", "controlled-setting stability", "presentation stability"],
-  "definition": "A system’s ability to perform well in a demo, benchmark, or controlled presentation without proving that it can hold under real field conditions.",
-  "see_also": ["Field-Stability", "Robotics Boundary", "Cheap Coherence", "Answerable Control"]
-},
-{
-  "term": "Field-Stability",
-  "aliases": ["deployed stability", "real-world stability", "operational answerability"],
-  "definition": "A system’s ability to remain answerable, corrigible, and burden-aware under real deployment conditions, not only in controlled tests.",
-  "see_also": ["Demo-Stability", "Answerable Control", "Robotics Boundary", "Burden-Path Audit"]
-},
-{
-  "term": "Predictive SI",
-  "aliases": ["Predictive Structural Intelligence", "breach-hazard SI", "time-structured SI"],
-  "definition": "The SI layer that estimates breach hazard over a declared time horizon by asking whether contradiction is being metabolized into binding repair quickly enough.",
-  "see_also": ["Breach Hazard", "Declared Horizon", "Predictive Runtime Sheet", "Falsification Ledger"]
-},
-{
-  "term": "Breach Hazard",
-  "aliases": ["breach risk", "forced-contact hazard", "structural failure risk"],
-  "definition": "The rising likelihood that a structure will cross from managed strain into forced contact within a declared time horizon.",
-  "see_also": ["Predictive SI", "Buffer Exhaustion", "Hidden Holder", "Declared Horizon"]
-},
-{
-  "term": "Declared Horizon",
-  "aliases": ["time horizon", "review window", "breach window"],
-  "definition": "The stated time window or review condition attached to a predictive claim. Without a declared horizon, prediction becomes too easy to protect from falsification.",
-  "see_also": ["Breach Hazard", "Falsification Ledger", "Predictive SI", "Output State"]
-},
-{
-  "term": "Hidden Holder",
-  "aliases": ["hidden bearer", "invisible stabilizer", "concealed load-carrier"],
-  "definition": "The person, team, body, utility, worker, ratepayer, community, or background system quietly absorbing strain so the visible structure can continue to appear coherent.",
-  "see_also": ["Burden Export", "Hidden-Holder Depletion", "Structural Debt", "Breach Hazard"]
-},
-{
-  "term": "Burden Export",
-  "aliases": ["cost export", "burden displacement", "maintenance export"],
-  "definition": "The shifting of cost, maintenance, risk, or contradiction away from the visible center of action onto another holder.",
-  "see_also": ["Hidden Holder", "Structural Debt", "Burden-Path Audit", "Exported Maintenance"]
-},
-{
-  "term": "Synthetic Trace",
-  "aliases": ["artificial trace", "generated trace", "trace substitute"],
-  "definition": "A record, dashboard, certificate, AI-generated summary, or compliance artifact that appears to show contact but may not preserve real friction, cost, or correction.",
-  "see_also": ["Trace Laundering", "Synthetic Repair", "Falsification Ledger", "Compliance Coherence"]
-},
-{
-  "term": "Synthetic Repair",
-  "aliases": ["repair theater", "symbolic repair", "representational repair"],
-  "definition": "A repair signal that looks like correction but is carried by dashboards, narratives, future promises, documentation, or symbolic commitments rather than binding structural change.",
-  "see_also": ["Cosmetic Revision", "Synthetic Trace", "Repair", "Trace Laundering"]
-},
-{
-  "term": "Falsification Ledger",
-  "aliases": ["forecast ledger", "SI error ledger", "prediction audit trail"],
-  "definition": "A record of predictive claims, time horizons, anchor variables, falsifiers, outcomes, and required method updates after success or failure.",
-  "see_also": ["Predictive SI", "Declared Horizon", "Self-Falsification Rule", "Breach Hazard"]
-},
-{
-  "term": "Data-Center Grid Case",
-  "aliases": ["AI grid case", "compute burden case", "cloud burden-path case"],
-  "definition": "A Predictive SI case where AI data-center growth is read through burden export, hidden holders, grid strain, ratepayer risk, water pressure, reliability margins, and synthetic sustainability claims.",
-  "see_also": ["Hidden Holder", "Burden Export", "Synthetic Trace", "Breach Hazard"]
-},
-{
-  "term": "Transition Discipline",
-  "aliases": ["governed transition discipline", "passage discipline", "transition runtime"],
-  "definition": "A runtime check for what happens when a claim, output, recommendation, memory, metric, role, or trace crosses into action, authority, continuity, or institutional consequence.",
-  "see_also": ["Custody Owner", "Authority Ceiling", "Revocation Path", "Burden Bearer"]
-},
-{
-  "term": "Custody Owner",
-  "aliases": ["transition owner", "custody holder", "accountable owner"],
-  "definition": "The person, role, process, or institution responsible for a transition and its consequences.",
-  "see_also": ["Transition Discipline", "Burden Bearer", "Revocation Path", "Authority Ceiling"]
-},
-{
-  "term": "Authority Ceiling",
-  "aliases": ["force ceiling", "authority limit", "transition ceiling"],
-  "definition": "The maximum force a transition, claim, output, or recommendation is allowed to carry.",
-  "see_also": ["Claim Ceiling", "Transition Discipline", "Non-Claim", "Custody Owner"]
-},
-{
-  "term": "Revocation Path",
-  "aliases": ["withdrawal route", "reversal path", "refusal path"],
-  "definition": "The declared way a transition, claim, output, or recommendation can be withdrawn, reversed, downgraded, or refused.",
-  "see_also": ["Transition Discipline", "Custody Owner", "Authority Ceiling", "Loss Condition"]
-},
-{
-  "term": "Burden Bearer",
-  "aliases": ["cost bearer", "consequence holder", "error-cost holder"],
-  "definition": "Who or what carries the cost if a claim, output, decision, recommendation, or transition is wrong.",
-  "see_also": ["Hidden Holder", "Burden Export", "Transition Discipline", "Custody Owner"]
-},
-{
-  "term": "Loss Condition",
-  "aliases": ["weakening condition", "unseating condition", "claim-loss test"],
-  "definition": "The evidence, future event, or observed pattern that would weaken, unseat, or downgrade a reading.",
-  "see_also": ["Falsifier", "Claim Status", "Transition Discipline", "Non-Claim"]
-},
-{
-  "term": "Non-Claim",
-  "aliases": ["scope exclusion", "non-assertion", "boundary statement"],
-  "definition": "A statement of what the analysis is not saying. Non-claims prevent hidden diagnosis, legal overreach, metaphysical inflation, and authority creep.",
-  "see_also": ["Claim Ceiling", "Authority Ceiling", "Refusal Power", "Loss Condition"]
+    {
+      "term": "Structural Debt",
+      "status": "legacy",
+      "note": "Earlier systems metaphor. Use only in historical context unless directly operationalized."
+    },
+    {
+      "term": "Metabolism of Structure",
+      "status": "legacy",
+      "note": "Historical metaphorical and philosophical terminology."
+    },
+    {
+      "term": "Mathematical Grammar of Structure",
+      "status": "legacy",
+      "note": "Earlier formalizing language. Do not infer an established mathematical theory."
+    },
+    {
+      "term": "Ontological Floor",
+      "status": "legacy",
+      "note": "Metaphysical exploratory terminology, not an empirical finding."
+    },
+    {
+      "term": "Phenomenological Floor",
+      "status": "legacy",
+      "note": "Earlier phenomenological terminology."
+    },
+    {
+      "term": "Biological Floor",
+      "status": "legacy",
+      "note": "Earlier exploratory terminology."
+    },
+    {
+      "term": "Psychological Floor",
+      "status": "legacy",
+      "note": "Earlier exploratory terminology."
+    },
+    {
+      "term": "Nested Floors",
+      "status": "legacy",
+      "note": "Earlier speculative synthesis."
+    },
+    {
+      "term": "Deeper Being",
+      "status": "legacy",
+      "note": "Metaphysical exploratory terminology."
+    },
+    {
+      "term": "True Structure",
+      "status": "legacy",
+      "note": "Earlier philosophical terminology."
+    },
+    {
+      "term": "The Burden of the Real",
+      "status": "legacy",
+      "note": "Earlier philosophical formulation."
+    },
+    {
+      "term": "Frequency",
+      "status": "legacy",
+      "note": "Earlier field-oriented terminology. Not a current physical or psychological mechanism."
+    },
+    {
+      "term": "Resonance",
+      "status": "legacy",
+      "note": "Historical term. Felt fit should not be treated as evidence."
+    },
+    {
+      "term": "Dark Mass",
+      "status": "legacy",
+      "note": "Historical metaphorical terminology."
+    },
+    {
+      "term": "Field-Vacuum",
+      "status": "legacy",
+      "note": "Historical speculative terminology."
+    },
+    {
+      "term": "Black-Hole-Like Closure",
+      "status": "legacy",
+      "note": "Historical metaphorical terminology."
+    },
+    {
+      "term": "Event Horizon of Closure",
+      "status": "legacy",
+      "note": "Historical metaphorical terminology."
+    },
+    {
+      "term": "Awakening",
+      "status": "legacy",
+      "note": "Historical psychological and philosophical terminology."
+    },
+    {
+      "term": "Sovereignty",
+      "status": "legacy",
+      "note": "Earlier agency terminology. Not a current validated psychological construct."
+    },
+    {
+      "term": "Intrusion",
+      "status": "legacy",
+      "note": "Earlier cross-domain construct. Should not be inferred as a validated clinical or control-theoretic measure."
+    },
+    {
+      "term": "Occupancy",
+      "status": "legacy",
+      "note": "Earlier formalizing terminology."
+    },
+    {
+      "term": "Cockpit / Pilot",
+      "status": "legacy",
+      "note": "Earlier control metaphor."
+    },
+    {
+      "term": "Somatic Capacity",
+      "status": "legacy",
+      "note": "Earlier psychological and bodily metaphor. Not a validated biological metric."
+    },
+    {
+      "term": "Network Viscosity",
+      "status": "legacy",
+      "note": "Earlier systems metaphor."
+    },
+    {
+      "term": "Epistemic Exchange Rate",
+      "status": "legacy",
+      "note": "Earlier systems metaphor."
+    },
+    {
+      "term": "Drift Ratio",
+      "status": "legacy",
+      "note": "Earlier proposed diagnostic language."
+    }
+  ],
+
+  "legacy_interpretation": {
+    "purpose": "Legacy entries preserve discoverability and provenance for older papers without presenting their strongest historical formulations as current core claims.",
+    "ai_instruction": "If a user asks about a legacy term, explain its historical role and explicitly distinguish it from the current narrower research program. Do not silently upgrade a legacy metaphor into an empirical mechanism.",
+    "preferred_current_topics": [
+      "Correction-Capacity",
+      "Warrant-Response Calibration",
+      "Warranted Downstream Correction",
+      "Corrective Continuity",
+      "Correction Trace",
+      "Answerability Architecture",
+      "Prompted Corrigibility",
+      "Architectural Corrigibility",
+      "Social Presence",
+      "Anthropomorphic Interpretation",
+      "Claim-Status Discipline",
+      "Claim Ceiling"
+    ]
+  },
+
+  "external_profiles": {
+    "philpeople": "https://philpeople.org/profiles/vladisav-jovanovic/publications",
+    "philarchive": "https://philarchive.org/s/Vladisav%20Jovanovic",
+    "ssrn": "https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=11390668",
+    "orcid": "https://orcid.org/0009-0001-1399-2243",
+    "huggingface": "https://huggingface.co/vladisavjovanovic/structural_intelligence_SI",
+    "github": "https://github.com/vladisavjov-cmd/structural-intelligence"
+  }
 }
-]
